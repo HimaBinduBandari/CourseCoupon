@@ -241,7 +241,8 @@ function displayLatestCourses(){
 
 
     courses
-    .slice(0,8)
+    .sort((a, b) => new Date(b.last_updated) - new Date(a.last_updated))
+    .slice(0,16)
     .forEach(course=>{
 
 
