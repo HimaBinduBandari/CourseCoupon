@@ -1,0 +1,584 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+
+    <meta charset="UTF-8">
+
+    <meta name="viewport"
+          content="width=device-width, initial-scale=1.0">
+
+    <title>Language | CourseCoupon</title>
+
+    <meta name="description"
+          content="Browse Udemy courses by language.">
+
+    <!-- Bootstrap -->
+
+    <link
+        href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css"
+        rel="stylesheet">
+
+    <!-- Bootstrap Icons -->
+
+    <link
+        href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.css"
+        rel="stylesheet">
+
+    <!-- Global CSS -->
+
+    <link
+        rel="stylesheet"
+        href="assets/css/style.css">
+
+    <!-- Language CSS -->
+
+    <link
+        rel="stylesheet"
+        href="assets/css/language.css">
+
+</head>
+
+<body>
+
+<!--=====================================================
+    NAVBAR
+======================================================-->
+
+<nav class="navbar navbar-expand-lg bg-white shadow-sm">
+
+    <div class="container">
+
+        <a class="navbar-brand fw-bold"
+           href="index.html">
+
+            🎓 CourseCoupon
+
+        </a>
+
+        <button
+            class="navbar-toggler"
+            data-bs-toggle="collapse"
+            data-bs-target="#navbar">
+
+            <span class="navbar-toggler-icon"></span>
+
+        </button>
+
+        <div
+            class="collapse navbar-collapse"
+            id="navbar">
+
+            <ul class="navbar-nav ms-auto">
+
+                <li class="nav-item">
+
+                    <a class="nav-link"
+                       href="index.html">
+
+                        Home
+
+                    </a>
+
+                </li>
+
+                <li class="nav-item">
+
+                    <a class="nav-link"
+                       href="trainers.html">
+
+                        Trainers
+
+                    </a>
+
+                </li>
+
+                <li class="nav-item">
+
+                    <a class="nav-link"
+                       href="categories.html">
+
+                        Categories
+
+                    </a>
+
+                </li>
+
+                <li class="nav-item">
+
+                    <a class="nav-link active"
+                       href="languages.html">
+
+                        Languages
+
+                    </a>
+
+                </li>
+
+            </ul>
+
+        </div>
+
+    </div>
+
+</nav>
+
+<!--=====================================================
+    LANGUAGE HEADER
+======================================================-->
+
+<header class="language-header">
+
+    <div class="container">
+
+        <div class="row align-items-center">
+
+            <div class="col-lg-8">
+
+                <span class="badge bg-info text-dark mb-3">
+
+                    Browse by Language
+
+                </span>
+
+                <h1 id="languageName">
+
+                    Loading...
+
+                </h1>
+
+                <p id="languageDescription">
+
+                    Loading language...
+
+                </p>
+
+            </div>
+
+            <div class="col-lg-4 text-center">
+
+                <img
+                    id="languageImage"
+                    src=""
+                    alt=""
+                    class="img-fluid language-image">
+
+            </div>
+
+        </div>
+
+    </div>
+
+</header>
+
+<!--=====================================================
+    STATISTICS
+======================================================-->
+
+<section class="py-5">
+
+    <div class="container">
+
+        <div class="row g-4">
+
+            <div class="col-lg-3 col-md-6">
+
+                <div class="stat-card">
+
+                    <i class="bi bi-book"></i>
+
+                    <h2 id="totalCourses">0</h2>
+
+                    <p>Total Courses</p>
+
+                </div>
+
+            </div>
+
+            <div class="col-lg-3 col-md-6">
+
+                <div class="stat-card">
+
+                    <i class="bi bi-people"></i>
+
+                    <h2 id="totalTrainers">0</h2>
+
+                    <p>Trainers</p>
+
+                </div>
+
+            </div>
+
+            <div class="col-lg-3 col-md-6">
+
+                <div class="stat-card">
+
+                    <i class="bi bi-folder"></i>
+
+                    <h2 id="totalCategories">0</h2>
+
+                    <p>Categories</p>
+
+                </div>
+
+            </div>
+
+            <div class="col-lg-3 col-md-6">
+
+                <div class="stat-card">
+
+                    <i class="bi bi-star-fill"></i>
+
+                    <h2 id="averageRating">0</h2>
+
+                    <p>Average Rating</p>
+
+                </div>
+
+            </div>
+
+        </div>
+
+    </div>
+
+</section>
+<!--=====================================================
+    SEARCH & SORT
+======================================================-->
+
+<section class="pb-4">
+
+    <div class="container">
+
+        <div class="row g-3 align-items-center">
+
+            <div class="col-lg-8">
+
+                <div class="input-group">
+
+                    <span class="input-group-text">
+
+                        <i class="bi bi-search"></i>
+
+                    </span>
+
+                    <input
+                        type="text"
+                        id="searchCourse"
+                        class="form-control"
+                        placeholder="Search courses...">
+
+                </div>
+
+            </div>
+
+
+            <div class="col-lg-4">
+
+                <select
+                    id="sortCourses"
+                    class="form-select">
+
+
+                    <option value="default">
+
+                        Sort Courses
+
+                    </option>
+
+
+                    <option value="rating">
+
+                        Highest Rating
+
+                    </option>
+
+
+                    <option value="title">
+
+                        A - Z
+
+                    </option>
+
+
+                    <option value="duration">
+
+                        Longest Duration
+
+                    </option>
+
+
+                </select>
+
+            </div>
+
+
+        </div>
+
+    </div>
+
+</section>
+
+
+<!--=====================================================
+    COURSE SECTION
+======================================================-->
+
+<section class="pb-5">
+
+    <div class="container">
+
+
+        <!-- Loading -->
+
+        <div
+            id="loadingCourses"
+            class="text-center py-5">
+
+
+            <div
+                class="spinner-border text-primary"
+                role="status">
+
+
+            </div>
+
+
+            <p class="mt-3">
+
+                Loading Courses...
+
+            </p>
+
+
+        </div>
+
+
+
+        <!-- No Courses -->
+
+        <div
+            id="noCourses"
+            class="text-center py-5 d-none">
+
+
+            <i
+                class="bi bi-folder-x display-1 text-secondary">
+
+
+            </i>
+
+
+            <h3 class="mt-4">
+
+                No Courses Found
+
+            </h3>
+
+
+            <p class="text-muted">
+
+                Try another search.
+
+            </p>
+
+
+        </div>
+
+
+
+        <!-- Course Cards -->
+
+        <div
+            class="row g-4"
+            id="courseContainer">
+
+
+        </div>
+
+
+    </div>
+
+
+</section>
+
+
+
+<!--=====================================================
+    COURSE TEMPLATE
+======================================================-->
+
+<template id="courseTemplate">
+
+
+    <div class="col-lg-4 col-md-6">
+
+
+        <div class="card course-card h-100">
+
+
+            <img
+                class="course-image"
+                src=""
+                alt="Course Image">
+
+
+
+            <div class="card-body d-flex flex-column">
+
+
+
+                <span
+                    class="badge bg-info text-dark language-badge">
+
+
+                </span>
+
+
+
+                <h5
+                    class="course-title mt-3">
+
+
+                </h5>
+
+
+
+                <p
+                    class="course-description">
+
+
+                </p>
+
+
+
+                <div
+                    class="d-flex justify-content-between align-items-center mt-auto mb-3">
+
+
+                    <span>
+
+                        ⭐
+
+                        <span class="course-rating">
+
+                        </span>
+
+
+                    </span>
+
+
+
+                    <span>
+
+                        ⏱
+
+                        <span class="course-duration">
+
+                        </span>
+
+
+                    </span>
+
+
+
+                </div>
+
+
+
+
+                <a
+                    href="#"
+                    class="btn btn-primary course-button">
+
+
+                    Get Course
+
+
+                </a>
+
+
+
+            </div>
+
+
+        </div>
+
+
+    </div>
+
+
+</template>
+
+
+
+<!--=====================================================
+    FOOTER
+======================================================-->
+
+<footer class="footer py-4">
+
+
+    <div class="container text-center">
+
+
+        <p class="mb-0">
+
+
+            ©
+
+            <span id="currentYear">
+
+            </span>
+
+
+            CourseCoupon.
+
+
+            All Rights Reserved.
+
+
+
+        </p>
+
+
+    </div>
+
+
+</footer>
+
+
+
+<!--=====================================================
+    BACK TO TOP
+======================================================-->
+
+<button
+    id="backToTop"
+    class="btn btn-primary">
+
+
+    <i class="bi bi-arrow-up"></i>
+
+
+</button>
+
+
+
+<!--=====================================================
+    JAVASCRIPT
+======================================================-->
+
+
+<script
+src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js">
+</script>
+
+
+<script src="assets/js/language.js"></script>
+
+
+</body>
+
+
+</html>

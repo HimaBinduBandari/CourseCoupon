@@ -1,0 +1,318 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+
+<meta charset="UTF-8">
+
+<meta
+name="viewport"
+content="width=device-width, initial-scale=1.0">
+
+<title>
+Instructor Courses | CourseCoupon
+</title>
+
+<meta
+name="description"
+content="">
+
+<meta
+property="og:title"
+content="">
+
+<meta
+property="og:description"
+content="">
+
+<meta
+property="og:image"
+content="">
+
+<meta
+property="og:url"
+content="">
+
+<link
+rel="canonical"
+id="canonicalLink"
+href="">
+
+
+<link
+rel="stylesheet"
+href="assets/css/style.css">
+
+<link
+rel="stylesheet"
+href="assets/css/home.css">
+
+<link
+rel="stylesheet"
+href="assets/css/trainer.css">
+
+</head>
+
+<body>
+
+
+<!--====================================
+HEADER
+=====================================-->
+
+<div id="header"></div>
+
+
+
+<!--====================================
+TRAINER HERO
+=====================================-->
+
+<section class="trainer-hero">
+
+<div class="container">
+
+    <div class="trainer-card">
+
+    <div class="trainer-profile">
+
+        <div class="trainer-image-wrapper">
+
+            <img
+            id="trainerImage"
+            src=""
+            alt="Instructor">
+
+        </div>
+
+        <div class="trainer-info">
+
+            <h1 id="trainerName"></h1>
+
+            <h2 id="trainerDesignation"></h2>
+
+            <div class="trainer-rating">
+
+                <span class="stars">
+                    ★★★★★
+                </span>
+
+                <span id="trainerRatingText"></span>
+
+            </div>
+
+            <p
+            id="trainerBio"
+            class="trainer-bio">
+            </p>
+
+            <div class="trainer-links">
+
+                <a
+                id="trainerWebsite"
+                target="_blank">
+
+                    Website
+
+                </a>
+
+                <a
+                id="trainerLinkedin"
+                target="_blank">
+
+                    LinkedIn
+
+                </a>
+
+            </div>
+
+        </div>
+
+    </div>
+
+    <!-- Statistics -->
+
+    <div class="trainer-stats">
+
+        <div class="stat-card">
+            <div class="stat-icon">★</div>
+            <div id="trainerRating" class="stat-number"></div>
+            <div class="stat-title">Rating</div>
+        </div>
+
+        <div class="stat-card">
+            <div class="stat-icon">📚</div>
+            <div id="trainerCourses" class="stat-number"></div>
+            <div class="stat-title">Courses</div>
+        </div>
+
+        <div class="stat-card">
+            <div class="stat-icon">👥</div>
+            <div id="trainerStudents" class="stat-number"></div>
+            <div class="stat-title">Students</div>
+        </div>
+
+        <div class="stat-card">
+            <div class="stat-icon">💬</div>
+            <div id="trainerReviews" class="stat-number"></div>
+            <div class="stat-title">Reviews</div>
+        </div>
+
+    </div>
+
+</div>
+
+</div>
+
+
+</section>
+
+
+
+
+<!--====================================
+SEARCH & SORT
+=====================================-->
+
+<section class="toolbar-section">
+
+<div class="container">
+
+<div class="toolbar">
+
+
+
+<input
+
+type="text"
+
+id="courseSearch"
+
+placeholder="Search instructor courses...">
+
+
+
+<select id="sortCourses">
+
+<option value="latest">
+
+Latest Courses
+
+</option>
+
+<option value="rating">
+
+Highest Rated
+
+</option>
+
+<option value="students">
+
+Most Students
+
+</option>
+
+<option value="reviews">
+
+Most Reviews
+
+</option>
+
+<option value="name">
+
+Course Name (A-Z)
+
+</option>
+
+</select>
+
+
+
+</div>
+
+</div>
+
+</section>
+
+
+
+
+
+<!--====================================
+COURSES
+=====================================-->
+
+<section class="courses-section">
+
+<div class="container">
+
+<h2 class="section-title">
+
+Courses by
+
+<span id="trainerTitle">
+
+Instructor
+
+</span>
+
+</h2>
+
+
+
+<div
+
+id="courseGrid"
+
+class="course-grid">
+
+</div>
+
+</div>
+
+</section>
+
+
+
+
+
+<!--====================================
+PAGINATION
+=====================================-->
+
+<section class="pagination-section">
+
+<div class="container">
+
+<div
+
+id="pagination"
+
+class="pagination">
+
+</div>
+
+</div>
+
+</section>
+
+
+
+
+<!--====================================
+FOOTER
+=====================================-->
+
+<div id="footer"></div>
+
+
+
+<script src="assets/js/common.js"></script>
+
+<script src="assets/js/course-card.js"></script>
+
+<script src="assets/js/trainer.js"></script>
+
+</body>
+
+</html>

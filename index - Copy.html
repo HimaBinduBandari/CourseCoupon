@@ -1,0 +1,428 @@
+<!DOCTYPE html>
+<html lang="en">
+
+
+<head>
+
+
+<meta charset="UTF-8">
+
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+
+<title>
+CourseCoupon - Best Udemy Courses & Coupons
+</title>
+
+
+<link rel="stylesheet" href="assets/css/home.css">
+
+
+</head>
+
+
+
+<body>
+
+
+
+<!--====================================
+    HEADER
+=====================================-->
+
+
+<header class="main-header">
+
+
+    <div class="container header-container">
+
+
+        <div class="logo">
+
+
+            <a href="index.html">
+
+                CourseCoupon
+
+            </a>
+
+
+        </div>
+
+
+
+
+        <nav class="main-nav">
+
+
+            <a href="index.html">
+                Home
+            </a>
+
+
+            <a href="category.html">
+                Categories
+            </a>
+
+
+            <a href="language.html">
+                Languages
+            </a>
+
+
+            <a href="trainer.html">
+                Trainers
+            </a>
+
+
+        </nav>
+
+
+    </div>
+
+
+</header>
+
+
+
+
+
+
+<!--====================================
+    HERO SECTION
+=====================================-->
+
+
+<section class="hero">
+
+
+    <div class="container hero-content">
+
+
+
+        <h1>
+
+            Find Your Next
+            <span>
+            Udemy Course
+            </span>
+
+        </h1>
+
+
+
+        <p>
+
+            Discover the best Udemy courses,
+            exclusive coupons and learning resources.
+
+        </p>
+
+
+
+        <div class="search-box">
+
+
+            <select id="homeSearchType">
+
+    <option value="course">
+
+        Course Name
+
+    </option>
+
+    <option value="trainer">
+
+        Trainer Name
+
+    </option>
+
+</select>
+
+<input
+type="text"
+id="searchInput"
+placeholder="Search courses or trainers...">
+
+<button onclick="goToSearch()">
+
+Search
+
+</button>
+
+
+
+        </div>
+
+
+
+    </div>
+
+
+</section>
+
+
+
+
+
+
+<!--====================================
+    STATISTICS SECTION
+=====================================-->
+
+
+<section class="stats-section">
+
+
+<div class="container stats-grid">
+
+
+
+    <div class="stat-card">
+
+
+        <h2 id="courseCount">
+            0
+        </h2>
+
+
+        <p>
+            Courses
+        </p>
+
+
+    </div>
+
+
+
+
+    <div class="stat-card">
+
+
+        <h2 id="trainerCount">
+            0
+        </h2>
+
+
+        <p>
+            Trainers
+        </p>
+
+
+    </div>
+
+
+
+
+
+    <div class="stat-card">
+
+
+        <h2 id="categoryCount">
+            0
+        </h2>
+
+
+        <p>
+            Categories
+        </p>
+
+
+    </div>
+
+
+
+
+
+    <div class="stat-card">
+
+
+        <h2 id="languageCount">
+            0
+        </h2>
+
+
+        <p>
+            Languages
+        </p>
+
+
+    </div>
+
+
+
+
+</div>
+
+
+</section>
+
+
+
+
+
+<!--====================================
+    LATEST COURSES
+=====================================-->
+
+
+<section class="courses-section">
+
+
+<div class="container">
+
+
+<h2>
+
+Latest Courses
+
+</h2>
+
+
+
+<div
+
+id="latestCourses"
+
+class="course-grid">
+
+
+</div>
+
+
+
+</div>
+
+
+</section>
+
+
+<!--====================================
+    POPULAR CATEGORIES
+=====================================-->
+
+
+<section class="category-section">
+
+
+<div class="container">
+
+
+<h2>
+Popular Categories
+</h2>
+
+
+
+<div
+
+id="popularCategories"
+
+class="category-grid">
+
+
+</div>
+
+
+</div>
+
+
+</section>
+
+<!--====================================
+    POPULAR TRAINERS
+=====================================-->
+
+
+<section class="trainer-section">
+
+
+<div class="container">
+
+
+<h2>
+Popular Trainers
+</h2>
+
+
+
+<div
+
+id="popularTrainers"
+
+class="trainer-grid">
+
+
+</div>
+
+
+</div>
+
+
+</section>
+
+<!--====================================
+    LANGUAGES
+=====================================-->
+
+
+<section class="language-section">
+
+
+<div class="container">
+
+
+<h2>
+Browse By Language
+</h2>
+
+
+
+<div
+
+id="popularLanguages"
+
+class="language-grid">
+
+
+</div>
+
+
+</div>
+
+
+</section>
+
+<!--====================================
+    FOOTER
+=====================================-->
+
+
+<footer class="footer">
+
+
+<div class="container">
+
+
+<p>
+
+© 2026 CourseCoupon.
+All Rights Reserved.
+
+</p>
+
+
+</div>
+
+
+</footer>
+
+
+<script src="assets/js/home.js"></script>
+
+
+</body>
+
+
+</html>
