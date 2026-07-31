@@ -1,0 +1,640 @@
+/*=========================================================
+    GOOGLE FONT
+=========================================================*/
+
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800;900&display=swap');
+
+/*=========================================================
+    ROOT VARIABLES
+=========================================================*/
+
+:root{
+
+    --primary:#4F46E5;
+    --primary-hover:#4338CA;
+
+    --secondary:#6366F1;
+
+    --success:#10B981;
+    --warning:#F59E0B;
+    --danger:#EF4444;
+
+    --dark:#111827;
+    --gray:#6B7280;
+    --light:#F9FAFB;
+
+    --white:#FFFFFF;
+
+    --border:#E5E7EB;
+
+    --radius:14px;
+
+    --transition:.3s ease;
+
+    --shadow:
+        0 8px 25px rgba(0,0,0,.08);
+
+}
+
+/*=========================================================
+    RESET
+=========================================================*/
+
+*{
+    margin:0;
+    padding:0;
+    box-sizing:border-box;
+}
+
+html{
+
+    scroll-behavior:smooth;
+
+}
+
+body{
+
+    font-family:'Inter',sans-serif;
+
+    background:var(--light);
+
+    color:var(--dark);
+
+    line-height:1.7;
+
+    overflow-x:hidden;
+
+}
+
+/*=========================================================
+    LINKS
+=========================================================*/
+
+a{
+
+    text-decoration:none;
+
+    transition:var(--transition);
+
+}
+
+a:hover{
+
+    color:var(--primary);
+
+}
+
+/*=========================================================
+    IMAGES
+=========================================================*/
+
+img{
+
+    max-width:100%;
+
+    display:block;
+
+}
+
+/*=========================================================
+    HEADINGS
+=========================================================*/
+
+h1,h2,h3,h4,h5,h6{
+
+    font-weight:700;
+
+    color:var(--dark);
+
+}
+
+p{
+
+    color:var(--gray);
+
+}
+
+/*=========================================================
+    CONTAINER
+=========================================================*/
+
+.container{
+
+    max-width:1240px;
+
+}
+
+/*=========================================================
+    NAVBAR
+=========================================================*/
+
+.navbar{
+
+    background:#fff !important;
+
+    padding:16px 0;
+
+    box-shadow:0 2px 10px rgba(0,0,0,.05);
+
+}
+
+.navbar-brand{
+
+    font-size:1.55rem;
+
+    font-weight:800;
+
+    color:var(--primary)!important;
+
+}
+
+.navbar-brand i{
+
+    margin-right:8px;
+
+}
+
+.nav-link{
+
+    color:var(--dark)!important;
+
+    font-weight:600;
+
+    margin-left:18px;
+
+}
+
+.nav-link:hover{
+
+    color:var(--primary)!important;
+
+}
+
+/*=========================================================
+    BUTTONS
+=========================================================*/
+
+.btn{
+
+    border-radius:10px;
+
+    padding:11px 22px;
+
+    font-weight:600;
+
+    transition:var(--transition);
+
+}
+
+.btn-primary{
+
+    background:var(--primary);
+
+    border:none;
+
+}
+
+.btn-primary:hover{
+
+    background:var(--primary-hover);
+
+    transform:translateY(-2px);
+
+}
+
+/*=========================================================
+    BADGES
+=========================================================*/
+
+.badge{
+
+    padding:8px 14px;
+
+    border-radius:50px;
+
+    font-weight:500;
+
+}
+
+/*=========================================================
+    CARDS
+=========================================================*/
+
+.card{
+
+    border:none;
+
+    border-radius:var(--radius);
+
+    overflow:hidden;
+
+    box-shadow:var(--shadow);
+
+    transition:var(--transition);
+
+}
+
+.card:hover{
+
+    transform:translateY(-6px);
+
+}
+
+.card img{
+
+    object-fit:cover;
+
+}
+/*=========================================================
+    COURSE CARD
+=========================================================*/
+
+.course-card{
+
+    background:#fff;
+
+    height:100%;
+
+}
+
+.course-card:hover{
+
+    transform:translateY(-8px);
+
+    box-shadow:0 15px 40px rgba(0,0,0,.12);
+
+}
+
+.course-image{
+
+    width:100%;
+
+    height:190px;
+
+    object-fit:cover;
+
+    background:#f1f1f1;
+
+}
+
+.course-title{
+
+    font-size:1.05rem;
+
+    font-weight:700;
+
+    line-height:1.4;
+
+    min-height:58px;
+
+    margin-bottom:12px;
+
+}
+
+.course-description{
+
+    font-size:.92rem;
+
+    line-height:1.6;
+
+    margin-bottom:18px;
+
+    display:-webkit-box;
+
+    -webkit-line-clamp:3;
+
+    -webkit-box-orient:vertical;
+
+    overflow:hidden;
+
+}
+
+.category-badge{
+
+    width:max-content;
+
+    margin-bottom:15px;
+
+}
+
+.course-rating{
+
+    font-weight:600;
+
+}
+
+.course-duration{
+
+    font-weight:500;
+
+}
+
+.course-button{
+
+    margin-top:15px;
+
+}
+
+/*=========================================================
+    STAT CARD
+=========================================================*/
+
+.stat-card{
+
+    background:#fff;
+
+    border-radius:16px;
+
+    padding:30px;
+
+    text-align:center;
+
+    box-shadow:var(--shadow);
+
+    transition:var(--transition);
+
+    height:100%;
+
+}
+
+.stat-card:hover{
+
+    transform:translateY(-5px);
+
+}
+
+.stat-card i{
+
+    font-size:2.3rem;
+
+    color:var(--primary);
+
+    margin-bottom:18px;
+
+}
+
+.stat-card h2{
+
+    font-size:2rem;
+
+    font-weight:800;
+
+    margin-bottom:8px;
+
+}
+
+.stat-card p{
+
+    margin:0;
+
+    font-weight:500;
+
+}
+
+/*=========================================================
+    FORM ELEMENTS
+=========================================================*/
+
+.form-control,
+.form-select{
+
+    border-radius:10px;
+
+    border:1px solid var(--border);
+
+    padding:12px 15px;
+
+}
+
+.form-control:focus,
+.form-select:focus{
+
+    border-color:var(--primary);
+
+    box-shadow:0 0 0 .2rem rgba(79,70,229,.15);
+
+}
+
+.input-group-text{
+
+    background:#fff;
+
+    border:1px solid var(--border);
+
+}
+
+/*=========================================================
+    FOOTER
+=========================================================*/
+
+.footer{
+
+    background:#fff;
+
+    border-top:1px solid var(--border);
+
+    margin-top:60px;
+
+}
+
+.footer-title{
+
+    font-weight:800;
+
+    margin-bottom:20px;
+
+}
+
+.footer-heading{
+
+    font-size:1rem;
+
+    margin-bottom:18px;
+
+    font-weight:700;
+
+}
+
+.footer ul{
+
+    padding:0;
+
+    margin:0;
+
+}
+
+.footer ul li{
+
+    list-style:none;
+
+    margin-bottom:10px;
+
+}
+
+.footer ul li a{
+
+    color:var(--gray);
+
+    transition:var(--transition);
+
+}
+
+.footer ul li a:hover{
+
+    color:var(--primary);
+
+    padding-left:6px;
+
+}
+
+.social-icons a{
+
+    width:42px;
+
+    height:42px;
+
+    display:inline-flex;
+
+    align-items:center;
+
+    justify-content:center;
+
+    border-radius:50%;
+
+    background:#EEF2FF;
+
+    color:var(--primary);
+
+    font-size:1.1rem;
+
+    transition:var(--transition);
+
+}
+
+.social-icons a:hover{
+
+    background:var(--primary);
+
+    color:#fff;
+
+    transform:translateY(-3px);
+
+}
+
+/*=========================================================
+    BACK TO TOP BUTTON
+=========================================================*/
+
+#backToTop{
+
+    position:fixed;
+
+    right:25px;
+
+    bottom:25px;
+
+    width:50px;
+
+    height:50px;
+
+    display:flex;
+
+    align-items:center;
+
+    justify-content:center;
+
+    border-radius:50%;
+
+    z-index:999;
+
+    display:none;
+
+}
+
+/*=========================================================
+    LOADING SPINNER
+=========================================================*/
+
+.spinner-border{
+
+    width:3rem;
+
+    height:3rem;
+
+}
+
+/*=========================================================
+    UTILITIES
+=========================================================*/
+
+.shadow-hover{
+
+    transition:var(--transition);
+
+}
+
+.shadow-hover:hover{
+
+    box-shadow:0 15px 35px rgba(0,0,0,.12);
+
+}
+
+.rounded-xl{
+
+    border-radius:18px;
+
+}
+
+.text-primary{
+
+    color:var(--primary)!important;
+
+}
+
+.bg-primary{
+
+    background:var(--primary)!important;
+
+}
+
+/*=========================================================
+    CUSTOM SCROLLBAR
+=========================================================*/
+
+::-webkit-scrollbar{
+
+    width:10px;
+
+}
+
+::-webkit-scrollbar-track{
+
+    background:#F3F4F6;
+
+}
+
+::-webkit-scrollbar-thumb{
+
+    background:var(--primary);
+
+    border-radius:20px;
+
+}
+
+::-webkit-scrollbar-thumb:hover{
+
+    background:var(--primary-hover);
+
+}
+
+/*=========================================================
+    SELECTION
+=========================================================*/
+
+::selection{
+
+    background:var(--primary);
+
+    color:#fff;
+
+}

@@ -1,0 +1,2302 @@
+[
+    {
+        "id": 1,
+        "title": "AI Coder: Complete Claude Code & Coding Agents Course",
+        "description": "Master Vibe Coding with AI Coding Agents: Claude Code, Copilot, Codex, Cursor, OpenCode, Antigravity + MCP, OpenClaw",
+        "rating": 4.7,
+        "duration": "16 hours",
+        "affiliate_url": "https://trk.udemy.com/c/2758262/3227798/39854?prodsku=course.7053781&u=https://www.udemy.com/course/ai-coder-from-vibe-coder-to-agentic-engineer/?couponCode=AI_MAY26",
+        "image": "https://i.udemycdn.com/course/480x270/7053781_bd4d.jpg",
+        "trainer": "Ed Donner",
+        "trainer_slug": "ed-donner",
+        "category": [
+            "AI"
+        ],
+        "category_slug": [
+            "ai"
+        ],
+        "language": "English",
+        "language_slug": "english",
+        "coupon_code": "",
+        "students": 0,
+        "reviews": 0,
+        "last_updated": "2026-07-27",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 2,
+        "title": "AI Engineer Agentic Track: The Complete Agent & MCP Course",
+        "description": "Master AI Agents in 30 days: build 8 real-world projects with OpenAI Agents SDK, CrewAI, LangGraph, AutoGen and MCP.",
+        "rating": 4.7,
+        "duration": "17 hours",
+        "affiliate_url": "https://trk.udemy.com/c/2758262/3227798/39854?prodsku=course.6566789&u=https://www.udemy.com/course/the-complete-agentic-ai-engineering-course/?couponCode=AI_MAY26",
+        "image": "https://i.udemycdn.com/course/480x270/6566789_2e8a_10.jpg",
+        "trainer": "Ed Donner",
+        "trainer_slug": "ed-donner",
+        "category": [
+            "AI"
+        ],
+        "category_slug": [
+            "ai"
+        ],
+        "language": "English",
+        "language_slug": "english",
+        "coupon_code": "",
+        "students": 0,
+        "reviews": 0,
+        "last_updated": "2026-07-27",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 3,
+        "title": "AI Engineer Core Track: LLM Engineering, RAG, QLoRA, Agents",
+        "description": "Become an LLM Engineer in 8 weeks: Build and deploy 8 LLM apps, mastering Generative AI, RAG, LoRA and AI Agents.",
+        "rating": 4.7,
+        "duration": "33.5 hours",
+        "affiliate_url": "https://trk.udemy.com/c/2758262/3227798/39854?prodsku=course.6100015&u=https://www.udemy.com/course/llm-engineering-master-ai-and-large-language-models/?couponCode=AI_MAY26",
+        "image": "https://i.udemycdn.com/course/480x270/6100015_1979_5.jpg",
+        "trainer": "Ed Donner",
+        "trainer_slug": "ed-donner",
+        "category": [
+            "AI"
+        ],
+        "category_slug": [
+            "ai"
+        ],
+        "language": "English",
+        "language_slug": "english",
+        "coupon_code": "",
+        "students": 0,
+        "reviews": 0,
+        "last_updated": "2026-07-27",
+        "featured": "Yes",
+        "status": "Active"
+    },
+    {
+        "id": 4,
+        "title": "AI Builder: Create Agents, Voice Agents & Automations in n8n",
+        "description": "Become an AI Builder in 3 weeks. Build low-code AI Agents & Voice Agents in n8n v2.0 using ElevenLabs, Agentic RAG, MCP",
+        "rating": 4.8,
+        "duration": "14.5 hours",
+        "affiliate_url": "https://trk.udemy.com/c/2758262/3227798/39854?prodsku=course.6973513&u=https://www.udemy.com/course/ai-builder-with-n8n-create-agents-voice-agents/?couponCode=AI_MAY26",
+        "image": "https://i.udemycdn.com/course/480x270/6973513_45d6_4.jpg",
+        "trainer": "Ed Donner",
+        "trainer_slug": "ed-donner",
+        "category": [
+            "AI"
+        ],
+        "category_slug": [
+            "ai"
+        ],
+        "language": "English",
+        "language_slug": "english",
+        "coupon_code": "",
+        "students": 0,
+        "reviews": 0,
+        "last_updated": "2026-07-27",
+        "featured": "Yes",
+        "status": "Active"
+    },
+    {
+        "id": 5,
+        "title": "AI Engineer Production Track: Deploy LLMs & Agents at Scale",
+        "description": "Deploy AI to AWS, GCP, Azure, Vercel with MLOps, Bedrock, SageMaker, RAG, Agents, MCP: scalable, secure and observable.",
+        "rating": 4.7,
+        "duration": "18.5 hours",
+        "affiliate_url": "https://trk.udemy.com/c/2758262/3227798/39854?prodsku=course.6819669&u=https://www.udemy.com/course/generative-and-agentic-ai-in-production/?couponCode=BEST_DEAL_426",
+        "image": "https://i.udemycdn.com/course/480x270/6819669_be93_4.jpg",
+        "trainer": "Ed Donner",
+        "trainer_slug": "ed-donner",
+        "category": [
+            "AI"
+        ],
+        "category_slug": [
+            "ai"
+        ],
+        "language": "English",
+        "language_slug": "english",
+        "coupon_code": "",
+        "students": 0,
+        "reviews": 0,
+        "last_updated": "2026-07-27",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 6,
+        "title": "AI Leader: Generative AI & Agentic AI for Leaders & Founders",
+        "description": "From AI Strategist to AI Leader: An Actionable Workshop for Leaders & Founders to Deliver Measurable ROI with LLMs",
+        "rating": 4.7,
+        "duration": "3.5 hours",
+        "affiliate_url": "https://trk.udemy.com/c/2758262/3227798/39854?prodsku=course.6547725&u=https://www.udemy.com/course/executive-briefing-generative-ai-and-large-language-models-llm/?couponCode=AI_MAY26",
+        "image": "https://i.udemycdn.com/course/480x270/6547725_9c0c_4.jpg",
+        "trainer": "Ed Donner",
+        "trainer_slug": "ed-donner",
+        "category": [
+            "AI"
+        ],
+        "category_slug": [
+            "ai"
+        ],
+        "language": "English",
+        "language_slug": "english",
+        "coupon_code": "",
+        "students": 0,
+        "reviews": 0,
+        "last_updated": "2026-07-27",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 7,
+        "title": "3 Minute French - Course 1 | Language lessons for beginners",
+        "description": "Learn to speak French you can use in everyday real-world situations - all in just 3-minute chunks!",
+        "rating": 4.8,
+        "duration": "6 hours",
+        "affiliate_url": "https://trk.udemy.com/c/2758262/3227798/39854?prodsku=course.949846&u=https://www.udemy.com/course/3-minute-french-full-course-1/?couponCode=APRIL2026",
+        "image": "https://img-c.udemycdn.com/course/480x270/949846_23f1_4.jpg",
+        "trainer": "Kieran Ball",
+        "trainer_slug": "kieran-ball",
+        "category": [
+            "French"
+        ],
+        "category_slug": [
+            "french"
+        ],
+        "language": "English",
+        "language_slug": "english",
+        "coupon_code": "",
+        "students": 88950,
+        "reviews": 20861,
+        "last_updated": "2026-07-28",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 8,
+        "title": "3 Minute French - Course 2 | Language lessons for beginners",
+        "description": "Build on from the French skills you learnt in Course 1 and learn how to communicate in even more situations",
+        "rating": 4.8,
+        "duration": "4.5 hours",
+        "affiliate_url": "https://trk.udemy.com/c/2758262/3227798/39854?prodsku=course.1093956&u=https://www.udemy.com/course/3-minute-french-course-2/?couponCode=APRIL2026",
+        "image": "https://img-c.udemycdn.com/course/480x270/1093956_b7b0_4.jpg",
+        "trainer": "Kieran Ball",
+        "trainer_slug": "kieran-ball",
+        "category": [
+            "French"
+        ],
+        "category_slug": [
+            "french"
+        ],
+        "language": "English",
+        "language_slug": "english",
+        "coupon_code": "",
+        "students": 0,
+        "reviews": 0,
+        "last_updated": "2026-07-28",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 9,
+        "title": "3 Minute French - Course 3 | Language lessons for beginners",
+        "description": "Build on from the knowledge you learnt in Courses 1 and 2, and learn how to communicate in even more situations.",
+        "rating": 4.9,
+        "duration": "4.5 hours",
+        "affiliate_url": "https://trk.udemy.com/c/2758262/3227798/39854?prodsku=course.1201004&u=https://www.udemy.com/course/3-minute-french-course-3/?couponCode=APRIL2026",
+        "image": "https://img-c.udemycdn.com/course/480x270/1201004_d05c_5.jpg",
+        "trainer": "Kieran Ball",
+        "trainer_slug": "kieran-ball",
+        "category": [
+            "French"
+        ],
+        "category_slug": [
+            "french"
+        ],
+        "language": "English",
+        "language_slug": "english",
+        "coupon_code": "",
+        "students": 0,
+        "reviews": 0,
+        "last_updated": "2026-07-28",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 10,
+        "title": "3 Minute French - Course 4 | Language lessons for beginners",
+        "description": "Build on from the knowledge you learnt in Courses 1, 2 and 3, and learn how to communicate in even more situations.",
+        "rating": 4.8,
+        "duration": "6 hours",
+        "affiliate_url": "https://trk.udemy.com/c/2758262/3227798/39854?prodsku=course.1530288&u=https://www.udemy.com/course/3-minute-french-course-4/?couponCode=APRIL2026",
+        "image": "https://img-c.udemycdn.com/course/480x270/1530288_ef7d_3.jpg",
+        "trainer": "Kieran Ball",
+        "trainer_slug": "kieran-ball",
+        "category": [
+            "French"
+        ],
+        "category_slug": [
+            "french"
+        ],
+        "language": "English",
+        "language_slug": "english",
+        "coupon_code": "",
+        "students": 0,
+        "reviews": 0,
+        "last_updated": "2026-07-28",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 11,
+        "title": "3 Minute French - Course 5 | Language lessons for beginners",
+        "description": "Build on from the knowledge you learnt in Courses 1, 2, 3 and 4, and learn how to communicate in even more situations.",
+        "rating": 4.8,
+        "duration": "6.5 hours",
+        "affiliate_url": "https://trk.udemy.com/c/2758262/3227798/39854?prodsku=course.2116722&u=https://www.udemy.com/course/3-minute-french-course-5/?couponCode=APRIL2026",
+        "image": "https://img-c.udemycdn.com/course/480x270/2116722_764a_3.jpg",
+        "trainer": "Kieran Ball",
+        "trainer_slug": "kieran-ball",
+        "category": [
+            "French"
+        ],
+        "category_slug": [
+            "french"
+        ],
+        "language": "English",
+        "language_slug": "english",
+        "coupon_code": "",
+        "students": 0,
+        "reviews": 0,
+        "last_updated": "2026-07-28",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 12,
+        "title": "3 Minute French – Course 6 | Language lessons for beginners",
+        "description": "Build on from the knowledge you learnt in Courses 1-5, and learn how to communicate in even more situations.",
+        "rating": 4.9,
+        "duration": "6 hours",
+        "affiliate_url": "https://trk.udemy.com/c/2758262/3227798/39854?prodsku=course.2490754&u=https://www.udemy.com/course/3-minute-french-course-6/?couponCode=APRIL2026",
+        "image": "https://img-c.udemycdn.com/course/480x270/2490754_2c3a_3.jpg",
+        "trainer": "Kieran Ball",
+        "trainer_slug": "kieran-ball",
+        "category": [
+            "French"
+        ],
+        "category_slug": [
+            "french"
+        ],
+        "language": "English",
+        "language_slug": "english",
+        "coupon_code": "",
+        "students": 0,
+        "reviews": 0,
+        "last_updated": "2026-07-28",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 13,
+        "title": "3 Minute French – Course 7 | Language lessons for beginners",
+        "description": "Build on from the knowledge you learnt in Courses 1-6, and learn how to communicate in even more situations.",
+        "rating": 4.9,
+        "duration": "8.5 hours",
+        "affiliate_url": "https://trk.udemy.com/c/2758262/3227798/39854?prodsku=course.2764566&u=https://www.udemy.com/course/3-minute-french-course-7/?couponCode=APRIL2026",
+        "image": "https://img-c.udemycdn.com/course/480x270/2764566_f4ca_3.jpg",
+        "trainer": "Kieran Ball",
+        "trainer_slug": "kieran-ball",
+        "category": [
+            "French"
+        ],
+        "category_slug": [
+            "french"
+        ],
+        "language": "English",
+        "language_slug": "english",
+        "coupon_code": "",
+        "students": 0,
+        "reviews": 0,
+        "last_updated": "2026-07-28",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 14,
+        "title": "3 Minute French – Course 8 | Language lessons for beginners",
+        "description": "Build on from the knowledge you learnt in Courses 1-7, and learn how to communicate in even more situations.",
+        "rating": 4.9,
+        "duration": "10.5 hours",
+        "affiliate_url": "https://trk.udemy.com/c/2758262/3227798/39854?prodsku=course.3318238&u=https://www.udemy.com/course/3-minute-french-course-8/?couponCode=APRIL2026",
+        "image": "https://img-c.udemycdn.com/course/480x270/3318238_743d_3.jpg",
+        "trainer": "Kieran Ball",
+        "trainer_slug": "kieran-ball",
+        "category": [
+            "French"
+        ],
+        "category_slug": [
+            "french"
+        ],
+        "language": "English",
+        "language_slug": "english",
+        "coupon_code": "",
+        "students": 0,
+        "reviews": 0,
+        "last_updated": "2026-07-28",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 15,
+        "title": "3 Minute French – Course 9 | Language lessons for beginners",
+        "description": "Build on from the knowledge you learnt in Courses 1-8, and learn how to communicate in even more situations.",
+        "rating": 4.8,
+        "duration": "8 hours",
+        "affiliate_url": "https://trk.udemy.com/c/2758262/3227798/39854?prodsku=course.4147996&u=https://www.udemy.com/course/3-minute-french-course-9/?couponCode=APRIL2026",
+        "image": "https://img-c.udemycdn.com/course/480x270/4147996_30b6_3.jpg",
+        "trainer": "Kieran Ball",
+        "trainer_slug": "kieran-ball",
+        "category": [
+            "French"
+        ],
+        "category_slug": [
+            "french"
+        ],
+        "language": "English",
+        "language_slug": "english",
+        "coupon_code": "",
+        "students": 0,
+        "reviews": 0,
+        "last_updated": "2026-07-28",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 16,
+        "title": "3 Minute French – Course 10 | Language lessons for beginners",
+        "description": "Build on from the knowledge you learnt in Courses 1-9, and learn how to communicate in even more situations.",
+        "rating": 4.9,
+        "duration": "6 hours",
+        "affiliate_url": "https://trk.udemy.com/c/2758262/3227798/39854?prodsku=course.4176318&u=https://www.udemy.com/course/3-minute-french-course-10/?couponCode=APRIL2026",
+        "image": "https://img-c.udemycdn.com/course/480x270/4176318_cbb3_3.jpg",
+        "trainer": "Kieran Ball",
+        "trainer_slug": "kieran-ball",
+        "category": [
+            "French"
+        ],
+        "category_slug": [
+            "french"
+        ],
+        "language": "English",
+        "language_slug": "english",
+        "coupon_code": "",
+        "students": 0,
+        "reviews": 0,
+        "last_updated": "2026-07-28",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 17,
+        "title": "3 Minute French – Course 11 | Language lessons for beginners",
+        "description": "Build on from the knowledge you learnt in Courses 1-10, and learn how to communicate in even more situations.",
+        "rating": 4.7,
+        "duration": "8.5 hours",
+        "affiliate_url": "https://trk.udemy.com/c/2758262/3227798/39854?prodsku=course.4180114&u=https://www.udemy.com/course/3-minute-french-course-11/?couponCode=APRIL2026",
+        "image": "https://img-c.udemycdn.com/course/480x270/4180114_07b9_4.jpg",
+        "trainer": "Kieran Ball",
+        "trainer_slug": "kieran-ball",
+        "category": [
+            "French"
+        ],
+        "category_slug": [
+            "french"
+        ],
+        "language": "English",
+        "language_slug": "english",
+        "coupon_code": "",
+        "students": 0,
+        "reviews": 0,
+        "last_updated": "2026-07-28",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 18,
+        "title": "3 Minute French – Course 12 | Language lessons for beginners",
+        "description": "Build on from the knowledge you learnt in Courses 1-11, and learn how to communicate in even more situations.",
+        "rating": 4.5,
+        "duration": "7 hours",
+        "affiliate_url": "https://trk.udemy.com/c/2758262/3227798/39854?prodsku=course.4435828&u=https://www.udemy.com/course/3-minute-french-course-12/?couponCode=APRIL2026",
+        "image": "https://img-c.udemycdn.com/course/480x270/4435828_686c_3.jpg",
+        "trainer": "Kieran Ball",
+        "trainer_slug": "kieran-ball",
+        "category": [
+            "French"
+        ],
+        "category_slug": [
+            "french"
+        ],
+        "language": "English",
+        "language_slug": "english",
+        "coupon_code": "",
+        "students": 0,
+        "reviews": 0,
+        "last_updated": "2026-07-28",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 19,
+        "title": "3 Minute French – Course 13 | Language lessons for beginners",
+        "description": "Build on from the knowledge you learnt in Courses 1-12, and learn how to communicate in even more situations.",
+        "rating": 4.6,
+        "duration": "7.5 hours",
+        "affiliate_url": "https://trk.udemy.com/c/2758262/3227798/39854?prodsku=course.4488802&u=https://www.udemy.com/course/3-minute-french-course-13/?couponCode=APRIL2026",
+        "image": "https://img-c.udemycdn.com/course/480x270/4488802_4ef0_3.jpg",
+        "trainer": "Kieran Ball",
+        "trainer_slug": "kieran-ball",
+        "category": [
+            "French"
+        ],
+        "category_slug": [
+            "french"
+        ],
+        "language": "English",
+        "language_slug": "english",
+        "coupon_code": "",
+        "students": 0,
+        "reviews": 0,
+        "last_updated": "2026-07-28",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 20,
+        "title": "3 Minute French – Course 14 | Language lessons for beginners",
+        "description": "Build on from the knowledge you learnt in Courses 1-13, and learn how to communicate in even more situations.",
+        "rating": 4.7,
+        "duration": "8.5 hours",
+        "affiliate_url": "https://trk.udemy.com/c/2758262/3227798/39854?prodsku=course.4564882&u=https://www.udemy.com/course/3-minute-french-course-14/?couponCode=APRIL2026",
+        "image": "https://img-c.udemycdn.com/course/480x270/4564882_ad01_3.jpg",
+        "trainer": "Kieran Ball",
+        "trainer_slug": "kieran-ball",
+        "category": [
+            "French"
+        ],
+        "category_slug": [
+            "french"
+        ],
+        "language": "English",
+        "language_slug": "english",
+        "coupon_code": "",
+        "students": 0,
+        "reviews": 0,
+        "last_updated": "2026-07-28",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 21,
+        "title": "3 Minute French – Course 15 | Language lessons for beginners",
+        "description": "Build on from the knowledge you learnt in Courses 1-14, and learn how to communicate in even more situations.",
+        "rating": 4.9,
+        "duration": "12 hours",
+        "affiliate_url": "https://trk.udemy.com/c/2758262/3227798/39854?prodsku=course.4714398&u=https://www.udemy.com/course/3-minute-french-course-15/?couponCode=APRIL2026",
+        "image": "https://img-c.udemycdn.com/course/480x270/4714398_c8d1_3.jpg",
+        "trainer": "Kieran Ball",
+        "trainer_slug": "kieran-ball",
+        "category": [
+            "French"
+        ],
+        "category_slug": [
+            "french"
+        ],
+        "language": "English",
+        "language_slug": "english",
+        "coupon_code": "",
+        "students": 0,
+        "reviews": 0,
+        "last_updated": "2026-07-28",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 22,
+        "title": "3 Minute French – Course 16 | Language lessons for beginners",
+        "description": "Build on from the knowledge you learnt in Courses 1-15, and learn how to communicate in even more situations.",
+        "rating": 4.8,
+        "duration": "15 hours",
+        "affiliate_url": "https://trk.udemy.com/c/2758262/3227798/39854?prodsku=course.4761576&u=https://www.udemy.com/course/3-minute-french-course-16/?couponCode=APRIL2026",
+        "image": "https://img-c.udemycdn.com/course/480x270/4761576_bad8_4.jpg",
+        "trainer": "Kieran Ball",
+        "trainer_slug": "kieran-ball",
+        "category": [
+            "French"
+        ],
+        "category_slug": [
+            "french"
+        ],
+        "language": "English",
+        "language_slug": "english",
+        "coupon_code": "",
+        "students": 0,
+        "reviews": 0,
+        "last_updated": "2026-07-28",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 23,
+        "title": "Building Structures in French – Structure 1 | French Grammar",
+        "description": "Learn about how the French language is put together by breaking it down into its different sentence structures.",
+        "rating": 4.8,
+        "duration": "1.5 hours",
+        "affiliate_url": "https://trk.udemy.com/c/2758262/3227798/39854?prodsku=course.1152810&u=https://www.udemy.com/course/building-structures-in-french-structure-1/?couponCode=APRIL2026",
+        "image": "https://img-c.udemycdn.com/course/480x270/1152810_a81f_3.jpg",
+        "trainer": "Kieran Ball",
+        "trainer_slug": "kieran-ball",
+        "category": [
+            "French"
+        ],
+        "category_slug": [
+            "french"
+        ],
+        "language": "English",
+        "language_slug": "english",
+        "coupon_code": "",
+        "students": 0,
+        "reviews": 0,
+        "last_updated": "2026-07-28",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 24,
+        "title": "Building Structures in French – Structure 2 | French Grammar",
+        "description": "Learn about how the French language is put together by breaking it down into its different sentence structures.",
+        "rating": 4.9,
+        "duration": "2 hours",
+        "affiliate_url": "https://trk.udemy.com/c/2758262/3227798/39854?prodsku=course.1173074&u=https://www.udemy.com/course/building-structures-in-french-structure-2/?couponCode=APRIL2026",
+        "image": "https://img-c.udemycdn.com/course/480x270/1173074_45f4_6.jpg",
+        "trainer": "Kieran Ball",
+        "trainer_slug": "kieran-ball",
+        "category": [
+            "French"
+        ],
+        "category_slug": [
+            "french"
+        ],
+        "language": "English",
+        "language_slug": "english",
+        "coupon_code": "",
+        "students": 0,
+        "reviews": 0,
+        "last_updated": "2026-07-28",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 25,
+        "title": "Building Structures in French – Structure 3 | French Grammar",
+        "description": "Learn about how the French language is put together by breaking it down into its different sentence structures.",
+        "rating": 4.6,
+        "duration": "1.5 hours",
+        "affiliate_url": "https://trk.udemy.com/c/2758262/3227798/39854?prodsku=course.1543750&u=https://www.udemy.com/course/building-structures-in-french-structure-3/?couponCode=APRIL2026",
+        "image": "https://img-c.udemycdn.com/course/480x270/1543750_1322_2.jpg",
+        "trainer": "Kieran Ball",
+        "trainer_slug": "kieran-ball",
+        "category": [
+            "French"
+        ],
+        "category_slug": [
+            "french"
+        ],
+        "language": "English",
+        "language_slug": "english",
+        "coupon_code": "",
+        "students": 0,
+        "reviews": 0,
+        "last_updated": "2026-07-28",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 26,
+        "title": "Building Structures in French – Structure 4 | French Grammar",
+        "description": "Learn about how the French language is put together by breaking it down into its different sentence structures",
+        "rating": 4.7,
+        "duration": "2.5 hours",
+        "affiliate_url": "https://trk.udemy.com/c/2758262/3227798/39854?prodsku=course.2614372&u=https://www.udemy.com/course/building-structures-in-french-structure-4/?couponCode=APRIL2026",
+        "image": "https://img-c.udemycdn.com/course/480x270/2614372_e0d5_2.jpg",
+        "trainer": "Kieran Ball",
+        "trainer_slug": "kieran-ball",
+        "category": [
+            "French"
+        ],
+        "category_slug": [
+            "french"
+        ],
+        "language": "English",
+        "language_slug": "english",
+        "coupon_code": "",
+        "students": 0,
+        "reviews": 0,
+        "last_updated": "2026-07-28",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 27,
+        "title": "Building Structures in French – Structure 5 | French Grammar",
+        "description": "Learn about how the French language is put together by breaking it down into its different sentence structures",
+        "rating": 4.9,
+        "duration": "2.5 hours",
+        "affiliate_url": "https://trk.udemy.com/c/2758262/3227798/39854?prodsku=course.4629260&u=https://www.udemy.com/course/building-structures-in-french-structure-5/?couponCode=APRIL2026",
+        "image": "https://img-c.udemycdn.com/course/480x270/4629260_1a85_2.jpg",
+        "trainer": "Kieran Ball",
+        "trainer_slug": "kieran-ball",
+        "category": [
+            "French"
+        ],
+        "category_slug": [
+            "french"
+        ],
+        "language": "English",
+        "language_slug": "english",
+        "coupon_code": "",
+        "students": 0,
+        "reviews": 0,
+        "last_updated": "2026-07-28",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 28,
+        "title": "Building Structures in French – Structure 6 | French Grammar",
+        "description": "Learn about how the French language is put together by breaking it down into its different sentence structures",
+        "rating": 4.9,
+        "duration": "1.5 hours",
+        "affiliate_url": "https://trk.udemy.com/c/2758262/3227798/39854?prodsku=course.4675310&u=https://www.udemy.com/course/building-structures-in-french-structure-6/?couponCode=APRIL2026",
+        "image": "https://img-c.udemycdn.com/course/480x270/4675310_137e_2.jpg",
+        "trainer": "Kieran Ball",
+        "trainer_slug": "kieran-ball",
+        "category": [
+            "French"
+        ],
+        "category_slug": [
+            "french"
+        ],
+        "language": "English",
+        "language_slug": "english",
+        "coupon_code": "",
+        "students": 0,
+        "reviews": 0,
+        "last_updated": "2026-07-28",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 29,
+        "title": "Building Structures in French – Structure 7 | French Grammar",
+        "description": "Learn about how the French language is put together by breaking it down into its different sentence structures",
+        "rating": 4.8,
+        "duration": "2.5 hours",
+        "affiliate_url": "https://trk.udemy.com/c/2758262/3227798/39854?prodsku=course.4679080&u=https://www.udemy.com/course/building-structures-in-french-structure-7/?couponCode=APRIL2026",
+        "image": "https://img-c.udemycdn.com/course/480x270/4679080_37de_2.jpg",
+        "trainer": "Kieran Ball",
+        "trainer_slug": "kieran-ball",
+        "category": [
+            "French"
+        ],
+        "category_slug": [
+            "french"
+        ],
+        "language": "English",
+        "language_slug": "english",
+        "coupon_code": "",
+        "students": 0,
+        "reviews": 0,
+        "last_updated": "2026-07-28",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 30,
+        "title": "Building Structures in French – Structure 8 | French Grammar",
+        "description": "Learn about how the French language is put together by breaking it down into its different sentence structures",
+        "rating": 4.8,
+        "duration": "1.5 hours",
+        "affiliate_url": "https://trk.udemy.com/c/2758262/3227798/39854?prodsku=course.4721094&u=https://www.udemy.com/course/building-structures-in-french-structure-8/?couponCode=APRIL2026",
+        "image": "https://img-c.udemycdn.com/course/480x270/4721094_7a86_2.jpg",
+        "trainer": "Kieran Ball",
+        "trainer_slug": "kieran-ball",
+        "category": [
+            "French"
+        ],
+        "category_slug": [
+            "french"
+        ],
+        "language": "English",
+        "language_slug": "english",
+        "coupon_code": "",
+        "students": 0,
+        "reviews": 0,
+        "last_updated": "2026-07-28",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 31,
+        "title": "Building Structures in French – Structure 9 | French Grammar",
+        "description": "Learn about how the French language is put together by breaking it down into its different sentence structures",
+        "rating": 4.8,
+        "duration": "2.5 hours",
+        "affiliate_url": "https://trk.udemy.com/c/2758262/3227798/39854?prodsku=course.4738916&u=https://www.udemy.com/course/building-structures-in-french-structure-9/?couponCode=APRIL2026",
+        "image": "https://img-c.udemycdn.com/course/480x270/4738916_fd26_2.jpg",
+        "trainer": "Kieran Ball",
+        "trainer_slug": "kieran-ball",
+        "category": [
+            "French"
+        ],
+        "category_slug": [
+            "french"
+        ],
+        "language": "English",
+        "language_slug": "english",
+        "coupon_code": "",
+        "students": 0,
+        "reviews": 0,
+        "last_updated": "2026-07-28",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 32,
+        "title": "Building Structures in French - Structure 10 | Grammar",
+        "description": "Learn about how the French language is put together by breaking it down into its different sentence structures",
+        "rating": 4.9,
+        "duration": "2.5 hours",
+        "affiliate_url": "https://trk.udemy.com/c/2758262/3227798/39854?prodsku=course.5757632&u=https://www.udemy.com/course/building-structures-in-french-structure-10/?couponCode=APRIL2026",
+        "image": "https://img-c.udemycdn.com/course/480x270/5757632_8498.jpg",
+        "trainer": "Kieran Ball",
+        "trainer_slug": "kieran-ball",
+        "category": [
+            "French"
+        ],
+        "category_slug": [
+            "french"
+        ],
+        "language": "English",
+        "language_slug": "english",
+        "coupon_code": "",
+        "students": 0,
+        "reviews": 0,
+        "last_updated": "2026-07-28",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 33,
+        "title": "French Grammar – Quick Guide – Verbs 1",
+        "description": "Learn how to use the \"going\" future, past and present tenses in French",
+        "rating": 4.6,
+        "duration": "4 hours",
+        "affiliate_url": "https://trk.udemy.com/c/2758262/3227798/39854?prodsku=course.1648166&u=https://www.udemy.com/course/french-grammar-quick-guide-verbs-1/?couponCode=APRIL2026",
+        "image": "https://img-c.udemycdn.com/course/480x270/1648166_e9c2_2.jpg",
+        "trainer": "Kieran Ball",
+        "trainer_slug": "kieran-ball",
+        "category": [
+            "French"
+        ],
+        "category_slug": [
+            "french"
+        ],
+        "language": "English",
+        "language_slug": "english",
+        "coupon_code": "",
+        "students": 0,
+        "reviews": 0,
+        "last_updated": "2026-07-28",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 34,
+        "title": "French Grammar - Quick Guide - Verbs 2",
+        "description": "Learn how to use the future tense, the imperfect tense and the conditional mood in French",
+        "rating": 4.5,
+        "duration": "3 hours",
+        "affiliate_url": "https://trk.udemy.com/c/2758262/3227798/39854?prodsku=course.6183977&u=https://www.udemy.com/course/french-grammar-quick-guide-verbs-2/?couponCode=APRIL2026",
+        "image": "https://img-c.udemycdn.com/course/480x270/6183977_811b.jpg",
+        "trainer": "Kieran Ball",
+        "trainer_slug": "kieran-ball",
+        "category": [
+            "French"
+        ],
+        "category_slug": [
+            "french"
+        ],
+        "language": "English",
+        "language_slug": "english",
+        "coupon_code": "",
+        "students": 0,
+        "reviews": 0,
+        "last_updated": "2026-07-28",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 35,
+        "title": "French Grammar - Quick Guide - Verbs 3",
+        "description": "Learn how to use the imperative, the subjunctive and infinitive carriers in French",
+        "rating": 4.9,
+        "duration": "4.5 hours",
+        "affiliate_url": "https://trk.udemy.com/c/2758262/3227798/39854?prodsku=course.6244677&u=https://www.udemy.com/course/french-grammar-quick-guide-verbs-3/?couponCode=APRIL2026",
+        "image": "https://img-c.udemycdn.com/course/480x270/6244677_6d29_2.jpg",
+        "trainer": "Kieran Ball",
+        "trainer_slug": "kieran-ball",
+        "category": [
+            "French"
+        ],
+        "category_slug": [
+            "french"
+        ],
+        "language": "English",
+        "language_slug": "english",
+        "coupon_code": "",
+        "students": 0,
+        "reviews": 0,
+        "last_updated": "2026-07-28",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 36,
+        "title": "Success in French Grammar | The Present Perfect (past) Tense",
+        "description": "An in-depth study guide with lessons and practice exercises to help you master the present perfect tense in French",
+        "rating": 4.6,
+        "duration": "11.5 hours",
+        "affiliate_url": "https://trk.udemy.com/c/2758262/3227798/39854?prodsku=course.2711564&u=https://www.udemy.com/course/success-in-french-grammar-the-present-perfect-tense/?couponCode=APRIL2026",
+        "image": "https://img-c.udemycdn.com/course/480x270/2711564_7340_2.jpg",
+        "trainer": "Kieran Ball",
+        "trainer_slug": "kieran-ball",
+        "category": [
+            "French"
+        ],
+        "category_slug": [
+            "french"
+        ],
+        "language": "English",
+        "language_slug": "english",
+        "coupon_code": "",
+        "students": 0,
+        "reviews": 0,
+        "last_updated": "2026-07-28",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 37,
+        "title": "Essential French Grammar – Future, Conditional and Imperfect",
+        "description": "Learn to conjugate French verbs in the future, conditional and imperfect tenses | Language lessons made easy",
+        "rating": 4.6,
+        "duration": "3 hours",
+        "affiliate_url": "https://trk.udemy.com/c/2758262/3227798/39854?prodsku=course.4180472&u=https://www.udemy.com/course/essential-french-grammar-future-conditional-and-imperfect/?couponCode=APRIL2026",
+        "image": "https://img-c.udemycdn.com/course/480x270/4180472_d476_2.jpg",
+        "trainer": "Kieran Ball",
+        "trainer_slug": "kieran-ball",
+        "category": [
+            "French"
+        ],
+        "category_slug": [
+            "french"
+        ],
+        "language": "English",
+        "language_slug": "english",
+        "coupon_code": "",
+        "students": 0,
+        "reviews": 0,
+        "last_updated": "2026-07-28",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 38,
+        "title": "3 Minute Spanish - Course 1 | Language lessons for beginners",
+        "description": "Learn to speak Spanish you can use in everyday real-world situations - all in just 3-minute chunks! | Complete course",
+        "rating": 4.7,
+        "duration": "5.5 hours",
+        "affiliate_url": "https://trk.udemy.com/c/2758262/3227798/39854?prodsku=course.970084&u=https://www.udemy.com/course/3-minute-spanish-full-course-1/?couponCode=APRIL2026",
+        "image": "https://img-c.udemycdn.com/course/480x270/970084_d178_4.jpg",
+        "trainer": "Kieran Ball",
+        "trainer_slug": "kieran-ball",
+        "category": [
+            "Spanish"
+        ],
+        "category_slug": [
+            "spanish"
+        ],
+        "language": "English",
+        "language_slug": "english",
+        "coupon_code": "",
+        "students": 0,
+        "reviews": 0,
+        "last_updated": "2026-07-28",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 39,
+        "title": "3 Minute Spanish - Course 2 | Language lessons for beginners",
+        "description": "Build on from the Spanish skills you learnt in Course 1 and learn how to communicate in even more situations",
+        "rating": 4.8,
+        "duration": "6.5 hours",
+        "affiliate_url": "https://trk.udemy.com/c/2758262/3227798/39854?prodsku=course.1017022&u=https://www.udemy.com/course/3-minute-spanish-course-2/?couponCode=APRIL2026",
+        "image": "https://img-c.udemycdn.com/course/480x270/1017022_15e4_3.jpg",
+        "trainer": "Kieran Ball",
+        "trainer_slug": "kieran-ball",
+        "category": [
+            "Spanish"
+        ],
+        "category_slug": [
+            "spanish"
+        ],
+        "language": "English",
+        "language_slug": "english",
+        "coupon_code": "",
+        "students": 0,
+        "reviews": 0,
+        "last_updated": "2026-07-28",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 40,
+        "title": "3 Minute Spanish - Course 3 | Language lessons for beginners",
+        "description": "Build on from the knowledge you learnt in Courses 1 and 2, and learn how to communicate in even more situations.",
+        "rating": 4.9,
+        "duration": "10 hours",
+        "affiliate_url": "https://trk.udemy.com/c/2758262/3227798/39854?prodsku=course.1135474&u=https://www.udemy.com/course/3-minute-spanish-course-3/?couponCode=APRIL2026",
+        "image": "https://img-c.udemycdn.com/course/480x270/1135474_9b8b_3.jpg",
+        "trainer": "Kieran Ball",
+        "trainer_slug": "kieran-ball",
+        "category": [
+            "Spanish"
+        ],
+        "category_slug": [
+            "spanish"
+        ],
+        "language": "English",
+        "language_slug": "english",
+        "coupon_code": "",
+        "students": 0,
+        "reviews": 0,
+        "last_updated": "2026-07-28",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 41,
+        "title": "3 Minute Spanish - Course 4 | Language lessons for beginners",
+        "description": "Build on from the knowledge you learnt in Courses 1, 2 and 3, and learn how to communicate in even more situations.",
+        "rating": 4.9,
+        "duration": "6.5 hours",
+        "affiliate_url": "https://trk.udemy.com/c/2758262/3227798/39854?prodsku=course.1732480&u=https://www.udemy.com/course/3-minute-spanish-course-4/?couponCode=APRIL2026",
+        "image": "https://img-c.udemycdn.com/course/480x270/1732480_f83f_2.jpg",
+        "trainer": "Kieran Ball",
+        "trainer_slug": "kieran-ball",
+        "category": [
+            "Spanish"
+        ],
+        "category_slug": [
+            "spanish"
+        ],
+        "language": "English",
+        "language_slug": "english",
+        "coupon_code": "",
+        "students": 0,
+        "reviews": 0,
+        "last_updated": "2026-07-28",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 42,
+        "title": "3 Minute Spanish - Course 5 | Language lessons for beginners",
+        "description": "Build on from the knowledge you learnt in Courses 1, 2, 3 and 4, and learn how to communicate in even more situations.",
+        "rating": 4.8,
+        "duration": "7 hours",
+        "affiliate_url": "https://trk.udemy.com/c/2758262/3227798/39854?prodsku=course.2177928&u=https://www.udemy.com/course/3-minute-spanish-course-5/?couponCode=APRIL2026",
+        "image": "https://img-c.udemycdn.com/course/480x270/2177928_897e_2.jpg",
+        "trainer": "Kieran Ball",
+        "trainer_slug": "kieran-ball",
+        "category": [
+            "Spanish"
+        ],
+        "category_slug": [
+            "spanish"
+        ],
+        "language": "English",
+        "language_slug": "english",
+        "coupon_code": "",
+        "students": 0,
+        "reviews": 0,
+        "last_updated": "2026-07-28",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 43,
+        "title": "3 Minute Spanish – Course 6 | Language lessons for beginners",
+        "description": "Build on from the knowledge you learnt in Courses 1-5, and learn how to communicate in even more situations.",
+        "rating": 4.7,
+        "duration": "5.5 hours",
+        "affiliate_url": "https://trk.udemy.com/c/2758262/3227798/39854?prodsku=course.2866420&u=https://www.udemy.com/course/3-minute-spanish-course-6/?couponCode=APRIL2026",
+        "image": "https://img-c.udemycdn.com/course/480x270/2866420_84fa_2.jpg",
+        "trainer": "Kieran Ball",
+        "trainer_slug": "kieran-ball",
+        "category": [
+            "Spanish"
+        ],
+        "category_slug": [
+            "spanish"
+        ],
+        "language": "English",
+        "language_slug": "english",
+        "coupon_code": "",
+        "students": 0,
+        "reviews": 0,
+        "last_updated": "2026-07-28",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 44,
+        "title": "3 Minute Spanish – Course 7 | Language lessons for beginners",
+        "description": "Build on from the knowledge you learnt in Courses 1-6, and learn how to communicate in even more situations.",
+        "rating": 4.9,
+        "duration": "9.5 hours",
+        "affiliate_url": "https://trk.udemy.com/c/2758262/3227798/39854?prodsku=course.3440438&u=https://www.udemy.com/course/3-minute-spanish-course-7/?couponCode=APRIL2026",
+        "image": "https://img-c.udemycdn.com/course/480x270/3440438_2392_2.jpg",
+        "trainer": "Kieran Ball",
+        "trainer_slug": "kieran-ball",
+        "category": [
+            "Spanish"
+        ],
+        "category_slug": [
+            "spanish"
+        ],
+        "language": "English",
+        "language_slug": "english",
+        "coupon_code": "",
+        "students": 0,
+        "reviews": 0,
+        "last_updated": "2026-07-28",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 45,
+        "title": "Building Structures in Spanish – Structure 1",
+        "description": "Learn about how the Spanish language is put together by breaking it down into its different sentence structures.",
+        "rating": 4.6,
+        "duration": "1.5 hours",
+        "affiliate_url": "https://trk.udemy.com/c/2758262/3227798/39854?prodsku=course.1225392&u=https://www.udemy.com/course/building-structures-in-spanish-structure-1/?couponCode=APRIL2026",
+        "image": "https://img-c.udemycdn.com/course/480x270/1225392_119b_2.jpg",
+        "trainer": "Kieran Ball",
+        "trainer_slug": "kieran-ball",
+        "category": [
+            "Spanish"
+        ],
+        "category_slug": [
+            "spanish"
+        ],
+        "language": "English",
+        "language_slug": "english",
+        "coupon_code": "",
+        "students": 0,
+        "reviews": 0,
+        "last_updated": "2026-07-28",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 46,
+        "title": "Building Structures in Spanish – Structure 2",
+        "description": "Learn about how the Spanish language is put together by breaking it down into its different sentence structures.",
+        "rating": 4.8,
+        "duration": "2.5 hours",
+        "affiliate_url": "https://trk.udemy.com/c/2758262/3227798/39854?prodsku=course.1464918&u=https://www.udemy.com/course/building-structures-in-spanish-structure-2/?couponCode=APRIL2026",
+        "image": "https://img-c.udemycdn.com/course/480x270/1464918_3fde.jpg",
+        "trainer": "Kieran Ball",
+        "trainer_slug": "kieran-ball",
+        "category": [
+            "Spanish"
+        ],
+        "category_slug": [
+            "spanish"
+        ],
+        "language": "English",
+        "language_slug": "english",
+        "coupon_code": "",
+        "students": 0,
+        "reviews": 0,
+        "last_updated": "2026-07-28",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 47,
+        "title": "Building Structures in Spanish – Structure 3",
+        "description": "Learn about how the Spanish language is put together by breaking it down into its different sentence structures.",
+        "rating": 4.7,
+        "duration": "2 hours",
+        "affiliate_url": "https://trk.udemy.com/c/2758262/3227798/39854?prodsku=course.1582238&u=https://www.udemy.com/course/building-structures-in-spanish-structure-3/?couponCode=APRIL2026",
+        "image": "https://img-c.udemycdn.com/course/480x270/1582238_faea.jpg",
+        "trainer": "Kieran Ball",
+        "trainer_slug": "kieran-ball",
+        "category": [
+            "Spanish"
+        ],
+        "category_slug": [
+            "spanish"
+        ],
+        "language": "English",
+        "language_slug": "english",
+        "coupon_code": "",
+        "students": 0,
+        "reviews": 0,
+        "last_updated": "2026-07-28",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 48,
+        "title": "Building Structures in Spanish – Structure 4 | Grammar",
+        "description": "Learn about how the Spanish language is put together by breaking it down into its different sentence structures",
+        "rating": 4.8,
+        "duration": "2.5 hours",
+        "affiliate_url": "https://trk.udemy.com/c/2758262/3227798/39854?prodsku=course.1225392&u=https://www.udemy.com/course/building-structures-in-spanish-structure-4/?couponCode=APRIL2026",
+        "image": "https://img-c.udemycdn.com/course/480x270/4184796_4e89.jpg",
+        "trainer": "Kieran Ball",
+        "trainer_slug": "kieran-ball",
+        "category": [
+            "Spanish"
+        ],
+        "category_slug": [
+            "spanish"
+        ],
+        "language": "English",
+        "language_slug": "english",
+        "coupon_code": "",
+        "students": 0,
+        "reviews": 0,
+        "last_updated": "2026-07-28",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 49,
+        "title": "Building Structures in Spanish – Structure 5 | Grammar",
+        "description": "Learn about how the Spanish language is put together by breaking it down into its different sentence structures",
+        "rating": 4.6,
+        "duration": "3 hours",
+        "affiliate_url": "https://trk.udemy.com/c/2758262/3227798/39854?prodsku=course.5083270&u=https://www.udemy.com/course/building-structures-in-spanish-structure-5/?couponCode=APRIL2026",
+        "image": "https://img-c.udemycdn.com/course/480x270/5083270_5b50.jpg",
+        "trainer": "Kieran Ball",
+        "trainer_slug": "kieran-ball",
+        "category": [
+            "Spanish"
+        ],
+        "category_slug": [
+            "spanish"
+        ],
+        "language": "English",
+        "language_slug": "english",
+        "coupon_code": "",
+        "students": 0,
+        "reviews": 0,
+        "last_updated": "2026-07-28",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 50,
+        "title": "Building Structures in Spanish – Structure 6 | Grammar",
+        "description": "Learn about how the Spanish language is put together by breaking it down into its different sentence structures",
+        "rating": 4.8,
+        "duration": "2 hours",
+        "affiliate_url": "https://trk.udemy.com/c/2758262/3227798/39854?prodsku=course.5234558&u=https://www.udemy.com/course/building-structures-in-spanish-structure-6/?couponCode=APRIL2026",
+        "image": "https://img-c.udemycdn.com/course/480x270/5234558_d1da.jpg",
+        "trainer": "Kieran Ball",
+        "trainer_slug": "kieran-ball",
+        "category": [
+            "Spanish"
+        ],
+        "category_slug": [
+            "spanish"
+        ],
+        "language": "English",
+        "language_slug": "english",
+        "coupon_code": "",
+        "students": 0,
+        "reviews": 0,
+        "last_updated": "2026-07-28",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 51,
+        "title": "Building Structures in Spanish – Structure 7 | Grammar",
+        "description": "Learn about how the Spanish language is put together by breaking it down into its different sentence structures",
+        "rating": 4.6,
+        "duration": "3 hours",
+        "affiliate_url": "https://trk.udemy.com/c/2758262/3227798/39854?prodsku=course.5458974&u=https://www.udemy.com/course/building-structures-in-spanish-structure-7/?couponCode=APRIL2026",
+        "image": "https://img-c.udemycdn.com/course/480x270/5458974_0f4e.jpg",
+        "trainer": "Kieran Ball",
+        "trainer_slug": "kieran-ball",
+        "category": [
+            "Spanish"
+        ],
+        "category_slug": [
+            "spanish"
+        ],
+        "language": "English",
+        "language_slug": "english",
+        "coupon_code": "",
+        "students": 0,
+        "reviews": 0,
+        "last_updated": "2026-07-28",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 52,
+        "title": "Spanish Grammar – Quick Guide – Verbs 1",
+        "description": "Learn how to use the \"going\" future, past and present tenses in Spanish",
+        "rating": 4.7,
+        "duration": "4 hours",
+        "affiliate_url": "https://trk.udemy.com/c/2758262/3227798/39854?prodsku=course.1650076&u=https://www.udemy.com/course/spanish-grammar-quick-guide-verbs-1/?couponCode=APRIL2026",
+        "image": "https://img-c.udemycdn.com/course/480x270/1650076_2ca3.jpg",
+        "trainer": "Kieran Ball",
+        "trainer_slug": "kieran-ball",
+        "category": [
+            "Spanish"
+        ],
+        "category_slug": [
+            "spanish"
+        ],
+        "language": "English",
+        "language_slug": "english",
+        "coupon_code": "",
+        "students": 0,
+        "reviews": 0,
+        "last_updated": "2026-07-28",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 53,
+        "title": "Essential Spanish Grammar – Future, Conditional &amp; Imperfect",
+        "description": "Learn to conjugate Spanish verbs in the future, conditional and imperfect tenses | Language lessons made easy",
+        "rating": 4.8,
+        "duration": "3 hours",
+        "affiliate_url": "https://trk.udemy.com/c/2758262/3227798/39854?prodsku=course.4441468&u=https://www.udemy.com/course/essential-spanish-grammar-future-conditional-and-imperfect/?couponCode=APRIL2026",
+        "image": "https://img-c.udemycdn.com/course/480x270/4441468_63de.jpg",
+        "trainer": "Kieran Ball",
+        "trainer_slug": "kieran-ball",
+        "category": [
+            "Spanish"
+        ],
+        "category_slug": [
+            "spanish"
+        ],
+        "language": "English",
+        "language_slug": "english",
+        "coupon_code": "",
+        "students": 0,
+        "reviews": 0,
+        "last_updated": "2026-07-28",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 54,
+        "title": "3 Minute Italian - Course 1 | Language lessons for beginners",
+        "description": "Learn to speak Italian you can use in everyday real-world situations - all in just 3-minute chunks!",
+        "rating": 4.6,
+        "duration": "4.5 hours",
+        "affiliate_url": "https://trk.udemy.com/c/2758262/3227798/39854?prodsku=course.959760&u=https://www.udemy.com/course/3-minute-italian-full-course-1/?couponCode=APRIL2026",
+        "image": "https://img-c.udemycdn.com/course/480x270/959760_1f2a_5.jpg",
+        "trainer": "Kieran Ball",
+        "trainer_slug": "kieran-ball",
+        "category": [
+            "Italian"
+        ],
+        "category_slug": [
+            "italian"
+        ],
+        "language": "English",
+        "language_slug": "english",
+        "coupon_code": "",
+        "students": 0,
+        "reviews": 0,
+        "last_updated": "2026-07-28",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 55,
+        "title": "3 Minute Italian – Course 2 | Language lessons for beginners",
+        "description": "Build on from the Italian skills you learnt in Course 1 and learn how to communicate in even more situations",
+        "rating": 4.8,
+        "duration": "4 hours",
+        "affiliate_url": "https://trk.udemy.com/c/2758262/3227798/39854?prodsku=course.1277850&u=https://www.udemy.com/course/3-minute-italian-course-2/?couponCode=APRIL2026",
+        "image": "https://img-c.udemycdn.com/course/480x270/1277850_b5e0_6.jpg",
+        "trainer": "Kieran Ball",
+        "trainer_slug": "kieran-ball",
+        "category": [
+            "Italian"
+        ],
+        "category_slug": [
+            "italian"
+        ],
+        "language": "English",
+        "language_slug": "english",
+        "coupon_code": "",
+        "students": 0,
+        "reviews": 0,
+        "last_updated": "2026-07-28",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 56,
+        "title": "3 Minute Italian – Course 3 | Language lessons for beginners",
+        "description": "Build on from the knowledge you learnt in Courses 1 and 2, and learn how to communicate in even more situations.",
+        "rating": 4.8,
+        "duration": "5 hours",
+        "affiliate_url": "https://trk.udemy.com/c/2758262/3227798/39854?prodsku=course.1485486&u=https://www.udemy.com/course/3-minute-italian-course-3/?couponCode=APRIL2026",
+        "image": "https://img-c.udemycdn.com/course/480x270/1485486_5a76_2.jpg",
+        "trainer": "Kieran Ball",
+        "trainer_slug": "kieran-ball",
+        "category": [
+            "Italian"
+        ],
+        "category_slug": [
+            "italian"
+        ],
+        "language": "English",
+        "language_slug": "english",
+        "coupon_code": "",
+        "students": 0,
+        "reviews": 0,
+        "last_updated": "2026-07-28",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 57,
+        "title": "3 Minute Italian – Course 4 | Language lessons for beginners",
+        "description": "Build on from the knowledge you learnt in Courses 1, 2 and 3, and learn how to communicate in even more situations.",
+        "rating": 4.9,
+        "duration": "6.5 hours",
+        "affiliate_url": "https://trk.udemy.com/c/2758262/3227798/39854?prodsku=course.1810860&u=https://www.udemy.com/course/3-minute-italian-course-4/?couponCode=APRIL2026",
+        "image": "https://img-c.udemycdn.com/course/480x270/1810860_7209_2.jpg",
+        "trainer": "Kieran Ball",
+        "trainer_slug": "kieran-ball",
+        "category": [
+            "Italian"
+        ],
+        "category_slug": [
+            "italian"
+        ],
+        "language": "English",
+        "language_slug": "english",
+        "coupon_code": "",
+        "students": 0,
+        "reviews": 0,
+        "last_updated": "2026-07-28",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 58,
+        "title": "3 Minute Italian – Course 5 | Language lessons for beginners",
+        "description": "Build on from the knowledge you learnt in Courses 1, 2, 3 and 4, and learn how to communicate in even more situations",
+        "rating": 4.9,
+        "duration": "6 hours",
+        "affiliate_url": "https://trk.udemy.com/c/2758262/3227798/39854?prodsku=course.2660290&u=https://www.udemy.com/course/3-minute-italian-course-5/?couponCode=APRIL2026",
+        "image": "https://img-c.udemycdn.com/course/480x270/2660290_4403_2.jpg",
+        "trainer": "Kieran Ball",
+        "trainer_slug": "kieran-ball",
+        "category": [
+            "Italian"
+        ],
+        "category_slug": [
+            "italian"
+        ],
+        "language": "English",
+        "language_slug": "english",
+        "coupon_code": "",
+        "students": 0,
+        "reviews": 0,
+        "last_updated": "2026-07-28",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 59,
+        "title": "3 Minute Italian – Course 6 | Language lessons for beginners",
+        "description": "Build on from the knowledge you learnt in Courses 1-5, and learn how to communicate in even more situations.",
+        "rating": 4.8,
+        "duration": "6 hours",
+        "affiliate_url": "https://trk.udemy.com/c/2758262/3227798/39854?prodsku=course.3114022&u=https://www.udemy.com/course/3-minute-italian-course-6/?couponCode=APRIL2026",
+        "image": "https://img-c.udemycdn.com/course/480x270/3114022_24b1_2.jpg",
+        "trainer": "Kieran Ball",
+        "trainer_slug": "kieran-ball",
+        "category": [
+            "Italian"
+        ],
+        "category_slug": [
+            "italian"
+        ],
+        "language": "English",
+        "language_slug": "english",
+        "coupon_code": "",
+        "students": 0,
+        "reviews": 0,
+        "last_updated": "2026-07-28",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 60,
+        "title": "3 Minute Italian – Course 7 | Language lessons for beginners",
+        "description": "Build on from the knowledge you learnt in Courses 1-6, and learn how to communicate in even more situations.",
+        "rating": 4.8,
+        "duration": "10 hours",
+        "affiliate_url": "https://trk.udemy.com/c/2758262/3227798/39854?prodsku=course.4628844&u=https://www.udemy.com/course/3-minute-italian-course-7/?couponCode=APRIL2026",
+        "image": "https://img-c.udemycdn.com/course/480x270/4628844_c32d_2.jpg",
+        "trainer": "Kieran Ball",
+        "trainer_slug": "kieran-ball",
+        "category": [
+            "Italian"
+        ],
+        "category_slug": [
+            "italian"
+        ],
+        "language": "English",
+        "language_slug": "english",
+        "coupon_code": "",
+        "students": 0,
+        "reviews": 0,
+        "last_updated": "2026-07-28",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 61,
+        "title": "3 Minute Italian – Course 8 | Language lessons for beginners",
+        "description": "Build on from the knowledge you learnt in Courses 1-7, and learn how to communicate in even more situations.",
+        "rating": 4.8,
+        "duration": "12 hours",
+        "affiliate_url": "https://trk.udemy.com/c/2758262/3227798/39854?prodsku=course.5185426&u=https://www.udemy.com/course/3-minute-italian-course-8/?couponCode=APRIL2026",
+        "image": "https://img-c.udemycdn.com/course/480x270/5185426_1d43_3.jpg",
+        "trainer": "Kieran Ball",
+        "trainer_slug": "kieran-ball",
+        "category": [
+            "Italian"
+        ],
+        "category_slug": [
+            "italian"
+        ],
+        "language": "English",
+        "language_slug": "english",
+        "coupon_code": "",
+        "students": 0,
+        "reviews": 0,
+        "last_updated": "2026-07-28",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 62,
+        "title": "Building Structures in Italian – Structure 1",
+        "description": "Learn about how the Italian language is put together by breaking it down into its different sentence structures.",
+        "rating": 4.3,
+        "duration": "1.5 hours",
+        "affiliate_url": "https://trk.udemy.com/c/2758262/3227798/39854?prodsku=course.1329228&u=https://www.udemy.com/course/building-structures-in-italian-structure-1/?couponCode=APRIL2026",
+        "image": "https://img-c.udemycdn.com/course/480x270/1329228_bb5e.jpg",
+        "trainer": "Kieran Ball",
+        "trainer_slug": "kieran-ball",
+        "category": [
+            "Italian"
+        ],
+        "category_slug": [
+            "italian"
+        ],
+        "language": "English",
+        "language_slug": "english",
+        "coupon_code": "",
+        "students": 0,
+        "reviews": 0,
+        "last_updated": "2026-07-28",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 63,
+        "title": "Building Structures in Italian – Structure 2",
+        "description": "Learn about how the Italian language is put together by breaking it down into its different sentence structures.",
+        "rating": 4.7,
+        "duration": "2 hours",
+        "affiliate_url": "https://trk.udemy.com/c/2758262/3227798/39854?prodsku=course.1384764&u=https://www.udemy.com/course/building-structures-in-italian-structure-2/?couponCode=APRIL2026",
+        "image": "https://img-c.udemycdn.com/course/480x270/1384764_0298.jpg",
+        "trainer": "Kieran Ball",
+        "trainer_slug": "kieran-ball",
+        "category": [
+            "Italian"
+        ],
+        "category_slug": [
+            "italian"
+        ],
+        "language": "English",
+        "language_slug": "english",
+        "coupon_code": "",
+        "students": 0,
+        "reviews": 0,
+        "last_updated": "2026-07-28",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 64,
+        "title": "Building Structures in Italian – Structure 3",
+        "description": "Learn about how the Italian language is put together by breaking it down into its different sentence structures.",
+        "rating": 4.7,
+        "duration": "2 hours",
+        "affiliate_url": "https://trk.udemy.com/c/2758262/3227798/39854?prodsku=course.1859824&u=https://www.udemy.com/course/building-structures-in-italian-structure-3/?couponCode=APRIL2026",
+        "image": "https://img-c.udemycdn.com/course/480x270/1859824_3bc9.jpg",
+        "trainer": "Kieran Ball",
+        "trainer_slug": "kieran-ball",
+        "category": [
+            "Italian"
+        ],
+        "category_slug": [
+            "italian"
+        ],
+        "language": "English",
+        "language_slug": "english",
+        "coupon_code": "",
+        "students": 0,
+        "reviews": 0,
+        "last_updated": "2026-07-28",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 65,
+        "title": "Building Structures in Italian – Structure 4",
+        "description": "Learn about how the Italian language is put together by breaking it down into its different sentence structures",
+        "rating": 4.9,
+        "duration": "3 hours",
+        "affiliate_url": "https://trk.udemy.com/c/2758262/3227798/39854?prodsku=course.4859466&u=https://www.udemy.com/course/building-structures-in-italian-structure-4/?couponCode=APRIL2026",
+        "image": "https://img-c.udemycdn.com/course/480x270/4859466_1895.jpg",
+        "trainer": "Kieran Ball",
+        "trainer_slug": "kieran-ball",
+        "category": [
+            "Italian"
+        ],
+        "category_slug": [
+            "italian"
+        ],
+        "language": "English",
+        "language_slug": "english",
+        "coupon_code": "",
+        "students": 0,
+        "reviews": 0,
+        "last_updated": "2026-07-28",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 66,
+        "title": "Building Structures in Italian – Structure 5 | Grammar",
+        "description": "Learn about how the Italian language is put together by breaking it down into its different sentence structures",
+        "rating": 4.9,
+        "duration": "3 hours",
+        "affiliate_url": "https://trk.udemy.com/c/2758262/3227798/39854?prodsku=course.5119996&u=https://www.udemy.com/course/building-structures-in-italian-structure-5/?couponCode=APRIL2026",
+        "image": "https://img-c.udemycdn.com/course/480x270/5119996_b685.jpg",
+        "trainer": "Kieran Ball",
+        "trainer_slug": "kieran-ball",
+        "category": [
+            "Italian"
+        ],
+        "category_slug": [
+            "italian"
+        ],
+        "language": "English",
+        "language_slug": "english",
+        "coupon_code": "",
+        "students": 0,
+        "reviews": 0,
+        "last_updated": "2026-07-28",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 67,
+        "title": "Building Structures in Italian – Structure 6 | Grammar",
+        "description": "Learn about how the Italian language is put together by breaking it down into its different sentence structures",
+        "rating": 4.9,
+        "duration": "2 hours",
+        "affiliate_url": "https://trk.udemy.com/c/2758262/3227798/39854?prodsku=course.5364712&u=https://www.udemy.com/course/building-structures-in-italian-structure-6/?couponCode=APRIL2026",
+        "image": "https://img-c.udemycdn.com/course/480x270/5364712_66aa.jpg",
+        "trainer": "Kieran Ball",
+        "trainer_slug": "kieran-ball",
+        "category": [
+            "Italian"
+        ],
+        "category_slug": [
+            "italian"
+        ],
+        "language": "English",
+        "language_slug": "english",
+        "coupon_code": "",
+        "students": 0,
+        "reviews": 0,
+        "last_updated": "2026-07-28",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 68,
+        "title": "Building Structures in Italian - Structure 7 | Grammar",
+        "description": "Learn about how the Italian language is put together by breaking it down into its different sentence structures",
+        "rating": 4.8,
+        "duration": "3 hours",
+        "affiliate_url": "https://trk.udemy.com/c/2758262/3227798/39854?prodsku=course.1582306&u=https://www.udemy.com/course/building-structures-in-italian-structure-7/?couponCode=APRIL2026",
+        "image": "https://img-c.udemycdn.com/course/480x270/5741328_e588.jpg",
+        "trainer": "Kieran Ball",
+        "trainer_slug": "kieran-ball",
+        "category": [
+            "Italian"
+        ],
+        "category_slug": [
+            "italian"
+        ],
+        "language": "English",
+        "language_slug": "english",
+        "coupon_code": "",
+        "students": 0,
+        "reviews": 0,
+        "last_updated": "2026-07-28",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 69,
+        "title": "Italian Grammar – Quick Guide – Verbs 1",
+        "description": "Learn how to use the future, present perfect and present tenses in Italian",
+        "rating": 4.8,
+        "duration": "4 hours",
+        "affiliate_url": "https://trk.udemy.com/c/2758262/3227798/39854?prodsku=course.2362768&u=https://www.udemy.com/course/italian-grammar-quick-guide-verbs-1/?couponCode=APRIL2026",
+        "image": "https://img-c.udemycdn.com/course/480x270/2362768_12bf.jpg",
+        "trainer": "Kieran Ball",
+        "trainer_slug": "kieran-ball",
+        "category": [
+            "Italian"
+        ],
+        "category_slug": [
+            "italian"
+        ],
+        "language": "English",
+        "language_slug": "english",
+        "coupon_code": "",
+        "students": 0,
+        "reviews": 0,
+        "last_updated": "2026-07-28",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 70,
+        "title": "3 Minute German - Course 1 | Language lessons for beginners",
+        "description": "Learn to speak German you can use in everyday real-world situations - all in just 3-minute chunks!",
+        "rating": 4.7,
+        "duration": "4.5 hours",
+        "affiliate_url": "https://trk.udemy.com/c/2758262/3227798/39854?prodsku=course.943496&u=https://www.udemy.com/course/3-minute-german-full-course-1/?couponCode=APRIL2026",
+        "image": "https://img-c.udemycdn.com/course/480x270/943496_b2cf_4.jpg",
+        "trainer": "Kieran Ball",
+        "trainer_slug": "kieran-ball",
+        "category": [
+            "German"
+        ],
+        "category_slug": [
+            "german"
+        ],
+        "language": "English",
+        "language_slug": "english",
+        "coupon_code": "",
+        "students": 0,
+        "reviews": 0,
+        "last_updated": "2026-07-28",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 71,
+        "title": "3 Minute German - Course 2 | Language lessons for beginners",
+        "description": "Build on from the German skills you learnt in Course 1 and learn how to communicate in even more situations.",
+        "rating": 4.7,
+        "duration": "4 hours",
+        "affiliate_url": "https://trk.udemy.com/c/2758262/3227798/39854?prodsku=course.1174554&u=https://www.udemy.com/course/3-minute-german-course-2/?couponCode=APRIL2026",
+        "image": "https://img-c.udemycdn.com/course/480x270/1174554_7f90_3.jpg",
+        "trainer": "Kieran Ball",
+        "trainer_slug": "kieran-ball",
+        "category": [
+            "German"
+        ],
+        "category_slug": [
+            "german"
+        ],
+        "language": "English",
+        "language_slug": "english",
+        "coupon_code": "",
+        "students": 0,
+        "reviews": 0,
+        "last_updated": "2026-07-28",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 72,
+        "title": "3 Minute German - Course 3 | Language lessons for beginners",
+        "description": "Build on from the knowledge you learnt in Courses 1 and 2, and learn how to communicate in even more situations.",
+        "rating": 4.7,
+        "duration": "5.5 hours",
+        "affiliate_url": "https://trk.udemy.com/c/2758262/3227798/39854?prodsku=course.1512506&u=https://www.udemy.com/course/3-minute-german-course-3/?couponCode=APRIL2026",
+        "image": "https://img-c.udemycdn.com/course/480x270/1512506_26cf_2.jpg",
+        "trainer": "Kieran Ball",
+        "trainer_slug": "kieran-ball",
+        "category": [
+            "German"
+        ],
+        "category_slug": [
+            "german"
+        ],
+        "language": "English",
+        "language_slug": "english",
+        "coupon_code": "",
+        "students": 0,
+        "reviews": 0,
+        "last_updated": "2026-07-28",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 73,
+        "title": "3 Minute German - Course 4 | Language lessons for beginners",
+        "description": "Build on from the knowledge you learnt in Courses 1, 2 and 3, and learn how to communicate in even more situations.",
+        "rating": 4.8,
+        "duration": "7 hours",
+        "affiliate_url": "https://trk.udemy.com/c/2758262/3227798/39854?prodsku=course.1978982&u=https://www.udemy.com/course/3-minute-german-course-4/?couponCode=APRIL2026",
+        "image": "https://img-c.udemycdn.com/course/480x270/1978982_8c0e_2.jpg",
+        "trainer": "Kieran Ball",
+        "trainer_slug": "kieran-ball",
+        "category": [
+            "German"
+        ],
+        "category_slug": [
+            "german"
+        ],
+        "language": "English",
+        "language_slug": "english",
+        "coupon_code": "",
+        "students": 0,
+        "reviews": 0,
+        "last_updated": "2026-07-28",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 74,
+        "title": "3 Minute German - Course 5 | Language lessons for beginners",
+        "description": "Build on from the knowledge you learnt in Courses 1, 2, 3 and 4, and learn how to communicate in even more situations",
+        "rating": 4.7,
+        "duration": "7 hours",
+        "affiliate_url": "https://trk.udemy.com/c/2758262/3227798/39854?prodsku=course.2582814&u=https://www.udemy.com/course/3-minute-german-course-5/?couponCode=APRIL2026",
+        "image": "https://img-c.udemycdn.com/course/480x270/2582814_3f6f_2.jpg",
+        "trainer": "Kieran Ball",
+        "trainer_slug": "kieran-ball",
+        "category": [
+            "German"
+        ],
+        "category_slug": [
+            "german"
+        ],
+        "language": "English",
+        "language_slug": "english",
+        "coupon_code": "",
+        "students": 0,
+        "reviews": 0,
+        "last_updated": "2026-07-28",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 75,
+        "title": "3 Minute German – Course 6 | Language lessons for beginners",
+        "description": "Build on from the knowledge you learnt in Courses 1-5, and learn how to communicate in even more situations.",
+        "rating": 4.6,
+        "duration": "6.5 hours",
+        "affiliate_url": "https://trk.udemy.com/c/2758262/3227798/39854?prodsku=course.4228920&u=https://www.udemy.com/course/3-minute-german-course-6/?couponCode=APRIL2026",
+        "image": "https://img-c.udemycdn.com/course/480x270/4228920_2dcb_2.jpg",
+        "trainer": "Kieran Ball",
+        "trainer_slug": "kieran-ball",
+        "category": [
+            "German"
+        ],
+        "category_slug": [
+            "german"
+        ],
+        "language": "English",
+        "language_slug": "english",
+        "coupon_code": "",
+        "students": 0,
+        "reviews": 0,
+        "last_updated": "2026-07-28",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 76,
+        "title": "3 Minute German - Course 7 | Language lessons for beginners",
+        "description": "Build on from the knowledge you learnt in Courses 1-6, and learn how to communicate in even more situations.",
+        "rating": 4.8,
+        "duration": "9.5 hours",
+        "affiliate_url": "https://trk.udemy.com/c/2758262/3227798/39854?prodsku=course.5830224&u=https://www.udemy.com/course/3-minute-german-course-7/?couponCode=APRIL2026",
+        "image": "https://img-c.udemycdn.com/course/480x270/5830224_15b9.jpg",
+        "trainer": "Kieran Ball",
+        "trainer_slug": "kieran-ball",
+        "category": [
+            "German"
+        ],
+        "category_slug": [
+            "german"
+        ],
+        "language": "English",
+        "language_slug": "english",
+        "coupon_code": "",
+        "students": 0,
+        "reviews": 0,
+        "last_updated": "2026-07-28",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 77,
+        "title": "Building Structures in German – Structure 1 | German Grammar",
+        "description": "Learn about how the German language is put together by breaking it down into its different sentence structures.",
+        "rating": 4.6,
+        "duration": "1.5 hours",
+        "affiliate_url": "https://trk.udemy.com/c/2758262/3227798/39854?prodsku=course.1166204&u=https://www.udemy.com/course/building-structures-in-german-structure-1/?couponCode=APRIL2026",
+        "image": "https://img-c.udemycdn.com/course/480x270/1166204_764a_2.jpg",
+        "trainer": "Kieran Ball",
+        "trainer_slug": "kieran-ball",
+        "category": [
+            "German"
+        ],
+        "category_slug": [
+            "german"
+        ],
+        "language": "English",
+        "language_slug": "english",
+        "coupon_code": "",
+        "students": 0,
+        "reviews": 0,
+        "last_updated": "2026-07-28",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 78,
+        "title": "Building Structures in German – Structure 2",
+        "description": "Learn about how the German language is put together by breaking it down into its different sentence structures.",
+        "rating": 4.4,
+        "duration": "2.5 hours",
+        "affiliate_url": "https://trk.udemy.com/c/2758262/3227798/39854?prodsku=course.1457070&u=https://www.udemy.com/course/building-structures-in-german-structure-2/?couponCode=APRIL2026",
+        "image": "https://img-c.udemycdn.com/course/480x270/1457070_332c.jpg",
+        "trainer": "Kieran Ball",
+        "trainer_slug": "kieran-ball",
+        "category": [
+            "German"
+        ],
+        "category_slug": [
+            "german"
+        ],
+        "language": "English",
+        "language_slug": "english",
+        "coupon_code": "",
+        "students": 0,
+        "reviews": 0,
+        "last_updated": "2026-07-28",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 79,
+        "title": "Building Structures in German – Structure 3",
+        "description": "Learn about how the German language is put together by breaking it down into its different sentence structures.",
+        "rating": 4.7,
+        "duration": "1.5 hours",
+        "affiliate_url": "https://trk.udemy.com/c/2758262/3227798/39854?prodsku=course.1582306&u=https://www.udemy.com/course/building-structures-in-german-structure-3/?couponCode=APRIL2026",
+        "image": "https://img-c.udemycdn.com/course/480x270/1582306_4a25.jpg",
+        "trainer": "Kieran Ball",
+        "trainer_slug": "kieran-ball",
+        "category": [
+            "German"
+        ],
+        "category_slug": [
+            "german"
+        ],
+        "language": "English",
+        "language_slug": "english",
+        "coupon_code": "",
+        "students": 0,
+        "reviews": 0,
+        "last_updated": "2026-07-28",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 80,
+        "title": "Building Structures in German - Structure 4 | Grammar",
+        "description": "Learn about how the German language is put together by breaking it down into its different sentence structures",
+        "rating": 4.9,
+        "duration": "3 hours",
+        "affiliate_url": "https://trk.udemy.com/c/2758262/3227798/39854?prodsku=course.4269178&u=https://www.udemy.com/course/building-structures-in-german-structure-4/?couponCode=APRIL2026",
+        "image": "https://img-c.udemycdn.com/course/480x270/4269178_8275.jpg",
+        "trainer": "Kieran Ball",
+        "trainer_slug": "kieran-ball",
+        "category": [
+            "German"
+        ],
+        "category_slug": [
+            "german"
+        ],
+        "language": "English",
+        "language_slug": "english",
+        "coupon_code": "",
+        "students": 0,
+        "reviews": 0,
+        "last_updated": "2026-07-28",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 81,
+        "title": "German Grammar – Quick Guide – Verbs 1",
+        "description": "Learn how to use the future, present and past tenses in German",
+        "rating": 4.6,
+        "duration": "3.5 hours",
+        "affiliate_url": "https://trk.udemy.com/c/2758262/3227798/39854?prodsku=course.1661280&u=https://www.udemy.com/course/german-grammar-quick-guide-verbs-1/?couponCode=APRIL2026",
+        "image": "https://img-c.udemycdn.com/course/480x270/1661280_7d5c.jpg",
+        "trainer": "Kieran Ball",
+        "trainer_slug": "kieran-ball",
+        "category": [
+            "German"
+        ],
+        "category_slug": [
+            "german"
+        ],
+        "language": "English",
+        "language_slug": "english",
+        "coupon_code": "",
+        "students": 0,
+        "reviews": 0,
+        "last_updated": "2026-07-28",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 82,
+        "title": "3 Minute Portuguese – Course 1 | Lessons for beginners",
+        "description": "Learn to speak Portuguese you can use in everyday real-world situations - all in just 3-minute chunks!",
+        "rating": 4.7,
+        "duration": "6.5 hours",
+        "affiliate_url": "https://trk.udemy.com/c/2758262/3227798/39854?prodsku=course.979222&u=https://www.udemy.com/course/3-minute-portuguese-full-course-1/?couponCode=APRIL2026",
+        "image": "https://img-c.udemycdn.com/course/480x270/979222_447d_4.jpg",
+        "trainer": "Kieran Ball",
+        "trainer_slug": "kieran-ball",
+        "category": [
+            "Portuguese"
+        ],
+        "category_slug": [
+            "portuguese"
+        ],
+        "language": "English",
+        "language_slug": "english",
+        "coupon_code": "",
+        "students": 0,
+        "reviews": 0,
+        "last_updated": "2026-07-28",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 83,
+        "title": "3 Minute Portuguese – Course 2 | Lessons for beginners",
+        "description": "Build on from the knowledge you learnt in Course 1 and learn how to communicate in even more situations.",
+        "rating": 4.8,
+        "duration": "6.5 hours",
+        "affiliate_url": "https://trk.udemy.com/c/2758262/3227798/39854?prodsku=course.1436826&u=https://www.udemy.com/course/3-minute-portuguese-course-2/?couponCode=APRIL2026",
+        "image": "https://img-c.udemycdn.com/course/480x270/1436826_2fbb_2.jpg",
+        "trainer": "Kieran Ball",
+        "trainer_slug": "kieran-ball",
+        "category": [
+            "Portuguese"
+        ],
+        "category_slug": [
+            "portuguese"
+        ],
+        "language": "English",
+        "language_slug": "english",
+        "coupon_code": "",
+        "students": 0,
+        "reviews": 0,
+        "last_updated": "2026-07-28",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 84,
+        "title": "3 Minute Portuguese – Course 3 | Lessons for beginners",
+        "description": "Build on from the knowledge you learnt in Courses 1 and 2, and learn how to communicate in even more situations.",
+        "rating": 4.9,
+        "duration": "8 hours",
+        "affiliate_url": "https://trk.udemy.com/c/2758262/3227798/39854?prodsku=course.2005528&u=https://www.udemy.com/course/3-minute-portuguese-course-3/?couponCode=APRIL2026",
+        "image": "https://img-c.udemycdn.com/course/480x270/2005528_acae_2.jpg",
+        "trainer": "Kieran Ball",
+        "trainer_slug": "kieran-ball",
+        "category": [
+            "Portuguese"
+        ],
+        "category_slug": [
+            "portuguese"
+        ],
+        "language": "English",
+        "language_slug": "english",
+        "coupon_code": "",
+        "students": 0,
+        "reviews": 0,
+        "last_updated": "2026-07-28",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 85,
+        "title": "3 Minute Portuguese – Course 4 | Languages for beginners",
+        "description": "Build on from the knowledge you learnt in Courses 1, 2 and 3, and learn how to communicate in even more situations.",
+        "rating": 4.4,
+        "duration": "7.5 hours",
+        "affiliate_url": "https://trk.udemy.com/c/2758262/3227798/39854?prodsku=course.4989940&u=https://www.udemy.com/course/3-minute-portuguese-course-4/?couponCode=APRIL2026",
+        "image": "https://img-c.udemycdn.com/course/480x270/4989940_195a_2.jpg",
+        "trainer": "Kieran Ball",
+        "trainer_slug": "kieran-ball",
+        "category": [
+            "Portuguese"
+        ],
+        "category_slug": [
+            "portuguese"
+        ],
+        "language": "English",
+        "language_slug": "english",
+        "coupon_code": "",
+        "students": 0,
+        "reviews": 0,
+        "last_updated": "2026-07-28",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 86,
+        "title": "Building Structures in Portuguese – Structure 1",
+        "description": "Learn about how the Portuguese language is put together by breaking it down into its different sentence structures.",
+        "rating": 4.6,
+        "duration": "2.5 hours",
+        "affiliate_url": "https://trk.udemy.com/c/2758262/3227798/39854?prodsku=course.2025800&u=https://www.udemy.com/course/building-structures-in-portuguese-structure-1/?couponCode=APRIL2026",
+        "image": "https://img-c.udemycdn.com/course/480x270/2025800_4f83.jpg",
+        "trainer": "Kieran Ball",
+        "trainer_slug": "kieran-ball",
+        "category": [
+            "Portuguese"
+        ],
+        "category_slug": [
+            "portuguese"
+        ],
+        "language": "English",
+        "language_slug": "english",
+        "coupon_code": "",
+        "students": 0,
+        "reviews": 0,
+        "last_updated": "2026-07-28",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 87,
+        "title": "Portuguese Grammar – Quick Guide – Verbs 1",
+        "description": "Learn how to use the \"going\" future, past and present tenses in Portuguese",
+        "rating": 4.6,
+        "duration": "5 hours",
+        "affiliate_url": "https://trk.udemy.com/c/2758262/3227798/39854?prodsku=course.4952052&u=https://www.udemy.com/course/portuguese-grammar-quick-guide-verbs-1/?couponCode=APRIL2026",
+        "image": "https://img-c.udemycdn.com/course/480x270/4952052_e758.jpg",
+        "trainer": "Kieran Ball",
+        "trainer_slug": "kieran-ball",
+        "category": [
+            "Portuguese"
+        ],
+        "category_slug": [
+            "portuguese"
+        ],
+        "language": "English",
+        "language_slug": "english",
+        "coupon_code": "",
+        "students": 0,
+        "reviews": 0,
+        "last_updated": "2026-07-28",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 88,
+        "title": "English Idioms | ESL lessons to improve fluency",
+        "description": "Improve your comprehension and make yourself sound more like a native speaker with idiomatic phrases and expressions",
+        "rating": 4.6,
+        "duration": "8 hours",
+        "affiliate_url": "https://trk.udemy.com/c/2758262/3227798/39854?prodsku=course.4250238&u=https://www.udemy.com/course/english-idioms-1/?couponCode=APRIL2026",
+        "image": "https://img-c.udemycdn.com/course/480x270/4250238_16fd.jpg",
+        "trainer": "Kieran Ball",
+        "trainer_slug": "kieran-ball",
+        "category": [
+            "English"
+        ],
+        "category_slug": [
+            "english"
+        ],
+        "language": "English",
+        "language_slug": "english",
+        "coupon_code": "",
+        "students": 0,
+        "reviews": 0,
+        "last_updated": "2026-07-28",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 89,
+        "title": "Fly Through English – Verb Tenses",
+        "description": "Learn how to turn the four main tenses into 16 tenses and how to contract and negate them in speaking and writing",
+        "rating": 4.1,
+        "duration": "5 hours",
+        "affiliate_url": "https://trk.udemy.com/c/2758262/3227798/39854?prodsku=course.1422000&u=https://www.udemy.com/course/fly-through-english-verb-tenses/?couponCode=APRIL2026",
+        "image": "https://img-c.udemycdn.com/course/480x270/1422000_f5fb.jpg",
+        "trainer": "Kieran Ball",
+        "trainer_slug": "kieran-ball",
+        "category": [
+            "English"
+        ],
+        "category_slug": [
+            "english"
+        ],
+        "language": "English",
+        "language_slug": "english",
+        "coupon_code": "",
+        "students": 0,
+        "reviews": 0,
+        "last_updated": "2026-07-28",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 90,
+        "title": "Learn English with sentences – If clauses",
+        "description": "Learn about the three types of if-clause using sentences written by native English speakers",
+        "rating": 4.1,
+        "duration": "2.5 hours",
+        "affiliate_url": "https://trk.udemy.com/c/2758262/3227798/39854?prodsku=course.2502038&u=https://www.udemy.com/course/learn-english-with-sentences-if-clauses/?couponCode=APRIL2026",
+        "image": "https://img-c.udemycdn.com/course/480x270/2502038_26c2_2.jpg",
+        "trainer": "Kieran Ball",
+        "trainer_slug": "kieran-ball",
+        "category": [
+            "English"
+        ],
+        "category_slug": [
+            "english"
+        ],
+        "language": "English",
+        "language_slug": "english",
+        "coupon_code": "",
+        "students": 0,
+        "reviews": 0,
+        "last_updated": "2026-07-28",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 91,
+        "title": "3 Minute Maths – Fractions",
+        "description": "Learn maths in simple, easy to understand chunks that you can build together and apply to real-life situations",
+        "rating": 4.6,
+        "duration": "2.5 hours",
+        "affiliate_url": "https://trk.udemy.com/c/2758262/3227798/39854?prodsku=course.1852852&u=https://www.udemy.com/course/3-minute-maths-fractions/?couponCode=APRIL2026",
+        "image": "https://img-c.udemycdn.com/course/480x270/1852852_dc09.jpg",
+        "trainer": "Kieran Ball",
+        "trainer_slug": "kieran-ball",
+        "category": [
+            "Maths"
+        ],
+        "category_slug": [
+            "maths"
+        ],
+        "language": "English",
+        "language_slug": "english",
+        "coupon_code": "",
+        "students": 0,
+        "reviews": 0,
+        "last_updated": "2026-07-28",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 92,
+        "title": "3 Minute Maths – Percentages",
+        "description": "Learn maths in simple, easy to understand chunks that you can build together and apply to real-life situations",
+        "rating": 4.6,
+        "duration": "3 hours",
+        "affiliate_url": "https://trk.udemy.com/c/2758262/3227798/39854?prodsku=course.1883104&u=https://www.udemy.com/course/3-minute-maths-percentages/?couponCode=APRIL2026",
+        "image": "https://img-c.udemycdn.com/course/480x270/1883104_0046_2.jpg",
+        "trainer": "Kieran Ball",
+        "trainer_slug": "kieran-ball",
+        "category": [
+            "Maths"
+        ],
+        "category_slug": [
+            "maths"
+        ],
+        "language": "English",
+        "language_slug": "english",
+        "coupon_code": "",
+        "students": 0,
+        "reviews": 0,
+        "last_updated": "2026-07-28",
+        "featured": "",
+        "status": "Active"
+    }
+]

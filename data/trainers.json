@@ -1,0 +1,24 @@
+[
+    {
+        "id": 1,
+        "name": "Ed Donner",
+        "slug": "ed-donner",
+        "photo": "https://img-c.udemycdn.com/user/200_H/276658919_02e6_2.jpg",
+        "banner": "",
+        "designation": "Gen AI and LLM instructor",
+        "bio": "Ed Donner is a technology leader and repeat founder of AI startups. He’s the co-founder and CTO of Nebula, the platform to source, understand, engage and manage talent, using Generative AI and other forms of machine learning.",
+        "website": "",
+        "linkedin": "https://www.linkedin.com/in/eddonner/"
+    },
+    {
+        "id": 2,
+        "name": "Kieran Ball",
+        "slug": "kieran-ball",
+        "photo": "https://img-c.udemycdn.com/user/200_H/20021860_a7e3_11.jpg",
+        "banner": "",
+        "designation": "Creator of the \"3 Minute Languages\" series of courses",
+        "bio": "Kieran Ball, Owner at 3 Minute Languages (2016-present). Foreign language teacher and creator of 3 Minute Languages, a series of online courses",
+        "website": "",
+        "linkedin": ""
+    }
+]

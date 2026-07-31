@@ -1,0 +1,547 @@
+/*====================================================
+    TRAINER HERO
+====================================================*/
+
+.trainer-hero{
+
+    padding:60px 0 30px;
+
+}
+
+.trainer-card{
+
+    background:#ffffff;
+
+    border-radius:24px;
+
+    padding:70px 50px 45px;
+
+    text-align:center;
+
+    box-shadow:0 10px 40px rgba(0,0,0,.08);
+
+    border:1px solid #eef2f7;
+
+}
+
+
+
+/*====================================================
+    PROFILE IMAGE
+====================================================*/
+
+.trainer-profile{
+
+    display:flex;
+
+    align-items:center;
+
+    gap:45px;
+
+    margin-bottom:50px;
+
+}
+
+.trainer-info{
+
+    flex:1;
+
+    text-align:left;
+
+}
+
+.trainer-image-wrapper{
+
+    flex-shrink:0;
+
+}
+
+.trainer-image-wrapper img{
+
+    width:180px;
+
+    height:180px;
+
+    border-radius:50%;
+
+    object-fit:cover;
+
+    border:6px solid #fff;
+
+    box-shadow:0 10px 30px rgba(0,0,0,.15);
+
+}
+
+
+
+/*====================================================
+    NAME
+====================================================*/
+
+#trainerName{
+
+    font-size:42px;
+
+    font-weight:700;
+
+    color:#111827;
+
+    margin-bottom:10px;
+
+}
+
+
+
+#trainerDesignation{
+
+    font-size:22px;
+
+    font-weight:500;
+
+    color:#2563eb;
+
+    margin-bottom:1px;
+
+}
+
+
+
+/*====================================================
+    RATING
+====================================================*/
+
+.trainer-rating{
+
+    display:flex;
+
+        align-items:center;
+
+    gap:12px;
+
+    margin-bottom:1px;
+
+    flex-wrap:wrap;
+
+}
+
+.stars{
+
+    color:#f59e0b;
+
+    font-size:22px;
+
+    letter-spacing:2px;
+
+}
+
+#trainerRatingText{
+
+    font-size:16px;
+
+    color:#6b7280;
+
+}
+
+
+
+/*====================================================
+    BIO
+====================================================*/
+
+.trainer-bio{
+
+    margin:20px 0;
+
+    max-width:800px;
+
+}
+
+
+
+/*====================================================
+    BUTTONS
+====================================================*/
+
+.trainer-links{
+
+    justify-content:flex-start;
+
+}
+
+.trainer-links a{
+
+    padding:12px 28px;
+
+    border-radius:8px;
+
+    background:#2563eb;
+
+    color:#fff;
+
+    font-weight:600;
+
+    transition:.3s;
+
+}
+
+.trainer-links a:hover{
+
+    background:#1d4ed8;
+
+}
+
+
+
+/*====================================================
+    STATISTICS
+====================================================*/
+
+.trainer-stats{
+
+    display:grid;
+
+    grid-template-columns:repeat(4,1fr);
+
+    gap:22px;
+
+    margin-top:55px;
+
+}
+
+.stat-card{
+
+    background:#f8fafc;
+
+    border-radius:16px;
+
+    padding:28px;
+
+    transition:.3s;
+
+    border:1px solid #eef2f7;
+
+}
+
+.stat-card:hover{
+
+    transform:translateY(-6px);
+
+    box-shadow:0 10px 25px rgba(0,0,0,.08);
+
+}
+
+.stat-icon{
+
+    width:58px;
+
+    height:58px;
+
+    margin:auto;
+
+    border-radius:50%;
+
+    display:flex;
+
+    align-items:center;
+
+    justify-content:center;
+
+    font-size:28px;
+
+    margin-bottom:15px;
+
+    background:#eff6ff;
+
+}
+
+.stat-card:nth-child(1) .stat-icon{
+
+    background:#fef3c7;
+
+}
+
+.stat-card:nth-child(2) .stat-icon{
+
+    background:#dcfce7;
+
+}
+
+.stat-card:nth-child(3) .stat-icon{
+
+    background:#ede9fe;
+
+}
+
+.stat-card:nth-child(4) .stat-icon{
+
+    background:#fee2e2;
+
+}
+
+.stat-number{
+
+    font-size:34px;
+
+    font-weight:700;
+
+    color:#111827;
+
+    margin-bottom:8px;
+
+}
+
+.stat-title{
+
+    color:#6b7280;
+
+    font-weight:600;
+
+}
+
+
+
+/*====================================================
+    TOOLBAR
+====================================================*/
+
+.toolbar-section{
+
+    padding:45px 0;
+
+}
+
+.toolbar{
+
+    display:flex;
+
+    gap:20px;
+
+}
+
+.toolbar input{
+
+    flex:1;
+
+    height:54px;
+
+    border:1px solid #d1d5db;
+
+    border-radius:10px;
+
+    padding:0 18px;
+
+    font-size:15px;
+
+}
+
+.toolbar input:focus{
+
+    outline:none;
+
+    border-color:#2563eb;
+
+}
+
+.toolbar select{
+
+    width:250px;
+
+    border-radius:10px;
+
+    border:1px solid #d1d5db;
+
+    padding:0 15px;
+
+    cursor:pointer;
+
+}
+
+
+
+/*====================================================
+    SECTION TITLE
+====================================================*/
+
+.section-title{
+
+    text-align:center;
+
+    font-size:34px;
+
+    margin-bottom:35px;
+
+    color:#111827;
+
+}
+
+
+
+/*====================================================
+    COURSE GRID
+====================================================*/
+
+.course-grid{
+
+    display:grid;
+
+    grid-template-columns:repeat(4,1fr);
+
+    gap:25px;
+
+}
+
+
+
+/*====================================================
+    PAGINATION
+====================================================*/
+
+.pagination-section{
+
+    padding:60px 0;
+
+}
+
+.pagination{
+
+    display:flex;
+
+    justify-content:center;
+
+    gap:10px;
+
+    flex-wrap:wrap;
+
+}
+
+.pagination button{
+
+    width:44px;
+
+    height:44px;
+
+    border:none;
+
+    border-radius:8px;
+
+    background:#fff;
+
+    cursor:pointer;
+
+    font-weight:600;
+
+    box-shadow:0 5px 15px rgba(0,0,0,.08);
+
+}
+
+.pagination button:hover{
+
+    background:#2563eb;
+
+    color:#fff;
+
+}
+
+.pagination button.active{
+
+    background:#2563eb;
+
+    color:#fff;
+
+}
+
+
+
+/*====================================================
+    RESPONSIVE
+====================================================*/
+
+@media(max-width:992px){
+
+.trainer-stats{
+
+    grid-template-columns:repeat(2,1fr);
+
+}
+
+.course-grid{
+
+    grid-template-columns:repeat(2,1fr);
+
+}
+
+.toolbar{
+
+    flex-direction:column;
+
+}
+
+.toolbar select{
+
+    width:100%;
+
+}
+
+}
+
+
+
+@media(max-width:768px){
+
+.trainer-profile{
+
+    flex-direction:column;
+
+    text-align:center;
+
+}
+
+.trainer-info{
+
+    text-align:center;
+
+}
+
+.trainer-links{
+
+    justify-content:center;
+
+}
+
+}
+
+
+
+@media(max-width:576px){
+
+.trainer-card{
+
+    padding:35px 20px;
+
+}
+
+.trainer-stats{
+
+    grid-template-columns:1fr;
+
+}
+
+.course-grid{
+
+    grid-template-columns:1fr;
+
+}
+
+#trainerName{
+
+    font-size:28px;
+
+}
+
+.section-title{
+
+    font-size:28px;
+
+}
+
+}

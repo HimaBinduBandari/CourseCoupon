@@ -1,0 +1,42 @@
+[
+    {
+        "id": 1,
+        "name": "AI",
+        "slug": "ai"
+    },
+    {
+        "id": 2,
+        "name": "French",
+        "slug": "french"
+    },
+    {
+        "id": 3,
+        "name": "Spanish",
+        "slug": "spanish"
+    },
+    {
+        "id": 4,
+        "name": "Italian",
+        "slug": "italian"
+    },
+    {
+        "id": 5,
+        "name": "German",
+        "slug": "german"
+    },
+    {
+        "id": 6,
+        "name": "Portuguese",
+        "slug": "portuguese"
+    },
+    {
+        "id": 7,
+        "name": "English",
+        "slug": "english"
+    },
+    {
+        "id": 8,
+        "name": "Maths",
+        "slug": "maths"
+    }
+]

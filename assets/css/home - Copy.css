@@ -1,0 +1,766 @@
+/*====================================================
+    GLOBAL
+====================================================*/
+
+
+*{
+
+    margin:0;
+    padding:0;
+    box-sizing:border-box;
+
+}
+
+
+body{
+
+    font-family:Arial, Helvetica, sans-serif;
+
+    background:#f8fafc;
+
+    color:#333;
+
+}
+
+
+
+.container{
+
+    max-width:1200px;
+
+    margin:auto;
+
+    padding:0 20px;
+
+}
+
+
+
+a{
+
+    text-decoration:none;
+
+}
+
+
+
+
+
+/*====================================================
+    HEADER
+====================================================*/
+
+
+.main-header{
+
+    background:#ffffff;
+
+    box-shadow:0 2px 10px rgba(0,0,0,.08);
+
+    position:sticky;
+
+    top:0;
+
+    z-index:100;
+
+}
+
+
+
+.header-container{
+
+    display:flex;
+
+    justify-content:space-between;
+
+    align-items:center;
+
+    height:70px;
+
+}
+
+
+
+.logo a{
+
+    font-size:26px;
+
+    font-weight:bold;
+
+    color:#2563eb;
+
+}
+
+
+
+.main-nav{
+
+    display:flex;
+
+    gap:25px;
+
+}
+
+
+
+.main-nav a{
+
+    color:#333;
+
+    font-weight:600;
+
+}
+
+
+
+.main-nav a:hover{
+
+    color:#2563eb;
+
+}
+
+
+
+
+
+/*====================================================
+    HERO SECTION
+====================================================*/
+
+
+.hero{
+
+    background:
+
+    linear-gradient(
+        135deg,
+        #2563eb,
+        #1e40af
+    );
+
+    color:white;
+
+    padding:80px 0;
+
+}
+
+
+
+.hero-content{
+
+    text-align:center;
+
+}
+
+
+
+.hero h1{
+
+    font-size:48px;
+
+    margin-bottom:20px;
+
+}
+
+
+
+.hero h1 span{
+
+    color:#facc15;
+
+}
+
+
+
+.hero p{
+
+    font-size:20px;
+
+    margin-bottom:35px;
+
+}
+
+
+
+
+
+/*====================================================
+    SEARCH
+====================================================*/
+
+
+.search-box{
+
+    display:flex;
+
+    max-width:650px;
+
+    margin:auto;
+
+}
+
+
+
+.search-box input{
+
+    flex:1;
+
+    padding:15px;
+
+    border:none;
+
+    border-radius:8px 0 0 8px;
+
+    font-size:16px;
+
+}
+
+
+
+.search-box button{
+
+    padding:15px 30px;
+
+    border:none;
+
+    background:#16a34a;
+
+    color:white;
+
+    font-weight:bold;
+
+    cursor:pointer;
+
+    border-radius:0 8px 8px 0;
+
+}
+
+
+
+
+
+/*====================================================
+    STATS
+====================================================*/
+
+
+.stats-section{
+
+    padding:40px 0;
+
+}
+
+
+
+.stats-grid{
+
+    display:grid;
+
+    grid-template-columns:repeat(4,1fr);
+
+    gap:20px;
+
+}
+
+
+
+.stat-card{
+
+    background:white;
+
+    padding:25px;
+
+    text-align:center;
+
+    border-radius:12px;
+
+    box-shadow:0 5px 15px rgba(0,0,0,.08);
+
+}
+
+
+
+.stat-card h2{
+
+    color:#2563eb;
+
+    font-size:32px;
+
+}
+
+
+
+
+
+/*====================================================
+    COMMON SECTIONS
+====================================================*/
+
+
+.courses-section,
+
+.category-section,
+
+.trainer-section,
+
+.language-section{
+
+    padding:50px 0;
+
+}
+
+
+
+.courses-section h2,
+
+.category-section h2,
+
+.trainer-section h2,
+
+.language-section h2{
+
+    text-align:center;
+
+    font-size:32px;
+
+    margin-bottom:30px;
+
+}
+
+
+
+
+
+/*====================================================
+    COURSE GRID
+====================================================*/
+
+
+.course-grid{
+
+    display:grid;
+
+    grid-template-columns:repeat(4,1fr);
+
+    gap:20px;
+
+}
+
+
+
+.course-card{
+
+    background:white;
+
+    border-radius:12px;
+
+    overflow:hidden;
+
+    box-shadow:0 5px 15px rgba(0,0,0,.08);
+
+    transition:.3s;
+
+}
+
+
+
+.course-card:hover{
+
+    transform:translateY(-5px);
+
+}
+
+
+
+.course-card img{
+
+    width:100%;
+
+    height:180px;
+
+    object-fit:cover;
+
+}
+
+
+
+.course-card-content{
+
+    padding:20px;
+
+}
+
+
+
+.course-card h3{
+
+    font-size:18px;
+
+    margin-bottom:10px;
+
+}
+
+
+
+.course-card p{
+
+    color:#666;
+
+    margin-bottom:10px;
+
+}
+
+
+
+.course-card a{
+
+    color:#2563eb;
+
+    font-weight:bold;
+
+}
+
+
+
+
+
+/*====================================================
+    CATEGORY GRID
+====================================================*/
+
+
+.category-grid{
+
+    display:grid;
+
+    grid-template-columns:repeat(4,1fr);
+
+    gap:20px;
+
+}
+
+
+
+.category-card{
+
+    background:white;
+
+    padding:25px;
+
+    text-align:center;
+
+    border-radius:10px;
+
+    box-shadow:0 5px 15px rgba(0,0,0,.08);
+
+}
+
+
+
+.category-card:hover{
+
+    background:#eff6ff;
+
+}
+
+
+
+.category-card h3{
+
+    color:#2563eb;
+
+}
+
+
+
+
+
+/*====================================================
+    TRAINER GRID
+====================================================*/
+
+
+.trainer-grid{
+
+    display:grid;
+
+    grid-template-columns:repeat(4,1fr);
+
+    gap:20px;
+
+}
+
+
+
+.trainer-card{
+
+    background:white;
+
+    padding:25px;
+
+    text-align:center;
+
+    border-radius:10px;
+
+    box-shadow:0 5px 15px rgba(0,0,0,.08);
+
+}
+
+
+
+.trainer-card h3{
+
+    margin-bottom:10px;
+
+}
+
+
+
+
+
+/*====================================================
+    LANGUAGE GRID
+====================================================*/
+
+
+.language-grid{
+
+    display:grid;
+
+    grid-template-columns:repeat(5,1fr);
+
+    gap:20px;
+
+}
+
+
+
+.language-card{
+
+    background:white;
+
+    padding:20px;
+
+    text-align:center;
+
+    border-radius:10px;
+
+    box-shadow:0 5px 15px rgba(0,0,0,.08);
+
+}
+
+
+
+.language-card img{
+
+    width:60px;
+
+    height:60px;
+
+    object-fit:cover;
+
+    border-radius:50%;
+
+    margin-bottom:10px;
+
+}
+
+
+
+
+
+/*====================================================
+    FOOTER
+====================================================*/
+
+
+.footer{
+
+    background:#111827;
+
+    color:white;
+
+    padding:25px;
+
+    text-align:center;
+
+    margin-top:40px;
+
+}
+
+
+
+
+
+/*====================================================
+    RESPONSIVE
+====================================================*/
+
+
+@media(max-width:900px){
+
+
+    .stats-grid{
+
+        grid-template-columns:repeat(2,1fr);
+
+    }
+
+
+    .course-grid{
+
+        grid-template-columns:repeat(2,1fr);
+
+    }
+
+
+    .category-grid,
+
+    .trainer-grid{
+
+        grid-template-columns:repeat(2,1fr);
+
+    }
+
+
+    .language-grid{
+
+        grid-template-columns:repeat(3,1fr);
+
+    }
+
+
+}
+
+
+
+
+@media(max-width:600px){
+
+
+    .header-container{
+
+        flex-direction:column;
+
+        height:auto;
+
+        padding:15px;
+
+        gap:15px;
+
+    }
+
+
+
+    .main-nav{
+
+        flex-wrap:wrap;
+
+        justify-content:center;
+
+    }
+
+
+
+    .hero h1{
+
+        font-size:32px;
+
+    }
+
+
+
+    .search-box{
+
+        flex-direction:column;
+
+    }
+
+
+
+    .search-box input,
+
+    .search-box button{
+
+        border-radius:8px;
+
+        margin-bottom:10px;
+
+    }
+
+
+
+    .stats-grid,
+
+    .course-grid,
+
+    .category-grid,
+
+    .trainer-grid,
+
+    .language-grid{
+
+        grid-template-columns:1fr;
+
+    }
+
+
+}
+
+.course-card-content a{
+
+    color:#2563eb;
+
+    font-weight:600;
+
+}
+
+
+.course-card-content p{
+
+    font-size:14px;
+
+    margin:8px 0;
+
+}
+
+
+.course-card h3{
+
+    min-height:48px;
+
+    line-height:1.4;
+
+}
+
+.coupon-btn{
+
+    display:block;
+
+    width:100%;
+
+    margin-top:15px;
+
+    padding:12px;
+
+    text-align:center;
+
+    background:#16a34a;
+
+    color:#fff;
+
+    text-decoration:none;
+
+    font-weight:bold;
+
+    border-radius:8px;
+
+    transition:0.3s;
+
+}
+
+.coupon-btn:hover{
+
+    background:#15803d;
+
+}

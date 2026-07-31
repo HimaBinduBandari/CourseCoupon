@@ -1,0 +1,1209 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+
+<meta charset="UTF-8">
+
+<meta
+name="viewport"
+content="width=device-width, initial-scale=1.0">
+
+<title>
+
+CourseCoupon Excel to JSON Converter
+
+</title>
+
+<script src="https://cdn.jsdelivr.net/npm/xlsx/dist/xlsx.full.min.js"></script>
+
+<style>
+
+*{
+
+    margin:0;
+    padding:0;
+    box-sizing:border-box;
+
+}
+
+body{
+
+    font-family:Arial,Helvetica,sans-serif;
+    background:#f4f6f9;
+    padding:40px;
+
+}
+
+.container{
+
+    max-width:900px;
+    margin:auto;
+    background:#fff;
+    border-radius:12px;
+    overflow:hidden;
+    box-shadow:0 10px 30px rgba(0,0,0,.12);
+
+}
+
+.header{
+
+    background:#2563eb;
+    color:#fff;
+    padding:25px;
+
+}
+
+.header h1{
+
+    font-size:28px;
+    margin-bottom:8px;
+
+}
+
+.header p{
+
+    opacity:.9;
+
+}
+
+.content{
+
+    padding:30px;
+
+}
+
+.upload-box{
+
+    border:2px dashed #2563eb;
+    border-radius:10px;
+    padding:35px;
+    text-align:center;
+    background:#f8fbff;
+
+}
+
+.upload-box h2{
+
+    margin-bottom:15px;
+
+}
+
+.upload-box p{
+
+    color:#666;
+    margin-bottom:20px;
+
+}
+
+input[type=file]{
+
+    margin-bottom:25px;
+
+}
+
+button{
+
+    padding:14px 30px;
+    background:#2563eb;
+    color:#fff;
+    border:none;
+    border-radius:6px;
+    cursor:pointer;
+    font-size:16px;
+
+}
+
+button:hover{
+
+    background:#1d4ed8;
+
+}
+
+.summary{
+
+    margin-top:30px;
+    display:grid;
+    grid-template-columns:repeat(4,1fr);
+    gap:20px;
+
+}
+
+.card{
+
+    background:#f8f9fa;
+    border-radius:10px;
+    padding:20px;
+    text-align:center;
+
+}
+
+.card h3{
+
+    color:#2563eb;
+    font-size:28px;
+    margin-bottom:8px;
+
+}
+
+.card p{
+
+    color:#666;
+
+}
+
+#status{
+
+    margin-top:30px;
+    padding:20px;
+    border-radius:8px;
+    background:#eef7ee;
+    border:1px solid #cfe8cf;
+    display:none;
+
+}
+
+#warnings{
+
+    margin-top:20px;
+    padding:20px;
+    background:#fff8e6;
+    border:1px solid #ffe58f;
+    border-radius:8px;
+    display:none;
+    max-height:250px;
+    overflow:auto;
+
+}
+
+#warnings ul{
+
+    margin-left:20px;
+
+}
+
+.footer{
+
+    margin-top:40px;
+    text-align:center;
+    color:#888;
+    font-size:14px;
+
+}
+
+@media(max-width:768px){
+
+.summary{
+
+grid-template-columns:repeat(2,1fr);
+
+}
+
+}
+
+@media(max-width:500px){
+
+.summary{
+
+grid-template-columns:1fr;
+
+}
+
+}
+
+</style>
+
+</head>
+
+<body>
+
+<div class="container">
+
+<div class="header">
+
+<h1>
+
+CourseCoupon JSON Converter
+
+</h1>
+
+<p>
+
+Generate Courses, Trainers, Categories & Languages JSON
+from a single Excel file.
+
+</p>
+
+</div>
+
+<div class="content">
+
+<div class="upload-box">
+
+<h2>
+
+Upload CourseCoupon_Master.xlsx
+
+</h2>
+
+<p>
+
+Supported Format (.xlsx)
+
+</p>
+
+<input
+
+type="file"
+
+id="excelFile"
+
+accept=".xlsx,.xls">
+
+<br>
+
+<button
+id="generateBtn">
+
+Generate JSON Files
+
+</button>
+
+</div>
+
+<div class="summary">
+
+<div class="card">
+
+<h3 id="courseCount">
+
+0
+
+</h3>
+
+<p>
+
+Courses
+
+</p>
+
+</div>
+
+<div class="card">
+
+<h3 id="trainerCount">
+
+0
+
+</h3>
+
+<p>
+
+Trainers
+
+</p>
+
+</div>
+
+<div class="card">
+
+<h3 id="categoryCount">
+
+0
+
+</h3>
+
+<p>
+
+Categories
+
+</p>
+
+</div>
+
+<div class="card">
+
+<h3 id="languageCount">
+
+0
+
+</h3>
+
+<p>
+
+Languages
+
+</p>
+
+</div>
+
+</div>
+
+<div id="status">
+
+Ready...
+
+</div>
+
+<div id="warnings">
+
+<h3>
+
+Warnings
+
+</h3>
+
+<br>
+
+<ul id="warningList">
+
+</ul>
+
+</div>
+
+<div class="footer">
+
+CourseCoupon Excel to JSON Converter
+Version 2.0
+
+</div>
+
+</div>
+
+</div>
+
+<script>
+
+/*==================================================
+GLOBAL VARIABLES
+==================================================*/
+
+let rows = [];
+
+let courses = [];
+
+let trainers = [];
+
+let categories = [];
+
+let languages = [];
+
+let warnings = [];
+
+
+/*==================================================
+UNIQUE MAPS
+==================================================*/
+
+const trainerMap = {};
+
+const categoryMap = {};
+
+const languageMap = {};
+
+/*==================================================
+EVENT
+==================================================*/
+
+document
+.getElementById("generateBtn")
+.addEventListener(
+    "click",
+    readExcel
+);
+
+
+/*==================================================
+READ EXCEL
+==================================================*/
+
+function readExcel(){
+
+    const file =
+
+    document
+    .getElementById("excelFile")
+    .files[0];
+
+
+    if(!file){
+
+        alert(
+            "Please select CourseCoupon_Master.xlsx"
+        );
+
+        return;
+
+    }
+
+
+    document.getElementById("status").style.display="block";
+
+    document.getElementById("status").innerHTML=
+
+    "Reading Excel file...";
+
+
+    const reader =
+    new FileReader();
+
+
+    reader.onload=function(e){
+
+        const data =
+        new Uint8Array(
+            e.target.result
+        );
+
+
+        const workbook =
+        XLSX.read(
+            data,
+            {
+                type:"array"
+            }
+        );
+
+
+        const sheetName =
+        workbook.SheetNames[0];
+
+
+        const worksheet =
+        workbook.Sheets[sheetName];
+
+
+        rows =
+        XLSX.utils.sheet_to_json(
+            worksheet,
+            {
+                defval:""
+            }
+        );
+
+
+        resetData();
+
+        generateCourses();
+
+    };
+
+
+    reader.readAsArrayBuffer(file);
+
+}
+
+
+
+/*==================================================
+RESET
+==================================================*/
+
+function resetData(){
+
+    courses=[];
+
+    trainers=[];
+
+    categories=[];
+
+    languages=[];
+
+    warnings=[];
+
+
+    Object.keys(trainerMap)
+    .forEach(key=>delete trainerMap[key]);
+
+    Object.keys(categoryMap)
+    .forEach(key=>delete categoryMap[key]);
+
+    Object.keys(languageMap)
+    .forEach(key=>delete languageMap[key]);
+
+}
+
+
+
+/*==================================================
+SAFE VALUE
+==================================================*/
+
+function getValue(row,column){
+
+    if(row[column]===undefined){
+
+        return "";
+
+    }
+
+    return String(
+        row[column]
+    ).trim();
+
+}
+
+
+
+/*==================================================
+SLUG
+==================================================*/
+
+function slug(text){
+
+    return String(text)
+
+    .toLowerCase()
+
+    .trim()
+
+    .replace(/&/g,"and")
+
+    .replace(/[^a-z0-9]+/g,"-")
+
+    .replace(/^-+/,"")
+
+    .replace(/-+$/,"");
+
+}
+
+
+
+/*==================================================
+DOWNLOAD JSON
+==================================================*/
+
+function downloadJSON(data,filename){
+
+    const blob =
+
+    new Blob(
+
+        [
+
+            JSON.stringify(
+                data,
+                null,
+                4
+            )
+
+        ],
+
+        {
+            type:"application/json"
+        }
+
+    );
+
+
+    const link=
+
+    document.createElement("a");
+
+
+    link.href=
+
+    URL.createObjectURL(blob);
+
+
+    link.download=filename;
+
+
+    link.click();
+
+}
+
+
+
+/*==================================================
+WARNING
+==================================================*/
+
+function addWarning(message){
+
+    warnings.push(message);
+
+}
+
+
+
+/*==================================================
+MULTIPLE CATEGORY SUPPORT
+==================================================*/
+
+function splitCategories(value){
+
+    if(value===""){
+
+        return [];
+
+    }
+
+    return value
+
+    .split("|")
+
+    .map(item=>item.trim())
+
+    .filter(item=>item!="");
+
+}
+
+
+
+/*==================================================
+UPDATE STATUS
+==================================================*/
+
+function updateStatus(message){
+
+    document
+    .getElementById("status")
+    .innerHTML=message;
+
+}
+
+/*==================================================
+GENERATE COURSES
+==================================================*/
+
+function generateCourses(){
+
+    updateStatus(
+        "Generating courses..."
+    );
+
+    rows.forEach((row,index)=>{
+
+        const courseName =
+        getValue(row,"Course Name");
+
+        /*
+        ==========================================
+        SKIP EMPTY ROW
+        ==========================================
+        */
+
+        if(courseName===""){
+
+            return;
+
+        }
+
+        /*
+        ==========================================
+        REQUIRED VALIDATION
+        ==========================================
+        */
+
+        if(getValue(row,"Affiliate Link")===""){
+
+            addWarning(
+                "Row "+(index+2)+
+                " : Affiliate Link missing."
+            );
+
+        }
+
+        if(getValue(row,"Instructor name")===""){
+
+            addWarning(
+                "Row "+(index+2)+
+                " : Instructor missing."
+            );
+
+        }
+
+        /*
+        ==========================================
+        MULTIPLE CATEGORIES
+        ==========================================
+        */
+
+        const categoryNames =
+        splitCategories(
+            getValue(row,"Category")
+        );
+
+        const categorySlugs =
+        categoryNames.map(cat=>slug(cat));
+
+        /*
+        ==========================================
+        LANGUAGE
+        ==========================================
+        */
+
+        const language =
+        getValue(row,"Language");
+
+        const languageSlug =
+        slug(language);
+
+        /*
+        ==========================================
+        COURSE OBJECT
+        ==========================================
+        */
+
+        const course={
+
+            id:
+
+            Number(
+                getValue(row,"ID")
+            ) || courses.length+1,
+
+            title:
+
+            courseName,
+
+            description:
+
+            getValue(row,"Description"),
+
+            rating:
+
+            Number(
+                getValue(row,"Rating")
+            ) || 0,
+
+            duration:
+
+            getValue(row,"Duration"),
+
+            affiliate_url:
+
+            getValue(row,"Affiliate Link"),
+
+            image:
+
+            getValue(row,"Image URL"),
+
+            trainer:
+
+            getValue(row,"Instructor name"),
+
+            trainer_slug:
+
+            slug(
+                getValue(
+                    row,
+                    "Instructor name"
+                )
+            ),
+
+            category:
+
+            categoryNames,
+
+            category_slug:
+
+            categorySlugs,
+
+            language:
+
+            language,
+
+            language_slug:
+
+            languageSlug,
+
+            coupon_code:
+
+            getValue(
+                row,
+                "Coupon Code"
+            ),
+
+            students:
+
+            Number(
+                getValue(
+                    row,
+                    "Students"
+                )
+            ) || 0,
+
+            reviews:
+
+            Number(
+                getValue(
+                    row,
+                    "Reviews"
+                )
+            ) || 0,
+
+            last_updated:
+
+            getValue(
+                row,
+                "Last Updated"
+            ),
+
+            featured:
+
+            getValue(
+                row,
+                "Featured"
+            ),
+
+            status:
+
+            getValue(
+                row,
+                "Status"
+            ) || "Active"
+
+        };
+
+        courses.push(course);
+
+        /*
+        ==========================================
+        TRAINER MAP
+        ==========================================
+        */
+
+        const trainerSlug =
+        course.trainer_slug;
+
+        if(
+            trainerSlug &&
+            !trainerMap[trainerSlug]
+        ){
+
+            trainerMap[
+                trainerSlug
+            ]={
+
+                id:
+
+                Object.keys(
+                    trainerMap
+                ).length+1,
+
+                name:
+
+                course.trainer,
+
+                slug:
+
+                trainerSlug,
+
+                photo:
+
+                getValue(
+                    row,
+                    "Instructor Image URL"
+                ),
+
+                banner:
+
+                getValue(
+                    row,
+                    "Instructor Banner URL"
+                ),
+
+                designation:
+
+                getValue(
+                    row,
+                    "Instructor Designation"
+                ),
+
+                bio:
+
+                getValue(
+                    row,
+                    "Instructor Bio"
+                ),
+
+                website:
+
+                getValue(
+                    row,
+                    "Instructor Website"
+                ),
+
+                linkedin:
+
+                getValue(
+                    row,
+                    "Instructor LinkedIn"
+                )
+
+            };
+
+        }
+
+        /*
+        ==========================================
+        CATEGORY MAP
+        ==========================================
+        */
+
+        categoryNames.forEach(cat=>{
+
+            const catSlug=
+            slug(cat);
+
+            if(
+                catSlug &&
+                !categoryMap[catSlug]
+            ){
+
+                categoryMap[
+                    catSlug
+                ]={
+
+                    id:
+
+                    Object.keys(
+                        categoryMap
+                    ).length+1,
+
+                    name:
+
+                    cat,
+
+                    slug:
+
+                    catSlug
+
+                };
+
+            }
+
+        });
+
+        /*
+        ==========================================
+        LANGUAGE MAP
+        ==========================================
+        */
+
+        if(
+            languageSlug &&
+            !languageMap[languageSlug]
+        ){
+
+            languageMap[
+                languageSlug
+            ]={
+
+                id:
+
+                Object.keys(
+                    languageMap
+                ).length+1,
+
+                name:
+
+                language,
+
+                slug:
+
+                languageSlug
+
+            };
+
+        }
+
+    });
+
+    /*
+    ==========================================
+    NEXT STEP
+    ==========================================
+    */
+
+    generateJSONFiles();
+
+}
+
+/*==================================================
+GENERATE JSON FILES
+==================================================*/
+
+function generateJSONFiles(){
+
+    updateStatus(
+        "Generating JSON files..."
+    );
+
+    /*
+    ==========================================
+    MAPS TO ARRAYS
+    ==========================================
+    */
+
+    trainers =
+    Object.values(
+        trainerMap
+    );
+
+    categories =
+    Object.values(
+        categoryMap
+    );
+
+    languages =
+    Object.values(
+        languageMap
+    );
+
+    /*
+    ==========================================
+    SORT DATA
+    ==========================================
+    */
+
+    courses.sort((a,b)=>a.id-b.id);
+
+    trainers.sort((a,b)=>a.id-b.id);
+
+    categories.sort((a,b)=>a.id-b.id);
+
+    languages.sort((a,b)=>a.id-b.id);
+
+    /*
+    ==========================================
+    DOWNLOAD FILES
+    ==========================================
+    */
+
+    downloadJSON(
+        courses,
+        "courses.json"
+    );
+
+    downloadJSON(
+        trainers,
+        "trainers.json"
+    );
+
+    downloadJSON(
+        categories,
+        "categories.json"
+    );
+
+    downloadJSON(
+        languages,
+        "languages.json"
+    );
+
+    /*
+    ==========================================
+    UPDATE DASHBOARD
+    ==========================================
+    */
+
+    document.getElementById(
+        "courseCount"
+    ).innerHTML =
+    courses.length;
+
+    document.getElementById(
+        "trainerCount"
+    ).innerHTML =
+    trainers.length;
+
+    document.getElementById(
+        "categoryCount"
+    ).innerHTML =
+    categories.length;
+
+    document.getElementById(
+        "languageCount"
+    ).innerHTML =
+    languages.length;
+
+    /*
+    ==========================================
+    WARNINGS
+    ==========================================
+    */
+
+    const warningBox =
+    document.getElementById(
+        "warnings"
+    );
+
+    const warningList =
+    document.getElementById(
+        "warningList"
+    );
+
+    warningList.innerHTML="";
+
+    if(warnings.length>0){
+
+        warningBox.style.display="block";
+
+        warnings.forEach(item=>{
+
+            warningList.innerHTML +=
+
+            "<li>"+item+"</li>";
+
+        });
+
+    }
+    else{
+
+        warningBox.style.display="none";
+
+    }
+
+    /*
+    ==========================================
+    STATUS
+    ==========================================
+    */
+
+    document.getElementById(
+        "status"
+    ).innerHTML =
+
+    `
+
+    <h3>
+
+    ✅ JSON Files Generated Successfully
+
+    </h3>
+
+    <br>
+
+    Courses :
+    <strong>${courses.length}</strong>
+
+    <br>
+
+    Trainers :
+    <strong>${trainers.length}</strong>
+
+    <br>
+
+    Categories :
+    <strong>${categories.length}</strong>
+
+    <br>
+
+    Languages :
+    <strong>${languages.length}</strong>
+
+    <br><br>
+
+    Converter Completed Successfully.
+
+    `;
+
+}
+
+</script>
+
+</body>
+
+</html>
