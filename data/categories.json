@@ -38,5 +38,35 @@
         "id": 8,
         "name": "Maths",
         "slug": "maths"
+    },
+    {
+        "id": 9,
+        "name": "Spring AI",
+        "slug": "spring-ai"
+    },
+    {
+        "id": 10,
+        "name": "Salesforce",
+        "slug": "salesforce"
+    },
+    {
+        "id": 11,
+        "name": "Bookkeeping",
+        "slug": "bookkeeping"
+    },
+    {
+        "id": 12,
+        "name": "Personal Finance",
+        "slug": "personal-finance"
+    },
+    {
+        "id": 13,
+        "name": "Business",
+        "slug": "business"
+    },
+    {
+        "id": 14,
+        "name": "QuickBooks",
+        "slug": "quickbooks"
     }
 ]

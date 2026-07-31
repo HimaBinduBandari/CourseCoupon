@@ -20,5 +20,38 @@
         "bio": "Kieran Ball, Owner at 3 Minute Languages (2016-present). Foreign language teacher and creator of 3 Minute Languages, a series of online courses",
         "website": "",
         "linkedin": ""
+    },
+    {
+        "id": 3,
+        "name": "Harish B N",
+        "slug": "harish-b-n",
+        "photo": "https://img-c.udemycdn.com/user/200_H/7212980_7c70_2.jpg",
+        "banner": "",
+        "designation": "Software engineer and trainer",
+        "bio": "",
+        "website": "",
+        "linkedin": ""
+    },
+    {
+        "id": 4,
+        "name": "Ankit Jain",
+        "slug": "ankit-jain",
+        "photo": "https://img-c.udemycdn.com/user/200_H/315707583_04bb.jpg",
+        "banner": "",
+        "designation": "Salesforce AI and Data Architect & Trainer",
+        "bio": "",
+        "website": "",
+        "linkedin": "https://linkedin.com/in/ankitjainsfdc"
+    },
+    {
+        "id": 5,
+        "name": "Ron Trucks",
+        "slug": "ron-trucks",
+        "photo": "https://img-c.udemycdn.com/user/200_H/19034182_5d48_8.jpg",
+        "banner": "",
+        "designation": "Business Coach and College Instructor",
+        "bio": "",
+        "website": "",
+        "linkedin": ""
     }
 ]
