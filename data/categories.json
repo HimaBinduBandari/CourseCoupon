@@ -68,5 +68,50 @@
         "id": 14,
         "name": "QuickBooks",
         "slug": "quickbooks"
+    },
+    {
+        "id": 15,
+        "name": "Ollama",
+        "slug": "ollama"
+    },
+    {
+        "id": 16,
+        "name": "LLM",
+        "slug": "llm"
+    },
+    {
+        "id": 17,
+        "name": "RAG",
+        "slug": "rag"
+    },
+    {
+        "id": 18,
+        "name": "Langchain",
+        "slug": "langchain"
+    },
+    {
+        "id": 19,
+        "name": "NLP",
+        "slug": "nlp"
+    },
+    {
+        "id": 20,
+        "name": "Model Context Protocol",
+        "slug": "model-context-protocol"
+    },
+    {
+        "id": 21,
+        "name": "Data Science",
+        "slug": "data-science"
+    },
+    {
+        "id": 22,
+        "name": "Deep Learning",
+        "slug": "deep-learning"
+    },
+    {
+        "id": 23,
+        "name": "R Programming",
+        "slug": "r-programming"
     }
 ]

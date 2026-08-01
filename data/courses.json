@@ -2923,5 +2923,505 @@
         "last_updated": "2026-07-31",
         "featured": "",
         "status": "Active"
+    },
+    {
+        "id": 118,
+        "title": "Master Langchain v1 and Ollama - Chatbot, RAG and AI Agents",
+        "description": "Deploy Langchain v1 AI App at AWS, Local LLM Projects, Ollama, DeepSeek, LLAMA, Qwen3, Gemma3, GPT-OSS, Text to MySQL",
+        "rating": 4.8,
+        "duration": "19.5 hours",
+        "affiliate_url": "https://trk.udemy.com/c/2758262/3227798/39854?prodsku=course.6255915&u=https://www.udemy.com/course/ollama-and-langchain/?couponCode=31JUL26",
+        "image": "https://i.udemycdn.com/course/480x270/6255915_fdc0_8.jpg",
+        "trainer": "Laxmi Kant",
+        "trainer_slug": "laxmi-kant",
+        "category": [
+            "Ollama"
+        ],
+        "category_slug": [
+            "ollama"
+        ],
+        "language": "English",
+        "language_slug": "english",
+        "coupon_code": "9.99",
+        "students": 6949,
+        "reviews": 586,
+        "last_updated": "2026-08-01",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 119,
+        "title": "LLM Fine-Tuning with Hugging Face: LoRA, QLoRA, PEFT",
+        "description": "Fine-tune BERT, T5, ViT, LLaMA-style models and Qwen3-TTS using Hugging Face Transformers, custom datasets, LoRA, QLoRA",
+        "rating": 4.4,
+        "duration": "20.5 hours",
+        "affiliate_url": "https://trk.udemy.com/c/2758262/3227798/39854?prodsku=course.5646470&u=https://www.udemy.com/course/fine-tuning-llm-with-hugging-face-transformers/?couponCode=31JUL26",
+        "image": "https://i.udemycdn.com/course/480x270/5646470_85ff_5.jpg",
+        "trainer": "Laxmi Kant",
+        "trainer_slug": "laxmi-kant",
+        "category": [
+            "LLM"
+        ],
+        "category_slug": [
+            "llm"
+        ],
+        "language": "English",
+        "language_slug": "english",
+        "coupon_code": "9.99",
+        "students": 7462,
+        "reviews": 794,
+        "last_updated": "2026-08-01",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 120,
+        "title": "Blender MCP & Claude AI: Hunyuan 3D, Characters & AI Agents",
+        "description": "Connect Claude AI to Blender via MCP, automate 3D scenes, AI character pipelines and product animations with Python",
+        "rating": 4.6,
+        "duration": "4.5 hours",
+        "affiliate_url": "https://trk.udemy.com/c/2758262/3227798/39854?prodsku=course.7163917&u=https://www.udemy.com/course/automation-with-claude-ai-for-creative-work/?couponCode=31JUL26",
+        "image": "https://i.udemycdn.com/course/480x270/7163917_bebe_3.jpg",
+        "trainer": "Laxmi Kant",
+        "trainer_slug": "laxmi-kant",
+        "category": [
+            "Business"
+        ],
+        "category_slug": [
+            "business"
+        ],
+        "language": "English",
+        "language_slug": "english",
+        "coupon_code": "9.99",
+        "students": 191,
+        "reviews": 29,
+        "last_updated": "2026-08-01",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 121,
+        "title": "Advanced RAG: Build & Deploy Production GenAI Apps",
+        "description": "Multi-Agent RAG, CrewAI, AutoGen, Microsoft Agent Framework, RAG, Langchain, Deep RAG, Production RAG, RAGWire",
+        "rating": 4.6,
+        "duration": "11 hours",
+        "affiliate_url": "https://trk.udemy.com/c/2758262/3227798/39854?prodsku=course.7124685&u=https://www.udemy.com/course/advanced-rag-build-deploy-production-genai-apps/?couponCode=31JUL26",
+        "image": "https://i.udemycdn.com/course/480x270/7124685_10f6_4.jpg",
+        "trainer": "Laxmi Kant",
+        "trainer_slug": "laxmi-kant",
+        "category": [
+            "RAG"
+        ],
+        "category_slug": [
+            "rag"
+        ],
+        "language": "English",
+        "language_slug": "english",
+        "coupon_code": "9.99",
+        "students": 633,
+        "reviews": 58,
+        "last_updated": "2026-08-01",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 122,
+        "title": "Master LangGraph v1 and Ollama - Build Gen AI Agents",
+        "description": "Gen AI, Langchain v1 AI Agents, MCP, MySQL AI Agent, DeepSeek, GPT-OSS Qwen3 LLAMA Agent, Lang Graph, Ollama, KGPTalkie",
+        "rating": 4.6,
+        "duration": "15 hours",
+        "affiliate_url": "https://trk.udemy.com/c/2758262/3227798/39854?prodsku=course.6301565&u=https://www.udemy.com/course/langgraph-with-ollama/?couponCode=31JUL26",
+        "image": "https://i.udemycdn.com/course/480x270/6301565_e250_4.jpg",
+        "trainer": "Laxmi Kant",
+        "trainer_slug": "laxmi-kant",
+        "category": [
+            "Ollama"
+        ],
+        "category_slug": [
+            "ollama"
+        ],
+        "language": "English",
+        "language_slug": "english",
+        "coupon_code": "9.99",
+        "students": 5801,
+        "reviews": 800,
+        "last_updated": "2026-08-01",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 123,
+        "title": "Deep Agent - Multi Agent RAG with Gemini and Langchain",
+        "description": "Langchain v1 AI Agents, Multi-Modal Deep Agents, Multi Agent Deep Advanced RAG, Google Gemini 3, Qdrant, Docker, Docling",
+        "rating": 4.7,
+        "duration": "20 hours",
+        "affiliate_url": "https://trk.udemy.com/c/2758262/3227798/39854?prodsku=course.6942829&u=https://www.udemy.com/course/deep-agent/?couponCode=31JUL26",
+        "image": "https://i.udemycdn.com/course/480x270/6942829_b86a_3.jpg",
+        "trainer": "Laxmi Kant",
+        "trainer_slug": "laxmi-kant",
+        "category": [
+            "Langchain"
+        ],
+        "category_slug": [
+            "langchain"
+        ],
+        "language": "English",
+        "language_slug": "english",
+        "coupon_code": "9.99",
+        "students": 3037,
+        "reviews": 167,
+        "last_updated": "2026-08-01",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 124,
+        "title": "Agentic AI - Private Agentic RAG with LangGraph and Ollama",
+        "description": "LangGraph v1, Ollama, Agentic RAG, Private RAG, Corrective RAG, CRAG, Reflexion, Self-RAG, Adaptive RAG, MySQL Agent",
+        "rating": 4.4,
+        "duration": "17.5 hours",
+        "affiliate_url": "https://trk.udemy.com/c/2758262/3227798/39854?prodsku=course.6927749&u=https://www.udemy.com/course/agentic-ai-private-agentic-rag-with-langgraph-and-ollama/?couponCode=31JUL26",
+        "image": "https://i.udemycdn.com/course/480x270/6927749_208b_6.jpg",
+        "trainer": "Laxmi Kant",
+        "trainer_slug": "laxmi-kant",
+        "category": [
+            "RAG"
+        ],
+        "category_slug": [
+            "rag"
+        ],
+        "language": "English",
+        "language_slug": "english",
+        "coupon_code": "9.99",
+        "students": 3974,
+        "reviews": 285,
+        "last_updated": "2026-08-01",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 125,
+        "title": "Agentic AI Projects: FastAPI, MCP, AWS Deploy & Gemini 3",
+        "description": "Build & Deploy 10 Production AI Agents with LangChain v1, LangGraph, MCP, Gemini 3, FastAPI, Streamlit & AWS EC2",
+        "rating": 4.3,
+        "duration": "26.5 hours",
+        "affiliate_url": "https://trk.udemy.com/c/2758262/3227798/39854?prodsku=course.7007473&u=https://www.udemy.com/course/langchain-ai-agent-projects/?couponCode=31JUL26",
+        "image": "https://i.udemycdn.com/course/480x270/7007473_55ce_3.jpg",
+        "trainer": "Laxmi Kant",
+        "trainer_slug": "laxmi-kant",
+        "category": [
+            "AI"
+        ],
+        "category_slug": [
+            "ai"
+        ],
+        "language": "English",
+        "language_slug": "english",
+        "coupon_code": "9.99",
+        "students": 1222,
+        "reviews": 88,
+        "last_updated": "2026-08-01",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 126,
+        "title": "Natural Language Processing (NLP) Mastery in Python",
+        "description": "Text Cleaning, Spacy, NLTK, Scikit-Learn, Deep Learning, word2vec, GloVe, LSTM for Sentiment, Emotion, Spam, CV Parsing",
+        "rating": 4.5,
+        "duration": "38.5 hours",
+        "affiliate_url": "https://trk.udemy.com/c/2758262/3227798/39854?prodsku=course.3257648&u=https://www.udemy.com/course/nlp-in-python/?couponCode=31JUL26",
+        "image": "https://i.udemycdn.com/course/480x270/3257648_f800_6.jpg",
+        "trainer": "Laxmi Kant",
+        "trainer_slug": "laxmi-kant",
+        "category": [
+            "NLP"
+        ],
+        "category_slug": [
+            "nlp"
+        ],
+        "language": "English",
+        "language_slug": "english",
+        "coupon_code": "9.99",
+        "students": 22118,
+        "reviews": 1141,
+        "last_updated": "2026-08-01",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 127,
+        "title": "MCP Mastery: Build AI Apps with Claude, LangChain and Ollama",
+        "description": "Build MCP LangChain v1, LangGraph v1 agents, servers & clients with Python, Streamlit, ChromaDB and Ollama integrations",
+        "rating": 4.6,
+        "duration": "9.5 hours",
+        "affiliate_url": "https://trk.udemy.com/c/2758262/3227798/39854?prodsku=course.6825971&u=https://www.udemy.com/course/mcp-mastery-build-ai-apps-with-claude-langchain-and-ollama/?couponCode=31JUL26",
+        "image": "https://i.udemycdn.com/course/480x270/6825971_ba76_3.jpg",
+        "trainer": "Laxmi Kant",
+        "trainer_slug": "laxmi-kant",
+        "category": [
+            "Model Context Protocol"
+        ],
+        "category_slug": [
+            "model-context-protocol"
+        ],
+        "language": "English",
+        "language_slug": "english",
+        "coupon_code": "9.99",
+        "students": 2649,
+        "reviews": 186,
+        "last_updated": "2026-08-01",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 128,
+        "title": "Machine Learning & Data Science for Beginners in Python",
+        "description": "Data Science Projects with Linear Regression, Logistic Regression, Random Forest, SVM, KNN, KMeans, XGBoost, PCA etc",
+        "rating": 4.7,
+        "duration": "32 hours",
+        "affiliate_url": "https://trk.udemy.com/c/2758262/3227798/39854?prodsku=course.3435072&u=https://www.udemy.com/course/python-for-machine-learning-and-data-science-projects/?couponCode=31JUL26",
+        "image": "https://i.udemycdn.com/course/480x270/3435072_bfef.jpg",
+        "trainer": "Laxmi Kant",
+        "trainer_slug": "laxmi-kant",
+        "category": [
+            "Data Science"
+        ],
+        "category_slug": [
+            "data-science"
+        ],
+        "language": "English",
+        "language_slug": "english",
+        "coupon_code": "9.99",
+        "students": 14591,
+        "reviews": 350,
+        "last_updated": "2026-08-01",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 129,
+        "title": "Deep Learning for Beginners with Python",
+        "description": "Neural Networks, TensorFlow, ANN, CNN, RNN, LSTM, Transfer Learning and Much More",
+        "rating": 4.4,
+        "duration": "21 hours",
+        "affiliate_url": "https://trk.udemy.com/c/2758262/3227798/39854?prodsku=course.5127318&u=https://www.udemy.com/course/python-for-deep-learning-and-artificial-intelligence/?couponCode=31JUL26",
+        "image": "https://i.udemycdn.com/course/480x270/5127318_2c20_7.jpg",
+        "trainer": "Laxmi Kant",
+        "trainer_slug": "laxmi-kant",
+        "category": [
+            "Deep Learning"
+        ],
+        "category_slug": [
+            "deep-learning"
+        ],
+        "language": "English",
+        "language_slug": "english",
+        "coupon_code": "9.99",
+        "students": 8159,
+        "reviews": 263,
+        "last_updated": "2026-08-01",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 130,
+        "title": "Deploy ML Model in Production with FastAPI and Docker",
+        "description": "Deploy ML Model with ViT, BERT and TinyBERT HuggingFace Transformers with Streamlit, FastAPI and Docker at AWS",
+        "rating": 4.5,
+        "duration": "18 hours",
+        "affiliate_url": "https://trk.udemy.com/c/2758262/3227798/39854?prodsku=course.3174934&u=https://www.udemy.com/course/nlp-with-bert-in-python/?couponCode=31JUL26",
+        "image": "https://i.udemycdn.com/course/480x270/3174934_b2df_5.jpg",
+        "trainer": "Laxmi Kant",
+        "trainer_slug": "laxmi-kant",
+        "category": [
+            "Data Science"
+        ],
+        "category_slug": [
+            "data-science"
+        ],
+        "language": "English",
+        "language_slug": "english",
+        "coupon_code": "9.99",
+        "students": 23370,
+        "reviews": 740,
+        "last_updated": "2026-08-01",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 131,
+        "title": "Master OpenAI Agent Builder - Deploy Chatbot to Your Website",
+        "description": "OpenAI Agent Builder and Chatkit, RAG, Chatbot, AI Assistant with MCP, AWS, RDS MySQL, AI in Production Deployment",
+        "rating": 4.8,
+        "duration": "5.5 hours",
+        "affiliate_url": "https://trk.udemy.com/c/2758262/3227798/39854?prodsku=course.6869861&u=https://www.udemy.com/course/master-openai-agent-builder-low-code-ai-projects-workflow/?couponCode=31JUL26",
+        "image": "https://i.udemycdn.com/course/480x270/6869861_a3c7_3.jpg",
+        "trainer": "Laxmi Kant",
+        "trainer_slug": "laxmi-kant",
+        "category": [
+            "Data Science"
+        ],
+        "category_slug": [
+            "data-science"
+        ],
+        "language": "English",
+        "language_slug": "english",
+        "coupon_code": "9.99",
+        "students": 348,
+        "reviews": 56,
+        "last_updated": "2026-08-01",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 132,
+        "title": "Data Visualization in Python Masterclass for Beginners",
+        "description": "Visualisation in matplotlib, Seaborn, Plotly & Cufflinks, EDA on Boston Housing, Titanic, IPL, FIFA, Covid-19 Data.",
+        "rating": 4.1,
+        "duration": "22 hours",
+        "affiliate_url": "https://trk.udemy.com/c/2758262/3227798/39854?prodsku=course.2994078&u=https://www.udemy.com/course/complete-data-visualization-in-python/?couponCode=31JUL26",
+        "image": "https://i.udemycdn.com/course/480x270/2994078_8e40_3.jpg",
+        "trainer": "Laxmi Kant",
+        "trainer_slug": "laxmi-kant",
+        "category": [
+            "Data Science"
+        ],
+        "category_slug": [
+            "data-science"
+        ],
+        "language": "English",
+        "language_slug": "english",
+        "coupon_code": "9.99",
+        "students": 36964,
+        "reviews": 905,
+        "last_updated": "2026-08-01",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 133,
+        "title": "Basic RAG with LangChain and LangGraph - Ollama",
+        "description": "Step-by-Step Guide to RAG with LangChain, LangGraph, and Ollama | DeepSeek R1, QWEN, LLAMA, FAISS, Doclings, VectorDB",
+        "rating": 4.3,
+        "duration": "7.5 hours",
+        "affiliate_url": "https://trk.udemy.com/c/2758262/3227798/39854?prodsku=course.6397805&u=https://www.udemy.com/course/agentic-rag-with-langchain-and-langgraph/?couponCode=31JUL26",
+        "image": "https://i.udemycdn.com/course/480x270/6397805_79ee_2.jpg",
+        "trainer": "Laxmi Kant",
+        "trainer_slug": "laxmi-kant",
+        "category": [
+            "RAG"
+        ],
+        "category_slug": [
+            "rag"
+        ],
+        "language": "English",
+        "language_slug": "english",
+        "coupon_code": "9.99",
+        "students": 2365,
+        "reviews": 59,
+        "last_updated": "2026-08-01",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 134,
+        "title": "Advanced Machine Learning and Deep Learning Projects",
+        "description": "Text Embedding, Clustering, Classification | Image Clustering, Classification, Text to Image Search",
+        "rating": 4.5,
+        "duration": "5.5 hours",
+        "affiliate_url": "https://trk.udemy.com/c/2758262/3227798/39854?prodsku=course.4726808&u=https://www.udemy.com/course/advanced-natural-language-and-image-processing-projects/?couponCode=31JUL26",
+        "image": "https://i.udemycdn.com/course/480x270/4726808_5e8e.jpg",
+        "trainer": "Laxmi Kant",
+        "trainer_slug": "laxmi-kant",
+        "category": [
+            "Data Science"
+        ],
+        "category_slug": [
+            "data-science"
+        ],
+        "language": "English",
+        "language_slug": "english",
+        "coupon_code": "9.99",
+        "students": 18013,
+        "reviews": 270,
+        "last_updated": "2026-08-01",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 135,
+        "title": "R Programming Basics for Data Science and Machine Learning",
+        "description": "Learn Latest R 4 with R-Studio & Jupyter. DataFrame, Vectors, Matrix, DateTime, GGplot2, Tidyverse, Plotly, etc.",
+        "rating": 4.6,
+        "duration": "14.5 hours",
+        "affiliate_url": "https://trk.udemy.com/c/2758262/3227798/39854?prodsku=course.3700300&u=https://www.udemy.com/course/r-programming-for-data-science-beginners-to-pro/?couponCode=31JUL26",
+        "image": "https://i.udemycdn.com/course/480x270/3700300_3103.jpg",
+        "trainer": "Laxmi Kant",
+        "trainer_slug": "laxmi-kant",
+        "category": [
+            "R Programming"
+        ],
+        "category_slug": [
+            "r-programming"
+        ],
+        "language": "English",
+        "language_slug": "english",
+        "coupon_code": "9.99",
+        "students": 13157,
+        "reviews": 171,
+        "last_updated": "2026-08-01",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 136,
+        "title": "Introduction to Spacy for Natural Language Processing",
+        "description": "Kick start your Data Science career with NLP. This course is about Spacy. NLTK is not taught in this course.",
+        "rating": 4.3,
+        "duration": "4 hours",
+        "affiliate_url": "https://trk.udemy.com/c/2758262/3227798/39854?prodsku=course.3306778&u=https://www.udemy.com/course/introduction-to-for-natural-language-processing/?couponCode=31JUL26",
+        "image": "https://i.udemycdn.com/course/480x270/3306778_f330_5.jpg",
+        "trainer": "Laxmi Kant",
+        "trainer_slug": "laxmi-kant",
+        "category": [
+            "NLP"
+        ],
+        "category_slug": [
+            "nlp"
+        ],
+        "language": "English",
+        "language_slug": "english",
+        "coupon_code": "9.99",
+        "students": 16341,
+        "reviews": 240,
+        "last_updated": "2026-08-01",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 137,
+        "title": "Python for Linear Regression in Machine Learning",
+        "description": "Linear and Non-Linear Regression, Lasso Ridge Regression, SHAP, LIME, Yellowbrick, Feature Selection | Outliers Removal",
+        "rating": 4.4,
+        "duration": "14.5 hours",
+        "affiliate_url": "https://trk.udemy.com/c/2758262/3227798/39854?prodsku=course.3683662&u=https://www.udemy.com/course/python-for-advanced-linear-regression-masterclass/?couponCode=31JUL26",
+        "image": "https://i.udemycdn.com/course/480x270/3683662_1a3c.jpg",
+        "trainer": "Laxmi Kant",
+        "trainer_slug": "laxmi-kant",
+        "category": [
+            "Data Science"
+        ],
+        "category_slug": [
+            "data-science"
+        ],
+        "language": "English",
+        "language_slug": "english",
+        "coupon_code": "9.99",
+        "students": 15801,
+        "reviews": 340,
+        "last_updated": "2026-08-01",
+        "featured": "",
+        "status": "Active"
     }
 ]

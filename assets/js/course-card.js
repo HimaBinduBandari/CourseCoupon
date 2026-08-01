@@ -87,7 +87,7 @@ function createCourseCard(course){
 
             <p>
 
-                ⏱
+                ⏱ Duration :
 
                 ${course.duration}
 
@@ -95,7 +95,7 @@ function createCourseCard(course){
 
             <p>
 
-                ⭐
+                ⭐ Avg Rating :
 
                 ${course.rating}
 
@@ -115,7 +115,7 @@ function createCourseCard(course){
 
             <p>
 
-                🎟 Coupon :
+                🏷️ Discount Price : $
 
                 <strong>
 

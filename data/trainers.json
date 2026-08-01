@@ -53,5 +53,16 @@
         "bio": "",
         "website": "",
         "linkedin": ""
+    },
+    {
+        "id": 6,
+        "name": "Laxmi Kant",
+        "slug": "laxmi-kant",
+        "photo": "https://img-c.udemycdn.com/user/200_H/34643020_cce7_4.jpg",
+        "banner": "",
+        "designation": "Senior Data Science & AI Engineer",
+        "bio": "Laxmi Kant Tiwari is an IIT Kharagpur graduate and a Senior Data Science & AI Engineer with 10+ years of industry experience across startups and MNCs.",
+        "website": "",
+        "linkedin": "https://linkedin.com/in/laxmimerit"
     }
 ]

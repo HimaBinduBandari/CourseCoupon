@@ -570,12 +570,12 @@ h1,h2,h3{
 }
 
 .course-card-content a{
-    color:var(--ink);
+    
     font-weight:600;
 }
 
 .course-card-content a:hover{
-    color:var(--green-deep);
+    color:#000;
 }
 
 .coupon-btn{
@@ -596,7 +596,7 @@ h1,h2,h3{
 }
 
 .coupon-btn:hover{
-    background:var(--green-deep);
+    background:#2563eb;
     transform:translateY(-1px);
 }
 
