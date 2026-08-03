@@ -3423,5 +3423,1380 @@
         "last_updated": "2026-08-01",
         "featured": "",
         "status": "Active"
+    },
+    {
+        "id": 138,
+        "title": "Veri Bilimi ve Makine Öğrenmesi 2026 : 100 Günlük Kamp",
+        "description": "Yapay zekaya sıfırdan başlayarak 50'den fazla veri seti örneğiyle veri bilimi ve makine öğrenmesi konularını anlayın!",
+        "rating": 4.8,
+        "duration": "61.5 hours",
+        "affiliate_url": "https://www.udemy.com/course/yapay-zeka-100-gunluk-kamp/?couponCode=1DFDDAE8252BB8B82918",
+        "image": "",
+        "trainer": "Atil Samancioglu",
+        "trainer_slug": "atil-samancioglu",
+        "category": [
+            "Data Science"
+        ],
+        "category_slug": [
+            "data-science"
+        ],
+        "language": "Turkish",
+        "language_slug": "turkish",
+        "coupon_code": "9.99",
+        "students": 16799,
+        "reviews": 2204,
+        "last_updated": "2026-08-01",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 139,
+        "title": "Python 2026 : 100 Günlük Programlama Kampı",
+        "description": "Python ve yazılım geliştirme kavramlarını 100 günlük bir kamp ile Twitter Clone vb. güncel uygulamalar yaparak öğrenin",
+        "rating": 4.7,
+        "duration": "48 hours",
+        "affiliate_url": "https://www.udemy.com/course/python-100-gunluk-yazilim-kampi/?couponCode=699C8AC5D612B6BA1FB3",
+        "image": "",
+        "trainer": "Atil Samancioglu",
+        "trainer_slug": "atil-samancioglu",
+        "category": [
+            "Python"
+        ],
+        "category_slug": [
+            "python"
+        ],
+        "language": "Turkish",
+        "language_slug": "turkish",
+        "coupon_code": "9.99",
+        "students": 32236,
+        "reviews": 5973,
+        "last_updated": "2026-08-01",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 140,
+        "title": "Yapay Zeka Uygulamaları: Langchain, RAG, LLM Orkestrasyonu",
+        "description": "Langchain, Langgraph gibi güncel araçları kullanarak LLM Orkestrasyonu'nu uygulama yaparak öğrenin",
+        "rating": 4.6,
+        "duration": "12.5 hours",
+        "affiliate_url": "https://www.udemy.com/course/langchain-langgraph/?couponCode=8EEC7F3C70F7E86D2185",
+        "image": "",
+        "trainer": "Atil Samancioglu",
+        "trainer_slug": "atil-samancioglu",
+        "category": [
+            "Langchain"
+        ],
+        "category_slug": [
+            "langchain"
+        ],
+        "language": "Turkish",
+        "language_slug": "turkish",
+        "coupon_code": "9.99",
+        "students": 4345,
+        "reviews": 682,
+        "last_updated": "2026-08-01",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 141,
+        "title": "ChatGPT 2026: Prompt Mühendisliği, İçerik ve Görsel Üretme",
+        "description": "Prompt Mühendisliği, Görsel, Video, Sunum, Fine Tuning, Gemini konularını tamamen pratik örneklerle öğrenin",
+        "rating": 4.7,
+        "duration": "10 hours",
+        "affiliate_url": "https://www.udemy.com/course/chatgpt-prompt-muhendisligi/?couponCode=1CEEBE3CBABC5A08DB79",
+        "image": "",
+        "trainer": "Atil Samancioglu",
+        "trainer_slug": "atil-samancioglu",
+        "category": [
+            "ChatGPT"
+        ],
+        "category_slug": [
+            "chatgpt"
+        ],
+        "language": "Turkish",
+        "language_slug": "turkish",
+        "coupon_code": "9.99",
+        "students": 15437,
+        "reviews": 2275,
+        "last_updated": "2026-08-01",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 142,
+        "title": "Etik Hacker Olma Kursu",
+        "description": "En güncel yazılımların ve araçların kullanımını öğrenerek, canlı örnekler yaparak Etik Hacker olmayı öğrenin!",
+        "rating": 4.7,
+        "duration": "30 hours",
+        "affiliate_url": "https://www.udemy.com/course/etik-hacker-olma-kursu/?couponCode=D20F6DD6FA26261E7F81",
+        "image": "",
+        "trainer": "Atil Samancioglu",
+        "trainer_slug": "atil-samancioglu",
+        "category": [
+            "Ethical Hacking"
+        ],
+        "category_slug": [
+            "ethical-hacking"
+        ],
+        "language": "Turkish",
+        "language_slug": "turkish",
+        "coupon_code": "9.99",
+        "students": 106160,
+        "reviews": 32924,
+        "last_updated": "2026-08-01",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 143,
+        "title": "Derin Öğrenme 2026: 100 Günlük Kamp",
+        "description": "PyTorch ile Transformer, Attention vb. modern Yapay Zeka konularını sıfırdan öğrenip kendi GPT nizi yazacak hale gelin!",
+        "rating": 4.8,
+        "duration": "57.5 hours",
+        "affiliate_url": "https://www.udemy.com/course/derin-ogrenme-bootcamp/?couponCode=EB95DC4F4F15B4A4D09E",
+        "image": "",
+        "trainer": "Atil Samancioglu",
+        "trainer_slug": "atil-samancioglu",
+        "category": [
+            "Deep Learning"
+        ],
+        "category_slug": [
+            "deep-learning"
+        ],
+        "language": "Turkish",
+        "language_slug": "turkish",
+        "coupon_code": "9.99",
+        "students": 2773,
+        "reviews": 235,
+        "last_updated": "2026-08-01",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 144,
+        "title": "6 FULL Certified in Cybersecurity (CC) tests #1-6 ISC2 2026",
+        "description": "600 questions for Certified in Cybersecurity (CC) by ISC2 - Set #1-6 - Certified in Cyber security (CC) prep ISC2 2026",
+        "rating": 4.5,
+        "duration": "6 tests",
+        "affiliate_url": "https://trk.udemy.com/c/2758262/3227798/39854?prodsku=course.5546712&u=https://www.udemy.com/course/isc2-certified-in-cybersecurity-cc-tests1/?couponCode=JUL2026",
+        "image": "https://img-c.udemycdn.com/course/480x270/5546712_b3cc.jpg",
+        "trainer": "Thor Pedersen",
+        "trainer_slug": "thor-pedersen",
+        "category": [
+            "Cybersecurity"
+        ],
+        "category_slug": [
+            "cybersecurity"
+        ],
+        "language": "English",
+        "language_slug": "english",
+        "coupon_code": "12.99",
+        "students": 10668,
+        "reviews": 815,
+        "last_updated": "2026-08-03",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 145,
+        "title": "6 FULL Certified in Cybersecurity (CC) tests #7-12 ISC2 2026",
+        "description": "600 questions for Certified in Cybersecurity (CC) by ISC2 - Set #7-12 - Certified in Cyber security (CC) prep ISC2 2026",
+        "rating": 4.1,
+        "duration": "6 tests",
+        "affiliate_url": "https://trk.udemy.com/c/2758262/3227798/39854?prodsku=course.5546714&u=https://www.udemy.com/course/isc2-certified-in-cybersecurity-cc-tests2/?couponCode=JUL2026",
+        "image": "https://img-c.udemycdn.com/course/480x270/5546714_69f7.jpg",
+        "trainer": "Thor Pedersen",
+        "trainer_slug": "thor-pedersen",
+        "category": [
+            "Cybersecurity"
+        ],
+        "category_slug": [
+            "cybersecurity"
+        ],
+        "language": "English",
+        "language_slug": "english",
+        "coupon_code": "12.99",
+        "students": 3629,
+        "reviews": 228,
+        "last_updated": "2026-08-03",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 146,
+        "title": "HARD CISSP practice questions #1: All CISSP domains - 125Q",
+        "description": "Learn how to answer CISSP questions RIGHT. Test your knowledge on 125 actual HARD CISSP questions. 2026 version. Test #1",
+        "rating": 4.1,
+        "duration": "39 mins",
+        "affiliate_url": "https://trk.udemy.com/c/2758262/3227798/39854?prodsku=course.4110610&u=https://www.udemy.com/course/hardcisspquestions1/?couponCode=JUL2026",
+        "image": "https://img-c.udemycdn.com/course/480x270/4110610_92f6_3.jpg",
+        "trainer": "Thor Pedersen",
+        "trainer_slug": "thor-pedersen",
+        "category": [
+            "CISSP"
+        ],
+        "category_slug": [
+            "cissp"
+        ],
+        "language": "English",
+        "language_slug": "english",
+        "coupon_code": "12.99",
+        "students": 17494,
+        "reviews": 1391,
+        "last_updated": "2026-08-03",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 147,
+        "title": "HARD CISSP practice questions #2: All CISSP domains - 125Q",
+        "description": "Learn how to answer CISSP questions RIGHT. Test your knowledge on 125 actual HARD CISSP questions. 2026 version. Test #2",
+        "rating": 4.5,
+        "duration": "39 mins",
+        "affiliate_url": "https://trk.udemy.com/c/2758262/3227798/39854?prodsku=course.4110750&u=https://www.udemy.com/course/hardcisspquestions2/?couponCode=JUL2026",
+        "image": "https://img-c.udemycdn.com/course/480x270/4110750_fae7_5.jpg",
+        "trainer": "Thor Pedersen",
+        "trainer_slug": "thor-pedersen",
+        "category": [
+            "CISSP"
+        ],
+        "category_slug": [
+            "cissp"
+        ],
+        "language": "English",
+        "language_slug": "english",
+        "coupon_code": "12.99",
+        "students": 9174,
+        "reviews": 518,
+        "last_updated": "2026-08-03",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 148,
+        "title": "HARD CISSP practice questions #3: All CISSP domains - 125Q",
+        "description": "Learn how to answer CISSP questions RIGHT. Test your knowledge on 125 actual HARD CISSP questions. 2026 version. Test #3",
+        "rating": 4.6,
+        "duration": "39 mins",
+        "affiliate_url": "https://trk.udemy.com/c/2758262/3227798/39854?prodsku=course.4110752&u=https://www.udemy.com/course/hardcisspquestions3/?couponCode=JUL2026",
+        "image": "https://img-c.udemycdn.com/course/480x270/4110752_434c_3.jpg",
+        "trainer": "Thor Pedersen",
+        "trainer_slug": "thor-pedersen",
+        "category": [
+            "CISSP"
+        ],
+        "category_slug": [
+            "cissp"
+        ],
+        "language": "English",
+        "language_slug": "english",
+        "coupon_code": "12.99",
+        "students": 7241,
+        "reviews": 355,
+        "last_updated": "2026-08-03",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 149,
+        "title": "HARD CISSP practice questions #4: All CISSP domains - 125Q",
+        "description": "Learn how to answer CISSP questions RIGHT. Test your knowledge on 125 actual HARD CISSP questions. 2026 version. Test #4",
+        "rating": 4.6,
+        "duration": "39 mins",
+        "affiliate_url": "https://trk.udemy.com/c/2758262/3227798/39854?prodsku=course.4110754&u=https://www.udemy.com/course/hardcisspquestions4/?couponCode=JUL2026",
+        "image": "https://img-c.udemycdn.com/course/480x270/4110754_65ec_3.jpg",
+        "trainer": "Thor Pedersen",
+        "trainer_slug": "thor-pedersen",
+        "category": [
+            "CISSP"
+        ],
+        "category_slug": [
+            "cissp"
+        ],
+        "language": "English",
+        "language_slug": "english",
+        "coupon_code": "12.99",
+        "students": 5586,
+        "reviews": 266,
+        "last_updated": "2026-08-03",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 150,
+        "title": "HARD CISSP practice questions #5: All CISSP domains - 125Q",
+        "description": "Learn how to answer CISSP questions RIGHT. Test your knowledge on 125 actual HARD CISSP questions. 2026 version. Test #5",
+        "rating": 4.5,
+        "duration": "39 mins",
+        "affiliate_url": "https://trk.udemy.com/c/2758262/3227798/39854?prodsku=course.4152414&u=https://www.udemy.com/course/hardcisspquestions5/?couponCode=JUL2026",
+        "image": "https://img-c.udemycdn.com/course/480x270/4152414_c4d1.jpg",
+        "trainer": "Thor Pedersen",
+        "trainer_slug": "thor-pedersen",
+        "category": [
+            "CISSP"
+        ],
+        "category_slug": [
+            "cissp"
+        ],
+        "language": "English",
+        "language_slug": "english",
+        "coupon_code": "12.99",
+        "students": 2053,
+        "reviews": 84,
+        "last_updated": "2026-08-03",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 151,
+        "title": "CISSP: How to study (plans, tips, materials, approach) 2026",
+        "description": "Learn smarter CISSP study approaches, exam tricks, tips, and format, and how to answer the exam questions right - 2026",
+        "rating": 4.6,
+        "duration": "3 hours",
+        "affiliate_url": "https://trk.udemy.com/c/2758262/3227798/39854?prodsku=course.1420626&u=https://www.udemy.com/course/cissp-essentials/?couponCode=JUL2026",
+        "image": "https://img-c.udemycdn.com/course/480x270/1420626_47c8_12.jpg",
+        "trainer": "Thor Pedersen",
+        "trainer_slug": "thor-pedersen",
+        "category": [
+            "CISSP"
+        ],
+        "category_slug": [
+            "cissp"
+        ],
+        "language": "English",
+        "language_slug": "english",
+        "coupon_code": "12.99",
+        "students": 32488,
+        "reviews": 4898,
+        "last_updated": "2026-08-03",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 152,
+        "title": "CISSP EASY/MID questions #1 - ALL CISSP domains 250 Q - 2026",
+        "description": "CISSP certification practice questions #1 - 2 FULL 125 question CISSP tests - 250 CISSP questions total - 2026 version",
+        "rating": 4.3,
+        "duration": "3 tests",
+        "affiliate_url": "https://trk.udemy.com/c/2758262/3227798/39854?prodsku=course.1332388&u=https://www.udemy.com/course/cissp-certification-practice-exam-1/?couponCode=JUL2026",
+        "image": "https://img-c.udemycdn.com/course/480x270/1332388_c0ee_9.jpg",
+        "trainer": "Thor Pedersen",
+        "trainer_slug": "thor-pedersen",
+        "category": [
+            "CISSP"
+        ],
+        "category_slug": [
+            "cissp"
+        ],
+        "language": "English",
+        "language_slug": "english",
+        "coupon_code": "12.99",
+        "students": 24465,
+        "reviews": 2401,
+        "last_updated": "2026-08-03",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 153,
+        "title": "CISSP EASY/MID questions #2 - ALL CISSP domains 250 Q - 2026",
+        "description": "CISSP certification practice questions #2 - 2 FULL 125 question CISSP tests - 250 CISSP questions total - 2026 version",
+        "rating": 4.4,
+        "duration": "3 tests",
+        "affiliate_url": "https://trk.udemy.com/c/2758262/3227798/39854?prodsku=course.1334914&u=https://www.udemy.com/course/cissp-certification-practice-exam-2/?couponCode=JUL2026",
+        "image": "https://img-c.udemycdn.com/course/480x270/1334914_1ebd_9.jpg",
+        "trainer": "Thor Pedersen",
+        "trainer_slug": "thor-pedersen",
+        "category": [
+            "CISSP"
+        ],
+        "category_slug": [
+            "cissp"
+        ],
+        "language": "English",
+        "language_slug": "english",
+        "coupon_code": "12.99",
+        "students": 12708,
+        "reviews": 1239,
+        "last_updated": "2026-08-03",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 154,
+        "title": "CISSP EASY/MID questions #3 - ALL CISSP domains 250 Q - 2026",
+        "description": "CISSP certification practice questions #3 - 2 FULL 125 question CISSP tests - 250 CISSP questions total - 2026 version",
+        "rating": 4.5,
+        "duration": "3 tests",
+        "affiliate_url": "https://trk.udemy.com/c/2758262/3227798/39854?prodsku=course.1334924&u=https://www.udemy.com/course/cissp-certification-practice-exam-3/?couponCode=JUL2026",
+        "image": "https://img-c.udemycdn.com/course/480x270/1334924_0f75_9.jpg",
+        "trainer": "Thor Pedersen",
+        "trainer_slug": "thor-pedersen",
+        "category": [
+            "CISSP"
+        ],
+        "category_slug": [
+            "cissp"
+        ],
+        "language": "English",
+        "language_slug": "english",
+        "coupon_code": "12.99",
+        "students": 12736,
+        "reviews": 803,
+        "last_updated": "2026-08-03",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 155,
+        "title": "CISSP EASY/MID questions #4 - ALL CISSP domains 250 Q - 2026",
+        "description": "CISSP certification practice questions #4 - 2 FULL 125 question CISSP tests - 250 CISSP questions total - 2026 version",
+        "rating": 4.7,
+        "duration": "3 tests",
+        "affiliate_url": "https://trk.udemy.com/c/2758262/3227798/39854?prodsku=course.1334930&u=https://www.udemy.com/course/cissp-certification-practice-exam-4/?couponCode=JUL2026",
+        "image": "https://img-c.udemycdn.com/course/480x270/1334930_2cc9_9.jpg",
+        "trainer": "Thor Pedersen",
+        "trainer_slug": "thor-pedersen",
+        "category": [
+            "CISSP"
+        ],
+        "category_slug": [
+            "cissp"
+        ],
+        "language": "English",
+        "language_slug": "english",
+        "coupon_code": "12.99",
+        "students": 8344,
+        "reviews": 623,
+        "last_updated": "2026-08-03",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 156,
+        "title": "CISSP EASY/MID questions #5 - ALL CISSP domains 250 Q - 2026",
+        "description": "CISSP certification practice questions #5 - 2 FULL 125 question CISSP tests - 250 CISSP questions total - 2026 version",
+        "rating": 4.4,
+        "duration": "2 tests",
+        "affiliate_url": "https://trk.udemy.com/c/2758262/3227798/39854?prodsku=course.5637848&u=https://www.udemy.com/course/cissp-em5/?couponCode=JUL2026",
+        "image": "https://img-c.udemycdn.com/course/480x270/5637848_cbab.jpg",
+        "trainer": "Thor Pedersen",
+        "trainer_slug": "thor-pedersen",
+        "category": [
+            "CISSP"
+        ],
+        "category_slug": [
+            "cissp"
+        ],
+        "language": "English",
+        "language_slug": "english",
+        "coupon_code": "12.99",
+        "students": 1002,
+        "reviews": 61,
+        "last_updated": "2026-08-03",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 157,
+        "title": "CISSP Easy/Mid practice questions: Domain 1 & 2 - 2026 Exam",
+        "description": "CISSP certification practice questions for CISSP Domain 1 and 2 - Security and Risk Mgmt., Asset Security. 2026 version",
+        "rating": 4.2,
+        "duration": "2 tests",
+        "affiliate_url": "https://trk.udemy.com/c/2758262/3227798/39854?prodsku=course.1473256&u=https://www.udemy.com/course/cissp-domain1-2/?couponCode=JUL2026",
+        "image": "https://img-c.udemycdn.com/course/480x270/1473256_9ab8_8.jpg",
+        "trainer": "Thor Pedersen",
+        "trainer_slug": "thor-pedersen",
+        "category": [
+            "CISSP"
+        ],
+        "category_slug": [
+            "cissp"
+        ],
+        "language": "English",
+        "language_slug": "english",
+        "coupon_code": "12.99",
+        "students": 14552,
+        "reviews": 1562,
+        "last_updated": "2026-08-03",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 158,
+        "title": "CISSP Easy/Mid practice questions: Domain 3 & 4 - 2026 Exam",
+        "description": "CISSP certification practice questions for CISSP Domain 3 and 4 (Sec. Arch. and Eng., Comm. and Netw. Sec.) 2026 version",
+        "rating": 4.3,
+        "duration": "2 tests",
+        "affiliate_url": "https://trk.udemy.com/c/2758262/3227798/39854?prodsku=course.1473322&u=https://www.udemy.com/course/cissp-domain3-4/?couponCode=JUL2026",
+        "image": "https://img-c.udemycdn.com/course/480x270/1473322_b804_8.jpg",
+        "trainer": "Thor Pedersen",
+        "trainer_slug": "thor-pedersen",
+        "category": [
+            "CISSP"
+        ],
+        "category_slug": [
+            "cissp"
+        ],
+        "language": "English",
+        "language_slug": "english",
+        "coupon_code": "12.99",
+        "students": 9084,
+        "reviews": 857,
+        "last_updated": "2026-08-03",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 159,
+        "title": "CISSP Easy/Mid practice questions: Domain 5 & 6 - 2026 Exam",
+        "description": "CISSP certification practice questions for CISSP Domain5 and 6 Identity-Access Mgmt./Sec. Ass. and Testing 2026 version",
+        "rating": 4.5,
+        "duration": "2 tests",
+        "affiliate_url": "https://trk.udemy.com/c/2758262/3227798/39854?prodsku=course.1473338&u=https://www.udemy.com/course/cissp-domain5-6/?couponCode=JUL2026",
+        "image": "https://img-c.udemycdn.com/course/480x270/1473338_53c0_8.jpg",
+        "trainer": "Thor Pedersen",
+        "trainer_slug": "thor-pedersen",
+        "category": [
+            "CISSP"
+        ],
+        "category_slug": [
+            "cissp"
+        ],
+        "language": "English",
+        "language_slug": "english",
+        "coupon_code": "12.99",
+        "students": 8386,
+        "reviews": 753,
+        "last_updated": "2026-08-03",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 160,
+        "title": "CISSP Easy/Mid practice questions: Domain 7 & 8 - 2026 Exam",
+        "description": "CISSP certification practice questions for CISSP Domain 7 and 8-Security Operations and Software Dev. Sec. 2026 version",
+        "rating": 4.6,
+        "duration": "2 tests",
+        "affiliate_url": "https://trk.udemy.com/c/2758262/3227798/39854?prodsku=course.1473344&u=https://www.udemy.com/course/cissp-domain7-8/?couponCode=JUL2026",
+        "image": "https://img-c.udemycdn.com/course/480x270/1473344_d44a_8.jpg",
+        "trainer": "Thor Pedersen",
+        "trainer_slug": "thor-pedersen",
+        "category": [
+            "CISSP"
+        ],
+        "category_slug": [
+            "cissp"
+        ],
+        "language": "English",
+        "language_slug": "english",
+        "coupon_code": "12.99",
+        "students": 7964,
+        "reviews": 667,
+        "last_updated": "2026-08-03",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 161,
+        "title": "CISSP EASY/MID questions #6 - ALL CISSP domains 250 Q - 2026",
+        "description": "CISSP certification practice questions #6 - 2 FULL 125 question CISSP tests - 250 CISSP questions total - 2026 version",
+        "rating": 4.5,
+        "duration": "2 tests",
+        "affiliate_url": "https://trk.udemy.com/c/2758262/3227798/39854?prodsku=course.5637850&u=https://www.udemy.com/course/cissp-em6/?couponCode=JUL2026",
+        "image": "https://img-c.udemycdn.com/course/480x270/5637850_6469.jpg",
+        "trainer": "Thor Pedersen",
+        "trainer_slug": "thor-pedersen",
+        "category": [
+            "CISSP"
+        ],
+        "category_slug": [
+            "cissp"
+        ],
+        "language": "English",
+        "language_slug": "english",
+        "coupon_code": "12.99",
+        "students": 896,
+        "reviews": 32,
+        "last_updated": "2026-08-03",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 162,
+        "title": "CISSP EASY/MID questions #7 - ALL CISSP domains 250 Q - 2026",
+        "description": "CISSP certification practice questions #7 - 2 FULL 125 question CISSP tests - 250 CISSP questions total - 2026 version",
+        "rating": 4.7,
+        "duration": "2 tests",
+        "affiliate_url": "https://trk.udemy.com/c/2758262/3227798/39854?prodsku=course.5637856&u=https://www.udemy.com/course/cissp-em7/?couponCode=JUL2026",
+        "image": "https://img-c.udemycdn.com/course/480x270/5637856_5776.jpg",
+        "trainer": "Thor Pedersen",
+        "trainer_slug": "thor-pedersen",
+        "category": [
+            "CISSP"
+        ],
+        "category_slug": [
+            "cissp"
+        ],
+        "language": "English",
+        "language_slug": "english",
+        "coupon_code": "12.99",
+        "students": 913,
+        "reviews": 27,
+        "last_updated": "2026-08-03",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 163,
+        "title": "CISSP EASY/MID questions #8 - ALL CISSP domains 250 Q - 2026",
+        "description": "CISSP certification practice questions #8 - 2 FULL 125 question CISSP tests - 250 CISSP questions total - 2026 version",
+        "rating": 4.5,
+        "duration": "2 tests",
+        "affiliate_url": "https://trk.udemy.com/c/2758262/3227798/39854?prodsku=course.5637858&u=https://www.udemy.com/course/cissp-em8/?couponCode=JUL2026",
+        "image": "https://img-c.udemycdn.com/course/480x270/5637858_c742.jpg",
+        "trainer": "Thor Pedersen",
+        "trainer_slug": "thor-pedersen",
+        "category": [
+            "CISSP"
+        ],
+        "category_slug": [
+            "cissp"
+        ],
+        "language": "English",
+        "language_slug": "english",
+        "coupon_code": "12.99",
+        "students": 978,
+        "reviews": 38,
+        "last_updated": "2026-08-03",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 164,
+        "title": "CISSP EASY/MID questions #9 - ALL CISSP domains 250 Q - 2026",
+        "description": "CISSP certification practice questions #9 - 2 FULL 125 question CISSP tests - 250 CISSP questions total - 2026 version",
+        "rating": 4.6,
+        "duration": "2 tests",
+        "affiliate_url": "https://trk.udemy.com/c/2758262/3227798/39854?prodsku=course.5637860&u=https://www.udemy.com/course/cissp-em9/?couponCode=JUL2026",
+        "image": "https://img-c.udemycdn.com/course/480x270/5637860_8d49.jpg",
+        "trainer": "Thor Pedersen",
+        "trainer_slug": "thor-pedersen",
+        "category": [
+            "CISSP"
+        ],
+        "category_slug": [
+            "cissp"
+        ],
+        "language": "English",
+        "language_slug": "english",
+        "coupon_code": "12.99",
+        "students": 813,
+        "reviews": 37,
+        "last_updated": "2026-08-03",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 165,
+        "title": "CISSP EASY/MID questions #10 - ALL CISSP domains 250 Q 2026",
+        "description": "CISSP certification practice questions #10 - 2 FULL 125 question CISSP tests - 250 CISSP questions total - 2026 version",
+        "rating": 4.6,
+        "duration": "2 tests",
+        "affiliate_url": "https://trk.udemy.com/c/2758262/3227798/39854?prodsku=course.5637864&u=https://www.udemy.com/course/cissp-em10/?couponCode=JUL2026",
+        "image": "https://img-c.udemycdn.com/course/480x270/5637864_eba4.jpg",
+        "trainer": "Thor Pedersen",
+        "trainer_slug": "thor-pedersen",
+        "category": [
+            "CISSP"
+        ],
+        "category_slug": [
+            "cissp"
+        ],
+        "language": "English",
+        "language_slug": "english",
+        "coupon_code": "12.99",
+        "students": 979,
+        "reviews": 29,
+        "last_updated": "2026-08-03",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 166,
+        "title": "CISM Certification: All domains 150 Question CISM 2026 #1",
+        "description": "Get a full CISM practice test with 150 questions covering all 4 CISM domains with detailed explanations - 2026 #1",
+        "rating": 4.1,
+        "duration": "2 tests",
+        "affiliate_url": "https://trk.udemy.com/c/2758262/3227798/39854?prodsku=course.6267837&u=https://www.udemy.com/course/cismtest1/?couponCode=JUL2026",
+        "image": "https://img-c.udemycdn.com/course/480x270/6267837_2729_2.jpg",
+        "trainer": "Thor Pedersen",
+        "trainer_slug": "thor-pedersen",
+        "category": [
+            "CISM"
+        ],
+        "category_slug": [
+            "cism"
+        ],
+        "language": "English",
+        "language_slug": "english",
+        "coupon_code": "12.99",
+        "students": 920,
+        "reviews": 47,
+        "last_updated": "2026-08-03",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 167,
+        "title": "CISM Certification: All domains 150 Question CISM 2026 #2",
+        "description": "Get a full CISM practice test with 150 questions covering all 4 CISM domains with detailed explanations - 2026 #2",
+        "rating": 4.1,
+        "duration": "2 tests",
+        "affiliate_url": "https://trk.udemy.com/c/2758262/3227798/39854?prodsku=course.6267839&u=https://www.udemy.com/course/cismtest2/?couponCode=JUL2026",
+        "image": "https://img-c.udemycdn.com/course/480x270/6267839_0981_2.jpg",
+        "trainer": "Thor Pedersen",
+        "trainer_slug": "thor-pedersen",
+        "category": [
+            "CISM"
+        ],
+        "category_slug": [
+            "cism"
+        ],
+        "language": "English",
+        "language_slug": "english",
+        "coupon_code": "12.99",
+        "students": 470,
+        "reviews": 27,
+        "last_updated": "2026-08-03",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 168,
+        "title": "CISM Certification: All domains 150 Question CISM 2026 #3",
+        "description": "Get a full CISM practice test with 150 questions covering all 4 CISM domains with detailed explanations - 2026 #3",
+        "rating": 4.1,
+        "duration": "2 tests",
+        "affiliate_url": "https://trk.udemy.com/c/2758262/3227798/39854?prodsku=course.6267843&u=https://www.udemy.com/course/cismtest3/?couponCode=JUL2026",
+        "image": "https://img-c.udemycdn.com/course/480x270/6267843_6edd_2.jpg",
+        "trainer": "Thor Pedersen",
+        "trainer_slug": "thor-pedersen",
+        "category": [
+            "CISM"
+        ],
+        "category_slug": [
+            "cism"
+        ],
+        "language": "English",
+        "language_slug": "english",
+        "coupon_code": "12.99",
+        "students": 457,
+        "reviews": 24,
+        "last_updated": "2026-08-03",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 169,
+        "title": "CISM Certification: All domains 150 Question CISM 2026 #4",
+        "description": "Get a full CISM practice test with 150 questions covering all 4 CISM domains with detailed explanations - 2026 #4",
+        "rating": 4.5,
+        "duration": "2 tests",
+        "affiliate_url": "https://trk.udemy.com/c/2758262/3227798/39854?prodsku=course.2311262&u=https://www.udemy.com/course/cismtest/?couponCode=JUL2026",
+        "image": "https://img-c.udemycdn.com/course/480x270/2311262_d49f_4.jpg",
+        "trainer": "Thor Pedersen",
+        "trainer_slug": "thor-pedersen",
+        "category": [
+            "CISM"
+        ],
+        "category_slug": [
+            "cism"
+        ],
+        "language": "English",
+        "language_slug": "english",
+        "coupon_code": "12.99",
+        "students": 15842,
+        "reviews": 1878,
+        "last_updated": "2026-08-03",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 170,
+        "title": "COMPLEX CISSP practice questions #4: All CISSP domains 125Q",
+        "description": "Test your knowledge on 125 COMPLEX CISSP questions. Learn how to answer CISSP questions RIGHT. 2026 version. Test #4",
+        "rating": 4.1,
+        "duration": "39 mins",
+        "affiliate_url": "https://trk.udemy.com/c/2758262/3227798/39854?prodsku=course.6264777&u=https://www.udemy.com/course/cissp-complex-questions-4/?couponCode=JUL2026",
+        "image": "https://img-c.udemycdn.com/course/480x270/6264777_05ef.jpg",
+        "trainer": "Thor Pedersen",
+        "trainer_slug": "thor-pedersen",
+        "category": [
+            "CISSP"
+        ],
+        "category_slug": [
+            "cissp"
+        ],
+        "language": "English",
+        "language_slug": "english",
+        "coupon_code": "12.99",
+        "students": 421,
+        "reviews": 9,
+        "last_updated": "2026-08-03",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 171,
+        "title": "COMPLEX CISSP practice questions #3: All CISSP domains 125Q",
+        "description": "Test your knowledge on 125 COMPLEX CISSP questions. Learn how to answer CISSP questions RIGHT. 2026 version. Test #3",
+        "rating": 4.7,
+        "duration": "39 mins",
+        "affiliate_url": "https://trk.udemy.com/c/2758262/3227798/39854?prodsku=course.6264775&u=https://www.udemy.com/course/cissp-complex-questions-3/?couponCode=JUL2026",
+        "image": "https://img-c.udemycdn.com/course/480x270/6264775_e40f.jpg",
+        "trainer": "Thor Pedersen",
+        "trainer_slug": "thor-pedersen",
+        "category": [
+            "CISSP"
+        ],
+        "category_slug": [
+            "cissp"
+        ],
+        "language": "English",
+        "language_slug": "english",
+        "coupon_code": "12.99",
+        "students": 548,
+        "reviews": 12,
+        "last_updated": "2026-08-03",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 172,
+        "title": "COMPLEX CISSP practice questions #2: All CISSP domains 125Q",
+        "description": "Test your knowledge on 125 COMPLEX CISSP questions. Learn how to answer CISSP questions RIGHT. 2026 version. Test #2",
+        "rating": 3.9,
+        "duration": "39 mins",
+        "affiliate_url": "https://trk.udemy.com/c/2758262/3227798/39854?prodsku=course.6264767&u=https://www.udemy.com/course/cissp-complex-questions-2/?couponCode=JUL2026",
+        "image": "https://img-c.udemycdn.com/course/480x270/6264767_ee9f.jpg",
+        "trainer": "Thor Pedersen",
+        "trainer_slug": "thor-pedersen",
+        "category": [
+            "CISSP"
+        ],
+        "category_slug": [
+            "cissp"
+        ],
+        "language": "English",
+        "language_slug": "english",
+        "coupon_code": "12.99",
+        "students": 543,
+        "reviews": 14,
+        "last_updated": "2026-08-03",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 173,
+        "title": "COMPLEX CISSP practice questions #1: All CISSP domains 125Q",
+        "description": "Test your knowledge on 125 COMPLEX CISSP questions. Learn how to answer CISSP questions RIGHT. 2026 version. Test #1",
+        "rating": 4.2,
+        "duration": "39 mins",
+        "affiliate_url": "https://trk.udemy.com/c/2758262/3227798/39854?prodsku=course.6264751&u=https://www.udemy.com/course/cissp-complex-questions-1/?couponCode=JUL2026",
+        "image": "https://img-c.udemycdn.com/course/480x270/6264751_bc37.jpg",
+        "trainer": "Thor Pedersen",
+        "trainer_slug": "thor-pedersen",
+        "category": [
+            "CISSP"
+        ],
+        "category_slug": [
+            "cissp"
+        ],
+        "language": "English",
+        "language_slug": "english",
+        "coupon_code": "12.99",
+        "students": 1394,
+        "reviews": 54,
+        "last_updated": "2026-08-03",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 174,
+        "title": "CISSP Certification: CISSP Domain 1 & 2 Boot Camp 2026 Exam",
+        "description": "Take the CISSP Domain 1 and 2 2026 certifications boot camp: Get 9 hours of video, study guides, and practice questions",
+        "rating": 4.7,
+        "duration": "9 hours",
+        "affiliate_url": "https://trk.udemy.com/c/2758262/3227798/39854?prodsku=course.1348924&u=https://www.udemy.com/course/cissp-domain-1-2/?couponCode=JUL2026",
+        "image": "https://img-c.udemycdn.com/course/480x270/1348924_089a_12.jpg",
+        "trainer": "Thor Pedersen",
+        "trainer_slug": "thor-pedersen",
+        "category": [
+            "CISSP"
+        ],
+        "category_slug": [
+            "cissp"
+        ],
+        "language": "English",
+        "language_slug": "english",
+        "coupon_code": "12.99",
+        "students": 115464,
+        "reviews": 23133,
+        "last_updated": "2026-08-03",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 175,
+        "title": "CISSP Certification: CISSP Domain 3 & 4 Boot Camp 2026 Exam",
+        "description": "Take the CISSP Domain 3 and 4 2026 certifications boot camp: Get 13.5 hrs of video, study guides, and practice questions",
+        "rating": 4.6,
+        "duration": "13.5 hours",
+        "affiliate_url": "https://trk.udemy.com/c/2758262/3227798/39854?prodsku=course.1673154&u=https://www.udemy.com/course/cissp-domain-3-4/?couponCode=JUL2026",
+        "image": "https://img-c.udemycdn.com/course/480x270/1673154_ded9_9.jpg",
+        "trainer": "Thor Pedersen",
+        "trainer_slug": "thor-pedersen",
+        "category": [
+            "CISSP"
+        ],
+        "category_slug": [
+            "cissp"
+        ],
+        "language": "English",
+        "language_slug": "english",
+        "coupon_code": "12.99",
+        "students": 61539,
+        "reviews": 9373,
+        "last_updated": "2026-08-03",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 176,
+        "title": "CISSP Certification: CISSP Domain 5 & 6 Boot Camp 2026 Exam",
+        "description": "Take the CISSP Domain 5 and 6 2026 certifications boot camp: Get 3.5 hrs of video, study guides, and practice questions.",
+        "rating": 4.6,
+        "duration": "3.5 hours",
+        "affiliate_url": "https://trk.udemy.com/c/2758262/3227798/39854?prodsku=course.1673538&u=https://www.udemy.com/course/cissp-domain-5-6/?couponCode=JUL2026",
+        "image": "https://img-c.udemycdn.com/course/480x270/1673538_5187_9.jpg",
+        "trainer": "Thor Pedersen",
+        "trainer_slug": "thor-pedersen",
+        "category": [
+            "CISSP"
+        ],
+        "category_slug": [
+            "cissp"
+        ],
+        "language": "English",
+        "language_slug": "english",
+        "coupon_code": "12.99",
+        "students": 49628,
+        "reviews": 6159,
+        "last_updated": "2026-08-03",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 177,
+        "title": "CISSP Certification: CISSP Domain 7 & 8 Boot Camp 2026 Exam",
+        "description": "Take the CISSP Domain 7 and 8 2026 certifications boot camp: Get 8 hours of video, study guides, and practice questions.",
+        "rating": 4.7,
+        "duration": "8 hours",
+        "affiliate_url": "https://trk.udemy.com/c/2758262/3227798/39854?prodsku=course.1675372&u=https://www.udemy.com/course/cissp-domain-7-8/?couponCode=JUL2026",
+        "image": "https://img-c.udemycdn.com/course/480x270/1675372_5016_9.jpg",
+        "trainer": "Thor Pedersen",
+        "trainer_slug": "thor-pedersen",
+        "category": [
+            "CISSP"
+        ],
+        "category_slug": [
+            "cissp"
+        ],
+        "language": "English",
+        "language_slug": "english",
+        "coupon_code": "12.99",
+        "students": 47907,
+        "reviews": 5704,
+        "last_updated": "2026-08-03",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 178,
+        "title": "CISM Certification: CISM Domain 1 Video Boot Camp 2026",
+        "description": "Certified Information Security Manager (CISM) Domain 1 - Get 5.5 hours of videos and downloadable study guides.",
+        "rating": 4.6,
+        "duration": "5.5 hours",
+        "affiliate_url": "https://trk.udemy.com/c/2758262/3227798/39854?prodsku=course.2111474&u=https://www.udemy.com/course/cism-domain1-2/?couponCode=JUL2026",
+        "image": "https://img-c.udemycdn.com/course/480x270/2111474_2444_6.jpg",
+        "trainer": "Thor Pedersen",
+        "trainer_slug": "thor-pedersen",
+        "category": [
+            "CISM"
+        ],
+        "category_slug": [
+            "cism"
+        ],
+        "language": "English",
+        "language_slug": "english",
+        "coupon_code": "12.99",
+        "students": 40366,
+        "reviews": 9295,
+        "last_updated": "2026-08-03",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 179,
+        "title": "CISM Certification: CISM Domain 2 Video Boot Camp 2026",
+        "description": "Certified Information Security Manager (CISM) Domain 2 - Get 8.5 hours of videos and downloadable study guides.",
+        "rating": 4.7,
+        "duration": "7.5 hours",
+        "affiliate_url": "https://trk.udemy.com/c/2758262/3227798/39854?prodsku=course.2131850&u=https://www.udemy.com/course/cism-domain2/?couponCode=JUL2026",
+        "image": "https://img-c.udemycdn.com/course/480x270/2131850_f844_6.jpg",
+        "trainer": "Thor Pedersen",
+        "trainer_slug": "thor-pedersen",
+        "category": [
+            "CISM"
+        ],
+        "category_slug": [
+            "cism"
+        ],
+        "language": "English",
+        "language_slug": "english",
+        "coupon_code": "12.99",
+        "students": 22025,
+        "reviews": 4077,
+        "last_updated": "2026-08-03",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 180,
+        "title": "CISM Certification: CISM Domain 3 Video Boot Camp 2026",
+        "description": "Certified Information Security Manager (CISM) Domain 3 - Get 10.5 hours of videos and downloadable study guides.",
+        "rating": 4.7,
+        "duration": "10 hours",
+        "affiliate_url": "https://trk.udemy.com/c/2758262/3227798/39854?prodsku=course.2264226&u=https://www.udemy.com/course/cism-domain-3/?couponCode=JUL2026",
+        "image": "https://img-c.udemycdn.com/course/480x270/2264226_6b13_4.jpg",
+        "trainer": "Thor Pedersen",
+        "trainer_slug": "thor-pedersen",
+        "category": [
+            "CISM"
+        ],
+        "category_slug": [
+            "cism"
+        ],
+        "language": "English",
+        "language_slug": "english",
+        "coupon_code": "12.99",
+        "students": 19143,
+        "reviews": 2891,
+        "last_updated": "2026-08-03",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 181,
+        "title": "CISM Certification: CISM Domain 4 Video Boot Camp 2026",
+        "description": "Certified Information Security Manager (CISM) Domain 4 - Get 5 hours of videos and downloadable study guides.",
+        "rating": 4.7,
+        "duration": "4.5 hours",
+        "affiliate_url": "https://trk.udemy.com/c/2758262/3227798/39854?prodsku=course.2264546&u=https://www.udemy.com/course/cism-domain-4/?couponCode=JUL2026",
+        "image": "https://img-c.udemycdn.com/course/480x270/2264546_e25e_4.jpg",
+        "trainer": "Thor Pedersen",
+        "trainer_slug": "thor-pedersen",
+        "category": [
+            "CISM"
+        ],
+        "category_slug": [
+            "cism"
+        ],
+        "language": "English",
+        "language_slug": "english",
+        "coupon_code": "12.99",
+        "students": 17515,
+        "reviews": 2468,
+        "last_updated": "2026-08-03",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 182,
+        "title": "The Complete Certified in Cybersecurity CC course ISC2 2026",
+        "description": "Start your Cyber security career today! Take the Complete Certified in Cybersecurity (CC) beginners course ISC2 - 2026",
+        "rating": 4.7,
+        "duration": "17.5 hours",
+        "affiliate_url": "https://trk.udemy.com/c/2758262/3227798/39854?prodsku=course.4672448&u=https://www.udemy.com/course/certifiedincybersecurity/?couponCode=JUL2026",
+        "image": "https://img-c.udemycdn.com/course/480x270/4672448_5ec9_4.jpg",
+        "trainer": "Thor Pedersen",
+        "trainer_slug": "thor-pedersen",
+        "category": [
+            "Cybersecurity"
+        ],
+        "category_slug": [
+            "cybersecurity"
+        ],
+        "language": "English",
+        "language_slug": "english",
+        "coupon_code": "12.99",
+        "students": 79939,
+        "reviews": 15687,
+        "last_updated": "2026-08-03",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 183,
+        "title": "Adobe Photoshop Máster, TODO en +61 Horas, de Cero a Experto",
+        "description": "Aprende TODO Photoshop: Retoque, Diseño y Arte, Animar, Apps, Videojuegos, revisa los videos gratis (incluye editables)",
+        "rating": 4.7,
+        "duration": "61.5 hours",
+        "affiliate_url": "https://trk.udemy.com/c/2758262/3227798/39854?prodsku=course.4222524&u=https://www.udemy.com/course/master-en-photoshop-todo-de-cero-a-experto-profesional/?couponCode=SEP2025",
+        "image": "https://img-c.udemycdn.com/course/480x270/4222524_940a_29.jpg",
+        "trainer": "Kenneth Alvarenga",
+        "trainer_slug": "kenneth-alvarenga",
+        "category": [
+            "Adobe Photoshop"
+        ],
+        "category_slug": [
+            "adobe-photoshop"
+        ],
+        "language": "Spanish",
+        "language_slug": "spanish",
+        "coupon_code": "9.99",
+        "students": 5026,
+        "reviews": 636,
+        "last_updated": "2026-08-03",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 184,
+        "title": "Adobe Animate Animación 2D en 31 horas, +Android/iOS, HTML5",
+        "description": "Aprende Animación 2d e interactividad y Videojuegos en Adobe Animate, revisa los videos gratis (editables incluidos)",
+        "rating": 4.7,
+        "duration": "31 hours",
+        "affiliate_url": "https://trk.udemy.com/c/2758262/3227798/39854?prodsku=course.4365392&u=https://www.udemy.com/course/adobe-animate-master-en-animacion-de-cero-a-experto/?couponCode=SEP2025",
+        "image": "https://img-c.udemycdn.com/course/480x270/4365392_15a7_6.jpg",
+        "trainer": "Kenneth Alvarenga",
+        "trainer_slug": "kenneth-alvarenga",
+        "category": [
+            "2D Animation"
+        ],
+        "category_slug": [
+            "2d-animation"
+        ],
+        "language": "Spanish",
+        "language_slug": "spanish",
+        "coupon_code": "9.99",
+        "students": 746,
+        "reviews": 143,
+        "last_updated": "2026-08-03",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 185,
+        "title": "Adobe Premiere Pro CC de cero a experto profesional",
+        "description": "Edita video y audio, efectos especiales, diferentes formatos, cine, tv, Youtube, Instagram, tiktok, facebook y netflix",
+        "rating": 4.6,
+        "duration": "8 hours",
+        "affiliate_url": "https://trk.udemy.com/c/2758262/3227798/39854?prodsku=course.5340874&u=https://www.udemy.com/course/adobe-premiere-pro-de-cero-a-experto-completo/?couponCode=SEP2025",
+        "image": "https://img-c.udemycdn.com/course/480x270/5340874_45e7_2.jpg",
+        "trainer": "Kenneth Alvarenga",
+        "trainer_slug": "kenneth-alvarenga",
+        "category": [
+            "Adobe Premiere Pro"
+        ],
+        "category_slug": [
+            "adobe-premiere-pro"
+        ],
+        "language": "Spanish",
+        "language_slug": "spanish",
+        "coupon_code": "9.99",
+        "students": 1036,
+        "reviews": 35,
+        "last_updated": "2026-08-03",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 186,
+        "title": "Adobe Illustrator CC Máster: TODO de Cero a Experto +14horas",
+        "description": "Aprende diseño vectorial en Illustrator CC, crea dibujos digitales, personajes, logos, ilustraciones, elementos 3D",
+        "rating": 4.7,
+        "duration": "14.5 hours",
+        "affiliate_url": "https://trk.udemy.com/c/2758262/3227798/39854?prodsku=course.4577180&u=https://www.udemy.com/course/adobe-illustrador-desde-cero-bien-explicado/?couponCode=SEP2025",
+        "image": "https://img-c.udemycdn.com/course/480x270/4577180_90b3_9.jpg",
+        "trainer": "Kenneth Alvarenga",
+        "trainer_slug": "kenneth-alvarenga",
+        "category": [
+            "Adobe Illustrator"
+        ],
+        "category_slug": [
+            "adobe-illustrator"
+        ],
+        "language": "Spanish",
+        "language_slug": "spanish",
+        "coupon_code": "9.99",
+        "students": 2365,
+        "reviews": 232,
+        "last_updated": "2026-08-03",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 187,
+        "title": "Adobe After Effects CC de Cero a Experto bien explicado",
+        "description": "Efectos especiales, animaciones, partículas, colorización cinematográfica, máscaras, cámaras, luces y rigging y más",
+        "rating": 4.4,
+        "duration": "10.5 hours",
+        "affiliate_url": "https://trk.udemy.com/c/2758262/3227798/39854?prodsku=course.4866558&u=https://www.udemy.com/course/adobe-after-effects-master-de-cero-a-experto/?couponCode=SEP2025",
+        "image": "https://img-c.udemycdn.com/course/480x270/4866558_3389_3.jpg",
+        "trainer": "Kenneth Alvarenga",
+        "trainer_slug": "kenneth-alvarenga",
+        "category": [
+            "Adobe After Effects"
+        ],
+        "category_slug": [
+            "adobe-after-effects"
+        ],
+        "language": "Spanish",
+        "language_slug": "spanish",
+        "coupon_code": "9.99",
+        "students": 1303,
+        "reviews": 60,
+        "last_updated": "2026-08-03",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 188,
+        "title": "Machine Learning con Knime para no programadores y Gerentes",
+        "description": "Aprende Inteligencia artificial para tomadores de decisiones con herramientas gráficas configurables sin programación",
+        "rating": 4.8,
+        "duration": "9 hours",
+        "affiliate_url": "https://trk.udemy.com/c/2758262/3227798/39854?prodsku=course.4458426&u=https://www.udemy.com/course/machine-learning-con-knime/?couponCode=SEP2025",
+        "image": "https://img-c.udemycdn.com/course/480x270/4458426_4899_3.jpg",
+        "trainer": "Kenneth Alvarenga",
+        "trainer_slug": "kenneth-alvarenga",
+        "category": [
+            "Knime"
+        ],
+        "category_slug": [
+            "knime"
+        ],
+        "language": "Spanish",
+        "language_slug": "spanish",
+        "coupon_code": "9.99",
+        "students": 2466,
+        "reviews": 218,
+        "last_updated": "2026-08-03",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 189,
+        "title": "Power BI de cero a experto bien explicado y usando DAX",
+        "description": "Aprende análisis de datos, cómo graficar e interpretar información, crear proyecciones pronósticos y a programar en DAX",
+        "rating": 4.5,
+        "duration": "11.5 hours",
+        "affiliate_url": "https://trk.udemy.com/c/2758262/3227798/39854?prodsku=course.4590022&u=https://www.udemy.com/course/powerbi-de-cero-a-experto/?couponCode=SEP2025",
+        "image": "https://img-c.udemycdn.com/course/480x270/4590022_3cd9_13.jpg",
+        "trainer": "Kenneth Alvarenga",
+        "trainer_slug": "kenneth-alvarenga",
+        "category": [
+            "Power BI"
+        ],
+        "category_slug": [
+            "power-bi"
+        ],
+        "language": "Spanish",
+        "language_slug": "spanish",
+        "coupon_code": "9.99",
+        "students": 4037,
+        "reviews": 401,
+        "last_updated": "2026-08-03",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 190,
+        "title": "Modelado y animación de personajes 3D con 3Ds Max",
+        "description": "Domina por completo el 3D Studio Max para crear tus assets en videojuegos, render para arquitectura, cortos animados y +",
+        "rating": 4.7,
+        "duration": "10.5 hours",
+        "affiliate_url": "https://trk.udemy.com/c/2758262/3227798/39854?prodsku=course.2122914&u=https://www.udemy.com/course/modelado-y-animacion-3d-desde-cero-a-experto-con-3d-max/?couponCode=SEP2025",
+        "image": "https://img-c.udemycdn.com/course/480x270/2122914_f0a9_3.jpg",
+        "trainer": "Kenneth Alvarenga",
+        "trainer_slug": "kenneth-alvarenga",
+        "category": [
+            "Autodesk 3ds Max"
+        ],
+        "category_slug": [
+            "autodesk-3ds-max"
+        ],
+        "language": "Spanish",
+        "language_slug": "spanish",
+        "coupon_code": "9.99",
+        "students": 1039,
+        "reviews": 8,
+        "last_updated": "2026-08-03",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 191,
+        "title": "Blender: Introducción al modelado 3D, luces, texturas y más",
+        "description": "Descubre el emocionante mundo de Blender, modelado y animación 3D para diferentes usos, videosjuegos, AR, cine, etc",
+        "rating": 4.4,
+        "duration": "4.5 hours",
+        "affiliate_url": "https://trk.udemy.com/c/2758262/3227798/39854?prodsku=course.5356864&u=https://www.udemy.com/course/blender-modelado-y-animacion-de-personajes-3d-desde-cero/?couponCode=SEP2025",
+        "image": "https://img-c.udemycdn.com/course/480x270/5356864_0161_2.jpg",
+        "trainer": "Kenneth Alvarenga",
+        "trainer_slug": "kenneth-alvarenga",
+        "category": [
+            "Blender"
+        ],
+        "category_slug": [
+            "blender"
+        ],
+        "language": "Spanish",
+        "language_slug": "spanish",
+        "coupon_code": "9.99",
+        "students": 6932,
+        "reviews": 293,
+        "last_updated": "2026-08-03",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 192,
+        "title": "Diseño y Desarrollo web acelerado con ChatGPT, Gemini y más",
+        "description": "Aprende paso a paso los fundamentos para el desarrollo web y desarrolla gradualmente usando ChatGPT, Gemini y Bootstrap",
+        "rating": 4.3,
+        "duration": "4.5 hours",
+        "affiliate_url": "https://trk.udemy.com/c/2758262/3227798/39854?prodsku=course.5878830&u=https://www.udemy.com/course/diseno-y-desarrollo-completo/?couponCode=SEP2025",
+        "image": "https://img-c.udemycdn.com/course/480x270/5878830_b857_4.jpg",
+        "trainer": "Kenneth Alvarenga",
+        "trainer_slug": "kenneth-alvarenga",
+        "category": [
+            "Web Design"
+        ],
+        "category_slug": [
+            "web-design"
+        ],
+        "language": "Spanish",
+        "language_slug": "spanish",
+        "coupon_code": "9.99",
+        "students": 2367,
+        "reviews": 71,
+        "last_updated": "2026-08-03",
+        "featured": "",
+        "status": "Active"
     }
 ]

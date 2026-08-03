@@ -113,5 +113,85 @@
         "id": 23,
         "name": "R Programming",
         "slug": "r-programming"
+    },
+    {
+        "id": 24,
+        "name": "Python",
+        "slug": "python"
+    },
+    {
+        "id": 25,
+        "name": "ChatGPT",
+        "slug": "chatgpt"
+    },
+    {
+        "id": 26,
+        "name": "Ethical Hacking",
+        "slug": "ethical-hacking"
+    },
+    {
+        "id": 27,
+        "name": "Cybersecurity",
+        "slug": "cybersecurity"
+    },
+    {
+        "id": 28,
+        "name": "CISSP",
+        "slug": "cissp"
+    },
+    {
+        "id": 29,
+        "name": "CISM",
+        "slug": "cism"
+    },
+    {
+        "id": 30,
+        "name": "Adobe Photoshop",
+        "slug": "adobe-photoshop"
+    },
+    {
+        "id": 31,
+        "name": "2D Animation",
+        "slug": "2d-animation"
+    },
+    {
+        "id": 32,
+        "name": "Adobe Premiere Pro",
+        "slug": "adobe-premiere-pro"
+    },
+    {
+        "id": 33,
+        "name": "Adobe Illustrator",
+        "slug": "adobe-illustrator"
+    },
+    {
+        "id": 34,
+        "name": "Adobe After Effects",
+        "slug": "adobe-after-effects"
+    },
+    {
+        "id": 35,
+        "name": "Knime",
+        "slug": "knime"
+    },
+    {
+        "id": 36,
+        "name": "Power BI",
+        "slug": "power-bi"
+    },
+    {
+        "id": 37,
+        "name": "Autodesk 3ds Max",
+        "slug": "autodesk-3ds-max"
+    },
+    {
+        "id": 38,
+        "name": "Blender",
+        "slug": "blender"
+    },
+    {
+        "id": 39,
+        "name": "Web Design",
+        "slug": "web-design"
     }
 ]
