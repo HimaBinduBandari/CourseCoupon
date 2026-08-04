@@ -193,5 +193,465 @@
         "id": 39,
         "name": "Web Design",
         "slug": "web-design"
+    },
+    {
+        "id": 40,
+        "name": "Six Sigma",
+        "slug": "six-sigma"
+    },
+    {
+        "id": 41,
+        "name": "FMEA",
+        "slug": "fmea"
+    },
+    {
+        "id": 42,
+        "name": "Process Mapping",
+        "slug": "process-mapping"
+    },
+    {
+        "id": 43,
+        "name": "Kaizen",
+        "slug": "kaizen"
+    },
+    {
+        "id": 44,
+        "name": "IT Certifications",
+        "slug": "it-certifications"
+    },
+    {
+        "id": 45,
+        "name": "Project Management",
+        "slug": "project-management"
+    },
+    {
+        "id": 46,
+        "name": "Lean Management",
+        "slug": "lean-management"
+    },
+    {
+        "id": 47,
+        "name": "Personal Development",
+        "slug": "personal-development"
+    },
+    {
+        "id": 48,
+        "name": "Root Cause Analysis",
+        "slug": "root-cause-analysis"
+    },
+    {
+        "id": 49,
+        "name": "Minitab",
+        "slug": "minitab"
+    },
+    {
+        "id": 50,
+        "name": "Test Prep",
+        "slug": "test-prep"
+    },
+    {
+        "id": 51,
+        "name": "Data Analysis",
+        "slug": "data-analysis"
+    },
+    {
+        "id": 52,
+        "name": "SWOT Analysis",
+        "slug": "swot-analysis"
+    },
+    {
+        "id": 53,
+        "name": "IT & Software",
+        "slug": "it-and-software"
+    },
+    {
+        "id": 54,
+        "name": "Math",
+        "slug": "math"
+    },
+    {
+        "id": 55,
+        "name": "Linear Algebra",
+        "slug": "linear-algebra"
+    },
+    {
+        "id": 56,
+        "name": "Precalculus",
+        "slug": "precalculus"
+    },
+    {
+        "id": 57,
+        "name": "Calculus",
+        "slug": "calculus"
+    },
+    {
+        "id": 58,
+        "name": "Statistics",
+        "slug": "statistics"
+    },
+    {
+        "id": 59,
+        "name": "Signal processing",
+        "slug": "signal-processing"
+    },
+    {
+        "id": 60,
+        "name": "MATLAB",
+        "slug": "matlab"
+    },
+    {
+        "id": 61,
+        "name": "Business Analytics",
+        "slug": "business-analytics"
+    },
+    {
+        "id": 62,
+        "name": "Image Processing",
+        "slug": "image-processing"
+    },
+    {
+        "id": 63,
+        "name": "Writing",
+        "slug": "writing"
+    },
+    {
+        "id": 64,
+        "name": "AI-900",
+        "slug": "ai-900"
+    },
+    {
+        "id": 65,
+        "name": "Google Cloud",
+        "slug": "google-cloud"
+    },
+    {
+        "id": 66,
+        "name": "Java",
+        "slug": "java"
+    },
+    {
+        "id": 67,
+        "name": "AZ-900",
+        "slug": "az-900"
+    },
+    {
+        "id": 68,
+        "name": "Microservices",
+        "slug": "microservices"
+    },
+    {
+        "id": 69,
+        "name": "Spring Boot",
+        "slug": "spring-boot"
+    },
+    {
+        "id": 70,
+        "name": "DevOps",
+        "slug": "devops"
+    },
+    {
+        "id": 71,
+        "name": "DP-900",
+        "slug": "dp-900"
+    },
+    {
+        "id": 72,
+        "name": "AWS Certification",
+        "slug": "aws-certification"
+    },
+    {
+        "id": 73,
+        "name": "Angular",
+        "slug": "angular"
+    },
+    {
+        "id": 74,
+        "name": "Java Web Services",
+        "slug": "java-web-services"
+    },
+    {
+        "id": 75,
+        "name": "Apache Camel",
+        "slug": "apache-camel"
+    },
+    {
+        "id": 76,
+        "name": "Mockito",
+        "slug": "mockito"
+    },
+    {
+        "id": 77,
+        "name": "Functional Programming",
+        "slug": "functional-programming"
+    },
+    {
+        "id": 78,
+        "name": "Kubernetes",
+        "slug": "kubernetes"
+    },
+    {
+        "id": 79,
+        "name": "Cloud Foundry",
+        "slug": "cloud-foundry"
+    },
+    {
+        "id": 80,
+        "name": "Docker",
+        "slug": "docker"
+    },
+    {
+        "id": 81,
+        "name": "Microsoft Azure",
+        "slug": "microsoft-azure"
+    },
+    {
+        "id": 82,
+        "name": "AWS Lambda",
+        "slug": "aws-lambda"
+    },
+    {
+        "id": 83,
+        "name": "Cloud Computing",
+        "slug": "cloud-computing"
+    },
+    {
+        "id": 84,
+        "name": "Selenium Testing",
+        "slug": "selenium-testing"
+    },
+    {
+        "id": 85,
+        "name": "AWS",
+        "slug": "aws"
+    },
+    {
+        "id": 86,
+        "name": "Embedded C",
+        "slug": "embedded-c"
+    },
+    {
+        "id": 87,
+        "name": "RTOS",
+        "slug": "rtos"
+    },
+    {
+        "id": 88,
+        "name": "Microcontroller",
+        "slug": "microcontroller"
+    },
+    {
+        "id": 89,
+        "name": "ARM Cortex-M",
+        "slug": "arm-cortex-m"
+    },
+    {
+        "id": 90,
+        "name": "Embedded Linux",
+        "slug": "embedded-linux"
+    },
+    {
+        "id": 91,
+        "name": "Embedded Systems",
+        "slug": "embedded-systems"
+    },
+    {
+        "id": 92,
+        "name": "STM32",
+        "slug": "stm32"
+    },
+    {
+        "id": 93,
+        "name": "Rust Programming",
+        "slug": "rust-programming"
+    },
+    {
+        "id": 94,
+        "name": "AWS Certified AI Practitioner",
+        "slug": "aws-certified-ai-practitioner"
+    },
+    {
+        "id": 95,
+        "name": "Apache Kafka",
+        "slug": "apache-kafka"
+    },
+    {
+        "id": 96,
+        "name": "AWS Certified CloudOps",
+        "slug": "aws-certified-cloudops"
+    },
+    {
+        "id": 97,
+        "name": "AWS Certified DevOps Engineer",
+        "slug": "aws-certified-devops-engineer"
+    },
+    {
+        "id": 98,
+        "name": "AWS Certified Security",
+        "slug": "aws-certified-security"
+    },
+    {
+        "id": 99,
+        "name": "AWS Certified Machine Learning",
+        "slug": "aws-certified-machine-learning"
+    },
+    {
+        "id": 100,
+        "name": "AWS Certified Data Engineer",
+        "slug": "aws-certified-data-engineer"
+    },
+    {
+        "id": 101,
+        "name": "AWS Certified Generative AI",
+        "slug": "aws-certified-generative-ai"
+    },
+    {
+        "id": 102,
+        "name": "AWS Certified Solutions Architect",
+        "slug": "aws-certified-solutions-architect"
+    },
+    {
+        "id": 103,
+        "name": "AWS Certified Advanced Networking",
+        "slug": "aws-certified-advanced-networking"
+    },
+    {
+        "id": 104,
+        "name": "AWS CloudFormation",
+        "slug": "aws-cloudformation"
+    },
+    {
+        "id": 105,
+        "name": "AWS Certified Developer",
+        "slug": "aws-certified-developer"
+    },
+    {
+        "id": 106,
+        "name": "AWS Certified Cloud Practitioner",
+        "slug": "aws-certified-cloud-practitioner"
+    },
+    {
+        "id": 107,
+        "name": "Blockchain",
+        "slug": "blockchain"
+    },
+    {
+        "id": 108,
+        "name": "AZ-104",
+        "slug": "az-104"
+    },
+    {
+        "id": 109,
+        "name": "AI-901",
+        "slug": "ai-901"
+    },
+    {
+        "id": 110,
+        "name": "Software Architecture",
+        "slug": "software-architecture"
+    },
+    {
+        "id": 111,
+        "name": "GitHub Copilot",
+        "slug": "github-copilot"
+    },
+    {
+        "id": 112,
+        "name": "OpenAI",
+        "slug": "openai"
+    },
+    {
+        "id": 113,
+        "name": "Midjourney",
+        "slug": "midjourney"
+    },
+    {
+        "id": 114,
+        "name": "Deepseek",
+        "slug": "deepseek"
+    },
+    {
+        "id": 115,
+        "name": "Web Development",
+        "slug": "web-development"
+    },
+    {
+        "id": 116,
+        "name": "Git",
+        "slug": "git"
+    },
+    {
+        "id": 117,
+        "name": "Dot Net",
+        "slug": "dot-net"
+    },
+    {
+        "id": 118,
+        "name": "MySQL",
+        "slug": "mysql"
+    },
+    {
+        "id": 119,
+        "name": "Next JS",
+        "slug": "next-js"
+    },
+    {
+        "id": 120,
+        "name": "Entity Framework",
+        "slug": "entity-framework"
+    },
+    {
+        "id": 121,
+        "name": "PHP",
+        "slug": "php"
+    },
+    {
+        "id": 122,
+        "name": "Wordpress",
+        "slug": "wordpress"
+    },
+    {
+        "id": 123,
+        "name": "ASP.NET Core",
+        "slug": "asp-net-core"
+    },
+    {
+        "id": 124,
+        "name": "Responsive Design",
+        "slug": "responsive-design"
+    },
+    {
+        "id": 125,
+        "name": "3D Modeling",
+        "slug": "3d-modeling"
+    },
+    {
+        "id": 126,
+        "name": "Bootstrap",
+        "slug": "bootstrap"
+    },
+    {
+        "id": 127,
+        "name": "Blazor",
+        "slug": "blazor"
+    },
+    {
+        "id": 128,
+        "name": "C#",
+        "slug": "c"
+    },
+    {
+        "id": 129,
+        "name": "Google Gemini",
+        "slug": "google-gemini"
+    },
+    {
+        "id": 130,
+        "name": "Claude IA",
+        "slug": "claude-ia"
+    },
+    {
+        "id": 131,
+        "name": "Agentic AI",
+        "slug": "agentic-ai"
     }
 ]

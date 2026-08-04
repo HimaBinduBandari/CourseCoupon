@@ -97,5 +97,93 @@
         "bio": "",
         "website": "",
         "linkedin": ""
+    },
+    {
+        "id": 10,
+        "name": "AIGPE",
+        "slug": "aigpe",
+        "photo": "https://img-c.udemycdn.com/user/200_H/23898572_3b25_3.jpg",
+        "banner": "",
+        "designation": "",
+        "bio": "",
+        "website": "",
+        "linkedin": ""
+    },
+    {
+        "id": 11,
+        "name": "Hania Uscka-Wehlou",
+        "slug": "hania-uscka-wehlou",
+        "photo": "https://img-c.udemycdn.com/user/200_H/118736176_4c55.jpg",
+        "banner": "",
+        "designation": "",
+        "bio": "",
+        "website": "",
+        "linkedin": ""
+    },
+    {
+        "id": 12,
+        "name": "Mike X Cohen",
+        "slug": "mike-x-cohen",
+        "photo": "https://img-c.udemycdn.com/user/200_H/37969484_bca7_9.jpg",
+        "banner": "",
+        "designation": "Former professor of neuroscience",
+        "bio": "",
+        "website": "",
+        "linkedin": "https://linkedin.com/in/mikexcohen/"
+    },
+    {
+        "id": 13,
+        "name": "in28Minutes",
+        "slug": "in28minutes",
+        "photo": "https://img-c.udemycdn.com/user/200_H/13363166_a747.jpg",
+        "banner": "",
+        "designation": "",
+        "bio": "",
+        "website": "",
+        "linkedin": "https://linkedin.com/in/rangakaranam"
+    },
+    {
+        "id": 14,
+        "name": "FastBit Embedded Brain Academy",
+        "slug": "fastbit-embedded-brain-academy",
+        "photo": "https://img-c.udemycdn.com/user/200_H/16788470_446c_8.jpg",
+        "banner": "",
+        "designation": "Best selling microcontroller programming and RTOS course creators",
+        "bio": "FastBit Embedded Brain Academy have published courses on embedded C, microcontroller programming, RTOS programming, embedded Linux, and Linux device driver development.",
+        "website": "",
+        "linkedin": "https://linkedin.com/in/fastbitlab"
+    },
+    {
+        "id": 15,
+        "name": "Stephane Maarek",
+        "slug": "stephane-maarek",
+        "photo": "https://img-c.udemycdn.com/user/200_H/16122994_284f_18.jpg",
+        "banner": "",
+        "designation": "Accomplished Entrepreneur, Engineer & Consultant",
+        "bio": "Stephane is a solutions architect, consultant and software developer that has a particular interest in all things related to Cloud & Big Data. He's also a many-times best seller instructor on Udemy for his courses in AWS and Apache Kafka.",
+        "website": "",
+        "linkedin": "https://linkedin.com/in/stephanemaarek"
+    },
+    {
+        "id": 16,
+        "name": "Joan Amengual",
+        "slug": "joan-amengual",
+        "photo": "https://img-c.udemycdn.com/user/200_H/101256082_9479_28.jpg",
+        "banner": "",
+        "designation": "Cloud Computing specialist",
+        "bio": "",
+        "website": "",
+        "linkedin": "https://linkedin.com/in/joanamengual7"
+    },
+    {
+        "id": 17,
+        "name": "render2web",
+        "slug": "render2web",
+        "photo": "https://img-c.udemycdn.com/user/200_H/5396366_15d4_15.jpg",
+        "banner": "",
+        "designation": "",
+        "bio": "",
+        "website": "",
+        "linkedin": ""
     }
 ]
