@@ -653,5 +653,205 @@
         "id": 131,
         "name": "Agentic AI",
         "slug": "agentic-ai"
+    },
+    {
+        "id": 132,
+        "name": "Software Testing",
+        "slug": "software-testing"
+    },
+    {
+        "id": 133,
+        "name": "Automation Testing",
+        "slug": "automation-testing"
+    },
+    {
+        "id": 134,
+        "name": "Postman",
+        "slug": "postman"
+    },
+    {
+        "id": 135,
+        "name": "ISTQB",
+        "slug": "istqb"
+    },
+    {
+        "id": 136,
+        "name": "Azure DevOps",
+        "slug": "azure-devops"
+    },
+    {
+        "id": 137,
+        "name": "n8n",
+        "slug": "n8n"
+    },
+    {
+        "id": 138,
+        "name": "Claude",
+        "slug": "claude"
+    },
+    {
+        "id": 139,
+        "name": "Vibe Coding",
+        "slug": "vibe-coding"
+    },
+    {
+        "id": 140,
+        "name": "React",
+        "slug": "react"
+    },
+    {
+        "id": 141,
+        "name": "Flutter",
+        "slug": "flutter"
+    },
+    {
+        "id": 142,
+        "name": "Node Js",
+        "slug": "node-js"
+    },
+    {
+        "id": 143,
+        "name": "Nest Js",
+        "slug": "nest-js"
+    },
+    {
+        "id": 144,
+        "name": "JavaScript",
+        "slug": "javascript"
+    },
+    {
+        "id": 145,
+        "name": "SQL",
+        "slug": "sql"
+    },
+    {
+        "id": 146,
+        "name": "FastAPI",
+        "slug": "fastapi"
+    },
+    {
+        "id": 147,
+        "name": "SOLID Principles",
+        "slug": "solid-principles"
+    },
+    {
+        "id": 148,
+        "name": "Software Engineering",
+        "slug": "software-engineering"
+    },
+    {
+        "id": 149,
+        "name": "TypeScript",
+        "slug": "typescript"
+    },
+    {
+        "id": 150,
+        "name": "Design Patterns",
+        "slug": "design-patterns"
+    },
+    {
+        "id": 151,
+        "name": "Vue JS",
+        "slug": "vue-js"
+    },
+    {
+        "id": 152,
+        "name": "Django",
+        "slug": "django"
+    },
+    {
+        "id": 153,
+        "name": "Astro Framework",
+        "slug": "astro-framework"
+    },
+    {
+        "id": 154,
+        "name": "Nuxt js",
+        "slug": "nuxt-js"
+    },
+    {
+        "id": 155,
+        "name": "WebSocket",
+        "slug": "websocket"
+    },
+    {
+        "id": 156,
+        "name": "Go",
+        "slug": "go"
+    },
+    {
+        "id": 157,
+        "name": "Gemini",
+        "slug": "gemini"
+    },
+    {
+        "id": 158,
+        "name": "Dart",
+        "slug": "dart"
+    },
+    {
+        "id": 159,
+        "name": "GraphQL",
+        "slug": "graphql"
+    },
+    {
+        "id": 160,
+        "name": "ionic",
+        "slug": "ionic"
+    },
+    {
+        "id": 161,
+        "name": "Progressive Web App",
+        "slug": "progressive-web-app"
+    },
+    {
+        "id": 162,
+        "name": "Redux Framework",
+        "slug": "redux-framework"
+    },
+    {
+        "id": 163,
+        "name": "jQuery",
+        "slug": "jquery"
+    },
+    {
+        "id": 164,
+        "name": "App Development",
+        "slug": "app-development"
+    },
+    {
+        "id": 165,
+        "name": "Amazon AWS",
+        "slug": "amazon-aws"
+    },
+    {
+        "id": 166,
+        "name": "Agile",
+        "slug": "agile"
+    },
+    {
+        "id": 167,
+        "name": "Business Analysis",
+        "slug": "business-analysis"
+    },
+    {
+        "id": 168,
+        "name": "Scrum",
+        "slug": "scrum"
+    },
+    {
+        "id": 169,
+        "name": "ROS 2",
+        "slug": "ros-2"
+    },
+    {
+        "id": 170,
+        "name": "Robotics",
+        "slug": "robotics"
+    },
+    {
+        "id": 171,
+        "name": "Robot Operating System",
+        "slug": "robot-operating-system"
     }
 ]

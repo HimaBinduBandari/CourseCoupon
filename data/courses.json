@@ -11598,5 +11598,2480 @@
         "last_updated": "2026-08-04",
         "featured": "",
         "status": "Active"
+    },
+    {
+        "id": 466,
+        "title": "Software Testing desde 0 : MasterClass todo en 1 con IA",
+        "description": "Tu carrera como QA desde 0, pruebas ágiles, JIRA, API tests, IA en QA,Codeless Automation con Katalon, Cypress y más…",
+        "rating": 4.7,
+        "duration": "12 hours",
+        "affiliate_url": "https://trk.udemy.com/c/2758262/3227798/39854?prodsku=course.4322950&u=https://www.udemy.com/course/software-testing-desde-cero-a-expertomasterclass-todo-en-1/?couponCode=GEEK-AGO26-1",
+        "image": "https://img-c.udemycdn.com/course/480x270/4322950_c28d_4.jpg",
+        "trainer": "Esteban Balvin",
+        "trainer_slug": "esteban-balvin",
+        "category": [
+            "Software Testing"
+        ],
+        "category_slug": [
+            "software-testing"
+        ],
+        "language": "Spanish",
+        "language_slug": "spanish",
+        "coupon_code": "9.99",
+        "students": 33394,
+        "reviews": 7947,
+        "last_updated": "2026-08-05",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 467,
+        "title": "AI-powered QA: Automatización y Agentes en Software Testing",
+        "description": "Incrementa tu eficiencia en QA con ayuda de GenAI, Copilot, Gemini, MCPs, Vibetesting, Playright,CLIs, Test Agents..!",
+        "rating": 4.8,
+        "duration": "5.5 hours",
+        "affiliate_url": "https://trk.udemy.com/c/2758262/3227798/39854?prodsku=course.6905411&u=https://www.udemy.com/course/ai-powered-qa-automatizacion-y-agentes-inteligentes-en-qe/?couponCode=GEEK-AGO26-1",
+        "image": "https://img-c.udemycdn.com/course/480x270/6905411_9671_3.jpg",
+        "trainer": "Esteban Balvin",
+        "trainer_slug": "esteban-balvin",
+        "category": [
+            "Automation Testing"
+        ],
+        "category_slug": [
+            "automation-testing"
+        ],
+        "language": "Spanish",
+        "language_slug": "spanish",
+        "coupon_code": "9.99",
+        "students": 1360,
+        "reviews": 291,
+        "last_updated": "2026-08-05",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 468,
+        "title": "API Testing con POSTMAN : Masterclass todo en 1 (2026)",
+        "description": "Aprende a probar y automatizar API tests facilmente e integralos con JENKINS y AZURE DEVOPS como un Profesional.",
+        "rating": 4.7,
+        "duration": "6.5 hours",
+        "affiliate_url": "https://trk.udemy.com/c/2758262/3227798/39854?prodsku=course.4560480&u=https://www.udemy.com/course/api-testing-con-postman-masterclass-paso-a-paso/?couponCode=GEEK-AGO26-1",
+        "image": "https://img-c.udemycdn.com/course/480x270/4560480_fc56_9.jpg",
+        "trainer": "Esteban Balvin",
+        "trainer_slug": "esteban-balvin",
+        "category": [
+            "Postman"
+        ],
+        "category_slug": [
+            "postman"
+        ],
+        "language": "Spanish",
+        "language_slug": "spanish",
+        "coupon_code": "9.99",
+        "students": 13595,
+        "reviews": 3703,
+        "last_updated": "2026-08-05",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 469,
+        "title": "Entrenamiento para ISTQB CTFL [v4.0] + simuladores 2026",
+        "description": "El curso más completo ISTQB, con mapa mental, 6 quices, 2 simuladores cronometrados , recursos descargables, tips!",
+        "rating": 4.6,
+        "duration": "5 hours",
+        "affiliate_url": "https://trk.udemy.com/c/2758262/3227798/39854?prodsku=course.4777380&u=https://www.udemy.com/course/entrenamiento-para-istqb-foundation-level-ctfl/?couponCode=GEEK-AGO26-1",
+        "image": "https://img-c.udemycdn.com/course/480x270/4777380_4cf7_5.jpg",
+        "trainer": "Esteban Balvin",
+        "trainer_slug": "esteban-balvin",
+        "category": [
+            "ISTQB"
+        ],
+        "category_slug": [
+            "istqb"
+        ],
+        "language": "Spanish",
+        "language_slug": "spanish",
+        "coupon_code": "9.99",
+        "students": 4711,
+        "reviews": 1406,
+        "last_updated": "2026-08-05",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 470,
+        "title": "Software Testing avanzado : Lidera las pruebas de tu equipo",
+        "description": "Construye calidad a nivel Senior QA o Lead QA con JIRA + Zephyr + Jmeter y más! proyecto 100% práctico. (2026)",
+        "rating": 4.8,
+        "duration": "6.5 hours",
+        "affiliate_url": "https://trk.udemy.com/c/2758262/3227798/39854?prodsku=course.5212710&u=https://www.udemy.com/course/software-testing-avanzado-lidera-las-pruebas-de-tu-equipo/?couponCode=GEEK-AGO26-1",
+        "image": "https://img-c.udemycdn.com/course/480x270/5212710_c769_6.jpg",
+        "trainer": "Esteban Balvin",
+        "trainer_slug": "esteban-balvin",
+        "category": [
+            "Software Testing"
+        ],
+        "category_slug": [
+            "software-testing"
+        ],
+        "language": "Spanish",
+        "language_slug": "spanish",
+        "coupon_code": "9.99",
+        "students": 4401,
+        "reviews": 916,
+        "last_updated": "2026-08-05",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 471,
+        "title": "Azure DevOps desde 0 : Masterclass para Qas",
+        "description": "Gestiona ágilmente todo el ciclo de vida de las pruebas de un proyecto Scrum usando Azure DevOps con ejemplo práctico",
+        "rating": 4.6,
+        "duration": "6 hours",
+        "affiliate_url": "https://trk.udemy.com/c/2758262/3227798/39854?prodsku=course.4649336&u=https://www.udemy.com/course/azure-devops-desde-cero-para-testers-analistas-qa/?couponCode=GEEK-AGO26-1",
+        "image": "https://img-c.udemycdn.com/course/480x270/4649336_0798_2.jpg",
+        "trainer": "Esteban Balvin",
+        "trainer_slug": "esteban-balvin",
+        "category": [
+            "Azure DevOps"
+        ],
+        "category_slug": [
+            "azure-devops"
+        ],
+        "language": "Spanish",
+        "language_slug": "spanish",
+        "coupon_code": "9.99",
+        "students": 3881,
+        "reviews": 1251,
+        "last_updated": "2026-08-05",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 472,
+        "title": "Azure DevOps desde 0 para SCRUM MASTERS, POs y teams",
+        "description": "Aprende a gestionar ágilmente todo el ciclo de vida un proyecto Scrum usando Azure DevOps con un ejemplo práctico",
+        "rating": 4.4,
+        "duration": "3.5 hours",
+        "affiliate_url": "https://trk.udemy.com/c/2758262/3227798/39854?prodsku=course.4691944&u=https://www.udemy.com/course/azure-devops-desde-cero-para-scrum-masters-pos-y-equipos/?couponCode=GEEK-AGO26-1",
+        "image": "https://img-c.udemycdn.com/course/480x270/4691944_4803_5.jpg",
+        "trainer": "Esteban Balvin",
+        "trainer_slug": "esteban-balvin",
+        "category": [
+            "Azure DevOps"
+        ],
+        "category_slug": [
+            "azure-devops"
+        ],
+        "language": "Spanish",
+        "language_slug": "spanish",
+        "coupon_code": "9.99",
+        "students": 2532,
+        "reviews": 807,
+        "last_updated": "2026-08-05",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 473,
+        "title": "ChatGPT para profesionales en Tecnología",
+        "description": "Maximiza tu productividad con todo el poder de la inteligencia artificial. Crea prompts efectivos para roles en IT.",
+        "rating": 4.6,
+        "duration": "3.5 hours",
+        "affiliate_url": "https://trk.udemy.com/c/2758262/3227798/39854?prodsku=course.5289494&u=https://www.udemy.com/course/chatgpt-masterclass-para-profesionales-en-tecnologia/?couponCode=GEEK-AGO26-1",
+        "image": "https://img-c.udemycdn.com/course/480x270/5289494_f158_5.jpg",
+        "trainer": "Esteban Balvin",
+        "trainer_slug": "esteban-balvin",
+        "category": [
+            "ChatGPT"
+        ],
+        "category_slug": [
+            "chatgpt"
+        ],
+        "language": "Spanish",
+        "language_slug": "spanish",
+        "coupon_code": "9.99",
+        "students": 2028,
+        "reviews": 479,
+        "last_updated": "2026-08-05",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 474,
+        "title": "ChatGPT para TODOS: El mejor curso de IA para tu día a día",
+        "description": "Maximiza tu productividad con todo el poder de la inteligencia artificial. Crea prompts efectivos para tareas diarias",
+        "rating": 4.5,
+        "duration": "2 hours",
+        "affiliate_url": "https://trk.udemy.com/c/2758262/3227798/39854?prodsku=course.5320240&u=https://www.udemy.com/course/chatgpt-para-todos-el-mejor-curso-de-ia-para-tu-dia-a-dia/?couponCode=GEEK-AGO26-1",
+        "image": "https://img-c.udemycdn.com/course/480x270/5320240_1d06.jpg",
+        "trainer": "Esteban Balvin",
+        "trainer_slug": "esteban-balvin",
+        "category": [
+            "ChatGPT"
+        ],
+        "category_slug": [
+            "chatgpt"
+        ],
+        "language": "Spanish",
+        "language_slug": "spanish",
+        "coupon_code": "9.99",
+        "students": 206,
+        "reviews": 36,
+        "last_updated": "2026-08-05",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 475,
+        "title": "n8n + MCP: Automatización y agentes de IA inteligentes",
+        "description": "Whatsapp, Telegram, Bots, Ollama, Gemini, OpenAI, Google Cloud, ElevenLabs, RAG, Agentes, PostgreSQL, Ollama, Scraping",
+        "rating": 4.7,
+        "duration": "17.5 hours",
+        "affiliate_url": "https://trk.udemy.com/c/2758262/3227798/39854?prodsku=course.6772099&u=https://www.udemy.com/course/n8n-mcp-agentes/?couponCode=AGOSTO-2026",
+        "image": "https://img-c.udemycdn.com/course/480x270/6772099_276e_2.jpg",
+        "trainer": "Fernando Herrera",
+        "trainer_slug": "fernando-herrera",
+        "category": [
+            "n8n"
+        ],
+        "category_slug": [
+            "n8n"
+        ],
+        "language": "Spanish",
+        "language_slug": "spanish",
+        "coupon_code": "12.99",
+        "students": 23158,
+        "reviews": 3875,
+        "last_updated": "2026-08-05",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 476,
+        "title": "Claude Code: Guía completa para desarrolladores de software",
+        "description": "Agentes, Spec Driven, WorkTrees, Skills, MCPs, CLIs, Staging, Prod, Ollama, Hooks, Rutinas, Plugins, Comandos y más",
+        "rating": 4.8,
+        "duration": "18 hours",
+        "affiliate_url": "https://trk.udemy.com/c/2758262/3227798/39854?prodsku=course.7131927&u=https://www.udemy.com/course/claude-code-guia-completa/?couponCode=AGOSTO-2026",
+        "image": "https://img-c.udemycdn.com/course/480x270/7131927_8358_3.jpg",
+        "trainer": "Fernando Herrera",
+        "trainer_slug": "fernando-herrera",
+        "category": [
+            "Claude"
+        ],
+        "category_slug": [
+            "claude"
+        ],
+        "language": "Spanish",
+        "language_slug": "spanish",
+        "coupon_code": "12.99",
+        "students": 3796,
+        "reviews": 374,
+        "last_updated": "2026-08-05",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 477,
+        "title": "Vibe Coding: De forma responsible",
+        "description": "Programar con AI como un senior, no como un copiloto sin frenos.",
+        "rating": 4.9,
+        "duration": "4.5 hours",
+        "affiliate_url": "https://trk.udemy.com/c/2758262/3227798/39854?prodsku=course.7046487&u=https://www.udemy.com/course/vibe-coding-responsable/?couponCode=AGOSTO-2026",
+        "image": "https://img-c.udemycdn.com/course/480x270/7046487_f79f_2.jpg",
+        "trainer": "Fernando Herrera",
+        "trainer_slug": "fernando-herrera",
+        "category": [
+            "Vibe Coding"
+        ],
+        "category_slug": [
+            "vibe-coding"
+        ],
+        "language": "Spanish",
+        "language_slug": "spanish",
+        "coupon_code": "12.99",
+        "students": 2781,
+        "reviews": 353,
+        "last_updated": "2026-08-05",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 478,
+        "title": "React: De cero a experto",
+        "description": "Context API, MERN, Hooks, Firestore, JWT, Testing, Autenticaciones, Despliegues, AI, CRUD, Logs, MUI, Multiple Routers..",
+        "rating": 4.8,
+        "duration": "46 hours",
+        "affiliate_url": "https://trk.udemy.com/c/2758262/3227798/39854?prodsku=course.3096364&u=https://www.udemy.com/course/react-cero-experto/?couponCode=AGOSTO-2026",
+        "image": "https://img-c.udemycdn.com/course/480x270/3096364_6113_5.jpg",
+        "trainer": "Fernando Herrera",
+        "trainer_slug": "fernando-herrera",
+        "category": [
+            "React"
+        ],
+        "category_slug": [
+            "react"
+        ],
+        "language": "Spanish",
+        "language_slug": "spanish",
+        "coupon_code": "12.99",
+        "students": 98221,
+        "reviews": 27192,
+        "last_updated": "2026-08-05",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 479,
+        "title": "Angular: De cero a experto",
+        "description": "Signals, componentes, servicios, zoneless, mapas, autenticación, despliegues, carga de archivos, Git, GitHub y mucho más",
+        "rating": 4.8,
+        "duration": "33.5 hours",
+        "affiliate_url": "https://trk.udemy.com/c/2758262/3227798/39854?prodsku=course.3662358&u=https://www.udemy.com/course/angular-fernando-herrera/?couponCode=AGOSTO-2026",
+        "image": "https://img-c.udemycdn.com/course/480x270/3662358_4d6e_5.jpg",
+        "trainer": "Fernando Herrera",
+        "trainer_slug": "fernando-herrera",
+        "category": [
+            "Angular"
+        ],
+        "category_slug": [
+            "angular"
+        ],
+        "language": "Spanish",
+        "language_slug": "spanish",
+        "coupon_code": "12.99",
+        "students": 74199,
+        "reviews": 20212,
+        "last_updated": "2026-08-05",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 480,
+        "title": "Flutter - Móvil: De cero a experto",
+        "description": "Riverpod, BLoC, push y local notifications, DDD, cámara, videos, JWT, go_router, material 3, App Stores y más",
+        "rating": 4.8,
+        "duration": "50 hours",
+        "affiliate_url": "https://trk.udemy.com/c/2758262/3227798/39854?prodsku=course.5132066&u=https://www.udemy.com/course/flutter-cero-a-experto/?couponCode=AGOSTO-2026",
+        "image": "https://img-c.udemycdn.com/course/480x270/5132066_04b4_4.jpg",
+        "trainer": "Fernando Herrera",
+        "trainer_slug": "fernando-herrera",
+        "category": [
+            "Flutter"
+        ],
+        "category_slug": [
+            "flutter"
+        ],
+        "language": "Spanish",
+        "language_slug": "spanish",
+        "coupon_code": "12.99",
+        "students": 27458,
+        "reviews": 6287,
+        "last_updated": "2026-08-05",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 481,
+        "title": "NodeJS: De cero a experto",
+        "description": "Clean Architecture, DDD, WebHooks, WebSockets, Tareas automáticas, Despliegues, TypeScript, Edge, Testing y más",
+        "rating": 4.7,
+        "duration": "37.5 hours",
+        "affiliate_url": "https://trk.udemy.com/c/2758262/3227798/39854?prodsku=course.5500812&u=https://www.udemy.com/course/nodejs-de-cero-a-experto/?couponCode=AGOSTO-2026",
+        "image": "https://img-c.udemycdn.com/course/480x270/5500812_5acb_6.jpg",
+        "trainer": "Fernando Herrera",
+        "trainer_slug": "fernando-herrera",
+        "category": [
+            "Node Js"
+        ],
+        "category_slug": [
+            "node-js"
+        ],
+        "language": "Spanish",
+        "language_slug": "spanish",
+        "coupon_code": "12.99",
+        "students": 16594,
+        "reviews": 2734,
+        "last_updated": "2026-08-05",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 482,
+        "title": "Docker - Guía práctica de uso para desarrolladores",
+        "description": "Dockerfile, Compose, DockerHub, Registros, Despliegues, Volúmenes, Multi-staged builds, Multi architecture builds, y más",
+        "rating": 4.8,
+        "duration": "14 hours",
+        "affiliate_url": "https://trk.udemy.com/c/2758262/3227798/39854?prodsku=course.5010670&u=https://www.udemy.com/course/docker-guia-practica/?couponCode=AGOSTO-2026",
+        "image": "https://img-c.udemycdn.com/course/480x270/5010670_1ac1_2.jpg",
+        "trainer": "Fernando Herrera",
+        "trainer_slug": "fernando-herrera",
+        "category": [
+            "Docker"
+        ],
+        "category_slug": [
+            "docker"
+        ],
+        "language": "Spanish",
+        "language_slug": "spanish",
+        "coupon_code": "12.99",
+        "students": 22849,
+        "reviews": 4610,
+        "last_updated": "2026-08-05",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 483,
+        "title": "Nest: Desarrollo backend escalable con Node",
+        "description": "REST, TypeScript, Websockets, Autenticación, Authorización, Docker, Mongo, Postgres, TypeOrm,",
+        "rating": 4.9,
+        "duration": "24 hours",
+        "affiliate_url": "https://trk.udemy.com/c/2758262/3227798/39854?prodsku=course.4756420&u=https://www.udemy.com/course/nest-framework/?couponCode=AGOSTO-2026",
+        "image": "https://img-c.udemycdn.com/course/480x270/4756420_66fc_4.jpg",
+        "trainer": "Fernando Herrera",
+        "trainer_slug": "fernando-herrera",
+        "category": [
+            "Nest Js"
+        ],
+        "category_slug": [
+            "nest-js"
+        ],
+        "language": "Spanish",
+        "language_slug": "spanish",
+        "coupon_code": "12.99",
+        "students": 22277,
+        "reviews": 4789,
+        "last_updated": "2026-08-05",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 484,
+        "title": "React Native Expo: Aplicaciones nativas para IOS y Android",
+        "description": "EAS, Push Notifications, Mapas, Rutas, Haptics, Cámara, Galería, Secure Storage, GeoLocation, Google y Apple AppStore.",
+        "rating": 4.9,
+        "duration": "25.5 hours",
+        "affiliate_url": "https://trk.udemy.com/c/2758262/3227798/39854?prodsku=course.6135421&u=https://www.udemy.com/course/react-native-expo/?couponCode=AGOSTO-2026",
+        "image": "https://img-c.udemycdn.com/course/480x270/6135421_1062.jpg",
+        "trainer": "Fernando Herrera",
+        "trainer_slug": "fernando-herrera",
+        "category": [
+            "React"
+        ],
+        "category_slug": [
+            "react"
+        ],
+        "language": "Spanish",
+        "language_slug": "spanish",
+        "coupon_code": "12.99",
+        "students": 7373,
+        "reviews": 1223,
+        "last_updated": "2026-08-05",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 485,
+        "title": "GIT+GitHub: Todo un sistema de control de versiones de cero",
+        "description": "Aprende a trabajar versionando tu código de una forma segura y en equipo.",
+        "rating": 4.8,
+        "duration": "12 hours",
+        "affiliate_url": "https://trk.udemy.com/c/2758262/3227798/39854?prodsku=course.1235212&u=https://www.udemy.com/course/git-github/?couponCode=AGOSTO-2026",
+        "image": "https://img-c.udemycdn.com/course/480x270/1235212_3204_5.jpg",
+        "trainer": "Fernando Herrera",
+        "trainer_slug": "fernando-herrera",
+        "category": [
+            "Git"
+        ],
+        "category_slug": [
+            "git"
+        ],
+        "language": "Spanish",
+        "language_slug": "spanish",
+        "coupon_code": "12.99",
+        "students": 55027,
+        "reviews": 17615,
+        "last_updated": "2026-08-05",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 486,
+        "title": "JavaScript Moderno: Guía para dominar el lenguaje",
+        "description": "Clases, Propiedades privadas, Vite, ESNext, Node, Npm, Hot Reaload, CRUD, Carga de archivos y más!",
+        "rating": 4.8,
+        "duration": "20.5 hours",
+        "affiliate_url": "https://trk.udemy.com/c/2758262/3227798/39854?prodsku=course.2680160&u=https://www.udemy.com/course/javascript-fernando-herrera/?couponCode=AGOSTO-2026",
+        "image": "https://img-c.udemycdn.com/course/480x270/2680160_3375_6.jpg",
+        "trainer": "Fernando Herrera",
+        "trainer_slug": "fernando-herrera",
+        "category": [
+            "JavaScript"
+        ],
+        "category_slug": [
+            "javascript"
+        ],
+        "language": "Spanish",
+        "language_slug": "spanish",
+        "coupon_code": "12.99",
+        "students": 34952,
+        "reviews": 11802,
+        "last_updated": "2026-08-05",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 487,
+        "title": "Next.js: El framework de React para producción",
+        "description": "SSR, SSG, CSR, ISR, Middlewares, Rutas dinámicas, Next API, Next Auth, Material UI, despliegues, Cookies y más.",
+        "rating": 4.8,
+        "duration": "37 hours",
+        "affiliate_url": "https://trk.udemy.com/c/2758262/3227798/39854?prodsku=course.4510678&u=https://www.udemy.com/course/nextjs-fh/?couponCode=AGOSTO-2026",
+        "image": "https://img-c.udemycdn.com/course/480x270/4510678_1844_2.jpg",
+        "trainer": "Fernando Herrera",
+        "trainer_slug": "fernando-herrera",
+        "category": [
+            "Next JS"
+        ],
+        "category_slug": [
+            "next-js"
+        ],
+        "language": "Spanish",
+        "language_slug": "spanish",
+        "coupon_code": "12.99",
+        "students": 24571,
+        "reviews": 4505,
+        "last_updated": "2026-08-05",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 488,
+        "title": "Spring Boot 4: Arquitectura de Microservicios",
+        "description": "Spring Cloud, Docker, Kubernetes, OAuth2, RabbitMQ, Resilience4j, API Gateway y Observabilidad con OpenTelemetry/LGTM",
+        "rating": 4.8,
+        "duration": "21 hours",
+        "affiliate_url": "https://trk.udemy.com/c/2758262/3227798/39854?prodsku=course.6999371&u=https://www.udemy.com/course/spring-boot-arquitectura-microservicios/?couponCode=AGOSTO-2026",
+        "image": "https://img-c.udemycdn.com/course/480x270/6999371_a376.jpg",
+        "trainer": "Fernando Herrera",
+        "trainer_slug": "fernando-herrera",
+        "category": [
+            "Spring Boot"
+        ],
+        "category_slug": [
+            "spring-boot"
+        ],
+        "language": "Spanish",
+        "language_slug": "spanish",
+        "coupon_code": "12.99",
+        "students": 889,
+        "reviews": 100,
+        "last_updated": "2026-08-05",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 489,
+        "title": "Java: Spring Boot - Guía definitiva",
+        "description": "Backend, Seguridad, Aplicaciones monolíticas, APIs con Spring Boot, JWT, JPA, Docker, Testing, desplegando producción",
+        "rating": 4.8,
+        "duration": "35.5 hours",
+        "affiliate_url": "https://trk.udemy.com/c/2758262/3227798/39854?prodsku=course.6737997&u=https://www.udemy.com/course/java-spring-boot-guia-definitiva/?couponCode=AGOSTO-2026",
+        "image": "https://img-c.udemycdn.com/course/480x270/6737997_051e.jpg",
+        "trainer": "Fernando Herrera",
+        "trainer_slug": "fernando-herrera",
+        "category": [
+            "Spring Boot"
+        ],
+        "category_slug": [
+            "spring-boot"
+        ],
+        "language": "Spanish",
+        "language_slug": "spanish",
+        "coupon_code": "12.99",
+        "students": 2178,
+        "reviews": 200,
+        "last_updated": "2026-08-05",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 490,
+        "title": "SQL de cero: Tu guía práctica con PostgreSQL",
+        "description": "Diseño, diagrama entidad-relación, triggers, procedimientos, funciones, CTE recursivos, plpgsql y mucho más",
+        "rating": 4.8,
+        "duration": "16 hours",
+        "affiliate_url": "https://trk.udemy.com/c/2758262/3227798/39854?prodsku=course.5414772&u=https://www.udemy.com/course/sql-de-cero/?couponCode=AGOSTO-2026",
+        "image": "https://img-c.udemycdn.com/course/480x270/5414772_581d_4.jpg",
+        "trainer": "Fernando Herrera",
+        "trainer_slug": "fernando-herrera",
+        "category": [
+            "SQL"
+        ],
+        "category_slug": [
+            "sql"
+        ],
+        "language": "Spanish",
+        "language_slug": "spanish",
+        "coupon_code": "12.99",
+        "students": 9032,
+        "reviews": 1492,
+        "last_updated": "2026-08-05",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 491,
+        "title": "FastAPI: Crea APIs eficientes con Python",
+        "description": "Pydantic, Bases de datos, SQLAlchemy, SQLModel, JWT, Funciones síncronas y asíncronas, middlewares, alembic y más",
+        "rating": 4.8,
+        "duration": "36 hours",
+        "affiliate_url": "https://trk.udemy.com/c/2758262/3227798/39854?prodsku=course.6758427&u=https://www.udemy.com/course/fastapi-apis-eficientes/?couponCode=AGOSTO-2026",
+        "image": "https://img-c.udemycdn.com/course/480x270/6758427_6521.jpg",
+        "trainer": "Fernando Herrera",
+        "trainer_slug": "fernando-herrera",
+        "category": [
+            "FastAPI"
+        ],
+        "category_slug": [
+            "fastapi"
+        ],
+        "language": "Spanish",
+        "language_slug": "spanish",
+        "coupon_code": "12.99",
+        "students": 1553,
+        "reviews": 154,
+        "last_updated": "2026-08-05",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 492,
+        "title": "Principios SOLID y Clean Code",
+        "description": "Fundamentos de la arquitectura y desarrollo de software.",
+        "rating": 4.7,
+        "duration": "6.5 hours",
+        "affiliate_url": "https://trk.udemy.com/c/2758262/3227798/39854?prodsku=course.4599580&u=https://www.udemy.com/course/solid-clean/?couponCode=AGOSTO-2026",
+        "image": "https://img-c.udemycdn.com/course/480x270/4599580_2b3a_7.jpg",
+        "trainer": "Fernando Herrera",
+        "trainer_slug": "fernando-herrera",
+        "category": [
+            "SOLID Principles"
+        ],
+        "category_slug": [
+            "solid-principles"
+        ],
+        "language": "Spanish",
+        "language_slug": "spanish",
+        "coupon_code": "12.99",
+        "students": 32064,
+        "reviews": 7336,
+        "last_updated": "2026-08-05",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 493,
+        "title": "Programación para principiantes - Primeros pasos",
+        "description": "Fundamentos de programación desde cero y desarrolla tu lógica para empezar tu camino como desarrollador",
+        "rating": 4.7,
+        "duration": "8 hours",
+        "affiliate_url": "https://trk.udemy.com/c/2758262/3227798/39854?prodsku=course.1651564&u=https://www.udemy.com/course/programacion-para-principiantes/?couponCode=AGOSTO-2026",
+        "image": "https://img-c.udemycdn.com/course/480x270/1651564_846d_7.jpg",
+        "trainer": "Fernando Herrera",
+        "trainer_slug": "fernando-herrera",
+        "category": [
+            "Software Engineering"
+        ],
+        "category_slug": [
+            "software-engineering"
+        ],
+        "language": "Spanish",
+        "language_slug": "spanish",
+        "coupon_code": "12.99",
+        "students": 121176,
+        "reviews": 25332,
+        "last_updated": "2026-08-05",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 494,
+        "title": ".NET Backend: .NET Core, SQL Server y seguridad JWT",
+        "description": ".NET Core, API RESTful, SQL Server, JWT autenticación, backend profesional, Desarrollo web con C#.",
+        "rating": 4.6,
+        "duration": "11 hours",
+        "affiliate_url": "https://trk.udemy.com/c/2758262/3227798/39854?prodsku=course.6581595&u=https://www.udemy.com/course/backend-net-core/?couponCode=AGOSTO-2026",
+        "image": "https://img-c.udemycdn.com/course/480x270/6581595_e6ba.jpg",
+        "trainer": "Fernando Herrera",
+        "trainer_slug": "fernando-herrera",
+        "category": [
+            "Dot Net"
+        ],
+        "category_slug": [
+            "dot-net"
+        ],
+        "language": "Spanish",
+        "language_slug": "spanish",
+        "coupon_code": "12.99",
+        "students": 2309,
+        "reviews": 338,
+        "last_updated": "2026-08-05",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 495,
+        "title": "TypeScript: Tu completa guía y manual de mano.",
+        "description": "La base sólida que necesitas para trabajar con TypeScript",
+        "rating": 4.8,
+        "duration": "8.5 hours",
+        "affiliate_url": "https://trk.udemy.com/c/2758262/3227798/39854?prodsku=course.1033544&u=https://www.udemy.com/course/typescript-guia-completa/?couponCode=AGOSTO-2026",
+        "image": "https://img-c.udemycdn.com/course/480x270/1033544_f921_6.jpg",
+        "trainer": "Fernando Herrera",
+        "trainer_slug": "fernando-herrera",
+        "category": [
+            "TypeScript"
+        ],
+        "category_slug": [
+            "typescript"
+        ],
+        "language": "Spanish",
+        "language_slug": "spanish",
+        "coupon_code": "12.99",
+        "students": 29673,
+        "reviews": 9057,
+        "last_updated": "2026-08-05",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 496,
+        "title": "Patrones de Diseño: Soluciones prácticas y eficientes",
+        "description": "Patrones de comportamiento, estructurales y de comportamiento en TypeScript agnóstico",
+        "rating": 4.8,
+        "duration": "10 hours",
+        "affiliate_url": "https://trk.udemy.com/c/2758262/3227798/39854?prodsku=course.6295879&u=https://www.udemy.com/course/patrones-diseno/?couponCode=AGOSTO-2026",
+        "image": "https://img-c.udemycdn.com/course/480x270/6295879_fa69.jpg",
+        "trainer": "Fernando Herrera",
+        "trainer_slug": "fernando-herrera",
+        "category": [
+            "Design Patterns"
+        ],
+        "category_slug": [
+            "design-patterns"
+        ],
+        "language": "Spanish",
+        "language_slug": "spanish",
+        "coupon_code": "12.99",
+        "students": 6942,
+        "reviews": 896,
+        "last_updated": "2026-08-05",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 497,
+        "title": "Vue.js: De cero a experto",
+        "description": "Pinia, unit test, composition api, autenticación, composables, deployment, file structure, lazy load, vitest y más",
+        "rating": 4.8,
+        "duration": "37.5 hours",
+        "affiliate_url": "https://trk.udemy.com/c/2758262/3227798/39854?prodsku=course.4119364&u=https://www.udemy.com/course/vuejs-fh/?couponCode=AGOSTO-2026",
+        "image": "https://img-c.udemycdn.com/course/480x270/4119364_f59a_6.jpg",
+        "trainer": "Fernando Herrera",
+        "trainer_slug": "fernando-herrera",
+        "category": [
+            "Vue JS"
+        ],
+        "category_slug": [
+            "vue-js"
+        ],
+        "language": "Spanish",
+        "language_slug": "spanish",
+        "coupon_code": "12.99",
+        "students": 20764,
+        "reviews": 4602,
+        "last_updated": "2026-08-05",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 498,
+        "title": "Django: Crea aplicaciones web robustas con Python",
+        "description": "Model View Template, Django ORM, Django Admin, Function y Class Based Views, Middlwares, Auth, Sessions, Signals y más.",
+        "rating": 4.6,
+        "duration": "44.5 hours",
+        "affiliate_url": "https://trk.udemy.com/c/2758262/3227798/39854?prodsku=course.6581599&u=https://www.udemy.com/course/django-aplicaciones-robustas-con-python/?couponCode=AGOSTO-2026",
+        "image": "https://img-c.udemycdn.com/course/480x270/6581599_a40e_2.jpg",
+        "trainer": "Fernando Herrera",
+        "trainer_slug": "fernando-herrera",
+        "category": [
+            "Django"
+        ],
+        "category_slug": [
+            "django"
+        ],
+        "language": "Spanish",
+        "language_slug": "spanish",
+        "coupon_code": "12.99",
+        "students": 1488,
+        "reviews": 138,
+        "last_updated": "2026-08-05",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 499,
+        "title": "Angular Pro: Lleva tus bases al siguiente nivel",
+        "description": "Zoneless, Signals, Bindings, SSR, SSG, SEO, Testing, i18n, TanStack, Monorepos, NPM, Paquetes personalizados y más",
+        "rating": 4.7,
+        "duration": "21.5 hours",
+        "affiliate_url": "https://trk.udemy.com/c/2758262/3227798/39854?prodsku=course.6087649&u=https://www.udemy.com/course/angular-pro-siguiente-nivel/?couponCode=AGOSTO-2026",
+        "image": "https://img-c.udemycdn.com/course/480x270/6087649_6001_3.jpg",
+        "trainer": "Fernando Herrera",
+        "trainer_slug": "fernando-herrera",
+        "category": [
+            "Angular"
+        ],
+        "category_slug": [
+            "angular"
+        ],
+        "language": "Spanish",
+        "language_slug": "spanish",
+        "coupon_code": "12.99",
+        "students": 5256,
+        "reviews": 604,
+        "last_updated": "2026-08-05",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 500,
+        "title": "Astro: El framework para sitios web orientados al contenido",
+        "description": "Actions, Astro DB, Turso, SSG, SSR, Hybrid, Markdown, MDX, File Uploads, Integraciones, SEO, RSS, REST y más",
+        "rating": 4.8,
+        "duration": "25.5 hours",
+        "affiliate_url": "https://trk.udemy.com/c/2758262/3227798/39854?prodsku=course.6014098&u=https://www.udemy.com/course/astro-guia-completa/?couponCode=AGOSTO-2026",
+        "image": "https://img-c.udemycdn.com/course/480x270/6014098_591e_3.jpg",
+        "trainer": "Fernando Herrera",
+        "trainer_slug": "fernando-herrera",
+        "category": [
+            "Astro Framework"
+        ],
+        "category_slug": [
+            "astro-framework"
+        ],
+        "language": "Spanish",
+        "language_slug": "spanish",
+        "coupon_code": "12.99",
+        "students": 3841,
+        "reviews": 563,
+        "last_updated": "2026-08-05",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 501,
+        "title": "React PRO: Lleva tus bases al siguiente nivel",
+        "description": "Storybook, Github Actions, publicar NPM, TypeScript, patrones de componentes, PWA, Formik, formularios dinámicos y más",
+        "rating": 4.9,
+        "duration": "24.5 hours",
+        "affiliate_url": "https://trk.udemy.com/c/2758262/3227798/39854?prodsku=course.4301065&u=https://www.udemy.com/course/react-pro/?couponCode=AGOSTO-2026",
+        "image": "https://img-c.udemycdn.com/course/480x270/4301065_2e02_3.jpg",
+        "trainer": "Fernando Herrera",
+        "trainer_slug": "fernando-herrera",
+        "category": [
+            "React"
+        ],
+        "category_slug": [
+            "react"
+        ],
+        "language": "Spanish",
+        "language_slug": "spanish",
+        "coupon_code": "12.99",
+        "students": 20065,
+        "reviews": 2878,
+        "last_updated": "2026-08-05",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 502,
+        "title": "Java: Explora el lenguaje desde cero",
+        "description": "POO, estructuras, JSON, MVC, buenas prácticas, IntelliJ, Lombok, colecciones, ejemplos reales y más.",
+        "rating": 4.5,
+        "duration": "15 hours",
+        "affiliate_url": "https://trk.udemy.com/c/2758262/3227798/39854?prodsku=course.6470463&u=https://www.udemy.com/course/devtalles-java/?couponCode=AGOSTO-2026",
+        "image": "https://img-c.udemycdn.com/course/480x270/6470463_1b6a.jpg",
+        "trainer": "Fernando Herrera",
+        "trainer_slug": "fernando-herrera",
+        "category": [
+            "Java"
+        ],
+        "category_slug": [
+            "java"
+        ],
+        "language": "Spanish",
+        "language_slug": "spanish",
+        "coupon_code": "12.99",
+        "students": 2501,
+        "reviews": 437,
+        "last_updated": "2026-08-05",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 503,
+        "title": "NestJS + Microservicios: Aplicaciones escalables y modulares",
+        "description": "NATS, Webhooks, CI/CD, Git submodules, Gateways, Docker, Kubernetes, GCloud, PosstgreSQL, Mongo, SQLite",
+        "rating": 4.8,
+        "duration": "21 hours",
+        "affiliate_url": "https://trk.udemy.com/c/2758262/3227798/39854?prodsku=course.5842804&u=https://www.udemy.com/course/nestjs-microservicios/?couponCode=AGOSTO-2026",
+        "image": "https://img-c.udemycdn.com/course/480x270/5842804_a5bb_4.jpg",
+        "trainer": "Fernando Herrera",
+        "trainer_slug": "fernando-herrera",
+        "category": [
+            "Microservices"
+        ],
+        "category_slug": [
+            "microservices"
+        ],
+        "language": "Spanish",
+        "language_slug": "spanish",
+        "coupon_code": "12.99",
+        "students": 7163,
+        "reviews": 1085,
+        "last_updated": "2026-08-05",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 504,
+        "title": "Java avanzado: reactividad, concurrencia y patrones",
+        "description": "Generics, Stream, Optional, RxJava, Thread, Runnable, ExecutorsService, JDBC, Pool de conexiones, LocalDateTime y SQL",
+        "rating": 4.7,
+        "duration": "25 hours",
+        "affiliate_url": "https://trk.udemy.com/c/2758262/3227798/39854?prodsku=course.6581603&u=https://www.udemy.com/course/java-avanzado/?couponCode=AGOSTO-2026",
+        "image": "https://img-c.udemycdn.com/course/480x270/6581603_28c9_2.jpg",
+        "trainer": "Fernando Herrera",
+        "trainer_slug": "fernando-herrera",
+        "category": [
+            "Java"
+        ],
+        "category_slug": [
+            "java"
+        ],
+        "language": "Spanish",
+        "language_slug": "spanish",
+        "coupon_code": "12.99",
+        "students": 1955,
+        "reviews": 189,
+        "last_updated": "2026-08-05",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 505,
+        "title": "Angular + Sockets: Aplicaciones en tiempo real con Bun",
+        "description": "Señales, WebSockets Nativos, Tailwind, RxJs, Mapas, Chats, Subjects, Standalone, Bun, CRUD, Tipado estricto y más",
+        "rating": 4.8,
+        "duration": "14.5 hours",
+        "affiliate_url": "https://trk.udemy.com/c/2758262/3227798/39854?prodsku=course.7025719&u=https://www.udemy.com/course/angular-bun-sockets/?couponCode=AGOSTO-2026",
+        "image": "https://img-c.udemycdn.com/course/480x270/7025719_c10a.jpg",
+        "trainer": "Fernando Herrera",
+        "trainer_slug": "fernando-herrera",
+        "category": [
+            "Angular"
+        ],
+        "category_slug": [
+            "angular"
+        ],
+        "language": "Spanish",
+        "language_slug": "spanish",
+        "coupon_code": "12.99",
+        "students": 134,
+        "reviews": 8,
+        "last_updated": "2026-08-05",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 506,
+        "title": "Nuxt: El marco de trabajo web progresivo (Nuxt 4+)",
+        "description": "Server API, Middleware, Layouts, Caché, NuxtUI, Tailwind, Script Setup, Auth, Sesiones, SSR, SSG, SPA, Despliegues y más",
+        "rating": 4.9,
+        "duration": "13.5 hours",
+        "affiliate_url": "https://trk.udemy.com/c/2758262/3227798/39854?prodsku=course.6860433&u=https://www.udemy.com/course/nuxt-web-progresivo/?couponCode=AGOSTO-2026",
+        "image": "https://img-c.udemycdn.com/course/480x270/6860433_1beb.jpg",
+        "trainer": "Fernando Herrera",
+        "trainer_slug": "fernando-herrera",
+        "category": [
+            "Nuxt js"
+        ],
+        "category_slug": [
+            "nuxt-js"
+        ],
+        "language": "Spanish",
+        "language_slug": "spanish",
+        "coupon_code": "12.99",
+        "students": 427,
+        "reviews": 30,
+        "last_updated": "2026-08-05",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 507,
+        "title": "React Native CLI: Aplicaciones para IOS y Android - 2025",
+        "description": "TypeScript, React Native CLI, Google y Apple maps, cámara, GPS, polylines, hooks, autenticación, despliegues y más",
+        "rating": 4.4,
+        "duration": "33 hours",
+        "affiliate_url": "https://trk.udemy.com/c/2758262/3227798/39854?prodsku=course.3883590&u=https://www.udemy.com/course/react-native-fh/?couponCode=AGOSTO-2026",
+        "image": "https://img-c.udemycdn.com/course/480x270/3883590_69e1_4.jpg",
+        "trainer": "Fernando Herrera",
+        "trainer_slug": "fernando-herrera",
+        "category": [
+            "TypeScript"
+        ],
+        "category_slug": [
+            "typescript"
+        ],
+        "language": "Spanish",
+        "language_slug": "spanish",
+        "coupon_code": "12.99",
+        "students": 29837,
+        "reviews": 6300,
+        "last_updated": "2026-08-05",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 508,
+        "title": "Python: Fundamentos hasta los detalles",
+        "description": "Aprende python desde cero, fundamentos, estructuras, funciones, POO, errores, archivos, entornos, librerías y más.",
+        "rating": 4.7,
+        "duration": "15.5 hours",
+        "affiliate_url": "https://trk.udemy.com/c/2758262/3227798/39854?prodsku=course.6470477&u=https://www.udemy.com/course/devtalles-python/?couponCode=AGOSTO-2026",
+        "image": "https://img-c.udemycdn.com/course/480x270/6470477_de14.jpg",
+        "trainer": "Fernando Herrera",
+        "trainer_slug": "fernando-herrera",
+        "category": [
+            "Python"
+        ],
+        "category_slug": [
+            "python"
+        ],
+        "language": "Spanish",
+        "language_slug": "spanish",
+        "coupon_code": "12.99",
+        "students": 1172,
+        "reviews": 186,
+        "last_updated": "2026-08-05",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 509,
+        "title": "React+Sockets: Aplicaciones en tiempo real con Bun",
+        "description": "WebSockets, TypeScript, JWT, Cookies, Event Driven, Gráficas, Chat, Autenticación, PostgreSQL, Mapas, Sockets Nativos.",
+        "rating": 4.9,
+        "duration": "15 hours",
+        "affiliate_url": "https://trk.udemy.com/c/2758262/3227798/39854?prodsku=course.6969285&u=https://www.udemy.com/course/react-bun-websockets/?couponCode=AGOSTO-2026",
+        "image": "https://img-c.udemycdn.com/course/480x270/6969285_9866_2.jpg",
+        "trainer": "Fernando Herrera",
+        "trainer_slug": "fernando-herrera",
+        "category": [
+            "WebSocket"
+        ],
+        "category_slug": [
+            "websocket"
+        ],
+        "language": "Spanish",
+        "language_slug": "spanish",
+        "coupon_code": "12.99",
+        "students": 359,
+        "reviews": 17,
+        "last_updated": "2026-08-05",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 510,
+        "title": "GoLang: Fundamentos del lenguaje",
+        "description": "Fundamentos de Go, Funciones, Punteros, Interfaces, Generics, Manejo de errores, Paquetes, Goroutines, Channels, Mutex",
+        "rating": 4.8,
+        "duration": "23 hours",
+        "affiliate_url": "https://trk.udemy.com/c/2758262/3227798/39854?prodsku=course.7004671&u=https://www.udemy.com/course/golang-fundamentos/?couponCode=AGOSTO-2026",
+        "image": "https://img-c.udemycdn.com/course/480x270/7004671_5d54_2.jpg",
+        "trainer": "Fernando Herrera",
+        "trainer_slug": "fernando-herrera",
+        "category": [
+            "Go"
+        ],
+        "category_slug": [
+            "go"
+        ],
+        "language": "Spanish",
+        "language_slug": "spanish",
+        "coupon_code": "12.99",
+        "students": 201,
+        "reviews": 15,
+        "last_updated": "2026-08-05",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 511,
+        "title": "C#: Empieza tu camino en el lenguaje",
+        "description": "POO, LINQ, JSON, excepciones, APIs con ASP.NET Core y aplicaciones de consola.",
+        "rating": 4.6,
+        "duration": "11.5 hours",
+        "affiliate_url": "https://trk.udemy.com/c/2758262/3227798/39854?prodsku=course.6470473&u=https://www.udemy.com/course/devtalles-csharp/?couponCode=AGOSTO-2026",
+        "image": "https://img-c.udemycdn.com/course/480x270/6470473_ae06.jpg",
+        "trainer": "Fernando Herrera",
+        "trainer_slug": "fernando-herrera",
+        "category": [
+            "C#"
+        ],
+        "category_slug": [
+            "c"
+        ],
+        "language": "Spanish",
+        "language_slug": "spanish",
+        "coupon_code": "12.99",
+        "students": 843,
+        "reviews": 137,
+        "last_updated": "2026-08-05",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 512,
+        "title": "Blazor: Desde cero con arquitectura limpia",
+        "description": "Arquitectura limpia, CQRS, Entity Framework Core, Identity, Blazor (SSR, Server, WASM) y despliegue en la nube con AWS.",
+        "rating": 4.2,
+        "duration": "14 hours",
+        "affiliate_url": "https://trk.udemy.com/c/2758262/3227798/39854?prodsku=course.6758431&u=https://www.udemy.com/course/net-fullstack/?couponCode=AGOSTO-2026",
+        "image": "https://img-c.udemycdn.com/course/480x270/6758431_cbd5.jpg",
+        "trainer": "Fernando Herrera",
+        "trainer_slug": "fernando-herrera",
+        "category": [
+            "Blazor"
+        ],
+        "category_slug": [
+            "blazor"
+        ],
+        "language": "Spanish",
+        "language_slug": "spanish",
+        "coupon_code": "12.99",
+        "students": 338,
+        "reviews": 25,
+        "last_updated": "2026-08-05",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 513,
+        "title": "Flutter + Gemini: Aplicaciones con inteligencia artificial",
+        "description": "Gemini, API, Imágenes, Form multipart, NestJS, Casos de uso, Streams, Futures, JSON, Riverpod con anotaciones y más",
+        "rating": 4.8,
+        "duration": "8.5 hours",
+        "affiliate_url": "https://trk.udemy.com/c/2758262/3227798/39854?prodsku=course.6561763&u=https://www.udemy.com/course/flutter-gemini/?couponCode=AGOSTO-2026",
+        "image": "https://img-c.udemycdn.com/course/480x270/6561763_479e_3.jpg",
+        "trainer": "Fernando Herrera",
+        "trainer_slug": "fernando-herrera",
+        "category": [
+            "Gemini"
+        ],
+        "category_slug": [
+            "gemini"
+        ],
+        "language": "Spanish",
+        "language_slug": "spanish",
+        "coupon_code": "12.99",
+        "students": 995,
+        "reviews": 78,
+        "last_updated": "2026-08-05",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 514,
+        "title": "PHP moderno: Empieza tu camino en el lenguaje",
+        "description": "Fundamentos de PHP moderno, POO, APIs REST, CRUD y una introducción práctica a Laravel",
+        "rating": 4.8,
+        "duration": "10 hours",
+        "affiliate_url": "https://trk.udemy.com/c/2758262/3227798/39854?prodsku=course.6999369&u=https://www.udemy.com/course/php-moderno/?couponCode=AGOSTO-2026",
+        "image": "https://img-c.udemycdn.com/course/480x270/6999369_3c9d.jpg",
+        "trainer": "Fernando Herrera",
+        "trainer_slug": "fernando-herrera",
+        "category": [
+            "PHP"
+        ],
+        "category_slug": [
+            "php"
+        ],
+        "language": "Spanish",
+        "language_slug": "spanish",
+        "coupon_code": "12.99",
+        "students": 137,
+        "reviews": 17,
+        "last_updated": "2026-08-05",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 515,
+        "title": "Dart: De cero hasta los detalles",
+        "description": "Tu guía completa para aprender Dart sin Frameworks y darte la base que necesitas para programar utilizando este lenguaje",
+        "rating": 4.9,
+        "duration": "10 hours",
+        "affiliate_url": "https://trk.udemy.com/c/2758262/3227798/39854?prodsku=course.2431900&u=https://www.udemy.com/course/dart-de-cero-hasta-los-detalles/?couponCode=AGOSTO-2026",
+        "image": "https://img-c.udemycdn.com/course/480x270/2431900_4710_3.jpg",
+        "trainer": "Fernando Herrera",
+        "trainer_slug": "fernando-herrera",
+        "category": [
+            "Dart"
+        ],
+        "category_slug": [
+            "dart"
+        ],
+        "language": "Spanish",
+        "language_slug": "spanish",
+        "coupon_code": "12.99",
+        "students": 10135,
+        "reviews": 2937,
+        "last_updated": "2026-08-05",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 516,
+        "title": "Nest + GraphQL: Evoluciona tus APIs",
+        "description": "Autenticación, autorización, DigitalOcean, Docker, Docker Hub, code first, queries, mutations, enumeraciones y más",
+        "rating": 4.9,
+        "duration": "18.5 hours",
+        "affiliate_url": "https://trk.udemy.com/c/2758262/3227798/39854?prodsku=course.4826048&u=https://www.udemy.com/course/nest-graphql/?couponCode=AGOSTO-2026",
+        "image": "https://img-c.udemycdn.com/course/480x270/4826048_b173_2.jpg",
+        "trainer": "Fernando Herrera",
+        "trainer_slug": "fernando-herrera",
+        "category": [
+            "GraphQL"
+        ],
+        "category_slug": [
+            "graphql"
+        ],
+        "language": "Spanish",
+        "language_slug": "spanish",
+        "coupon_code": "12.99",
+        "students": 5721,
+        "reviews": 685,
+        "last_updated": "2026-08-05",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 517,
+        "title": "Flutter Avanzado: Tu conocimiento al siguiente nivel 2023",
+        "description": "sockets, bloc, provider, cubit, jwt, mongo, express, GPS, rutas en mapa, tráfico, ApplePay, GooglePay y mucho más",
+        "rating": 4.7,
+        "duration": "34.5 hours",
+        "affiliate_url": "https://trk.udemy.com/c/2758262/3227798/39854?prodsku=course.3372986&u=https://www.udemy.com/course/flutter-avanzado-fernando-herrera/?couponCode=AGOSTO-2026",
+        "image": "https://img-c.udemycdn.com/course/480x270/3372986_7a24_6.jpg",
+        "trainer": "Fernando Herrera",
+        "trainer_slug": "fernando-herrera",
+        "category": [
+            "Flutter"
+        ],
+        "category_slug": [
+            "flutter"
+        ],
+        "language": "Spanish",
+        "language_slug": "spanish",
+        "coupon_code": "12.99",
+        "students": 17780,
+        "reviews": 2775,
+        "last_updated": "2026-08-05",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 518,
+        "title": "Flutter Web: Aplicaciones y páginas web profesionales",
+        "description": "Sound null-safety, responsive design, carga de archivos, listas páginadas, admin dashboard, landing pages y mucho más",
+        "rating": 4.8,
+        "duration": "20.5 hours",
+        "affiliate_url": "https://trk.udemy.com/c/2758262/3227798/39854?prodsku=course.4001926&u=https://www.udemy.com/course/flutter-web-fh/?couponCode=AGOSTO-2026",
+        "image": "https://img-c.udemycdn.com/course/480x270/4001926_08c6_3.jpg",
+        "trainer": "Fernando Herrera",
+        "trainer_slug": "fernando-herrera",
+        "category": [
+            "Flutter"
+        ],
+        "category_slug": [
+            "flutter"
+        ],
+        "language": "Spanish",
+        "language_slug": "spanish",
+        "coupon_code": "12.99",
+        "students": 7463,
+        "reviews": 961,
+        "last_updated": "2026-08-05",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 519,
+        "title": "Flutter móvil: Recursos Nativos - Nivel intermedio",
+        "description": "AdMob, Deep-linking, giroscopio, magnetómetro, biométricos, sensores, mapas, background fetch, background tasks y más",
+        "rating": 4.9,
+        "duration": "15 hours",
+        "affiliate_url": "https://trk.udemy.com/c/2758262/3227798/39854?prodsku=course.5298250&u=https://www.udemy.com/course/flutter-movil-recursos-nativos/?couponCode=AGOSTO-2026",
+        "image": "https://img-c.udemycdn.com/course/480x270/5298250_27d0_6.jpg",
+        "trainer": "Fernando Herrera",
+        "trainer_slug": "fernando-herrera",
+        "category": [
+            "Flutter"
+        ],
+        "category_slug": [
+            "flutter"
+        ],
+        "language": "Spanish",
+        "language_slug": "spanish",
+        "coupon_code": "12.99",
+        "students": 2613,
+        "reviews": 221,
+        "last_updated": "2026-08-05",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 520,
+        "title": "Vue.js - Intermedio: Lleva tus bases al siguiente nivel",
+        "description": "Vue 3, Pinia, Vite, TypeScript, Composition API, Script Setup, Vue-Query, Quasar, Caché y más",
+        "rating": 4.8,
+        "duration": "13.5 hours",
+        "affiliate_url": "https://trk.udemy.com/c/2758262/3227798/39854?prodsku=course.4918174&u=https://www.udemy.com/course/vue-intermedio/?couponCode=AGOSTO-2026",
+        "image": "https://img-c.udemycdn.com/course/480x270/4918174_43ab_2.jpg",
+        "trainer": "Fernando Herrera",
+        "trainer_slug": "fernando-herrera",
+        "category": [
+            "Vue JS"
+        ],
+        "category_slug": [
+            "vue-js"
+        ],
+        "language": "Spanish",
+        "language_slug": "spanish",
+        "coupon_code": "12.99",
+        "students": 3194,
+        "reviews": 462,
+        "last_updated": "2026-08-05",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 521,
+        "title": "Node: De cero a experto - 2022",
+        "description": "Rest, despliegues, Heroku, Mongo, Git, GitHub, Sockets, archivos, JWT y mucho más para ser un experto en Node",
+        "rating": 4.7,
+        "duration": "29 hours",
+        "affiliate_url": "https://trk.udemy.com/c/2758262/3227798/39854?prodsku=course.1562070&u=https://www.udemy.com/course/node-de-cero-a-experto/?couponCode=AGOSTO-2026",
+        "image": "https://img-c.udemycdn.com/course/480x270/1562070_d426_3.jpg",
+        "trainer": "Fernando Herrera",
+        "trainer_slug": "fernando-herrera",
+        "category": [
+            "Node Js"
+        ],
+        "category_slug": [
+            "node-js"
+        ],
+        "language": "Spanish",
+        "language_slug": "spanish",
+        "coupon_code": "12.99",
+        "students": 67313,
+        "reviews": 19560,
+        "last_updated": "2026-08-05",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 522,
+        "title": "NestJS + Testing: Pruebas unitarias y end to end (e2e)",
+        "description": "E2E, Unit Testing, Jest, Mocks, Spies, Coverage, Mock Implementation, Custom Injections, Supertest y mucho más",
+        "rating": 4.9,
+        "duration": "12.5 hours",
+        "affiliate_url": "https://trk.udemy.com/c/2758262/3227798/39854?prodsku=course.6444225&u=https://www.udemy.com/course/nestjs-testing-e2e/?couponCode=AGOSTO-2026",
+        "image": "https://img-c.udemycdn.com/course/480x270/6444225_6cad.jpg",
+        "trainer": "Fernando Herrera",
+        "trainer_slug": "fernando-herrera",
+        "category": [
+            "Next JS"
+        ],
+        "category_slug": [
+            "next-js"
+        ],
+        "language": "Spanish",
+        "language_slug": "spanish",
+        "coupon_code": "12.99",
+        "students": 901,
+        "reviews": 74,
+        "last_updated": "2026-08-05",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 523,
+        "title": "Expo + Gemini: Aplicaciones con inteligencia artificial",
+        "description": "Gemini, API, Expo, Imágenes, Form multipart, NestJS, Casos de uso, Streams, Promesas, JSON, Zustand y más",
+        "rating": 4.6,
+        "duration": "7 hours",
+        "affiliate_url": "https://trk.udemy.com/c/2758262/3227798/39854?prodsku=course.6607153&u=https://www.udemy.com/course/expo-gemini/?couponCode=AGOSTO-2026",
+        "image": "https://img-c.udemycdn.com/course/480x270/6607153_ea30.jpg",
+        "trainer": "Fernando Herrera",
+        "trainer_slug": "fernando-herrera",
+        "category": [
+            "React"
+        ],
+        "category_slug": [
+            "react"
+        ],
+        "language": "Spanish",
+        "language_slug": "spanish",
+        "coupon_code": "12.99",
+        "students": 613,
+        "reviews": 33,
+        "last_updated": "2026-08-05",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 524,
+        "title": "OpenAI: Ejercicios y asistentes con Angular + NestJS",
+        "description": "Imágenes, modelos, audio a texto, texto a audio, asistentes, transcripciones, traducciones, librería de OpenAI y más.",
+        "rating": 4.7,
+        "duration": "11 hours",
+        "affiliate_url": "https://trk.udemy.com/c/2758262/3227798/39854?prodsku=course.5752476&u=https://www.udemy.com/course/angular-nest-openai/?couponCode=AGOSTO-2026",
+        "image": "https://img-c.udemycdn.com/course/480x270/5752476_6f5f_4.jpg",
+        "trainer": "Fernando Herrera",
+        "trainer_slug": "fernando-herrera",
+        "category": [
+            "OpenAI"
+        ],
+        "category_slug": [
+            "openai"
+        ],
+        "language": "Spanish",
+        "language_slug": "spanish",
+        "coupon_code": "12.99",
+        "students": 1603,
+        "reviews": 196,
+        "last_updated": "2026-08-05",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 525,
+        "title": "JavaScript: de cero hasta los detalles (ES5)",
+        "description": "En este poderoso lenguaje de programación web cada día más utilizado",
+        "rating": 4.6,
+        "duration": "8 hours",
+        "affiliate_url": "https://trk.udemy.com/c/2758262/3227798/39854?prodsku=course.751768&u=https://www.udemy.com/course/javascript-de-cero-hasta-los-detalles/?couponCode=AGOSTO-2026",
+        "image": "https://img-c.udemycdn.com/course/480x270/751768_27d8.jpg",
+        "trainer": "Fernando Herrera",
+        "trainer_slug": "fernando-herrera",
+        "category": [
+            "JavaScript"
+        ],
+        "category_slug": [
+            "javascript"
+        ],
+        "language": "Spanish",
+        "language_slug": "spanish",
+        "coupon_code": "12.99",
+        "students": 22646,
+        "reviews": 7519,
+        "last_updated": "2026-08-05",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 526,
+        "title": "Angular Avanzado: Lleva tus bases al siguiente nivel - 2022",
+        "description": "MEAN, Google Signin, JWT, carga de archivos, lazyload, optimizaciones, Git, GitHub, panel administrativo y mucho más.",
+        "rating": 4.9,
+        "duration": "32 hours",
+        "affiliate_url": "https://trk.udemy.com/c/2758262/3227798/39854?prodsku=course.1420028&u=https://www.udemy.com/course/angular-avanzado-fernando-herrera/?couponCode=AGOSTO-2026",
+        "image": "https://img-c.udemycdn.com/course/480x270/1420028_b32f_5.jpg",
+        "trainer": "Fernando Herrera",
+        "trainer_slug": "fernando-herrera",
+        "category": [
+            "Angular"
+        ],
+        "category_slug": [
+            "angular"
+        ],
+        "language": "Spanish",
+        "language_slug": "spanish",
+        "coupon_code": "12.99",
+        "students": 29109,
+        "reviews": 7609,
+        "last_updated": "2026-08-05",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 527,
+        "title": "ReactiveX - RxJs: De cero hasta los detalles - 2021",
+        "description": "Todo lo que necesitas saber sobre observables, subscribers, operadores y programación reactiva",
+        "rating": 4.8,
+        "duration": "9.5 hours",
+        "affiliate_url": "https://trk.udemy.com/c/2758262/3227798/39854?prodsku=course.2584992&u=https://www.udemy.com/course/rxjs-de-cero-hasta-los-detalles/?couponCode=AGOSTO-2026",
+        "image": "https://img-c.udemycdn.com/course/480x270/2584992_2ae2_3.jpg",
+        "trainer": "Fernando Herrera",
+        "trainer_slug": "fernando-herrera",
+        "category": [
+            "React"
+        ],
+        "category_slug": [
+            "react"
+        ],
+        "language": "Spanish",
+        "language_slug": "spanish",
+        "coupon_code": "12.99",
+        "students": 24259,
+        "reviews": 3374,
+        "last_updated": "2026-08-05",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 528,
+        "title": "Flutter: Tu guía completa para IOS y Android - 2022",
+        "description": "Push, Cámara, Mapas, REST API, SQLite, CRUD, Tokens, Storage, Preferencias de usuario, PlayStore, AppStore, Bloc y más!",
+        "rating": 4.7,
+        "duration": "37.5 hours",
+        "affiliate_url": "https://trk.udemy.com/c/2758262/3227798/39854?prodsku=course.2306140&u=https://www.udemy.com/course/flutter-ios-android-fernando-herrera/?couponCode=AGOSTO-2026",
+        "image": "https://img-c.udemycdn.com/course/480x270/2306140_8181_2.jpg",
+        "trainer": "Fernando Herrera",
+        "trainer_slug": "fernando-herrera",
+        "category": [
+            "Flutter"
+        ],
+        "category_slug": [
+            "flutter"
+        ],
+        "language": "Spanish",
+        "language_slug": "spanish",
+        "coupon_code": "12.99",
+        "students": 51175,
+        "reviews": 17766,
+        "last_updated": "2026-08-05",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 529,
+        "title": "Flutter Intermedio: Diseños profesionales y animaciones-2022",
+        "description": "Widgets, Sliders, CustomPainter, AnimationBuilder, Provider, Temas, Slideshow, Progress, Slivers, Tablets y más…",
+        "rating": 4.8,
+        "duration": "15.5 hours",
+        "affiliate_url": "https://trk.udemy.com/c/2758262/3227798/39854?prodsku=course.2851496&u=https://www.udemy.com/course/flutter-disenos-y-animaciones/?couponCode=AGOSTO-2026",
+        "image": "https://img-c.udemycdn.com/course/480x270/2851496_fc3c_4.jpg",
+        "trainer": "Fernando Herrera",
+        "trainer_slug": "fernando-herrera",
+        "category": [
+            "Flutter"
+        ],
+        "category_slug": [
+            "flutter"
+        ],
+        "language": "Spanish",
+        "language_slug": "spanish",
+        "coupon_code": "12.99",
+        "students": 13179,
+        "reviews": 2394,
+        "last_updated": "2026-08-05",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 530,
+        "title": "Zustand: Gestor de estado para React",
+        "description": "TypeScript, Middlewares, Firebase, Immer, Persistencia, Slices Pattern, JWTs, Autenticación, Interceptores y más",
+        "rating": 4.8,
+        "duration": "6 hours",
+        "affiliate_url": "https://trk.udemy.com/c/2758262/3227798/39854?prodsku=course.5601486&u=https://www.udemy.com/course/react-zustand/?couponCode=AGOSTO-2026",
+        "image": "https://img-c.udemycdn.com/course/480x270/5601486_7f24_4.jpg",
+        "trainer": "Fernando Herrera",
+        "trainer_slug": "fernando-herrera",
+        "category": [
+            "React"
+        ],
+        "category_slug": [
+            "react"
+        ],
+        "language": "Spanish",
+        "language_slug": "spanish",
+        "coupon_code": "12.99",
+        "students": 2037,
+        "reviews": 237,
+        "last_updated": "2026-08-05",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 531,
+        "title": "ionic 6: Crear aplicaciones IOS, Android con Angular - 2019",
+        "description": "Google Play Store, Apple App Store, PWAs, Push Notifications, despliegues en la web, tabletas y mucho más",
+        "rating": 4.8,
+        "duration": "31 hours",
+        "affiliate_url": "https://trk.udemy.com/c/2758262/3227798/39854?prodsku=course.2088520&u=https://www.udemy.com/course/ionic-ios-android-pwa-appstore-playstore-push/?couponCode=AGOSTO-2026",
+        "image": "https://img-c.udemycdn.com/course/480x270/2088520_5480.jpg",
+        "trainer": "Fernando Herrera",
+        "trainer_slug": "fernando-herrera",
+        "category": [
+            "ionic"
+        ],
+        "category_slug": [
+            "ionic"
+        ],
+        "language": "Spanish",
+        "language_slug": "spanish",
+        "coupon_code": "12.99",
+        "students": 23691,
+        "reviews": 6303,
+        "last_updated": "2026-08-05",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 532,
+        "title": "Angular: De cero a experto - 2018",
+        "description": "Todo lo que necesitas saber de angular utilizando TypeScript y buenas prácticas ofrecidas por el equipo de angular.",
+        "rating": 4.8,
+        "duration": "35.5 hours",
+        "affiliate_url": "https://trk.udemy.com/c/2758262/3227798/39854?prodsku=course.1075334&u=https://www.udemy.com/course/angular-2-fernando-herrera/?couponCode=AGOSTO-2026",
+        "image": "https://img-c.udemycdn.com/course/480x270/1075334_8b5f_4.jpg",
+        "trainer": "Fernando Herrera",
+        "trainer_slug": "fernando-herrera",
+        "category": [
+            "Angular"
+        ],
+        "category_slug": [
+            "angular"
+        ],
+        "language": "Spanish",
+        "language_slug": "spanish",
+        "coupon_code": "12.99",
+        "students": 61897,
+        "reviews": 26229,
+        "last_updated": "2026-08-05",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 533,
+        "title": "NestJs + Reportes: Genera PDFs desde Node",
+        "description": "PdfMake, Html a PDF, Temas personalizados, QR, Gráficas, paginación, encabezados, pie de página y mucho más",
+        "rating": 4.8,
+        "duration": "6.5 hours",
+        "affiliate_url": "https://trk.udemy.com/c/2758262/3227798/39854?prodsku=course.5979756&u=https://www.udemy.com/course/nestjs-reportes/?couponCode=AGOSTO-2026",
+        "image": "https://img-c.udemycdn.com/course/480x270/5979756_7c43_3.jpg",
+        "trainer": "Fernando Herrera",
+        "trainer_slug": "fernando-herrera",
+        "category": [
+            "Nest Js"
+        ],
+        "category_slug": [
+            "nest-js"
+        ],
+        "language": "Spanish",
+        "language_slug": "spanish",
+        "coupon_code": "12.99",
+        "students": 1815,
+        "reviews": 170,
+        "last_updated": "2026-08-05",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 534,
+        "title": "PL/SQL de ORACLE en Español - 2016",
+        "description": "Porque el PL/SQL puede ser fácil si se explica bien!",
+        "rating": 4.6,
+        "duration": "3.5 hours",
+        "affiliate_url": "https://trk.udemy.com/c/2758262/3227798/39854?prodsku=course.687118&u=https://www.udemy.com/course/plsql-de-oracle/?couponCode=AGOSTO-2026",
+        "image": "https://img-c.udemycdn.com/course/480x270/687118_2cf7_2.jpg",
+        "trainer": "Fernando Herrera",
+        "trainer_slug": "fernando-herrera",
+        "category": [
+            "SQL"
+        ],
+        "category_slug": [
+            "sql"
+        ],
+        "language": "Spanish",
+        "language_slug": "spanish",
+        "coupon_code": "12.99",
+        "students": 5946,
+        "reviews": 2183,
+        "last_updated": "2026-08-05",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 535,
+        "title": "OpenAI: Ejercicios prácticos y asistentes con React + NestJS",
+        "description": "Imágenes, modelos, audio a texto, texto a audio, asistentes, transcripciones, traducciones, librería de OpenAI y más.",
+        "rating": 4.9,
+        "duration": "10 hours",
+        "affiliate_url": "https://trk.udemy.com/c/2758262/3227798/39854?prodsku=course.5714490&u=https://www.udemy.com/course/react-nest-openai/?couponCode=AGOSTO-2026",
+        "image": "https://img-c.udemycdn.com/course/480x270/5714490_26d2_4.jpg",
+        "trainer": "Fernando Herrera",
+        "trainer_slug": "fernando-herrera",
+        "category": [
+            "OpenAI"
+        ],
+        "category_slug": [
+            "openai"
+        ],
+        "language": "Spanish",
+        "language_slug": "spanish",
+        "coupon_code": "12.99",
+        "students": 2220,
+        "reviews": 240,
+        "last_updated": "2026-08-05",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 536,
+        "title": "PWA - Aplicaciones Web Progresivas: De cero a experto - 2020",
+        "description": "Notificaciones PUSH, sincronización sin conexión, modos offline, instalaciones, indexedDB, push server, share y más",
+        "rating": 4.7,
+        "duration": "14.5 hours",
+        "affiliate_url": "https://trk.udemy.com/c/2758262/3227798/39854?prodsku=course.1894936&u=https://www.udemy.com/course/aplicaciones-web-progresivas/?couponCode=AGOSTO-2026",
+        "image": "https://img-c.udemycdn.com/course/480x270/1894936_31a7_4.jpg",
+        "trainer": "Fernando Herrera",
+        "trainer_slug": "fernando-herrera",
+        "category": [
+            "Progressive Web App"
+        ],
+        "category_slug": [
+            "progressive-web-app"
+        ],
+        "language": "Spanish",
+        "language_slug": "spanish",
+        "coupon_code": "12.99",
+        "students": 14653,
+        "reviews": 3672,
+        "last_updated": "2026-08-05",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 537,
+        "title": "JavaScript: ECMAScript 6 y todos sus detalles",
+        "description": "Continua tu evolución en JavaScript al estándar ES6 y aprende todo lo que esta nueva entrega tiene para ti.",
+        "rating": 4.8,
+        "duration": "6 hours",
+        "affiliate_url": "https://trk.udemy.com/c/2758262/3227798/39854?prodsku=course.866398&u=https://www.udemy.com/course/ecmascript-6-es2015/?couponCode=AGOSTO-2026",
+        "image": "https://img-c.udemycdn.com/course/480x270/866398_cd5e_6.jpg",
+        "trainer": "Fernando Herrera",
+        "trainer_slug": "fernando-herrera",
+        "category": [
+            "JavaScript"
+        ],
+        "category_slug": [
+            "javascript"
+        ],
+        "language": "Spanish",
+        "language_slug": "spanish",
+        "coupon_code": "12.99",
+        "students": 5715,
+        "reviews": 1613,
+        "last_updated": "2026-08-05",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 538,
+        "title": "REDUX en Angular con NGRX - 2022",
+        "description": "Aprendamos el patrón Redux y apliquémoslo creando aplicaciones con ngrx, store, devtools, effects, firebase y mucho más",
+        "rating": 4.7,
+        "duration": "12.5 hours",
+        "affiliate_url": "https://trk.udemy.com/c/2758262/3227798/39854?prodsku=course.1735276&u=https://www.udemy.com/course/redux-ngrx-angular/?couponCode=AGOSTO-2026",
+        "image": "https://img-c.udemycdn.com/course/480x270/1735276_4f0b_2.jpg",
+        "trainer": "Fernando Herrera",
+        "trainer_slug": "fernando-herrera",
+        "category": [
+            "Redux Framework"
+        ],
+        "category_slug": [
+            "redux-framework"
+        ],
+        "language": "Spanish",
+        "language_slug": "spanish",
+        "coupon_code": "12.99",
+        "students": 10116,
+        "reviews": 3303,
+        "last_updated": "2026-08-05",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 539,
+        "title": "React: Aplicaciones en tiempo real con Socket-io - 2023",
+        "description": "Aplicaciones de Mapas, colas, tickets de trabajo, gráficas, chat, CRUD completo en tiempo real y más…",
+        "rating": 4.9,
+        "duration": "16 hours",
+        "affiliate_url": "https://trk.udemy.com/c/2758262/3227798/39854?prodsku=course.3548798&u=https://www.udemy.com/course/react-socket-io-fernando/?couponCode=AGOSTO-2026",
+        "image": "https://img-c.udemycdn.com/course/480x270/3548798_09f7_3.jpg",
+        "trainer": "Fernando Herrera",
+        "trainer_slug": "fernando-herrera",
+        "category": [
+            "React"
+        ],
+        "category_slug": [
+            "react"
+        ],
+        "language": "Spanish",
+        "language_slug": "spanish",
+        "coupon_code": "12.99",
+        "students": 9460,
+        "reviews": 1298,
+        "last_updated": "2026-08-05",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 540,
+        "title": "Angular: Aplicaciones en tiempo real con sockets y rest-2019",
+        "description": "Sockets, express, servicios rest, git, github, CORS, gráficas, google maps, typescript, tareas, ejercicios y más",
+        "rating": 4.8,
+        "duration": "9.5 hours",
+        "affiliate_url": "https://trk.udemy.com/c/2758262/3227798/39854?prodsku=course.1996048&u=https://www.udemy.com/course/angular-aplicaciones-en-tiempo-real/?couponCode=AGOSTO-2026",
+        "image": "https://img-c.udemycdn.com/course/480x270/1996048_c0c9_2.jpg",
+        "trainer": "Fernando Herrera",
+        "trainer_slug": "fernando-herrera",
+        "category": [
+            "Angular"
+        ],
+        "category_slug": [
+            "angular"
+        ],
+        "language": "Spanish",
+        "language_slug": "spanish",
+        "coupon_code": "12.99",
+        "students": 8302,
+        "reviews": 1600,
+        "last_updated": "2026-08-05",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 541,
+        "title": "jQuery: De cero a avanzado - 2019",
+        "description": "Este curso te permitira desarrollar grandes cosas en jQuery y ayudarte en tus proyectos web de alta exigencia.",
+        "rating": 4.3,
+        "duration": "9.5 hours",
+        "affiliate_url": "https://trk.udemy.com/c/2758262/3227798/39854?prodsku=course.452264&u=https://www.udemy.com/course/jquery-de-cero-a-avanzado-mediante-ejercicios-practicos/?couponCode=AGOSTO-2026",
+        "image": "https://img-c.udemycdn.com/course/480x270/452264_a199_3.jpg",
+        "trainer": "Fernando Herrera",
+        "trainer_slug": "fernando-herrera",
+        "category": [
+            "jQuery"
+        ],
+        "category_slug": [
+            "jquery"
+        ],
+        "language": "Spanish",
+        "language_slug": "spanish",
+        "coupon_code": "12.99",
+        "students": 4870,
+        "reviews": 1191,
+        "last_updated": "2026-08-05",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 542,
+        "title": "jQuery Avanzado - 100 trucos profesionales - 2018",
+        "description": "100 Tips avanzados de jQuery, que van desde simples optimizaciones de código hasta reconocimiento de cara y mucho más!",
+        "rating": 4.9,
+        "duration": "11 hours",
+        "affiliate_url": "https://trk.udemy.com/c/2758262/3227798/39854?prodsku=course.1286938&u=https://www.udemy.com/course/jquery-avanzado-100-trucos-profesionales/?couponCode=AGOSTO-2026",
+        "image": "https://img-c.udemycdn.com/course/480x270/1286938_9b6b_2.jpg",
+        "trainer": "Fernando Herrera",
+        "trainer_slug": "fernando-herrera",
+        "category": [
+            "jQuery"
+        ],
+        "category_slug": [
+            "jquery"
+        ],
+        "language": "Spanish",
+        "language_slug": "spanish",
+        "coupon_code": "12.99",
+        "students": 3055,
+        "reviews": 508,
+        "last_updated": "2026-08-05",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 543,
+        "title": "Creando Restful services PHP-MYSQL (Codeigniter 3) - 2016",
+        "description": "API, Paginaciones, Servicios, fácil, seguro y bien explicado.",
+        "rating": 4.8,
+        "duration": "5 hours",
+        "affiliate_url": "https://trk.udemy.com/c/2758262/3227798/39854?prodsku=course.775264&u=https://www.udemy.com/course/creando-restful-services-php-mysql/?couponCode=AGOSTO-2026",
+        "image": "https://img-c.udemycdn.com/course/480x270/775264_1ddf_4.jpg",
+        "trainer": "Fernando Herrera",
+        "trainer_slug": "fernando-herrera",
+        "category": [
+            "Php"
+        ],
+        "category_slug": [
+            "php"
+        ],
+        "language": "Spanish",
+        "language_slug": "spanish",
+        "coupon_code": "12.99",
+        "students": 2008,
+        "reviews": 684,
+        "last_updated": "2026-08-05",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 544,
+        "title": "AngularJS: Desde Hola Mundo hasta una Aplicación - 2016",
+        "description": "Aprende como crear aplicaciones web con esta increíble herramienta de desarrollo potenciada por Google, AngularJS.",
+        "rating": 4.7,
+        "duration": "11.5 hours",
+        "affiliate_url": "https://trk.udemy.com/c/2758262/3227798/39854?prodsku=course.467470&u=https://www.udemy.com/course/angularjs-en-espanol/?couponCode=AGOSTO-2026",
+        "image": "https://img-c.udemycdn.com/course/480x270/467470_b749_3.jpg",
+        "trainer": "Fernando Herrera",
+        "trainer_slug": "fernando-herrera",
+        "category": [
+            "Angular"
+        ],
+        "category_slug": [
+            "angular"
+        ],
+        "language": "Spanish",
+        "language_slug": "spanish",
+        "coupon_code": "12.99",
+        "students": 5635,
+        "reviews": 2061,
+        "last_updated": "2026-08-05",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 545,
+        "title": "The Complete Android 16 Course [Part 1]-Master Java & Kotlin",
+        "description": "Learn Android App Development in both Java & Kotlin Languages. You'll master Android from ZERO to HERO",
+        "rating": 4.6,
+        "duration": "65.5 hours",
+        "affiliate_url": "https://trk.udemy.com/c/2758262/3227798/39854?prodsku=course.2549063&u=https://www.udemy.com/course/the-complete-android-10-developer-course-mastering-android/?couponCode=MASTERCODING19",
+        "image": "https://img-c.udemycdn.com/course/480x270/2549063_3daf_6.jpg",
+        "trainer": "Abbass Masri",
+        "trainer_slug": "abbass-masri",
+        "category": [
+            "App Development"
+        ],
+        "category_slug": [
+            "app-development"
+        ],
+        "language": "English",
+        "language_slug": "english",
+        "coupon_code": "12.99",
+        "students": 61879,
+        "reviews": 6789,
+        "last_updated": "2026-08-10",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 546,
+        "title": "The Complete Android 16 Course [Part 2] - Jetpack Compose",
+        "description": "Master Android App Development with Jetpack Compose: From Beginner to Advanced MVVM Architecture",
+        "rating": 4.6,
+        "duration": "28.5 hours",
+        "affiliate_url": "https://trk.udemy.com/c/2758262/3227798/39854?prodsku=course.6132383&u=https://www.udemy.com/course/android15-developer-course-part2/?couponCode=MASTERCODING19",
+        "image": "https://img-c.udemycdn.com/course/480x270/6132383_e4cc.jpg",
+        "trainer": "Abbass Masri",
+        "trainer_slug": "abbass-masri",
+        "category": [
+            "App Development"
+        ],
+        "category_slug": [
+            "app-development"
+        ],
+        "language": "English",
+        "language_slug": "english",
+        "coupon_code": "12.99",
+        "students": 2697,
+        "reviews": 279,
+        "last_updated": "2026-08-10",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 547,
+        "title": "The Complete Android 16 Course [Part 3] - Become a Master",
+        "description": "Advanced Android Development with Google Maps, Machine Learning, YOLO & TensorFlow. Become the Master",
+        "rating": 4.8,
+        "duration": "22.5 hours",
+        "affiliate_url": "https://trk.udemy.com/c/2758262/3227798/39854?prodsku=course.6940347&u=https://www.udemy.com/course/androidpart3/?couponCode=MASTERCODING19",
+        "image": "https://img-c.udemycdn.com/course/480x270/6940347_1c89_2.jpg",
+        "trainer": "Abbass Masri",
+        "trainer_slug": "abbass-masri",
+        "category": [
+            "App Development"
+        ],
+        "category_slug": [
+            "app-development"
+        ],
+        "language": "English",
+        "language_slug": "english",
+        "coupon_code": "12.99",
+        "students": 325,
+        "reviews": 10,
+        "last_updated": "2026-08-10",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 548,
+        "title": "The Complete Android 16 Course [Part 4] - Cloud Integration",
+        "description": "Android E-Commerce App with Jetpack Compose & AWS – Advanced Features & Cloud Integration",
+        "rating": 4.6,
+        "duration": "6.5 hours",
+        "affiliate_url": "https://trk.udemy.com/c/2758262/3227798/39854?prodsku=course.7133711&u=https://www.udemy.com/course/androidcoursepart4/?couponCode=MASTERCODING19",
+        "image": "https://img-c.udemycdn.com/course/480x270/7133711_5369_5.jpg",
+        "trainer": "Abbass Masri",
+        "trainer_slug": "abbass-masri",
+        "category": [
+            "Amazon AWS"
+        ],
+        "category_slug": [
+            "amazon-aws"
+        ],
+        "language": "English",
+        "language_slug": "english",
+        "coupon_code": "12.99",
+        "students": 50,
+        "reviews": 10,
+        "last_updated": "2026-08-10",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 549,
+        "title": "The Ultimate Project Management PMP Prep Course (35 PDUs)",
+        "description": "Master Project Management and Agile for your PMP or CAPM certification, with the PMBOK, Agile Practice Guide and more!",
+        "rating": 4.7,
+        "duration": "28.5 hours",
+        "affiliate_url": "https://trk.udemy.com/c/2758262/3227798/39854?prodsku=course.5188420&u=https://www.udemy.com/course/ultimate-project-management-pmp-35-pdus/?couponCode=AUG2026",
+        "image": "https://img-c.udemycdn.com/course/480x270/5188420_f239_3.jpg",
+        "trainer": "David McLachlan",
+        "trainer_slug": "david-mclachlan",
+        "category": [
+            "Project Management"
+        ],
+        "category_slug": [
+            "project-management"
+        ],
+        "language": "English",
+        "language_slug": "english",
+        "coupon_code": "12.99",
+        "students": 74633,
+        "reviews": 19426,
+        "last_updated": "2026-08-10",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 550,
+        "title": "The Ultimate Agile PMI-ACP Prep Course (28 PDUs)",
+        "description": "Learn Agile, gain 28 PDUs and prepare for your Agile Certified Practitioner (PMI-ACP) - Updated for the latest Exam",
+        "rating": 4.7,
+        "duration": "21.5 hours",
+        "affiliate_url": "https://trk.udemy.com/c/2758262/3227798/39854?prodsku=course.5622790&u=https://www.udemy.com/course/the-greatest-agile-course-ever-pmi-acp/?couponCode=AUG2026",
+        "image": "https://img-c.udemycdn.com/course/480x270/5622790_32ab_2.jpg",
+        "trainer": "David McLachlan",
+        "trainer_slug": "david-mclachlan",
+        "category": [
+            "Agile"
+        ],
+        "category_slug": [
+            "agile"
+        ],
+        "language": "English",
+        "language_slug": "english",
+        "coupon_code": "12.99",
+        "students": 11932,
+        "reviews": 2676,
+        "last_updated": "2026-08-10",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 551,
+        "title": "Business Analysis - Beginner to Master (10 PDUs)",
+        "description": "Go from Business Analyst Beginner to Master with this simple, short and powerful Business Analyst course.",
+        "rating": 4.7,
+        "duration": "5 hours",
+        "affiliate_url": "https://trk.udemy.com/c/2758262/3227798/39854?prodsku=course.6878811&u=https://www.udemy.com/course/business-analysis-mastery-including-10-pdus/?couponCode=AUG2026",
+        "image": "https://img-c.udemycdn.com/course/480x270/6878811_c5a0.jpg",
+        "trainer": "David McLachlan",
+        "trainer_slug": "david-mclachlan",
+        "category": [
+            "Business Analysis"
+        ],
+        "category_slug": [
+            "business-analysis"
+        ],
+        "language": "English",
+        "language_slug": "english",
+        "coupon_code": "12.99",
+        "students": 2177,
+        "reviews": 279,
+        "last_updated": "2026-08-10",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 552,
+        "title": "The Complete PgMP Prep Course (10 PDUs, Program Management)",
+        "description": "Learn Program Management from the Standard for Program Management (5th Ed.) and pass your PgMP Exam.",
+        "rating": 4.8,
+        "duration": "6.5 hours",
+        "affiliate_url": "https://trk.udemy.com/c/2758262/3227798/39854?prodsku=course.6995793&u=https://www.udemy.com/course/the-complete-pgmp-prep-course-program-management/?couponCode=AUG2026",
+        "image": "https://img-c.udemycdn.com/course/480x270/6995793_c401_5.jpg",
+        "trainer": "David McLachlan",
+        "trainer_slug": "david-mclachlan",
+        "category": [
+            "Project Management"
+        ],
+        "category_slug": [
+            "project-management"
+        ],
+        "language": "English",
+        "language_slug": "english",
+        "coupon_code": "12.99",
+        "students": 1175,
+        "reviews": 222,
+        "last_updated": "2026-08-10",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 553,
+        "title": "The Ultimate Product Owner: PSPO Prep Course (10 PDUs)",
+        "description": "Master the skills of Product Owners, Product Managers and pass your Professional Scrum Product Owner (PSPO) exam.",
+        "rating": 4.8,
+        "duration": "5.5 hours",
+        "affiliate_url": "https://trk.udemy.com/c/2758262/3227798/39854?prodsku=course.6941299&u=https://www.udemy.com/course/product-owner-product-manager-pspo-10-pdus/?couponCode=AUG2026",
+        "image": "https://img-c.udemycdn.com/course/480x270/6941299_aeb0_2.jpg",
+        "trainer": "David McLachlan",
+        "trainer_slug": "david-mclachlan",
+        "category": [
+            "Scrum"
+        ],
+        "category_slug": [
+            "scrum"
+        ],
+        "language": "English",
+        "language_slug": "english",
+        "coupon_code": "12.99",
+        "students": 108,
+        "reviews": 17,
+        "last_updated": "2026-08-10",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 554,
+        "title": "The Ultimate Scrum Master: PSM Exam Prep Course (10 PDUs)",
+        "description": "Go from Scrum Master beginner to expert, pass your PSM Exam and gain 10 PDUs for any PMI Certification Renewal",
+        "rating": 4.8,
+        "duration": "4.5 hours",
+        "affiliate_url": "https://trk.udemy.com/c/2758262/3227798/39854?prodsku=course.6900315&u=https://www.udemy.com/course/scrum-master-beginner-to-expert-pass-your-psm-exam-10-pdus/?couponCode=AUG2026",
+        "image": "https://img-c.udemycdn.com/course/480x270/6900315_0dd8_2.jpg",
+        "trainer": "David McLachlan",
+        "trainer_slug": "david-mclachlan",
+        "category": [
+            "Scrum"
+        ],
+        "category_slug": [
+            "scrum"
+        ],
+        "language": "English",
+        "language_slug": "english",
+        "coupon_code": "12.99",
+        "students": 226,
+        "reviews": 36,
+        "last_updated": "2026-08-10",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 555,
+        "title": "Four Full PMP Practice Exams-Pass Your PMP on the First Try!",
+        "description": "Four full PMP Practice Exams to pass your PMP on your first try - direct from the PMBOK Guide.",
+        "rating": 4.3,
+        "duration": "4 tests",
+        "affiliate_url": "https://trk.udemy.com/c/2758262/3227798/39854?prodsku=course.7182949&u=https://www.udemy.com/course/four-full-pmp-practice-exams-pass-your-pmp-on-the-first-try/?couponCode=JUN2026",
+        "image": "https://img-c.udemycdn.com/course/480x270/7182949_2d0e_4.jpg",
+        "trainer": "David McLachlan",
+        "trainer_slug": "david-mclachlan",
+        "category": [
+            "Project Management"
+        ],
+        "category_slug": [
+            "project-management"
+        ],
+        "language": "English",
+        "language_slug": "english",
+        "coupon_code": "12.99",
+        "students": 822,
+        "reviews": 41,
+        "last_updated": "2026-08-10",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 556,
+        "title": "PMP Cram Course - COMPLETE Fast Review, 2026 Exam - 12 PDUS",
+        "description": "Everything you need to pass your PMP in a short but powerful course - perfect to review before the exam!",
+        "rating": 4.6,
+        "duration": "8.5 hours",
+        "affiliate_url": "https://trk.udemy.com/c/2758262/3227798/39854?prodsku=course.7229239&u=https://www.udemy.com/course/the-best-pmp-cram-course-full-course-compressed-12-pdus/?couponCode=AUG2026",
+        "image": "https://img-c.udemycdn.com/course/480x270/7229239_c37f.jpg",
+        "trainer": "David McLachlan",
+        "trainer_slug": "david-mclachlan",
+        "category": [
+            "Project Management"
+        ],
+        "category_slug": [
+            "project-management"
+        ],
+        "language": "English",
+        "language_slug": "english",
+        "coupon_code": "12.99",
+        "students": 73,
+        "reviews": 10,
+        "last_updated": "2026-08-10",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 557,
+        "title": "Self Driving and ROS 2 - Learn by Doing! Plan & Navigation",
+        "description": "Create a ROS2 Self-Driving robot with Python and C++. Master Navigation, Planning and Decision Making with Behavior Tree",
+        "rating": 4.8,
+        "duration": "28 hours",
+        "affiliate_url": "https://trk.udemy.com/c/2758262/3227798/39854?prodsku=course.4855874&u=https://www.udemy.com/course/self-driving-and-ros-2-learn-by-doing-plan-navigation/?couponCode=AUGUST-26-LBD",
+        "image": "https://i.udemycdn.com/course/480x270/4855874_a5f5_2.jpg",
+        "trainer": "Antonio Brandi",
+        "trainer_slug": "antonio-brandi",
+        "category": [
+            "ROS 2"
+        ],
+        "category_slug": [
+            "ros-2"
+        ],
+        "language": "English",
+        "language_slug": "english",
+        "coupon_code": "12.99",
+        "students": 5235,
+        "reviews": 268,
+        "last_updated": "2026-08-10",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 558,
+        "title": "Self Driving and ROS 2 - Learn by Doing! Odometry & Control",
+        "description": "Create a ROS2 Self-Driving robot with Python and C++. Master Odometry, Control and Sensor Fusion using Kalman Filters",
+        "rating": 4.4,
+        "duration": "28.5 hours",
+        "affiliate_url": "https://trk.udemy.com/c/2758262/3227798/39854?prodsku=course.5527030&u=https://www.udemy.com/course/self-driving-and-ros-2-learn-by-doing-odometry-control/?couponCode=AUGUST-26-LBD",
+        "image": "https://i.udemycdn.com/course/480x270/5527030_aa6a_3.jpg",
+        "trainer": "Antonio Brandi",
+        "trainer_slug": "antonio-brandi",
+        "category": [
+            "ROS 2"
+        ],
+        "category_slug": [
+            "ros-2"
+        ],
+        "language": "English",
+        "language_slug": "english",
+        "coupon_code": "12.99",
+        "students": 10126,
+        "reviews": 1025,
+        "last_updated": "2026-08-10",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 559,
+        "title": "Self Driving and ROS 2 - Learn by Doing! Map & Localization",
+        "description": "Create a ROS2 Self-Driving robot with Python and C++. Master Robot Localization, Mapping and SLAM",
+        "rating": 4.6,
+        "duration": "25 hours",
+        "affiliate_url": "https://trk.udemy.com/c/2758262/3227798/39854?prodsku=course.4855856&u=https://www.udemy.com/course/self-driving-and-ros-2-learn-by-doing-map-localization/?couponCode=AUGUST-26-LBD",
+        "image": "https://i.udemycdn.com/course/480x270/4855856_3edc_2.jpg",
+        "trainer": "Antonio Brandi",
+        "trainer_slug": "antonio-brandi",
+        "category": [
+            "ROS 2"
+        ],
+        "category_slug": [
+            "ros-2"
+        ],
+        "language": "English",
+        "language_slug": "english",
+        "coupon_code": "12.99",
+        "students": 6386,
+        "reviews": 515,
+        "last_updated": "2026-08-10",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 560,
+        "title": "Computer Science & Robotics - Learn by Doing! Linux to ROS 2",
+        "description": "Master Linux, Docker, ROS 2, and Git — the essential toolkit to build, simulate, and deploy modern robots.",
+        "rating": 4.6,
+        "duration": "15.5 hours",
+        "affiliate_url": "https://trk.udemy.com/c/2758262/3227798/39854?prodsku=course.6585309&u=https://www.udemy.com/course/computer-science-robotics-learn-by-doing-linux-to-ros-2/?couponCode=AUGUST-26-LBD",
+        "image": "https://i.udemycdn.com/course/480x270/6585309_a5d8_7.jpg",
+        "trainer": "Antonio Brandi",
+        "trainer_slug": "antonio-brandi",
+        "category": [
+            "Robotics"
+        ],
+        "category_slug": [
+            "robotics"
+        ],
+        "language": "English",
+        "language_slug": "english",
+        "coupon_code": "12.99",
+        "students": 730,
+        "reviews": 58,
+        "last_updated": "2026-08-10",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 561,
+        "title": "Robotics and ROS 2 - Learn by Doing! Manipulators",
+        "description": "Create a ROS2 Manipulator Robot with Python and C++. Master Robot Control and MoveIt and use Alexa to move your robot",
+        "rating": 4.3,
+        "duration": "21.5 hours",
+        "affiliate_url": "https://trk.udemy.com/c/2758262/3227798/39854?prodsku=course.5210940&u=https://www.udemy.com/course/robotics-and-ros-2-learn-by-doing-manipulators/?couponCode=AUGUST-26-LBD",
+        "image": "https://i.udemycdn.com/course/480x270/5210940_327b_6.jpg",
+        "trainer": "Antonio Brandi",
+        "trainer_slug": "antonio-brandi",
+        "category": [
+            "Robotics"
+        ],
+        "category_slug": [
+            "robotics"
+        ],
+        "language": "English",
+        "language_slug": "english",
+        "coupon_code": "12.99",
+        "students": 9472,
+        "reviews": 879,
+        "last_updated": "2026-08-10",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 562,
+        "title": "Robotics and ROS - Learn by Doing! Manipulators",
+        "description": "Build and Control with your voice a Real Robot with ROS",
+        "rating": 4.8,
+        "duration": "15 hours",
+        "affiliate_url": "https://trk.udemy.com/c/2758262/3227798/39854?prodsku=course.4618760&u=https://www.udemy.com/course/robotics-and-ros-learn-by-doing-manipulators/?couponCode=AUGUST-26-LBD",
+        "image": "https://i.udemycdn.com/course/480x270/4618760_b663_20.jpg",
+        "trainer": "Antonio Brandi",
+        "trainer_slug": "antonio-brandi",
+        "category": [
+            "Robot Operating System"
+        ],
+        "category_slug": [
+            "robot-operating-system"
+        ],
+        "language": "English",
+        "language_slug": "english",
+        "coupon_code": "12.99",
+        "students": 2636,
+        "reviews": 235,
+        "last_updated": "2026-08-10",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 563,
+        "title": "Self Driving and ROS - Learn by Doing! Odometry & Control",
+        "description": "Create a Self-Driving robot and learn about Robot Localization and Sensor Fusion using Kalman Filters",
+        "rating": 4.7,
+        "duration": "20 hours",
+        "affiliate_url": "https://trk.udemy.com/c/2758262/3227798/39854?prodsku=course.4855872&u=https://www.udemy.com/course/self-driving-and-ros-learn-by-doing-odometry-control/?couponCode=AUGUST-26-LBD",
+        "image": "https://i.udemycdn.com/course/480x270/4855872_242e_3.jpg",
+        "trainer": "Antonio Brandi",
+        "trainer_slug": "antonio-brandi",
+        "category": [
+            "Robot Operating System"
+        ],
+        "category_slug": [
+            "robot-operating-system"
+        ],
+        "language": "English",
+        "language_slug": "english",
+        "coupon_code": "12.99",
+        "students": 4079,
+        "reviews": 239,
+        "last_updated": "2026-08-10",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 564,
+        "title": "Robotica e ROS - Learn by Doing! Manipolatori",
+        "description": "Crea e controlla con la voce un vero Robot con ROS",
+        "rating": 4.8,
+        "duration": "16 hours",
+        "affiliate_url": "https://trk.udemy.com/c/2758262/3227798/39854?prodsku=course.3656762&u=https://www.udemy.com/course/robotica-e-ros-learn-by-doing-manipolatori/?couponCode=AUGUST-26-LBD",
+        "image": "https://i.udemycdn.com/course/480x270/3656762_2922_30.jpg",
+        "trainer": "Antonio Brandi",
+        "trainer_slug": "antonio-brandi",
+        "category": [
+            "Robot Operating System"
+        ],
+        "category_slug": [
+            "robot-operating-system"
+        ],
+        "language": "Italian",
+        "language_slug": "italian",
+        "coupon_code": "12.99",
+        "students": 265,
+        "reviews": 57,
+        "last_updated": "2026-08-10",
+        "featured": "",
+        "status": "Active"
     }
 ]

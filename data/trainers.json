@@ -185,5 +185,60 @@
         "bio": "",
         "website": "",
         "linkedin": ""
+    },
+    {
+        "id": 18,
+        "name": "Esteban Balvin",
+        "slug": "esteban-balvin",
+        "photo": "https://img-c.udemycdn.com/user/200_H/174048918_1546_3.jpg",
+        "banner": "",
+        "designation": "",
+        "bio": "",
+        "website": "",
+        "linkedin": ""
+    },
+    {
+        "id": 19,
+        "name": "Fernando Herrera",
+        "slug": "fernando-herrera",
+        "photo": "https://img-c.udemycdn.com/user/200_H/11767934_4361_2.jpg",
+        "banner": "",
+        "designation": "Full-Stack Developer & Teacher",
+        "bio": "",
+        "website": "",
+        "linkedin": "https://linkedin.com/in/fernando-herrera-b6b204200/"
+    },
+    {
+        "id": 20,
+        "name": "Abbass Masri",
+        "slug": "abbass-masri",
+        "photo": "https://img-c.udemycdn.com/user/200_H/79697942_97fd.jpg",
+        "banner": "",
+        "designation": "Android App Developer",
+        "bio": "",
+        "website": "",
+        "linkedin": ""
+    },
+    {
+        "id": 21,
+        "name": "David McLachlan",
+        "slug": "david-mclachlan",
+        "photo": "https://img-c.udemycdn.com/user/200_H/24142574_6069.jpg",
+        "banner": "",
+        "designation": "Project Delivery and Agile Coach",
+        "bio": "",
+        "website": "",
+        "linkedin": ""
+    },
+    {
+        "id": 22,
+        "name": "Antonio Brandi",
+        "slug": "antonio-brandi",
+        "photo": "https://img-c.udemycdn.com/user/200_H/56447286_1dce_2.jpg",
+        "banner": "",
+        "designation": "Robot Autonomous Navigation Engineer",
+        "bio": "",
+        "website": "",
+        "linkedin": "https://linkedin.com/in/antonio-brandi-512166bb/"
     }
 ]
