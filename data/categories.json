@@ -853,5 +853,555 @@
         "id": 171,
         "name": "Robot Operating System",
         "slug": "robot-operating-system"
+    },
+    {
+        "id": 172,
+        "name": "LangGraph",
+        "slug": "langgraph"
+    },
+    {
+        "id": 173,
+        "name": "Cursor AI",
+        "slug": "cursor-ai"
+    },
+    {
+        "id": 174,
+        "name": "Amazon Bedrock",
+        "slug": "amazon-bedrock"
+    },
+    {
+        "id": 175,
+        "name": "HashiCorp",
+        "slug": "hashicorp"
+    },
+    {
+        "id": 176,
+        "name": "Terraform",
+        "slug": "terraform"
+    },
+    {
+        "id": 177,
+        "name": "Amazon S3",
+        "slug": "amazon-s3"
+    },
+    {
+        "id": 178,
+        "name": "REST API",
+        "slug": "rest-api"
+    },
+    {
+        "id": 179,
+        "name": "Pycharm",
+        "slug": "pycharm"
+    },
+    {
+        "id": 180,
+        "name": "MongoDB",
+        "slug": "mongodb"
+    },
+    {
+        "id": 181,
+        "name": "Oracle SQL",
+        "slug": "oracle-sql"
+    },
+    {
+        "id": 182,
+        "name": "Object Oriented Programming",
+        "slug": "object-oriented-programming"
+    },
+    {
+        "id": 183,
+        "name": "PCEP",
+        "slug": "pcep"
+    },
+    {
+        "id": 184,
+        "name": "IntelliJ Idea",
+        "slug": "intellij-idea"
+    },
+    {
+        "id": 185,
+        "name": "Product Management",
+        "slug": "product-management"
+    },
+    {
+        "id": 186,
+        "name": "Leadership",
+        "slug": "leadership"
+    },
+    {
+        "id": 187,
+        "name": "Social Media Marketing",
+        "slug": "social-media-marketing"
+    },
+    {
+        "id": 188,
+        "name": "Generative AI",
+        "slug": "generative-ai"
+    },
+    {
+        "id": 189,
+        "name": "Arduino",
+        "slug": "arduino"
+    },
+    {
+        "id": 190,
+        "name": "Raspberry Pi",
+        "slug": "raspberry-pi"
+    },
+    {
+        "id": 191,
+        "name": "Asp.Net",
+        "slug": "asp-net"
+    },
+    {
+        "id": 192,
+        "name": "System Design",
+        "slug": "system-design"
+    },
+    {
+        "id": 193,
+        "name": "Multithreading",
+        "slug": "multithreading"
+    },
+    {
+        "id": 194,
+        "name": "MD-102",
+        "slug": "md-102"
+    },
+    {
+        "id": 195,
+        "name": "MS-102",
+        "slug": "ms-102"
+    },
+    {
+        "id": 196,
+        "name": "SC-300",
+        "slug": "sc-300"
+    },
+    {
+        "id": 197,
+        "name": "AB-900",
+        "slug": "ab-900"
+    },
+    {
+        "id": 198,
+        "name": "SC-200",
+        "slug": "sc-200"
+    },
+    {
+        "id": 199,
+        "name": "Microsoft Intune",
+        "slug": "microsoft-intune"
+    },
+    {
+        "id": 200,
+        "name": "AZ-800",
+        "slug": "az-800"
+    },
+    {
+        "id": 201,
+        "name": "AZ-500",
+        "slug": "az-500"
+    },
+    {
+        "id": 202,
+        "name": "Microsoft Entra",
+        "slug": "microsoft-entra"
+    },
+    {
+        "id": 203,
+        "name": "Microsoft 365",
+        "slug": "microsoft-365"
+    },
+    {
+        "id": 204,
+        "name": "Microsoft Teams",
+        "slug": "microsoft-teams"
+    },
+    {
+        "id": 205,
+        "name": "SC-401",
+        "slug": "sc-401"
+    },
+    {
+        "id": 206,
+        "name": "AZ-801",
+        "slug": "az-801"
+    },
+    {
+        "id": 207,
+        "name": "AZ-140",
+        "slug": "az-140"
+    },
+    {
+        "id": 208,
+        "name": "Data Governance",
+        "slug": "data-governance"
+    },
+    {
+        "id": 209,
+        "name": "SC-900",
+        "slug": "sc-900"
+    },
+    {
+        "id": 210,
+        "name": "AZ-700",
+        "slug": "az-700"
+    },
+    {
+        "id": 211,
+        "name": "SC-100",
+        "slug": "sc-100"
+    },
+    {
+        "id": 212,
+        "name": "Microsoft Defender",
+        "slug": "microsoft-defender"
+    },
+    {
+        "id": 213,
+        "name": "Microsoft Sentinel",
+        "slug": "microsoft-sentinel"
+    },
+    {
+        "id": 214,
+        "name": "Network & Security",
+        "slug": "network-and-security"
+    },
+    {
+        "id": 215,
+        "name": "Operating Systems & Servers",
+        "slug": "operating-systems-and-servers"
+    },
+    {
+        "id": 216,
+        "name": "Windows 11",
+        "slug": "windows-11"
+    },
+    {
+        "id": 217,
+        "name": "AZ-305",
+        "slug": "az-305"
+    },
+    {
+        "id": 218,
+        "name": "Penetration Testing",
+        "slug": "penetration-testing"
+    },
+    {
+        "id": 219,
+        "name": "KQL",
+        "slug": "kql"
+    },
+    {
+        "id": 220,
+        "name": "AB-730",
+        "slug": "ab-730"
+    },
+    {
+        "id": 221,
+        "name": "AB-731",
+        "slug": "ab-731"
+    },
+    {
+        "id": 222,
+        "name": "Microsoft Copilot",
+        "slug": "microsoft-copilot"
+    },
+    {
+        "id": 223,
+        "name": "Pytest",
+        "slug": "pytest"
+    },
+    {
+        "id": 224,
+        "name": "Appium",
+        "slug": "appium"
+    },
+    {
+        "id": 225,
+        "name": "JMETER",
+        "slug": "jmeter"
+    },
+    {
+        "id": 226,
+        "name": "Grafana",
+        "slug": "grafana"
+    },
+    {
+        "id": 227,
+        "name": "Cypress",
+        "slug": "cypress"
+    },
+    {
+        "id": 228,
+        "name": "Robot Framework",
+        "slug": "robot-framework"
+    },
+    {
+        "id": 229,
+        "name": "Machine Learning",
+        "slug": "machine-learning"
+    },
+    {
+        "id": 230,
+        "name": "ETL",
+        "slug": "etl"
+    },
+    {
+        "id": 231,
+        "name": "UiPath",
+        "slug": "uipath"
+    },
+    {
+        "id": 232,
+        "name": "Data Structures",
+        "slug": "data-structures"
+    },
+    {
+        "id": 233,
+        "name": "Playwright",
+        "slug": "playwright"
+    },
+    {
+        "id": 234,
+        "name": "Jenkins",
+        "slug": "jenkins"
+    },
+    {
+        "id": 235,
+        "name": "Oracle",
+        "slug": "oracle"
+    },
+    {
+        "id": 236,
+        "name": "Openshift",
+        "slug": "openshift"
+    },
+    {
+        "id": 237,
+        "name": "Vmware",
+        "slug": "vmware"
+    },
+    {
+        "id": 238,
+        "name": "Ansible",
+        "slug": "ansible"
+    },
+    {
+        "id": 239,
+        "name": "AWS Glue",
+        "slug": "aws-glue"
+    },
+    {
+        "id": 240,
+        "name": "Hadoop",
+        "slug": "hadoop"
+    },
+    {
+        "id": 241,
+        "name": "Scala",
+        "slug": "scala"
+    },
+    {
+        "id": 242,
+        "name": "Tableau",
+        "slug": "tableau"
+    },
+    {
+        "id": 243,
+        "name": "Linux",
+        "slug": "linux"
+    },
+    {
+        "id": 244,
+        "name": "Helm",
+        "slug": "helm"
+    },
+    {
+        "id": 245,
+        "name": "MariaDB",
+        "slug": "mariadb"
+    },
+    {
+        "id": 246,
+        "name": "CSS",
+        "slug": "css"
+    },
+    {
+        "id": 247,
+        "name": "HTML",
+        "slug": "html"
+    },
+    {
+        "id": 248,
+        "name": "Visual Studio",
+        "slug": "visual-studio"
+    },
+    {
+        "id": 249,
+        "name": "Laravel",
+        "slug": "laravel"
+    },
+    {
+        "id": 250,
+        "name": "Zend Framework",
+        "slug": "zend-framework"
+    },
+    {
+        "id": 251,
+        "name": "MEAN Stack",
+        "slug": "mean-stack"
+    },
+    {
+        "id": 252,
+        "name": "Camtasia",
+        "slug": "camtasia"
+    },
+    {
+        "id": 253,
+        "name": "Symfony",
+        "slug": "symfony"
+    },
+    {
+        "id": 254,
+        "name": "OpenClaw",
+        "slug": "openclaw"
+    },
+    {
+        "id": 255,
+        "name": "Microsoft Power Automate",
+        "slug": "microsoft-power-automate"
+    },
+    {
+        "id": 256,
+        "name": "Office Productivity",
+        "slug": "office-productivity"
+    },
+    {
+        "id": 257,
+        "name": "Microsoft Fabric",
+        "slug": "microsoft-fabric"
+    },
+    {
+        "id": 258,
+        "name": "Microsoft SharePoint",
+        "slug": "microsoft-sharepoint"
+    },
+    {
+        "id": 259,
+        "name": "Supabase",
+        "slug": "supabase"
+    },
+    {
+        "id": 260,
+        "name": "Microsoft Power Platform",
+        "slug": "microsoft-power-platform"
+    },
+    {
+        "id": 261,
+        "name": "Databases",
+        "slug": "databases"
+    },
+    {
+        "id": 262,
+        "name": "Microsoft Dynamics",
+        "slug": "microsoft-dynamics"
+    },
+    {
+        "id": 263,
+        "name": "Microsoft",
+        "slug": "microsoft"
+    },
+    {
+        "id": 264,
+        "name": "Microsoft Power Apps",
+        "slug": "microsoft-power-apps"
+    },
+    {
+        "id": 265,
+        "name": "Robotic Process Automation",
+        "slug": "robotic-process-automation"
+    },
+    {
+        "id": 266,
+        "name": "No Code Development",
+        "slug": "no-code-development"
+    },
+    {
+        "id": 267,
+        "name": "Zapier",
+        "slug": "zapier"
+    },
+    {
+        "id": 268,
+        "name": "Bash Shell",
+        "slug": "bash-shell"
+    },
+    {
+        "id": 269,
+        "name": "Neural Networks",
+        "slug": "neural-networks"
+    },
+    {
+        "id": 270,
+        "name": "Time Series Analysis",
+        "slug": "time-series-analysis"
+    },
+    {
+        "id": 271,
+        "name": "Data Mining",
+        "slug": "data-mining"
+    },
+    {
+        "id": 272,
+        "name": "Big Data",
+        "slug": "big-data"
+    },
+    {
+        "id": 273,
+        "name": "LaTeX",
+        "slug": "latex"
+    },
+    {
+        "id": 274,
+        "name": "Teaching & Academics",
+        "slug": "teaching-and-academics"
+    },
+    {
+        "id": 275,
+        "name": "Natural Language Processing",
+        "slug": "natural-language-processing"
+    },
+    {
+        "id": 276,
+        "name": "AutoCAD",
+        "slug": "autocad"
+    },
+    {
+        "id": 277,
+        "name": "Revit",
+        "slug": "revit"
+    },
+    {
+        "id": 278,
+        "name": "Architectural Design",
+        "slug": "architectural-design"
+    },
+    {
+        "id": 279,
+        "name": "SketchUp",
+        "slug": "sketchup"
+    },
+    {
+        "id": 280,
+        "name": "SolidWorks",
+        "slug": "solidworks"
+    },
+    {
+        "id": 281,
+        "name": "Software Development",
+        "slug": "software-development"
     }
 ]

@@ -18,5 +18,15 @@
         "id": 4,
         "name": "Italian",
         "slug": "italian"
+    },
+    {
+        "id": 5,
+        "name": "Hindi",
+        "slug": "hindi"
+    },
+    {
+        "id": 6,
+        "name": "Portuguese",
+        "slug": "portuguese"
     }
 ]
