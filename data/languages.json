@@ -28,5 +28,10 @@
         "id": 6,
         "name": "Portuguese",
         "slug": "portuguese"
+    },
+    {
+        "id": 7,
+        "name": "Korean",
+        "slug": "korean"
     }
 ]

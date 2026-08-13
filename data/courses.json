@@ -25773,5 +25773,3230 @@
         "last_updated": "2026-08-12",
         "featured": "",
         "status": "Active"
+    },
+    {
+        "id": 1034,
+        "title": "Deep Dive iOS 26 & SwiftUI 6: 90-Hour Project-Based Course",
+        "description": "Swift, API Integration, Localization, SwiftData, Charts, MapKit, Mac Apps, Push Notifications, Machine Learning and More",
+        "rating": 4.8,
+        "duration": "88 hours",
+        "affiliate_url": "https://trk.udemy.com/c/2758262/3227798/39854?prodsku=course.4344032&u=https://www.udemy.com/course/deep-dive-ios-16-swiftui-programming/?couponCode=SUMMERLEARN7",
+        "image": "https://i.udemycdn.com/course/480x270/4344032_3c53_13.jpg",
+        "trainer": "Dr. Ron Erez",
+        "trainer_slug": "dr-ron-erez",
+        "category": [
+            "iOS Development"
+        ],
+        "category_slug": [
+            "ios-development"
+        ],
+        "language": "English",
+        "language_slug": "english",
+        "coupon_code": "9.99",
+        "students": 9152,
+        "reviews": 957,
+        "last_updated": "2026-08-13",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 1035,
+        "title": "Deep Dive Android Development using Jetpack Compose",
+        "description": "Jetpack Compose Android Tutorial: Build Practical Apps from Scratch",
+        "rating": 4.9,
+        "duration": "28.5 hours",
+        "affiliate_url": "https://trk.udemy.com/c/2758262/3227798/39854?prodsku=course.5789500&u=https://www.udemy.com/course/deep-dive-android-development-using-jetpack-compose/?couponCode=SUMMERLEARN7",
+        "image": "https://i.udemycdn.com/course/480x270/5789500_8c58_2.jpg",
+        "trainer": "Dr. Ron Erez",
+        "trainer_slug": "dr-ron-erez",
+        "category": [
+            "Android Development"
+        ],
+        "category_slug": [
+            "android-development"
+        ],
+        "language": "English",
+        "language_slug": "english",
+        "coupon_code": "9.99",
+        "students": 258,
+        "reviews": 30,
+        "last_updated": "2026-08-13",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 1036,
+        "title": "Python for Data Science: From Zero to Data Analysis",
+        "description": "Master Python for Data Manipulation, Visualization, and Introductory Machine Learning",
+        "rating": 4.6,
+        "duration": "23.5 hours",
+        "affiliate_url": "https://trk.udemy.com/c/2758262/3227798/39854?prodsku=course.6090501&u=https://www.udemy.com/course/python-foundations-for-data-science-from-zero-to-data-analy/?couponCode=SUMMERLEARN7",
+        "image": "https://i.udemycdn.com/course/480x270/6090501_3226_5.jpg",
+        "trainer": "Dr. Ron Erez",
+        "trainer_slug": "dr-ron-erez",
+        "category": [
+            "Data Science"
+        ],
+        "category_slug": [
+            "data-science"
+        ],
+        "language": "English",
+        "language_slug": "english",
+        "coupon_code": "9.99",
+        "students": 506,
+        "reviews": 61,
+        "last_updated": "2026-08-13",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 1037,
+        "title": "A Gentle Guide to Vibe Coding with Cursor AI & Google Stitch",
+        "description": "Build Python, iOS, Android, and Web Apps Step-by-Step with Cursor AI and Google Stitch",
+        "rating": 4.8,
+        "duration": "6 hours",
+        "affiliate_url": "https://trk.udemy.com/c/2758262/3227798/39854?prodsku=course.7025943&u=https://www.udemy.com/course/gentle-cursor-ai/?couponCode=SUMMERLEARN7",
+        "image": "https://i.udemycdn.com/course/480x270/7025943_ad74.jpg",
+        "trainer": "Dr. Ron Erez",
+        "trainer_slug": "dr-ron-erez",
+        "category": [
+            "Cursor AI"
+        ],
+        "category_slug": [
+            "cursor-ai"
+        ],
+        "language": "English",
+        "language_slug": "english",
+        "coupon_code": "9.99",
+        "students": 40,
+        "reviews": 5,
+        "last_updated": "2026-08-13",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 1038,
+        "title": "SpriteKit Essentials for iOS Game Development",
+        "description": "Create interactive 2D games using Swift, physics bodies, and SKActions",
+        "rating": 4.8,
+        "duration": "8.5 hours",
+        "affiliate_url": "https://trk.udemy.com/c/2758262/3227798/39854?prodsku=course.6276607&u=https://www.udemy.com/course/spritekit-essentials-for-ios-game-development-beta/?couponCode=SUMMERLEARN7",
+        "image": "https://i.udemycdn.com/course/480x270/6276607_b48c_2.jpg",
+        "trainer": "Dr. Ron Erez",
+        "trainer_slug": "dr-ron-erez",
+        "category": [
+            "App Development"
+        ],
+        "category_slug": [
+            "app-development"
+        ],
+        "language": "English",
+        "language_slug": "english",
+        "coupon_code": "9.99",
+        "students": 102,
+        "reviews": 8,
+        "last_updated": "2026-08-13",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 1039,
+        "title": "Mastering SwiftData & SwiftUI for iOS Development",
+        "description": "Harness the Power of SwiftData, Swift, and SwiftUI for Efficient iOS Data Management",
+        "rating": 4.5,
+        "duration": "16.5 hours",
+        "affiliate_url": "https://trk.udemy.com/c/2758262/3227798/39854?prodsku=course.6397007&u=https://www.udemy.com/course/mastering-swift-data-for-ios/?couponCode=SUMMERLEARN7",
+        "image": "https://i.udemycdn.com/course/480x270/6397007_a0cd_2.jpg",
+        "trainer": "Dr. Ron Erez",
+        "trainer_slug": "dr-ron-erez",
+        "category": [
+            "iOS Development"
+        ],
+        "category_slug": [
+            "ios-development"
+        ],
+        "language": "English",
+        "language_slug": "english",
+        "coupon_code": "9.99",
+        "students": 346,
+        "reviews": 30,
+        "last_updated": "2026-08-13",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 1040,
+        "title": "Linear Algebra: A Problem Based Approach",
+        "description": "Solving Cool Linear Algebra Problems like there is no tomorrow",
+        "rating": 4.7,
+        "duration": "24.5 hours",
+        "affiliate_url": "https://trk.udemy.com/c/2758262/3227798/39854?prodsku=course.4988658&u=https://www.udemy.com/course/linear-algebra-problem-based/?couponCode=SUMMERLEARN7",
+        "image": "https://i.udemycdn.com/course/480x270/4988658_ac76_2.jpg",
+        "trainer": "Dr. Ron Erez",
+        "trainer_slug": "dr-ron-erez",
+        "category": [
+            "Math"
+        ],
+        "category_slug": [
+            "math"
+        ],
+        "language": "English",
+        "language_slug": "english",
+        "coupon_code": "9.99",
+        "students": 275,
+        "reviews": 15,
+        "last_updated": "2026-08-13",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 1041,
+        "title": "Differential Equations A Problem Based Approach",
+        "description": "Solving Ordinary Differential Equations like there is no tomorrow",
+        "rating": 4.8,
+        "duration": "4 hours",
+        "affiliate_url": "https://trk.udemy.com/c/2758262/3227798/39854?prodsku=course.3042918&u=https://www.udemy.com/course/differential-equations-a-problem-based-approach/?couponCode=SUMMERLEARN7",
+        "image": "https://i.udemycdn.com/course/480x270/3042918_f8eb_2.jpg",
+        "trainer": "Dr. Ron Erez",
+        "trainer_slug": "dr-ron-erez",
+        "category": [
+            "Math"
+        ],
+        "category_slug": [
+            "math"
+        ],
+        "language": "English",
+        "language_slug": "english",
+        "coupon_code": "9.99",
+        "students": 37,
+        "reviews": 5,
+        "last_updated": "2026-08-13",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 1042,
+        "title": "SwiftUI iOS Animations: Transform Code into Motion",
+        "description": "SwiftUI Basic and Custom Animations, Phase and KeyFrame animations, Transitions, Metal, Spritekit Emitters and more",
+        "rating": 4.5,
+        "duration": "12.5 hours",
+        "affiliate_url": "https://trk.udemy.com/c/2758262/3227798/39854?prodsku=course.6287611&u=https://www.udemy.com/course/swiftui-ios-animations/?couponCode=SUMMERLEARN7",
+        "image": "https://i.udemycdn.com/course/480x270/6287611_2eb3_3.jpg",
+        "trainer": "Dr. Ron Erez",
+        "trainer_slug": "dr-ron-erez",
+        "category": [
+            "App Development"
+        ],
+        "category_slug": [
+            "app-development"
+        ],
+        "language": "English",
+        "language_slug": "english",
+        "coupon_code": "9.99",
+        "students": 222,
+        "reviews": 30,
+        "last_updated": "2026-08-13",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 1043,
+        "title": "A Gentle Introduction to Mathematics for Machine Learning",
+        "description": "Build Intuition for Math, Linear Algebra, Statistics, Probability and Python Behind Modern Machine Learning",
+        "rating": 4.1,
+        "duration": "4.5 hours",
+        "affiliate_url": "https://trk.udemy.com/c/2758262/3227798/39854?prodsku=course.6966467&u=https://www.udemy.com/course/a-gentle-introduction-to-mathematics-for-machine-learning/?couponCode=SUMMERLEARN7",
+        "image": "https://i.udemycdn.com/course/480x270/6966467_9ead.jpg",
+        "trainer": "Dr. Ron Erez",
+        "trainer_slug": "dr-ron-erez",
+        "category": [
+            "Machine Learning"
+        ],
+        "category_slug": [
+            "machine-learning"
+        ],
+        "language": "English",
+        "language_slug": "english",
+        "coupon_code": "9.99",
+        "students": 50,
+        "reviews": 5,
+        "last_updated": "2026-08-13",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 1044,
+        "title": "From Vibing with Base44 to Swift:iOS Development Made Simple",
+        "description": "From simple vibes to fully functional iOS apps",
+        "rating": 4.9,
+        "duration": "8.5 hours",
+        "affiliate_url": "https://trk.udemy.com/c/2758262/3227798/39854?prodsku=course.6794057&u=https://www.udemy.com/course/from-vibing-with-base44-to-swift-ios-development/?couponCode=SUMMERLEARN7",
+        "image": "https://i.udemycdn.com/course/480x270/6794057_2af4.jpg",
+        "trainer": "Dr. Ron Erez",
+        "trainer_slug": "dr-ron-erez",
+        "category": [
+            "No Code Development"
+        ],
+        "category_slug": [
+            "no-code-development"
+        ],
+        "language": "English",
+        "language_slug": "english",
+        "coupon_code": "9.99",
+        "students": 80,
+        "reviews": 10,
+        "last_updated": "2026-08-13",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 1045,
+        "title": "SwiftUI & Metal: Elevating Apps with Shader Techniques",
+        "description": "Explore the Art of Shaders and UI Design for Stunning App Development",
+        "rating": 4.5,
+        "duration": "8 hours",
+        "affiliate_url": "https://trk.udemy.com/c/2758262/3227798/39854?prodsku=course.5971678&u=https://www.udemy.com/course/swiftui-metal-elevating-apps-with-shader-techniques/?couponCode=SUMMERLEARN7",
+        "image": "https://i.udemycdn.com/course/480x270/5971678_ae09_6.jpg",
+        "trainer": "Dr. Ron Erez",
+        "trainer_slug": "dr-ron-erez",
+        "category": [
+            "iOS Development"
+        ],
+        "category_slug": [
+            "ios-development"
+        ],
+        "language": "English",
+        "language_slug": "english",
+        "coupon_code": "9.99",
+        "students": 335,
+        "reviews": 30,
+        "last_updated": "2026-08-13",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 1046,
+        "title": "Hands-On Calculus with Python for Data Science & ML",
+        "description": "Build a solid calculus foundation with Python to power your machine learning journey",
+        "rating": 4.8,
+        "duration": "7.5 hours",
+        "affiliate_url": "https://trk.udemy.com/c/2758262/3227798/39854?prodsku=course.6769967&u=https://www.udemy.com/course/python-calculus-for-data-science-and-machine-learning/?couponCode=SUMMERLEARN7",
+        "image": "https://i.udemycdn.com/course/480x270/6769967_eeff.jpg",
+        "trainer": "Dr. Ron Erez",
+        "trainer_slug": "dr-ron-erez",
+        "category": [
+            "Python"
+        ],
+        "category_slug": [
+            "python"
+        ],
+        "language": "English",
+        "language_slug": "english",
+        "coupon_code": "9.99",
+        "students": 50,
+        "reviews": 2,
+        "last_updated": "2026-08-13",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 1047,
+        "title": "Vibing with Base44 to Jetpack Compose: Android Development",
+        "description": "Turn Ideas into Android Apps: Build, Code, and Publish with Base44, Kotlin, and Jetpack Compose",
+        "rating": 4.8,
+        "duration": "10 hours",
+        "affiliate_url": "https://trk.udemy.com/c/2758262/3227798/39854?prodsku=course.6842255&u=https://www.udemy.com/course/vibing-with-base44-to-android/?couponCode=SUMMERLEARN7",
+        "image": "https://i.udemycdn.com/course/480x270/6842255_3e15.jpg",
+        "trainer": "Dr. Ron Erez",
+        "trainer_slug": "dr-ron-erez",
+        "category": [
+            "Vibe Coding"
+        ],
+        "category_slug": [
+            "vibe-coding"
+        ],
+        "language": "English",
+        "language_slug": "english",
+        "coupon_code": "9.99",
+        "students": 35,
+        "reviews": 5,
+        "last_updated": "2026-08-13",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 1048,
+        "title": "A Rapid Introduction To Calculus",
+        "description": "Master Essential Concepts in Calculus Quickly",
+        "rating": 4.5,
+        "duration": "8.5 hours",
+        "affiliate_url": "https://trk.udemy.com/c/2758262/3227798/39854?prodsku=course.5646094&u=https://www.udemy.com/course/rapid-calculus/?couponCode=SUMMERLEARN7",
+        "image": "https://i.udemycdn.com/course/480x270/5646094_c4a6_4.jpg",
+        "trainer": "Dr. Ron Erez",
+        "trainer_slug": "dr-ron-erez",
+        "category": [
+            "Math"
+        ],
+        "category_slug": [
+            "math"
+        ],
+        "language": "English",
+        "language_slug": "english",
+        "coupon_code": "9.99",
+        "students": 60,
+        "reviews": 5,
+        "last_updated": "2026-08-13",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 1049,
+        "title": "An Algorithmic Approach to Swift Programming",
+        "description": "Mastering Algorithms in SwiftUI: An Expert Guide to Swift Programming",
+        "rating": 4.1,
+        "duration": "18.5 hours",
+        "affiliate_url": "https://trk.udemy.com/c/2758262/3227798/39854?prodsku=course.5479714&u=https://www.udemy.com/course/an-algorithmic-approach-to-swift-programming/?couponCode=SUMMERLEARN7",
+        "image": "https://i.udemycdn.com/course/480x270/5479714_e3f7_2.jpg",
+        "trainer": "Dr. Ron Erez",
+        "trainer_slug": "dr-ron-erez",
+        "category": [
+            "iOS Development"
+        ],
+        "category_slug": [
+            "ios-development"
+        ],
+        "language": "English",
+        "language_slug": "english",
+        "coupon_code": "9.99",
+        "students": 144,
+        "reviews": 10,
+        "last_updated": "2026-08-13",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 1050,
+        "title": "PyTorch, Shiny, Pandas & More-Build Interactive Data Science",
+        "description": "Master Python Data Science by Creating Interactive Apps with Shiny, PyTorch, Pandas, Seaborn & Matplotlib",
+        "rating": 4.1,
+        "duration": "4 hours",
+        "affiliate_url": "https://trk.udemy.com/c/2758262/3227798/39854?prodsku=course.6010868&u=https://www.udemy.com/course/interactive-data-science-in-python/?couponCode=SUMMERLEARN7",
+        "image": "https://i.udemycdn.com/course/480x270/6010868_1bc1_2.jpg",
+        "trainer": "Dr. Ron Erez",
+        "trainer_slug": "dr-ron-erez",
+        "category": [
+            "Data Science"
+        ],
+        "category_slug": [
+            "data-science"
+        ],
+        "language": "English",
+        "language_slug": "english",
+        "coupon_code": "9.99",
+        "students": 20,
+        "reviews": 3,
+        "last_updated": "2026-08-13",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 1051,
+        "title": "Ultimate System Administrator Course",
+        "description": "Master Windows, Linux, Servers, Networking, Scripting, and More – Everything You Need to Become a Pro Sysadmin!",
+        "rating": 4.6,
+        "duration": "54 hours",
+        "affiliate_url": "https://trk.udemy.com/c/2758262/3227798/39854?prodsku=course.6569513&u=https://www.udemy.com/course/ultimate-system-administrator-course/?couponCode=AUG26SALE",
+        "image": "https://i.udemycdn.com/course/480x270/6569513_c492_10.jpg",
+        "trainer": "Dan Mill",
+        "trainer_slug": "dan-mill",
+        "category": [
+            "System Administrator"
+        ],
+        "category_slug": [
+            "system-administrator"
+        ],
+        "language": "English",
+        "language_slug": "english",
+        "coupon_code": "9.99",
+        "students": 6735,
+        "reviews": 985,
+        "last_updated": "2026-08-13",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 1052,
+        "title": "Ultimate IT Support Course for Technical Skills",
+        "description": "Your Guide to Mastering IT: Launch your Successful Career with 700+ Lessons",
+        "rating": 4.6,
+        "duration": "60 hours",
+        "affiliate_url": "https://trk.udemy.com/c/2758262/3227798/39854?prodsku=course.6247243&u=https://www.udemy.com/course/the-ultimate-it-administrator-course/?couponCode=AUG26SALE",
+        "image": "https://i.udemycdn.com/course/480x270/6247243_6700_7.jpg",
+        "trainer": "Dan Mill",
+        "trainer_slug": "dan-mill",
+        "category": [
+            "IT Fundamentals"
+        ],
+        "category_slug": [
+            "it-fundamentals"
+        ],
+        "language": "English",
+        "language_slug": "english",
+        "coupon_code": "9.99",
+        "students": 6356,
+        "reviews": 666,
+        "last_updated": "2026-08-13",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 1053,
+        "title": "Ultimate Network Administrator Course",
+        "description": "Hands-On Networking, Troubleshooting, Cisco, TCP/IP, and Real-World Network Admin Skills",
+        "rating": 4.7,
+        "duration": "49.5 hours",
+        "affiliate_url": "https://trk.udemy.com/c/2758262/3227798/39854?prodsku=course.6565355&u=https://www.udemy.com/course/ultimate-network-administrator-course/?couponCode=AUG26SALE",
+        "image": "https://i.udemycdn.com/course/480x270/6565355_84b8_9.jpg",
+        "trainer": "Dan Mill",
+        "trainer_slug": "dan-mill",
+        "category": [
+            "Network Administrator"
+        ],
+        "category_slug": [
+            "network-administrator"
+        ],
+        "language": "English",
+        "language_slug": "english",
+        "coupon_code": "9.99",
+        "students": 1836,
+        "reviews": 240,
+        "last_updated": "2026-08-13",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 1054,
+        "title": "IT Help Desk and Technical Support - WITH REAL EXAMPLES!",
+        "description": "Master Essential IT Support Skills with Real-World Scenarios. Your Step-by-Step Guide to Launching a Career in IT.",
+        "rating": 4.5,
+        "duration": "6.5 hours",
+        "affiliate_url": "https://trk.udemy.com/c/2758262/3227798/39854?prodsku=course.6662731&u=https://www.udemy.com/course/it-help-desk-and-technical-support-with-real-examples/?couponCode=AUG26SALE",
+        "image": "https://i.udemycdn.com/course/480x270/6662731_bb8b_6.jpg",
+        "trainer": "Dan Mill",
+        "trainer_slug": "dan-mill",
+        "category": [
+            "IT / Technical Support"
+        ],
+        "category_slug": [
+            "it-technical-support"
+        ],
+        "language": "English",
+        "language_slug": "english",
+        "coupon_code": "9.99",
+        "students": 888,
+        "reviews": 180,
+        "last_updated": "2026-08-13",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 1055,
+        "title": "Ultimate Cisco Labs Master Course",
+        "description": "Master Cisco Networking Concepts with Practical Real-World Labs Using Cisco Labs",
+        "rating": 4.9,
+        "duration": "50 hours",
+        "affiliate_url": "https://trk.udemy.com/c/2758262/3227798/39854?prodsku=course.6165441&u=https://www.udemy.com/course/hands-on-cisco-labs-master-course/?couponCode=AUG26SALE",
+        "image": "https://i.udemycdn.com/course/480x270/6165441_0e3d_8.jpg",
+        "trainer": "Dan Mill",
+        "trainer_slug": "dan-mill",
+        "category": [
+            "Cisco"
+        ],
+        "category_slug": [
+            "cisco"
+        ],
+        "language": "English",
+        "language_slug": "english",
+        "coupon_code": "9.99",
+        "students": 2913,
+        "reviews": 107,
+        "last_updated": "2026-08-13",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 1056,
+        "title": "VoIP Systems for Beginners (Voice over Internet Protocol)",
+        "description": "Mastering VoIP: Unlocking the Power of Internet-Based Telephony through Comprehensive Training",
+        "rating": 4.7,
+        "duration": "9 hours",
+        "affiliate_url": "https://trk.udemy.com/c/2758262/3227798/39854?prodsku=course.6003350&u=https://www.udemy.com/course/mastering-voip/?couponCode=AUG26SALE",
+        "image": "https://i.udemycdn.com/course/480x270/6003350_a4c9_5.jpg",
+        "trainer": "Dan Mill",
+        "trainer_slug": "dan-mill",
+        "category": [
+            "Network & Security"
+        ],
+        "category_slug": [
+            "network-and-security"
+        ],
+        "language": "English",
+        "language_slug": "english",
+        "coupon_code": "9.99",
+        "students": 4068,
+        "reviews": 501,
+        "last_updated": "2026-08-13",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 1057,
+        "title": "IT Support Skills Fundamentals for 2026",
+        "description": "Master the Essential Skills to Succeed in IT Support and Helpdesk Roles",
+        "rating": 4.5,
+        "duration": "14 hours",
+        "affiliate_url": "https://trk.udemy.com/c/2758262/3227798/39854?prodsku=course.6409133&u=https://www.udemy.com/course/it-support-skills/?couponCode=AUG26SALE",
+        "image": "https://i.udemycdn.com/course/480x270/6409133_3316.jpg",
+        "trainer": "Dan Mill",
+        "trainer_slug": "dan-mill",
+        "category": [
+            "IT / Technical Support"
+        ],
+        "category_slug": [
+            "it-technical-support"
+        ],
+        "language": "English",
+        "language_slug": "english",
+        "coupon_code": "9.99",
+        "students": 712,
+        "reviews": 100,
+        "last_updated": "2026-08-13",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 1058,
+        "title": "Windows Server 2025 - Beginners Guide and Hands on Labs",
+        "description": "Learn Windows Server 2025 from Scratch – Install, Configure, and Manage with Real Hands-On Labs",
+        "rating": 4.7,
+        "duration": "12 hours",
+        "affiliate_url": "https://trk.udemy.com/c/2758262/3227798/39854?prodsku=course.6598013&u=https://www.udemy.com/course/windows-server-2025-beginners-guide/?couponCode=AUG26SALE",
+        "image": "https://i.udemycdn.com/course/480x270/6598013_4a53_7.jpg",
+        "trainer": "Dan Mill",
+        "trainer_slug": "dan-mill",
+        "category": [
+            "Operating Systems & Servers"
+        ],
+        "category_slug": [
+            "operating-systems-and-servers"
+        ],
+        "language": "English",
+        "language_slug": "english",
+        "coupon_code": "9.99",
+        "students": 623,
+        "reviews": 80,
+        "last_updated": "2026-08-13",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 1059,
+        "title": "AI for System Administrators",
+        "description": "Mastering AI for Enhanced IT Operations with Practical Examples and Real-World Applications",
+        "rating": 4.4,
+        "duration": "5 hours",
+        "affiliate_url": "https://trk.udemy.com/c/2758262/3227798/39854?prodsku=course.6080941&u=https://www.udemy.com/course/chatgpt-for-it-professionals-crash-course/?couponCode=AUG26SALE",
+        "image": "https://i.udemycdn.com/course/480x270/6080941_cb64_5.jpg",
+        "trainer": "Dan Mill",
+        "trainer_slug": "dan-mill",
+        "category": [
+            "ChatGPT"
+        ],
+        "category_slug": [
+            "chatgpt"
+        ],
+        "language": "English",
+        "language_slug": "english",
+        "coupon_code": "9.99",
+        "students": 984,
+        "reviews": 95,
+        "last_updated": "2026-08-13",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 1060,
+        "title": "Ultimate Linux Administrator Course",
+        "description": "Master Debian, Ubuntu, Rocky Linux, Almalinux, ZFS, and More! Build a Strong Foundation in Linux System Administration",
+        "rating": 4.6,
+        "duration": "25.5 hours",
+        "affiliate_url": "https://trk.udemy.com/c/2758262/3227798/39854?prodsku=course.6291687&u=https://www.udemy.com/course/linux-fundamentals-debian-ubuntu-zfs-and-glusterfs/?couponCode=AUG26SALE",
+        "image": "https://i.udemycdn.com/course/480x270/6291687_1812_7.jpg",
+        "trainer": "Dan Mill",
+        "trainer_slug": "dan-mill",
+        "category": [
+            "Linux"
+        ],
+        "category_slug": [
+            "linux"
+        ],
+        "language": "English",
+        "language_slug": "english",
+        "coupon_code": "9.99",
+        "students": 2615,
+        "reviews": 49,
+        "last_updated": "2026-08-13",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 1061,
+        "title": "Ultimate 2026 Cisco CCNA Packet Tracer Networking Labs",
+        "description": "Comprehensive and Practical Labs for Building and Troubleshooting Complex Networks. The Ultimate Course!",
+        "rating": 4.7,
+        "duration": "37 hours",
+        "affiliate_url": "https://trk.udemy.com/c/2758262/3227798/39854?prodsku=course.6022252&u=https://www.udemy.com/course/mastering-cisco-packet-tracer/?couponCode=AUG26SALE",
+        "image": "https://i.udemycdn.com/course/480x270/6022252_be1f_5.jpg",
+        "trainer": "Dan Mill",
+        "trainer_slug": "dan-mill",
+        "category": [
+            "Network & Security"
+        ],
+        "category_slug": [
+            "network-and-security"
+        ],
+        "language": "English",
+        "language_slug": "english",
+        "coupon_code": "9.99",
+        "students": 1550,
+        "reviews": 50,
+        "last_updated": "2026-08-13",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 1062,
+        "title": "IT Networking - Learn the Essentials in 2026!",
+        "description": "Boost your Career with Fundamental Knowledge – Learn the Essentials of IT Networking",
+        "rating": 4.7,
+        "duration": "10 hours",
+        "affiliate_url": "https://trk.udemy.com/c/2758262/3227798/39854?prodsku=course.6379031&u=https://www.udemy.com/course/it-network-fundamentals-danmill/?couponCode=AUG26SALE",
+        "image": "https://i.udemycdn.com/course/480x270/6379031_989f_2.jpg",
+        "trainer": "Dan Mill",
+        "trainer_slug": "dan-mill",
+        "category": [
+            "Network & Security"
+        ],
+        "category_slug": [
+            "network-and-security"
+        ],
+        "language": "English",
+        "language_slug": "english",
+        "coupon_code": "9.99",
+        "students": 891,
+        "reviews": 35,
+        "last_updated": "2026-08-13",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 1063,
+        "title": "Windows 11 Pro for System Administrators",
+        "description": "Your Crash Course in Managing Windows 11 Systems — From Setup to Security",
+        "rating": 4.6,
+        "duration": "6 hours",
+        "affiliate_url": "https://trk.udemy.com/c/2758262/3227798/39854?prodsku=course.6659117&u=https://www.udemy.com/course/windows-11-pro-under-3-hours/?couponCode=AUG26SALE",
+        "image": "https://i.udemycdn.com/course/480x270/6659117_1e39_2.jpg",
+        "trainer": "Dan Mill",
+        "trainer_slug": "dan-mill",
+        "category": [
+            "Operating Systems & Servers"
+        ],
+        "category_slug": [
+            "operating-systems-and-servers"
+        ],
+        "language": "English",
+        "language_slug": "english",
+        "coupon_code": "9.99",
+        "students": 344,
+        "reviews": 50,
+        "last_updated": "2026-08-13",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 1064,
+        "title": "3CX Basic Certification - All-In-One Business VoIP System",
+        "description": "Master the Fundamentals of 3CX: Setup, Configuration, and Management.",
+        "rating": 4.6,
+        "duration": "4 hours",
+        "affiliate_url": "https://trk.udemy.com/c/2758262/3227798/39854?prodsku=course.6413965&u=https://www.udemy.com/course/3cx-basic-certification/?couponCode=AUG26SALE",
+        "image": "https://i.udemycdn.com/course/480x270/6413965_6ea9_5.jpg",
+        "trainer": "Dan Mill",
+        "trainer_slug": "dan-mill",
+        "category": [
+            "IT & Software"
+        ],
+        "category_slug": [
+            "it-and-software"
+        ],
+        "language": "English",
+        "language_slug": "english",
+        "coupon_code": "9.99",
+        "students": 562,
+        "reviews": 105,
+        "last_updated": "2026-08-13",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 1065,
+        "title": "Cisco Packet Tracer: IPv6 Labs",
+        "description": "Mastering IPv6 Networking Through Practical Simulations",
+        "rating": 4.8,
+        "duration": "2.5 hours",
+        "affiliate_url": "https://trk.udemy.com/c/2758262/3227798/39854?prodsku=course.6236745&u=https://www.udemy.com/course/ipv6-labs/?couponCode=AUG26SALE",
+        "image": "https://i.udemycdn.com/course/480x270/6236745_ec26.jpg",
+        "trainer": "Dan Mill",
+        "trainer_slug": "dan-mill",
+        "category": [
+            "Network & Security"
+        ],
+        "category_slug": [
+            "network-and-security"
+        ],
+        "language": "English",
+        "language_slug": "english",
+        "coupon_code": "9.99",
+        "students": 1180,
+        "reviews": 10,
+        "last_updated": "2026-08-13",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 1066,
+        "title": "Cisco Packet Tracer: Switching Labs",
+        "description": "Master Switching Protocols with Practical Labs in Cisco Packet Tracer. Gain Hands on Experience!",
+        "rating": 4.6,
+        "duration": "7.5 hours",
+        "affiliate_url": "https://trk.udemy.com/c/2758262/3227798/39854?prodsku=course.6234081&u=https://www.udemy.com/course/hands-on-cisco-packet-tracer-switching-labs/?couponCode=AUG26SALE",
+        "image": "https://i.udemycdn.com/course/480x270/6234081_70d3_2.jpg",
+        "trainer": "Dan Mill",
+        "trainer_slug": "dan-mill",
+        "category": [
+            "Cisco"
+        ],
+        "category_slug": [
+            "cisco"
+        ],
+        "language": "English",
+        "language_slug": "english",
+        "coupon_code": "9.99",
+        "students": 1037,
+        "reviews": 10,
+        "last_updated": "2026-08-13",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 1067,
+        "title": "AI-Powered Admin: Microsoft Copilot for SysAdmins",
+        "description": "AI-Driven System Administration: Master Windows Server, Microsoft Copilot, and Automation",
+        "rating": 4.2,
+        "duration": "2.5 hours",
+        "affiliate_url": "https://trk.udemy.com/c/2758262/3227798/39854?prodsku=course.7120969&u=https://www.udemy.com/course/ai-powered-admin-microsoft-copilot-for-sysadmins/?couponCode=AUG26SALE",
+        "image": "https://i.udemycdn.com/course/480x270/7120969_d91d.jpg",
+        "trainer": "Dan Mill",
+        "trainer_slug": "dan-mill",
+        "category": [
+            "Operating Systems & Servers"
+        ],
+        "category_slug": [
+            "operating-systems-and-servers"
+        ],
+        "language": "English",
+        "language_slug": "english",
+        "coupon_code": "9.99",
+        "students": 449,
+        "reviews": 10,
+        "last_updated": "2026-08-13",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 1068,
+        "title": "AI-Powered Scripting and Automation for Sysadmins",
+        "description": "Use ChatGPT, Copilot and Claude to write, verify and run scripts — no coding experience needed.",
+        "rating": 4.8,
+        "duration": "1.5 hours",
+        "affiliate_url": "https://trk.udemy.com/c/2758262/3227798/39854?prodsku=course.7120969&u=https://www.udemy.com/course/ai-powered-scripting-and-automation-for-sysadmins/?couponCode=AUG26SALE",
+        "image": "https://img-c.udemycdn.com/course/480x270/7226803_5b44.jpg",
+        "trainer": "Dan Mill",
+        "trainer_slug": "dan-mill",
+        "category": [
+            "Operating Systems & Servers"
+        ],
+        "category_slug": [
+            "operating-systems-and-servers"
+        ],
+        "language": "English",
+        "language_slug": "english",
+        "coupon_code": "9.99",
+        "students": 130,
+        "reviews": 10,
+        "last_updated": "2026-08-13",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 1069,
+        "title": "Cisco Packet Tracer - Routing Labs",
+        "description": "Master Routing Protocols with Practical Labs in Cisco Packet Tracer. Gain Hands on Experience!",
+        "rating": 4.7,
+        "duration": "19 hours",
+        "affiliate_url": "https://trk.udemy.com/c/2758262/3227798/39854?prodsku=course.6233895&u=https://www.udemy.com/course/hands-on-cisco-packet-tracer-routing-labs/?couponCode=AUG26SALE",
+        "image": "https://i.udemycdn.com/course/480x270/6233895_10c8.jpg",
+        "trainer": "Dan Mill",
+        "trainer_slug": "dan-mill",
+        "category": [
+            "Cisco"
+        ],
+        "category_slug": [
+            "cisco"
+        ],
+        "language": "English",
+        "language_slug": "english",
+        "coupon_code": "9.99",
+        "students": 1133,
+        "reviews": 30,
+        "last_updated": "2026-08-13",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 1070,
+        "title": "C Programming For Beginners - Learn C Language from Scratch",
+        "description": "This is a beginner friendly C language course with a solid PDF Handbook and thorough explanations for absolute beginners",
+        "rating": 4.5,
+        "duration": "9 hours",
+        "affiliate_url": "https://trk.udemy.com/c/2758262/3227798/39854?prodsku=course.6854727&u=https://www.udemy.com/course/c-language-course-for-beginners/?couponCode=INDEPENDENCE",
+        "image": "https://img-c.udemycdn.com/course/480x270/6854727_6371.jpg",
+        "trainer": "Haris Ali Khan",
+        "trainer_slug": "haris-ali-khan",
+        "category": [
+            "Programming Languages"
+        ],
+        "category_slug": [
+            "programming-languages"
+        ],
+        "language": "English",
+        "language_slug": "english",
+        "coupon_code": "9.99",
+        "students": 1591,
+        "reviews": 335,
+        "last_updated": "2026-08-13",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 1071,
+        "title": "Complete 2026 Python Bootcamp: Learn Python from Scratch",
+        "description": "Master Python Programming from Scratch: Build Real-World Projects and Become Job-Ready in 2026",
+        "rating": 4.6,
+        "duration": "17.5 hours",
+        "affiliate_url": "https://trk.udemy.com/c/2758262/3227798/39854?prodsku=course.6413585&u=https://www.udemy.com/course/codewithharry-python/?couponCode=INDEPENDENCE",
+        "image": "https://img-c.udemycdn.com/course/480x270/6413585_ec1f_2.jpg",
+        "trainer": "Haris Ali Khan",
+        "trainer_slug": "haris-ali-khan",
+        "category": [
+            "Python"
+        ],
+        "category_slug": [
+            "python"
+        ],
+        "language": "English",
+        "language_slug": "english",
+        "coupon_code": "9.99",
+        "students": 71378,
+        "reviews": 16992,
+        "last_updated": "2026-08-13",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 1072,
+        "title": "Ultimate Web Development Course 2026 - Build Modern Websites",
+        "description": "This is the only modern, always up-to-date Web Development course you will ever need.",
+        "rating": 4.5,
+        "duration": "22 hours",
+        "affiliate_url": "https://trk.udemy.com/c/2758262/3227798/39854?prodsku=course.6716909&u=https://www.udemy.com/course/codewithharry-web-development-course/?couponCode=INDEPENDENCE",
+        "image": "https://img-c.udemycdn.com/course/480x270/6716909_a768_2.jpg",
+        "trainer": "Haris Ali Khan",
+        "trainer_slug": "haris-ali-khan",
+        "category": [
+            "Web Development"
+        ],
+        "category_slug": [
+            "web-development"
+        ],
+        "language": "English",
+        "language_slug": "english",
+        "coupon_code": "9.99",
+        "students": 9413,
+        "reviews": 2380,
+        "last_updated": "2026-08-13",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 1073,
+        "title": "Universidad Python - Cero a Experto - Actualizado (+114 hrs)",
+        "description": "Domina Python desde Cero: Web Django, Flask, FastAPI, FullStack, Flet, PySide, SQLAlchemy, MySql, PyCharm, ChatGPT IA!",
+        "rating": 4.7,
+        "duration": "114 hours",
+        "affiliate_url": "https://trk.udemy.com/c/2758262/3227798/39854?prodsku=course.2867812&u=https://www.udemy.com/course/universidad-python-desde-cero-hasta-experto-django-flask-rest-web/?couponCode=GM_AGO_26",
+        "image": "https://img-c.udemycdn.com/course/480x270/2867812_4227_19.jpg",
+        "trainer": "Ing. Marcela Gamiño",
+        "trainer_slug": "ing-marcela-gami-o",
+        "category": [
+            "Python"
+        ],
+        "category_slug": [
+            "python"
+        ],
+        "language": "Spanish",
+        "language_slug": "spanish",
+        "coupon_code": "9.99",
+        "students": 288754,
+        "reviews": 23222,
+        "last_updated": "2026-08-13",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 1074,
+        "title": "Universidad Java - Cero a Experto - Actualizado (+155 hrs)",
+        "description": "El mejor curso Java con aplicaciones del mundo real (Escritorio, Web y Full Stack) Spring, Hibernate, JakartaEE, ChatGPT",
+        "rating": 4.7,
+        "duration": "156 hours",
+        "affiliate_url": "https://trk.udemy.com/c/2758262/3227798/39854?prodsku=course.1265942&u=https://www.udemy.com/course/universidad-java-especialista-en-java-desde-cero-a-master/?couponCode=GM_AGO_26",
+        "image": "https://img-c.udemycdn.com/course/480x270/1265942_7e2f_32.jpg",
+        "trainer": "Ing. Marcela Gamiño",
+        "trainer_slug": "ing-marcela-gami-o",
+        "category": [
+            "Java"
+        ],
+        "category_slug": [
+            "java"
+        ],
+        "language": "Spanish",
+        "language_slug": "spanish",
+        "coupon_code": "9.99",
+        "students": 325279,
+        "reviews": 47028,
+        "last_updated": "2026-08-13",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 1075,
+        "title": "n8n para Todos: Master en Automatización con Agentes IA n8n",
+        "description": "Domina n8n desde cero. Automatiza Whatsapp, Slack, Telegram, LangChain, RAG, MCP, Agentes IA, sin programar, 100% visual",
+        "rating": 4.6,
+        "duration": "17 hours",
+        "affiliate_url": "https://trk.udemy.com/c/2758262/3227798/39854?prodsku=course.7067933&u=https://www.udemy.com/course/universidad-n8n-master-en-automatizacion-con-agentes-ia-agentic-ai/?couponCode=GM_AGO_26",
+        "image": "https://img-c.udemycdn.com/course/480x270/7067933_6f43_15.jpg",
+        "trainer": "Ing. Marcela Gamiño",
+        "trainer_slug": "ing-marcela-gami-o",
+        "category": [
+            "n8n"
+        ],
+        "category_slug": [
+            "n8n"
+        ],
+        "language": "Spanish",
+        "language_slug": "spanish",
+        "coupon_code": "9.99",
+        "students": 894,
+        "reviews": 108,
+        "last_updated": "2026-08-13",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 1076,
+        "title": "Universidad de Lógica de Programación - Aprende 7 Lenguajes!",
+        "description": "Aprende la Lógica de Programación con 7 Lenguajes: PSeInt, Python, Java, JavaScript, C, C++ y C#",
+        "rating": 4.7,
+        "duration": "55 hours",
+        "affiliate_url": "https://trk.udemy.com/c/2758262/3227798/39854?prodsku=course.4669648&u=https://www.udemy.com/course/universidad-de-logica-de-programacion-python-java-javascript-c-pseint/?couponCode=GM_AGO_26",
+        "image": "https://img-c.udemycdn.com/course/480x270/4669648_8544_3.jpg",
+        "trainer": "Ing. Marcela Gamiño",
+        "trainer_slug": "ing-marcela-gami-o",
+        "category": [
+            "Programming Languages"
+        ],
+        "category_slug": [
+            "programming-languages"
+        ],
+        "language": "Spanish",
+        "language_slug": "spanish",
+        "coupon_code": "9.99",
+        "students": 118120,
+        "reviews": 4751,
+        "last_updated": "2026-08-13",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 1077,
+        "title": "Universidad Desarrollo Web - FrontEnd Web Developer!",
+        "description": "El mejor curso para aprender a crear aplicaciones Web Modernas con HTML, CSS y JavaScript. Serás un FrontEnd Developer!",
+        "rating": 4.7,
+        "duration": "30.5 hours",
+        "affiliate_url": "https://trk.udemy.com/c/2758262/3227798/39854?prodsku=course.3895716&u=https://www.udemy.com/course/universidad-desarrollo-web-moderno-html-css-javascript-html5-css3/?couponCode=GM_AGO_26",
+        "image": "https://img-c.udemycdn.com/course/480x270/3895716_00dc_10.jpg",
+        "trainer": "Ing. Marcela Gamiño",
+        "trainer_slug": "ing-marcela-gami-o",
+        "category": [
+            "Web Development"
+        ],
+        "category_slug": [
+            "web-development"
+        ],
+        "language": "Spanish",
+        "language_slug": "spanish",
+        "coupon_code": "9.99",
+        "students": 221735,
+        "reviews": 13845,
+        "last_updated": "2026-08-13",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 1078,
+        "title": "Universidad Excel - Básico, Intermedio y Avanzado!",
+        "description": "Master en Excel más completo. Incluye Funciones, Tablas Dinámicas, Gráficos, Power Query , Macros y más a profundidad!",
+        "rating": 4.6,
+        "duration": "13.5 hours",
+        "affiliate_url": "https://trk.udemy.com/c/2758262/3227798/39854?prodsku=course.3448848&u=https://www.udemy.com/course/universidad-excel-microsoft-tablas-dinamicas-dashboard-macros-vba/?couponCode=GM_AGO_26",
+        "image": "https://img-c.udemycdn.com/course/480x270/3448848_6d80_14.jpg",
+        "trainer": "Ing. Marcela Gamiño",
+        "trainer_slug": "ing-marcela-gami-o",
+        "category": [
+            "Microsoft Excel"
+        ],
+        "category_slug": [
+            "microsoft-excel"
+        ],
+        "language": "Spanish",
+        "language_slug": "spanish",
+        "coupon_code": "9.99",
+        "students": 212587,
+        "reviews": 11093,
+        "last_updated": "2026-08-13",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 1079,
+        "title": "Universidad JavaScript - De Cero a Experto JavaScript!",
+        "description": "Programación Orientada a Objetos, Funciones Flecha, Callback, Promesas, Async, Await, DOM y mucho más!",
+        "rating": 4.5,
+        "duration": "44.5 hours",
+        "affiliate_url": "https://trk.udemy.com/c/2758262/3227798/39854?prodsku=course.2244912&u=https://www.udemy.com/course/universidad-javascript-angular-react-vue-typescript-html-css-bootstrap/?couponCode=GM_AGO_26",
+        "image": "https://img-c.udemycdn.com/course/480x270/2244912_9f92_17.jpg",
+        "trainer": "Ing. Marcela Gamiño",
+        "trainer_slug": "ing-marcela-gami-o",
+        "category": [
+            "JavaScript"
+        ],
+        "category_slug": [
+            "javascript"
+        ],
+        "language": "Spanish",
+        "language_slug": "spanish",
+        "coupon_code": "9.99",
+        "students": 225457,
+        "reviews": 12056,
+        "last_updated": "2026-08-13",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 1080,
+        "title": "Club Java Master - Novato a Experto Java +110hrs Actualizado",
+        "description": "Actualizado Conviértete en Full Stack Java Developer Aprende las tecnologías Java como Java EE, Spring, Hibernate y más",
+        "rating": 4.7,
+        "duration": "110 hours",
+        "affiliate_url": "https://trk.udemy.com/c/2758262/3227798/39854?prodsku=course.1478318&u=https://www.udemy.com/course/club-java-master-de-novato-a-experto-java-javaee-spring-hibernate-jpa/?couponCode=GM_AGO_26",
+        "image": "https://img-c.udemycdn.com/course/480x270/1478318_aadb_7.jpg",
+        "trainer": "Ing. Marcela Gamiño",
+        "trainer_slug": "ing-marcela-gami-o",
+        "category": [
+            "Java"
+        ],
+        "category_slug": [
+            "java"
+        ],
+        "language": "Spanish",
+        "language_slug": "spanish",
+        "coupon_code": "9.99",
+        "students": 61506,
+        "reviews": 2416,
+        "last_updated": "2026-08-13",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 1081,
+        "title": "Universidad Angular - De Cero a Experto - Actualizado",
+        "description": "Actualizado - Domina Angular y crea aplicaciones web del mundo real con TypeScript, Firebase, Firestore, JWT y más!",
+        "rating": 4.7,
+        "duration": "56.5 hours",
+        "affiliate_url": "https://trk.udemy.com/c/2758262/3227798/39854?prodsku=course.2105384&u=https://www.udemy.com/course/angular-de-cero-a-experto-angular-2-framework-javascript-html-css/?couponCode=GM_AGO_26",
+        "image": "https://img-c.udemycdn.com/course/480x270/2105384_9a0f_17.jpg",
+        "trainer": "Ing. Marcela Gamiño",
+        "trainer_slug": "ing-marcela-gami-o",
+        "category": [
+            "Angular"
+        ],
+        "category_slug": [
+            "angular"
+        ],
+        "language": "Spanish",
+        "language_slug": "spanish",
+        "coupon_code": "9.99",
+        "students": 211382,
+        "reviews": 7525,
+        "last_updated": "2026-08-13",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 1082,
+        "title": "Flet + Python + IA ChatGPT: Crea tu 1ª App Multiplataforma!",
+        "description": "Curso 100% práctico. Crea tu 1ra tu primera App Web, Móvil y Desktop con Flet (Flutter + Python) + MySQL y IA de ChatGPT",
+        "rating": 4.7,
+        "duration": "2.5 hours",
+        "affiliate_url": "https://trk.udemy.com/c/2758262/3227798/39854?prodsku=course.6962699&u=https://www.udemy.com/course/flet-python-ia-chatgpt-crea-tu-primera-app-multiplataforma-web/?couponCode=GM_AGO_26",
+        "image": "https://img-c.udemycdn.com/course/480x270/6962699_38da_3.jpg",
+        "trainer": "Ing. Marcela Gamiño",
+        "trainer_slug": "ing-marcela-gami-o",
+        "category": [
+            "Python"
+        ],
+        "category_slug": [
+            "python"
+        ],
+        "language": "Spanish",
+        "language_slug": "spanish",
+        "coupon_code": "9.99",
+        "students": 7720,
+        "reviews": 50,
+        "last_updated": "2026-08-13",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 1083,
+        "title": "FastAPI + React + ChatGPT IA : Crea tu 1ª App Full Stack!",
+        "description": "Curso 100% práctico. Crea una App Full Stack desde cero con FastAPI + React + Python + MySQL y la IA de ChatGPT",
+        "rating": 4.5,
+        "duration": "4.5 hours",
+        "affiliate_url": "https://trk.udemy.com/c/2758262/3227798/39854?prodsku=course.6962381&u=https://www.udemy.com/course/fastapi-react-ia-chatgpt-crea-tu-primera-app-full-stack-web-desde-cero/?couponCode=GM_AGO_26",
+        "image": "https://img-c.udemycdn.com/course/480x270/6962381_7512.jpg",
+        "trainer": "Ing. Marcela Gamiño",
+        "trainer_slug": "ing-marcela-gami-o",
+        "category": [
+            "FastAPI"
+        ],
+        "category_slug": [
+            "fastapi"
+        ],
+        "language": "Spanish",
+        "language_slug": "spanish",
+        "coupon_code": "9.99",
+        "students": 7862,
+        "reviews": 50,
+        "last_updated": "2026-08-13",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 1084,
+        "title": "Universidad Java con ChatGPT - IA Generativa Cero a Experto!",
+        "description": "Domina Java con ChatGPT desde Cero hasta Aplicaciones Reales con Spring Boot, Web, JSF, PrimeFaces, Swing, MySql y más.",
+        "rating": 4.9,
+        "duration": "25.5 hours",
+        "affiliate_url": "https://trk.udemy.com/c/2758262/3227798/39854?prodsku=course.6727789&u=https://www.udemy.com/course/universidad-java-con-chatgpt-ia-cero-a-experto-spring-mysql-primefaces/?couponCode=GM_AGO_26",
+        "image": "https://img-c.udemycdn.com/course/480x270/6727789_552d_8.jpg",
+        "trainer": "Ing. Marcela Gamiño",
+        "trainer_slug": "ing-marcela-gami-o",
+        "category": [
+            "Java"
+        ],
+        "category_slug": [
+            "java"
+        ],
+        "language": "Spanish",
+        "language_slug": "spanish",
+        "coupon_code": "9.99",
+        "students": 18707,
+        "reviews": 130,
+        "last_updated": "2026-08-13",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 1085,
+        "title": "Universidad Python con ChatGPT - IA - De Cero a Avanzado!",
+        "description": "El mejor curso para aprender Python con ayuda la IA de ChatGTP - POO, Archivos, Tkinter, Flask, Mysql, HTML, CSS y más!",
+        "rating": 4.8,
+        "duration": "33 hours",
+        "affiliate_url": "https://trk.udemy.com/c/2758262/3227798/39854?prodsku=course.5915208&u=https://www.udemy.com/course/python-con-chatgpt-ia-generativa-de-cero-a-experto/?couponCode=GM_AGO_26",
+        "image": "https://img-c.udemycdn.com/course/480x270/5915208_7ae9_8.jpg",
+        "trainer": "Ing. Marcela Gamiño",
+        "trainer_slug": "ing-marcela-gami-o",
+        "category": [
+            "Python"
+        ],
+        "category_slug": [
+            "python"
+        ],
+        "language": "Spanish",
+        "language_slug": "spanish",
+        "coupon_code": "9.99",
+        "students": 55968,
+        "reviews": 1661,
+        "last_updated": "2026-08-13",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 1086,
+        "title": "Universidad Excel con ChatGTP - IA Generativa Cero a Experto",
+        "description": "Domina Excel con ayuda de ChatGPT: Desde Funciones, Gráficos, Tablas, Macros, IA, Análisis de Datos y más, desde cero!",
+        "rating": 4.6,
+        "duration": "15 hours",
+        "affiliate_url": "https://trk.udemy.com/c/2758262/3227798/39854?prodsku=course.6677713&u=https://www.udemy.com/course/universidad-excel-chatgtp-ia-cero-a-experto-macros-vba/?couponCode=GM_AGO_26",
+        "image": "https://img-c.udemycdn.com/course/480x270/6677713_3230_5.jpg",
+        "trainer": "Ing. Marcela Gamiño",
+        "trainer_slug": "ing-marcela-gami-o",
+        "category": [
+            "Microsoft Excel"
+        ],
+        "category_slug": [
+            "microsoft-excel"
+        ],
+        "language": "Spanish",
+        "language_slug": "spanish",
+        "coupon_code": "9.99",
+        "students": 22836,
+        "reviews": 230,
+        "last_updated": "2026-08-13",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 1087,
+        "title": "Angular, Spring y ChatGPT IA: Crea tu primera App Full Stack",
+        "description": "Curso 100% práctico. Aprende a integrar Angular, Spring Boot y ChatGPT creando una aplicación Full Stack Web desde cero!",
+        "rating": 4.6,
+        "duration": "4 hours",
+        "affiliate_url": "https://trk.udemy.com/c/2758262/3227798/39854?prodsku=course.6810419&u=https://www.udemy.com/course/angular-spring-boot-y-chatgpt-ia-app-full-stack-mysql-frontend-backend/?couponCode=GM_AGO_26",
+        "image": "https://img-c.udemycdn.com/course/480x270/6810419_595a_5.jpg",
+        "trainer": "Ing. Marcela Gamiño",
+        "trainer_slug": "ing-marcela-gami-o",
+        "category": [
+            "Angular"
+        ],
+        "category_slug": [
+            "angular"
+        ],
+        "language": "Spanish",
+        "language_slug": "spanish",
+        "coupon_code": "9.99",
+        "students": 14548,
+        "reviews": 90,
+        "last_updated": "2026-08-13",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 1088,
+        "title": "Django y ChatGPT - Crea tu primera App Web con IA desde cero",
+        "description": "Curso 100% práctico. Aprende a crear una app web con Django, Python y ChatGPT IA desde cero y paso a paso!",
+        "rating": 4.9,
+        "duration": "2.5 hours",
+        "affiliate_url": "https://trk.udemy.com/c/2758262/3227798/39854?prodsku=course.6920545&u=https://www.udemy.com/course/django-crea-tu-primera-app-web-con-ia-chatgpt-pycharm-python-mysql/?couponCode=GM_AGO_26",
+        "image": "https://img-c.udemycdn.com/course/480x270/6920545_3a9a.jpg",
+        "trainer": "Ing. Marcela Gamiño",
+        "trainer_slug": "ing-marcela-gami-o",
+        "category": [
+            "ChatGPT"
+        ],
+        "category_slug": [
+            "chatgpt"
+        ],
+        "language": "Spanish",
+        "language_slug": "spanish",
+        "coupon_code": "9.99",
+        "students": 10315,
+        "reviews": 40,
+        "last_updated": "2026-08-13",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 1089,
+        "title": "Django, React, Python, MySql, ChatGPT IA App Full Stack Web!",
+        "description": "Curso 100% práctico. Aprende a integrar React, Django, Python y ChatGPT IA creando una app Full Stack Web desde cero!",
+        "rating": 4.6,
+        "duration": "4 hours",
+        "affiliate_url": "https://trk.udemy.com/c/2758262/3227798/39854?prodsku=course.6871475&u=https://www.udemy.com/course/django-react-python-mysql-chatgpt-ia-generativa-app-full-stack-web-api/?couponCode=GM_AGO_26",
+        "image": "https://img-c.udemycdn.com/course/480x270/6871475_de46.jpg",
+        "trainer": "Ing. Marcela Gamiño",
+        "trainer_slug": "ing-marcela-gami-o",
+        "category": [
+            "ChatGPT"
+        ],
+        "category_slug": [
+            "chatgpt"
+        ],
+        "language": "Spanish",
+        "language_slug": "spanish",
+        "coupon_code": "9.99",
+        "students": 12754,
+        "reviews": 70,
+        "last_updated": "2026-08-13",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 1090,
+        "title": "Java en 13 Días con Aplicaciones del Mundo Real",
+        "description": "Curso 100% Práctico - Java, Spring Boot, Swing, Java FX, Thymeleaf, PrimeFaces, FullStack con Angular, React y Spring",
+        "rating": 4.4,
+        "duration": "22 hours",
+        "affiliate_url": "https://trk.udemy.com/c/2758262/3227798/39854?prodsku=course.5267724&u=https://www.udemy.com/course/aprende-java-en-13-dias-con-aplicaciones-del-mundo-real-spring/?couponCode=GM_AGO_26",
+        "image": "https://img-c.udemycdn.com/course/480x270/5267724_49b8_10.jpg",
+        "trainer": "Ing. Marcela Gamiño",
+        "trainer_slug": "ing-marcela-gami-o",
+        "category": [
+            "Java"
+        ],
+        "category_slug": [
+            "java"
+        ],
+        "language": "Spanish",
+        "language_slug": "spanish",
+        "coupon_code": "9.99",
+        "students": 73764,
+        "reviews": 1203,
+        "last_updated": "2026-08-13",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 1091,
+        "title": "Django, Angular, Python, MySql, ChatGPT IA - App Full Stack!",
+        "description": "Curso 100% práctico. Aprende a integrar Angular, Django, Python y ChatGPT IA creando una app Full Stack Web desde cero!",
+        "rating": 4.5,
+        "duration": "4 hours",
+        "affiliate_url": "https://trk.udemy.com/c/2758262/3227798/39854?prodsku=course.6866223&u=https://www.udemy.com/course/django-angular-python-mysql-chatgpt-ia-generativa-app-full-stack-web/?couponCode=GM_AGO_26",
+        "image": "https://img-c.udemycdn.com/course/480x270/6866223_a61b.jpg",
+        "trainer": "Ing. Marcela Gamiño",
+        "trainer_slug": "ing-marcela-gami-o",
+        "category": [
+            "Web Development"
+        ],
+        "category_slug": [
+            "web-development"
+        ],
+        "language": "Spanish",
+        "language_slug": "spanish",
+        "coupon_code": "9.99",
+        "students": 12145,
+        "reviews": 25,
+        "last_updated": "2026-08-13",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 1092,
+        "title": "Angular, Flask, Python, MySql y ChatGPT IA - App Full Stack!",
+        "description": "Curso 100% práctico. Aprende a integrar Angular, Flask, Python y ChatGPT IA creando una app Full Stack Web desde cero!",
+        "rating": 4.6,
+        "duration": "4 hours",
+        "affiliate_url": "https://trk.udemy.com/c/2758262/3227798/39854?prodsku=course.6851419&u=https://www.udemy.com/course/angular-flask-python-mysql-y-chatgpt-ia-app-full-stack-web/?couponCode=GM_AGO_26",
+        "image": "https://img-c.udemycdn.com/course/480x270/6851419_6272_3.jpg",
+        "trainer": "Ing. Marcela Gamiño",
+        "trainer_slug": "ing-marcela-gami-o",
+        "category": [
+            "Web Development"
+        ],
+        "category_slug": [
+            "web-development"
+        ],
+        "language": "Spanish",
+        "language_slug": "spanish",
+        "coupon_code": "9.99",
+        "students": 11956,
+        "reviews": 30,
+        "last_updated": "2026-08-13",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 1093,
+        "title": "Flask y ChatGPT - Crea tu primera App Web con IA desde cero!",
+        "description": "Curso 100% práctico. Crea tu 1ra App Web con Flask, Python, MySQL y la IA de ChatGPT desde cero y paso a paso!",
+        "rating": 4.6,
+        "duration": "2 hours",
+        "affiliate_url": "https://trk.udemy.com/c/2758262/3227798/39854?prodsku=course.6963889&u=https://www.udemy.com/course/flask-y-chatgpt-crea-tu-primera-app-web-con-ia-desde-cero/?couponCode=GM_AGO_26",
+        "image": "https://img-c.udemycdn.com/course/480x270/6963889_717f_6.jpg",
+        "trainer": "Ing. Marcela Gamiño",
+        "trainer_slug": "ing-marcela-gami-o",
+        "category": [
+            "Flask"
+        ],
+        "category_slug": [
+            "flask"
+        ],
+        "language": "Spanish",
+        "language_slug": "spanish",
+        "coupon_code": "9.99",
+        "students": 7612,
+        "reviews": 20,
+        "last_updated": "2026-08-13",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 1094,
+        "title": "React, Flask, Python, MySql y ChatGPT IA - App Full Stack!",
+        "description": "Curso 100% práctico. Aprende a integrar React, Flask, Python y ChatGPT IA creando una App Web Full Stack Web desde cero!",
+        "rating": 4.5,
+        "duration": "4 hours",
+        "affiliate_url": "https://trk.udemy.com/c/2758262/3227798/39854?prodsku=course.6856619&u=https://www.udemy.com/course/react-flask-rest-python-mysql-y-chatgpt-ia-app-full-stack-web/?couponCode=GM_AGO_26",
+        "image": "https://img-c.udemycdn.com/course/480x270/6856619_d1e4.jpg",
+        "trainer": "Ing. Marcela Gamiño",
+        "trainer_slug": "ing-marcela-gami-o",
+        "category": [
+            "Web Development"
+        ],
+        "category_slug": [
+            "web-development"
+        ],
+        "language": "Spanish",
+        "language_slug": "spanish",
+        "coupon_code": "9.99",
+        "students": 12339,
+        "reviews": 45,
+        "last_updated": "2026-08-13",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 1095,
+        "title": "PySide + Python + ChatGPT: Tu 1ª App de Escritorio Real!",
+        "description": "Curso 100% práctico. Crea tu primera App de Escritorio Profesional con PySide (Qt), Python, MySQL y la IA de ChatGPT",
+        "rating": 4.8,
+        "duration": "2.5 hours",
+        "affiliate_url": "https://trk.udemy.com/c/2758262/3227798/39854?prodsku=course.6962895&u=https://www.udemy.com/course/pyside-python-chatgpt-tu-primera-app-de-escritorio-real-desde-cero/?couponCode=GM_AGO_26",
+        "image": "https://img-c.udemycdn.com/course/480x270/6962895_97b6.jpg",
+        "trainer": "Ing. Marcela Gamiño",
+        "trainer_slug": "ing-marcela-gami-o",
+        "category": [
+            "Programming Languages"
+        ],
+        "category_slug": [
+            "programming-languages"
+        ],
+        "language": "Spanish",
+        "language_slug": "spanish",
+        "coupon_code": "9.99",
+        "students": 7540,
+        "reviews": 20,
+        "last_updated": "2026-08-13",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 1096,
+        "title": "React, Spring y ChatGPT IA: Crea tu primera App Full Stack",
+        "description": "Curso 100% práctico. Aprende a integrar React, Spring Boot y ChatGPT creando una aplicación Full Stack Web desde cero!",
+        "rating": 4.8,
+        "duration": "3.5 hours",
+        "affiliate_url": "https://trk.udemy.com/c/2758262/3227798/39854?prodsku=course.6814347&u=https://www.udemy.com/course/react-spring-y-chatgpt-ia-crea-tu-primera-app-full-stack-java-mysql/?couponCode=GM_AGO_26",
+        "image": "https://img-c.udemycdn.com/course/480x270/6814347_53b4.jpg",
+        "trainer": "Ing. Marcela Gamiño",
+        "trainer_slug": "ing-marcela-gami-o",
+        "category": [
+            "React"
+        ],
+        "category_slug": [
+            "react"
+        ],
+        "language": "Spanish",
+        "language_slug": "spanish",
+        "coupon_code": "9.99",
+        "students": 14549,
+        "reviews": 90,
+        "last_updated": "2026-08-13",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 1097,
+        "title": "Complete Linux Training Course to Get Your Dream IT Job 2026",
+        "description": "The BEST Linux Administration course for corporate jobs and RHCSA, RHCE, LFCS, LPIC and CompTIA Linux+ certifications",
+        "rating": 4.7,
+        "duration": "42 hours",
+        "affiliate_url": "https://trk.udemy.com/c/2758262/3227798/39854?prodsku=course.1523066&u=https://www.udemy.com/course/complete-linux-training-course-to-get-your-dream-it-job/?couponCode=MIDOFAUG2026",
+        "image": "https://img-c.udemycdn.com/course/480x270/1523066_334c_16.jpg",
+        "trainer": "Imran Afzal",
+        "trainer_slug": "imran-afzal",
+        "category": [
+            "Linux"
+        ],
+        "category_slug": [
+            "linux"
+        ],
+        "language": "English",
+        "language_slug": "english",
+        "coupon_code": "9.99",
+        "students": 284440,
+        "reviews": 46976,
+        "last_updated": "2026-08-13",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 1098,
+        "title": "Linux Redhat Certified System Administrator (RHCSA - EX200)",
+        "description": "Best match for those who want to become Red Hat certified system administrator (RHCSA) in shortest amount of time",
+        "rating": 4.6,
+        "duration": "12 hours",
+        "affiliate_url": "https://trk.udemy.com/c/2758262/3227798/39854?prodsku=course.4015948&u=https://www.udemy.com/course/unofficial-linux-redhat-certified-system-administrator-rhcsa/?couponCode=MIDOFAUG2026",
+        "image": "https://img-c.udemycdn.com/course/480x270/4015948_b178_3.jpg",
+        "trainer": "Imran Afzal",
+        "trainer_slug": "imran-afzal",
+        "category": [
+            "Linux"
+        ],
+        "category_slug": [
+            "linux"
+        ],
+        "language": "English",
+        "language_slug": "english",
+        "coupon_code": "9.99",
+        "students": 80541,
+        "reviews": 10760,
+        "last_updated": "2026-08-13",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 1099,
+        "title": "Complete Cisco CCNA 200-301 Prep: From Beginner to Certified",
+        "description": "Master Networking Fundamentals, Cisco Routing & Switching, Security, and Automation to Pass the CCNA 200-301 Exam",
+        "rating": 4.8,
+        "duration": "25 hours",
+        "affiliate_url": "https://trk.udemy.com/c/2758262/3227798/39854?prodsku=course.6770565&u=https://www.udemy.com/course/complete-cisco-ccna-200-301-prep-from-beginner-to-certified/?couponCode=MIDOFAUG2026",
+        "image": "https://img-c.udemycdn.com/course/480x270/6770565_6e6a_4.jpg",
+        "trainer": "Imran Afzal",
+        "trainer_slug": "imran-afzal",
+        "category": [
+            "Cisco"
+        ],
+        "category_slug": [
+            "cisco"
+        ],
+        "language": "English",
+        "language_slug": "english",
+        "coupon_code": "9.99",
+        "students": 1977,
+        "reviews": 204,
+        "last_updated": "2026-08-13",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 1100,
+        "title": "Complete Microsoft SQL Server Database Administration Course",
+        "description": "Mastering Database Management and Security with Microsoft SQL Server",
+        "rating": 4.5,
+        "duration": "32 hours",
+        "affiliate_url": "https://trk.udemy.com/c/2758262/3227798/39854?prodsku=course.3832968&u=https://www.udemy.com/course/complete-microsoft-sql-server-database-administration-course/?couponCode=MIDOFAUG2026",
+        "image": "https://img-c.udemycdn.com/course/480x270/3832968_141a_10.jpg",
+        "trainer": "Imran Afzal",
+        "trainer_slug": "imran-afzal",
+        "category": [
+            "SQL"
+        ],
+        "category_slug": [
+            "sql"
+        ],
+        "language": "English",
+        "language_slug": "english",
+        "coupon_code": "9.99",
+        "students": 71710,
+        "reviews": 11138,
+        "last_updated": "2026-08-13",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 1101,
+        "title": "Complete VMWare vSphere ESXi and vCenter Administration",
+        "description": "Learn everything about virtualization administration with VMWare vSphere, VM, ESXi, vCenter, vNetwork, vStorage etc.",
+        "rating": 4.6,
+        "duration": "11.5 hours",
+        "affiliate_url": "https://trk.udemy.com/c/2758262/3227798/39854?prodsku=course.1587248&u=https://www.udemy.com/course/complete-vmware-vsphere-esxi-and-vcenter-administration/?couponCode=MIDOFAUG2026",
+        "image": "https://img-c.udemycdn.com/course/480x270/1587248_22b2_7.jpg",
+        "trainer": "Imran Afzal",
+        "trainer_slug": "imran-afzal",
+        "category": [
+            "Vmware"
+        ],
+        "category_slug": [
+            "vmware"
+        ],
+        "language": "English",
+        "language_slug": "english",
+        "coupon_code": "9.99",
+        "students": 71417,
+        "reviews": 14510,
+        "last_updated": "2026-08-13",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 1102,
+        "title": "IT Fundamentals - Everything you need to know about IT",
+        "description": "Computer Skills -- Great help for passing CompTIA A+ (220-1001) and ITF+ (FCO-U61)",
+        "rating": 4.6,
+        "duration": "13.5 hours",
+        "affiliate_url": "https://trk.udemy.com/c/2758262/3227798/39854?prodsku=course.3627542&u=https://www.udemy.com/course/it-fundamentals-everything-you-need-to-know-about-it/?couponCode=MIDOFAUG2026",
+        "image": "https://img-c.udemycdn.com/course/480x270/3627542_1828_7.jpg",
+        "trainer": "Imran Afzal",
+        "trainer_slug": "imran-afzal",
+        "category": [
+            "IT Fundamentals"
+        ],
+        "category_slug": [
+            "it-fundamentals"
+        ],
+        "language": "English",
+        "language_slug": "english",
+        "coupon_code": "9.99",
+        "students": 52393,
+        "reviews": 9685,
+        "last_updated": "2026-08-13",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 1103,
+        "title": "Linux Red Hat Certified Engineer (RHCE - EX294)",
+        "description": "Learn the core skills for Linux automation with Ansible, designed for experts pursuing the RHCE (EX294) certification",
+        "rating": 4.5,
+        "duration": "7.5 hours",
+        "affiliate_url": "https://trk.udemy.com/c/2758262/3227798/39854?prodsku=course.4685476&u=https://www.udemy.com/course/linux-red-hat-certified-engineer-rhce-ex294/?couponCode=MIDOFAUG2026",
+        "image": "https://img-c.udemycdn.com/course/480x270/4685476_f7a0.jpg",
+        "trainer": "Imran Afzal",
+        "trainer_slug": "imran-afzal",
+        "category": [
+            "Linux"
+        ],
+        "category_slug": [
+            "linux"
+        ],
+        "language": "English",
+        "language_slug": "english",
+        "coupon_code": "9.99",
+        "students": 14280,
+        "reviews": 1612,
+        "last_updated": "2026-08-13",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 1104,
+        "title": "CCNA 200-301 Master Practice Exams Pack",
+        "description": "The All-in-One CCNA Practice Bundle: 5 Exams, Deep Explanations and PBQ Training.",
+        "rating": 4.4,
+        "duration": "5 tests",
+        "affiliate_url": "https://trk.udemy.com/c/2758262/3227798/39854?prodsku=course.6949391&u=https://www.udemy.com/course/ccna-200-301-master-practice-exams-pack/?couponCode=MIDOFAUG2026",
+        "image": "https://img-c.udemycdn.com/course/480x270/6949391_0da7_2.jpg",
+        "trainer": "Imran Afzal",
+        "trainer_slug": "imran-afzal",
+        "category": [
+            "IT Certifications"
+        ],
+        "category_slug": [
+            "it-certifications"
+        ],
+        "language": "English",
+        "language_slug": "english",
+        "coupon_code": "9.99",
+        "students": 1586,
+        "reviews": 70,
+        "last_updated": "2026-08-13",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 1105,
+        "title": "Complete Python with AI Skills to Get Your Dream IT Job",
+        "description": "Master Python for Data Science, AI, Machine Learning, Web Development, Game Development, Cybersecurity, and GUI!",
+        "rating": 4.6,
+        "duration": "40.5 hours",
+        "affiliate_url": "https://trk.udemy.com/c/2758262/3227798/39854?prodsku=course.6258083&u=https://www.udemy.com/course/complete-python-with-ai-skills-to-get-your-dream-it-job/?couponCode=MIDOFAUG2026",
+        "image": "https://img-c.udemycdn.com/course/480x270/6258083_9a52_4.jpg",
+        "trainer": "Imran Afzal",
+        "trainer_slug": "imran-afzal",
+        "category": [
+            "Python"
+        ],
+        "category_slug": [
+            "python"
+        ],
+        "language": "English",
+        "language_slug": "english",
+        "coupon_code": "9.99",
+        "students": 6476,
+        "reviews": 866,
+        "last_updated": "2026-08-13",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 1106,
+        "title": "Complete DevOps Ansible Automation Training",
+        "description": "A complete Ansible course designed for IT professionals and DevOps engineers to automate routine tasks in Linux (RHCE).",
+        "rating": 4.7,
+        "duration": "7 hours",
+        "affiliate_url": "https://trk.udemy.com/c/2758262/3227798/39854?prodsku=course.4500706&u=https://www.udemy.com/course/complete-ansible-devops-automation-training/?couponCode=MIDOFAUG2026",
+        "image": "https://img-c.udemycdn.com/course/480x270/4500706_4a0e_4.jpg",
+        "trainer": "Imran Afzal",
+        "trainer_slug": "imran-afzal",
+        "category": [
+            "Ansible"
+        ],
+        "category_slug": [
+            "ansible"
+        ],
+        "language": "English",
+        "language_slug": "english",
+        "coupon_code": "9.99",
+        "students": 25434,
+        "reviews": 4242,
+        "last_updated": "2026-08-13",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 1107,
+        "title": "Complete Windows Server Administration Course",
+        "description": "Installation and configuration of Domain Controller, Active Directory, DNS, WebServer (IIS), Group Policy, WSUS and more",
+        "rating": 4.7,
+        "duration": "14.5 hours",
+        "affiliate_url": "https://trk.udemy.com/c/2758262/3227798/39854?prodsku=course.1680944&u=https://www.udemy.com/course/complete-windows-server-2016-administration-course/?couponCode=MIDOFAUG2026",
+        "image": "https://img-c.udemycdn.com/course/480x270/1680944_c58b_11.jpg",
+        "trainer": "Imran Afzal",
+        "trainer_slug": "imran-afzal",
+        "category": [
+            "Operating Systems & Servers"
+        ],
+        "category_slug": [
+            "operating-systems-and-servers"
+        ],
+        "language": "English",
+        "language_slug": "english",
+        "coupon_code": "9.99",
+        "students": 33490,
+        "reviews": 6480,
+        "last_updated": "2026-08-13",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 1108,
+        "title": "Complete Linux Security & Hardening with Practical Examples",
+        "description": "The Best Linux Security Course that prepare you to protects your Systems from attacks by hackers.",
+        "rating": 4.6,
+        "duration": "16 hours",
+        "affiliate_url": "https://trk.udemy.com/c/2758262/3227798/39854?prodsku=course.1680940&u=https://www.udemy.com/course/complete-linux-security-hardening-with-practical-examples/?couponCode=MIDOFAUG2026",
+        "image": "https://img-c.udemycdn.com/course/480x270/1680940_d84c_11.jpg",
+        "trainer": "Imran Afzal",
+        "trainer_slug": "imran-afzal",
+        "category": [
+            "Linux"
+        ],
+        "category_slug": [
+            "linux"
+        ],
+        "language": "English",
+        "language_slug": "english",
+        "coupon_code": "9.99",
+        "students": 40255,
+        "reviews": 1308,
+        "last_updated": "2026-08-13",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 1109,
+        "title": "Complete MySQL Database Administration Course",
+        "description": "MySQL DBA Training to get your Dream IT Job",
+        "rating": 4.8,
+        "duration": "28 hours",
+        "affiliate_url": "https://trk.udemy.com/c/2758262/3227798/39854?prodsku=course.4323756&u=https://www.udemy.com/course/complete-mysql-training-for-data-analysis-on-linux/?couponCode=MIDOFAUG2026",
+        "image": "https://img-c.udemycdn.com/course/480x270/4323756_577f_6.jpg",
+        "trainer": "Imran Afzal",
+        "trainer_slug": "imran-afzal",
+        "category": [
+            "MySQL"
+        ],
+        "category_slug": [
+            "mysql"
+        ],
+        "language": "English",
+        "language_slug": "english",
+        "coupon_code": "9.99",
+        "students": 13010,
+        "reviews": 2031,
+        "last_updated": "2026-08-13",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 1110,
+        "title": "Complete Linux Bash Shell Scripting with Real Life Examples",
+        "description": "Shell Scripting and Programming for Daily Tedious Tasks Automation (Scripting is required for RHCSA certification)",
+        "rating": 4.5,
+        "duration": "14.5 hours",
+        "affiliate_url": "https://trk.udemy.com/c/2758262/3227798/39854?prodsku=course.1585444&u=https://www.udemy.com/course/linux-bash-shell-scripting-through-real-life-examples/?couponCode=MIDOFAUG2026",
+        "image": "https://img-c.udemycdn.com/course/480x270/1585444_e4de_9.jpg",
+        "trainer": "Imran Afzal",
+        "trainer_slug": "imran-afzal",
+        "category": [
+            "Operating Systems & Servers"
+        ],
+        "category_slug": [
+            "operating-systems-and-servers"
+        ],
+        "language": "English",
+        "language_slug": "english",
+        "coupon_code": "9.99",
+        "students": 37938,
+        "reviews": 4943,
+        "last_updated": "2026-08-13",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 1111,
+        "title": "Complete Linux Troubleshooting Course (Practical Examples)",
+        "description": "The Best Linux Troubleshooting and Administration Course that prepare you to diagnose and resolve Systems issues",
+        "rating": 4.5,
+        "duration": "17 hours",
+        "affiliate_url": "https://trk.udemy.com/c/2758262/3227798/39854?prodsku=course.1801904&u=https://www.udemy.com/course/linux-troubleshooting-course/?couponCode=MIDOFAUG2026",
+        "image": "https://img-c.udemycdn.com/course/480x270/1801904_16d6_11.jpg",
+        "trainer": "Imran Afzal",
+        "trainer_slug": "imran-afzal",
+        "category": [
+            "Linux"
+        ],
+        "category_slug": [
+            "linux"
+        ],
+        "language": "English",
+        "language_slug": "english",
+        "coupon_code": "9.99",
+        "students": 19836,
+        "reviews": 2220,
+        "last_updated": "2026-08-13",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 1112,
+        "title": "LPIC-1 Linux Certification 101 and 102 Practice Exams",
+        "description": "Linux Professional Institute Certification Preparation",
+        "rating": 4.5,
+        "duration": "6 tests",
+        "affiliate_url": "https://trk.udemy.com/c/2758262/3227798/39854?prodsku=course.5894128&u=https://www.udemy.com/course/lpic1-linux-certification-101-and-102-practice-exams/?couponCode=MIDOFAUG2026",
+        "image": "https://img-c.udemycdn.com/course/480x270/5894128_279e_5.jpg",
+        "trainer": "Imran Afzal",
+        "trainer_slug": "imran-afzal",
+        "category": [
+            "Linux"
+        ],
+        "category_slug": [
+            "linux"
+        ],
+        "language": "English",
+        "language_slug": "english",
+        "coupon_code": "9.99",
+        "students": 4755,
+        "reviews": 164,
+        "last_updated": "2026-08-13",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 1113,
+        "title": "AI-Driven Linux System Management",
+        "description": "Automate, Monitor, and Manage Linux Systems Using AI-Powered CLI Tools",
+        "rating": 4.8,
+        "duration": "3 hours",
+        "affiliate_url": "https://trk.udemy.com/c/2758262/3227798/39854?prodsku=course.6962395&u=https://www.udemy.com/course/ai-driven-linux-system-management/?couponCode=MIDOFAUG2026",
+        "image": "https://img-c.udemycdn.com/course/480x270/6962395_6492_6.jpg",
+        "trainer": "Imran Afzal",
+        "trainer_slug": "imran-afzal",
+        "category": [
+            "IT & Software"
+        ],
+        "category_slug": [
+            "it-and-software"
+        ],
+        "language": "English",
+        "language_slug": "english",
+        "coupon_code": "9.99",
+        "students": 862,
+        "reviews": 120,
+        "last_updated": "2026-08-13",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 1114,
+        "title": "Complete Job Interviewing Skills with Real Life Examples",
+        "description": "Develop job interviewing skills with real-life examples to land your dream job and stand out in today’s market",
+        "rating": 4.6,
+        "duration": "3 hours",
+        "affiliate_url": "https://trk.udemy.com/c/2758262/3227798/39854?prodsku=course.2876230&u=https://www.udemy.com/course/complete-job-interview-skills-with-real-life-examples/?couponCode=MIDOFAUG2026",
+        "image": "https://img-c.udemycdn.com/course/480x270/2876230_504a_8.jpg",
+        "trainer": "Imran Afzal",
+        "trainer_slug": "imran-afzal",
+        "category": [
+            "Personal Development"
+        ],
+        "category_slug": [
+            "personal-development"
+        ],
+        "language": "English",
+        "language_slug": "english",
+        "coupon_code": "9.99",
+        "students": 42131,
+        "reviews": 4189,
+        "last_updated": "2026-08-13",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 1115,
+        "title": "Complete Cybersecurity Certification - ISC2",
+        "description": "Master Cybersecurity Fundamentals and Prepare for the ISC2 CC Certification Exam",
+        "rating": 4.7,
+        "duration": "8.5 hours",
+        "affiliate_url": "https://trk.udemy.com/c/2758262/3227798/39854?prodsku=course.6221691&u=https://www.udemy.com/course/complete-cybersecurity-certification-isc2/?couponCode=MIDOFAUG2026",
+        "image": "https://img-c.udemycdn.com/course/480x270/6221691_f8eb_6.jpg",
+        "trainer": "Imran Afzal",
+        "trainer_slug": "imran-afzal",
+        "category": [
+            "Cybersecurity"
+        ],
+        "category_slug": [
+            "cybersecurity"
+        ],
+        "language": "English",
+        "language_slug": "english",
+        "coupon_code": "9.99",
+        "students": 5580,
+        "reviews": 490,
+        "last_updated": "2026-08-13",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 1116,
+        "title": "Master English Idioms for Beginners and Professionals",
+        "description": "Idioms - English Speaking - US and UK Slang - English Language - TOEFL - TOEIC - Go Beyond English Vocabulary",
+        "rating": 4.9,
+        "duration": "6 hours",
+        "affiliate_url": "https://trk.udemy.com/c/2758262/3227798/39854?prodsku=course.4218540&u=https://www.udemy.com/course/the-complete-english-idioms-course-master-english-idioms/?couponCode=MIDOFAUG2026",
+        "image": "https://img-c.udemycdn.com/course/480x270/4218540_1fe4_5.jpg",
+        "trainer": "Imran Afzal",
+        "trainer_slug": "imran-afzal",
+        "category": [
+            "English"
+        ],
+        "category_slug": [
+            "english"
+        ],
+        "language": "English",
+        "language_slug": "english",
+        "coupon_code": "9.99",
+        "students": 28181,
+        "reviews": 180,
+        "last_updated": "2026-08-13",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 1117,
+        "title": "VMWare for Absolute Beginners",
+        "description": "The Best beginner's course on VMware virtualization, covering ESXi and essential skills to manage virtual environment.",
+        "rating": 4.4,
+        "duration": "2 hours",
+        "affiliate_url": "https://trk.udemy.com/c/2758262/3227798/39854?prodsku=course.5046686&u=https://www.udemy.com/course/vmware-for-absolute-beginners/?couponCode=MIDOFAUG2026",
+        "image": "https://img-c.udemycdn.com/course/480x270/5046686_5074_5.jpg",
+        "trainer": "Imran Afzal",
+        "trainer_slug": "imran-afzal",
+        "category": [
+            "Vmware"
+        ],
+        "category_slug": [
+            "vmware"
+        ],
+        "language": "English",
+        "language_slug": "english",
+        "coupon_code": "9.99",
+        "students": 10023,
+        "reviews": 1895,
+        "last_updated": "2026-08-13",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 1118,
+        "title": "Linux Crash Course for Beginners - 2026",
+        "description": "Core Linux System Administration and Command Line Skills for Beginners: Learn Linux Fundamentals and Key Commands",
+        "rating": 4.6,
+        "duration": "6 hours",
+        "affiliate_url": "https://trk.udemy.com/c/2758262/3227798/39854?prodsku=course.1584174&u=https://www.udemy.com/course/learn-linux-on-a-weekend/?couponCode=MIDOFAUG2026",
+        "image": "https://img-c.udemycdn.com/course/480x270/1584174_416d_14.jpg",
+        "trainer": "Imran Afzal",
+        "trainer_slug": "imran-afzal",
+        "category": [
+            "Linux"
+        ],
+        "category_slug": [
+            "linux"
+        ],
+        "language": "English",
+        "language_slug": "english",
+        "coupon_code": "9.99",
+        "students": 30298,
+        "reviews": 2619,
+        "last_updated": "2026-08-13",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 1119,
+        "title": "Complete C# Programming Master Class",
+        "description": "C# Ultimate Master Class: .NET, ASP.NET, Dynamic Programming, Unity, Advanced APIs",
+        "rating": 4.6,
+        "duration": "14.5 hours",
+        "affiliate_url": "https://trk.udemy.com/c/2758262/3227798/39854?prodsku=course.5730030&u=https://www.udemy.com/course/complete-c-programming-master-class/?couponCode=MIDOFAUG2026",
+        "image": "https://img-c.udemycdn.com/course/480x270/5730030_9bc1_12.jpg",
+        "trainer": "Imran Afzal",
+        "trainer_slug": "imran-afzal",
+        "category": [
+            "C#"
+        ],
+        "category_slug": [
+            "c"
+        ],
+        "language": "English",
+        "language_slug": "english",
+        "coupon_code": "9.99",
+        "students": 10519,
+        "reviews": 1377,
+        "last_updated": "2026-08-13",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 1120,
+        "title": "The Complete Java Training - 2026",
+        "description": "The Complete Java Masterclass: From Fundamentals to Advanced Application Development",
+        "rating": 4.5,
+        "duration": "37 hours",
+        "affiliate_url": "https://trk.udemy.com/c/2758262/3227798/39854?prodsku=course.5070626&u=https://www.udemy.com/course/the-complete-java-training/?couponCode=MIDOFAUG2026",
+        "image": "https://img-c.udemycdn.com/course/480x270/5070626_5047_7.jpg",
+        "trainer": "Imran Afzal",
+        "trainer_slug": "imran-afzal",
+        "category": [
+            "Java"
+        ],
+        "category_slug": [
+            "java"
+        ],
+        "language": "English",
+        "language_slug": "english",
+        "coupon_code": "9.99",
+        "students": 11648,
+        "reviews": 530,
+        "last_updated": "2026-08-13",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 1121,
+        "title": "Linux RHCSA - EX200 Practice Exams and Answers",
+        "description": "This course is for those who want to become Red Hat Certified System Administrator (RHCSA - EX200)",
+        "rating": 4.2,
+        "duration": "5 tests",
+        "affiliate_url": "https://trk.udemy.com/c/2758262/3227798/39854?prodsku=course.4849234&u=https://www.udemy.com/course/linux-rhcsa-ex200-practice-exams-and-answers/?couponCode=MIDOFAUG2026",
+        "image": "https://img-c.udemycdn.com/course/480x270/4849234_0162_5.jpg",
+        "trainer": "Imran Afzal",
+        "trainer_slug": "imran-afzal",
+        "category": [
+            "Linux"
+        ],
+        "category_slug": [
+            "linux"
+        ],
+        "language": "English",
+        "language_slug": "english",
+        "coupon_code": "9.99",
+        "students": 9107,
+        "reviews": 450,
+        "last_updated": "2026-08-13",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 1122,
+        "title": "Certified Kubernetes Administrator (CKA) 6 Practice Exams",
+        "description": "Master core CKA domains with scenario questions and explanations",
+        "rating": 4.3,
+        "duration": "6 tests",
+        "affiliate_url": "https://trk.udemy.com/c/2758262/3227798/39854?prodsku=course.7061685&u=https://www.udemy.com/course/certified-kubernetes-administrator-cka-6-practice-exams/?couponCode=MIDOFAUG2026",
+        "image": "https://img-c.udemycdn.com/course/480x270/7061685_68b7.jpg",
+        "trainer": "Imran Afzal",
+        "trainer_slug": "imran-afzal",
+        "category": [
+            "Kubernetes"
+        ],
+        "category_slug": [
+            "kubernetes"
+        ],
+        "language": "English",
+        "language_slug": "english",
+        "coupon_code": "9.99",
+        "students": 962,
+        "reviews": 50,
+        "last_updated": "2026-08-13",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 1123,
+        "title": "Linux Technical Interview Questions and Answers",
+        "description": "Linux 15+ hours of practical technical interview questions, answers and explanations to Ace the Linux job interview 2020",
+        "rating": 4.7,
+        "duration": "16.5 hours",
+        "affiliate_url": "https://trk.udemy.com/c/2758262/3227798/39854?prodsku=course.1646736&u=https://www.udemy.com/course/linux-technical-interview-questions-and-answers/?couponCode=MIDOFAUG2026",
+        "image": "https://img-c.udemycdn.com/course/480x270/1646736_4b71_8.jpg",
+        "trainer": "Imran Afzal",
+        "trainer_slug": "imran-afzal",
+        "category": [
+            "Linux"
+        ],
+        "category_slug": [
+            "linux"
+        ],
+        "language": "English",
+        "language_slug": "english",
+        "coupon_code": "9.99",
+        "students": 30256,
+        "reviews": 1653,
+        "last_updated": "2026-08-13",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 1124,
+        "title": "RHCE EX294 Practice Exams for Certification",
+        "description": "Enhance Your Skills and Confidence Before the Certification Exam: 200 Hands-On Practice Questions for Success",
+        "rating": 4.8,
+        "duration": "5 tests",
+        "affiliate_url": "https://trk.udemy.com/c/2758262/3227798/39854?prodsku=course.6225789&u=https://www.udemy.com/course/rhce-ex294-practice-exams-for-certification/?couponCode=MIDOFAUG2026",
+        "image": "https://img-c.udemycdn.com/course/480x270/6225789_34a8_6.jpg",
+        "trainer": "Imran Afzal",
+        "trainer_slug": "imran-afzal",
+        "category": [
+            "IT Certifications"
+        ],
+        "category_slug": [
+            "it-certifications"
+        ],
+        "language": "English",
+        "language_slug": "english",
+        "coupon_code": "9.99",
+        "students": 2106,
+        "reviews": 39,
+        "last_updated": "2026-08-13",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 1125,
+        "title": "DP-300: Administering Microsoft Azure SQL Practice Exam",
+        "description": "Complete Practice Test Bundle: Questions Across All Key Objectives",
+        "rating": 4.5,
+        "duration": "5 tests",
+        "affiliate_url": "https://trk.udemy.com/c/2758262/3227798/39854?prodsku=course.7013737&u=https://www.udemy.com/course/dp-300-administering-microsoft-azure-sql-practice-exam-f/?couponCode=MIDOFAUG2026",
+        "image": "https://img-c.udemycdn.com/course/480x270/7013737_c39a_2.jpg",
+        "trainer": "Imran Afzal",
+        "trainer_slug": "imran-afzal",
+        "category": [
+            "IT Certifications"
+        ],
+        "category_slug": [
+            "it-certifications"
+        ],
+        "language": "English",
+        "language_slug": "english",
+        "coupon_code": "9.99",
+        "students": 347,
+        "reviews": 65,
+        "last_updated": "2026-08-13",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 1126,
+        "title": "Linux and AI for Ethical Hackers",
+        "description": "Practical Linux Training for Ethical Hackers",
+        "rating": 4.4,
+        "duration": "4.5 hours",
+        "affiliate_url": "https://trk.udemy.com/c/2758262/3227798/39854?prodsku=course.6820037&u=https://www.udemy.com/course/linux-and-ai-for-ethical-hackers/?couponCode=MIDOFAUG2026",
+        "image": "https://img-c.udemycdn.com/course/480x270/6820037_815b_6.jpg",
+        "trainer": "Imran Afzal",
+        "trainer_slug": "imran-afzal",
+        "category": [
+            "Ethical Hacking"
+        ],
+        "category_slug": [
+            "ethical-hacking"
+        ],
+        "language": "English",
+        "language_slug": "english",
+        "coupon_code": "9.99",
+        "students": 2813,
+        "reviews": 335,
+        "last_updated": "2026-08-13",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 1127,
+        "title": "PCEP-30-02: Python Certification Practice Tests",
+        "description": "6 practice tests (180 MCQs) + 60 PBQs covering the full PCEP-30-02 exam",
+        "rating": 4.6,
+        "duration": "6 tests",
+        "affiliate_url": "https://trk.udemy.com/c/2758262/3227798/39854?prodsku=course.6855033&u=https://www.udemy.com/course/pcep-30-02-python-certification-practice-tests/?couponCode=MIDOFAUG2026",
+        "image": "https://img-c.udemycdn.com/course/480x270/6855033_db35_2.jpg",
+        "trainer": "Imran Afzal",
+        "trainer_slug": "imran-afzal",
+        "category": [
+            "PCEP"
+        ],
+        "category_slug": [
+            "pcep"
+        ],
+        "language": "English",
+        "language_slug": "english",
+        "coupon_code": "9.99",
+        "students": 1973,
+        "reviews": 100,
+        "last_updated": "2026-08-13",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 1128,
+        "title": "Introduction to DevOps: Roadmap to DevOps Career",
+        "description": "DevOps course for someone who wants to learn Jenkins​,​ Jira, Dockers, Kubernetes, Nagios, Ansible, Terraform, and more",
+        "rating": 4.5,
+        "duration": "7.5 hours",
+        "affiliate_url": "https://trk.udemy.com/c/2758262/3227798/39854?prodsku=course.5236958&u=https://www.udemy.com/course/introduction-devops/?couponCode=MIDOFAUG2026",
+        "image": "https://img-c.udemycdn.com/course/480x270/5236958_2efa_5.jpg",
+        "trainer": "Imran Afzal",
+        "trainer_slug": "imran-afzal",
+        "category": [
+            "DevOps"
+        ],
+        "category_slug": [
+            "devops"
+        ],
+        "language": "English",
+        "language_slug": "english",
+        "coupon_code": "9.99",
+        "students": 9947,
+        "reviews": 950,
+        "last_updated": "2026-08-13",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 1129,
+        "title": "3 Days Linux Administration Course",
+        "description": "Learn Linux and command line skills in as little as 3 days",
+        "rating": 4.7,
+        "duration": "11 hours",
+        "affiliate_url": "https://trk.udemy.com/c/2758262/3227798/39854?prodsku=course.1531580&u=https://www.udemy.com/course/perfect-3-days-linux-course/?couponCode=MIDOFAUG2026",
+        "image": "https://img-c.udemycdn.com/course/480x270/1531580_af3c_9.jpg",
+        "trainer": "Imran Afzal",
+        "trainer_slug": "imran-afzal",
+        "category": [
+            "Linux"
+        ],
+        "category_slug": [
+            "linux"
+        ],
+        "language": "English",
+        "language_slug": "english",
+        "coupon_code": "9.99",
+        "students": 39120,
+        "reviews": 2084,
+        "last_updated": "2026-08-13",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 1130,
+        "title": "LPIC-2 Certification Practice Tests: Ultimate Exam Readiness",
+        "description": "Complete Practice Guide to Passing LPIC-2 Exam - 240 Questions for Success",
+        "rating": 4.8,
+        "duration": "4 tests",
+        "affiliate_url": "https://trk.udemy.com/c/2758262/3227798/39854?prodsku=course.6258579&u=https://www.udemy.com/course/lpic-2-certification-practice-tests/?couponCode=MIDOFAUG2026",
+        "image": "https://img-c.udemycdn.com/course/480x270/6258579_ceed_6.jpg",
+        "trainer": "Imran Afzal",
+        "trainer_slug": "imran-afzal",
+        "category": [
+            "Linux"
+        ],
+        "category_slug": [
+            "linux"
+        ],
+        "language": "English",
+        "language_slug": "english",
+        "coupon_code": "9.99",
+        "students": 687,
+        "reviews": 25,
+        "last_updated": "2026-08-13",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 1131,
+        "title": "CompTIA Linux+ (XK0-005): Practice Exams",
+        "description": "Your Ultimate Guide to Passing the CompTIA Linux+ (XK0-005) Exam",
+        "rating": 4.5,
+        "duration": "6 tests",
+        "affiliate_url": "https://trk.udemy.com/c/2758262/3227798/39854?prodsku=course.6010670&u=https://www.udemy.com/course/comptia-linux-xk0-005-practice-exams-c/?couponCode=MIDOFAUG2026",
+        "image": "https://img-c.udemycdn.com/course/480x270/6010670_ecf1_5.jpg",
+        "trainer": "Imran Afzal",
+        "trainer_slug": "imran-afzal",
+        "category": [
+            "CompTIA"
+        ],
+        "category_slug": [
+            "comptia"
+        ],
+        "language": "English",
+        "language_slug": "english",
+        "coupon_code": "9.99",
+        "students": 2853,
+        "reviews": 99,
+        "last_updated": "2026-08-13",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 1132,
+        "title": "Google Nano Banana Viral Image FX: The Photoshop Killer",
+        "description": "Replace Photoshop with Google Nano Banana; graphic design powered by generative AI via Google Gemini-create epic images.",
+        "rating": 4.7,
+        "duration": "3.5 hours",
+        "affiliate_url": "https://trk.udemy.com/c/2758262/3227798/39854?prodsku=course.6826197&u=https://www.udemy.com/course/google-nano-banana-viral-image-fx-the-photoshop-killer/?couponCode=MIDOFAUG2026",
+        "image": "https://img-c.udemycdn.com/course/480x270/6826197_3583.jpg",
+        "trainer": "Imran Afzal",
+        "trainer_slug": "imran-afzal",
+        "category": [
+            "Marketing"
+        ],
+        "category_slug": [
+            "marketing"
+        ],
+        "language": "English",
+        "language_slug": "english",
+        "coupon_code": "9.99",
+        "students": 4693,
+        "reviews": 105,
+        "last_updated": "2026-08-13",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 1133,
+        "title": "Confidence Mastery Course: Unleash Your Hidden Potential",
+        "description": "Build Your Confidence - Increase Self-Esteem - Radiate More Confidence - Become a Truly Confident Person - Communication",
+        "rating": 4.6,
+        "duration": "15 hours",
+        "affiliate_url": "https://trk.udemy.com/c/2758262/3227798/39854?prodsku=course.3631290&u=https://www.udemy.com/course/complete-confidence-building-course-exude-confidence-now/?couponCode=MIDOFAUG2026",
+        "image": "https://img-c.udemycdn.com/course/480x270/3631290_b273.jpg",
+        "trainer": "Imran Afzal",
+        "trainer_slug": "imran-afzal",
+        "category": [
+            "Personal Development"
+        ],
+        "category_slug": [
+            "personal-development"
+        ],
+        "language": "English",
+        "language_slug": "english",
+        "coupon_code": "9.99",
+        "students": 27604,
+        "reviews": 399,
+        "last_updated": "2026-08-13",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 1134,
+        "title": "PCAP-31-03 Complete Practice Exams for Python",
+        "description": "Practice PCAP-31-03 Under Real Exam Conditions With Full Solutions",
+        "rating": 4.4,
+        "duration": "4 tests",
+        "affiliate_url": "https://trk.udemy.com/c/2758262/3227798/39854?prodsku=course.6892665&u=https://www.udemy.com/course/pcap-31-03-complete-practice-exams-for-python/?couponCode=MIDOFAUG2026",
+        "image": "https://img-c.udemycdn.com/course/480x270/6892665_43b3_2.jpg",
+        "trainer": "Imran Afzal",
+        "trainer_slug": "imran-afzal",
+        "category": [
+            "IT Certifications"
+        ],
+        "category_slug": [
+            "it-certifications"
+        ],
+        "language": "English",
+        "language_slug": "english",
+        "coupon_code": "9.99",
+        "students": 1409,
+        "reviews": 12,
+        "last_updated": "2026-08-13",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 1135,
+        "title": "The Complete IT Job Search Course - Land Your Dream IT Job",
+        "description": "Launch Your IT Job Search On the Right Track! Master the IT World's LinkedIn Resume CV Writing & Interviewing Skills",
+        "rating": 4.6,
+        "duration": "14 hours",
+        "affiliate_url": "https://trk.udemy.com/c/2758262/3227798/39854?prodsku=course.3116082&u=https://www.udemy.com/course/the-complete-it-job-search-course-land-your-dream-it-job/?couponCode=MIDOFAUG2026",
+        "image": "https://img-c.udemycdn.com/course/480x270/3116082_ab45_9.jpg",
+        "trainer": "Imran Afzal",
+        "trainer_slug": "imran-afzal",
+        "category": [
+            "Personal Development"
+        ],
+        "category_slug": [
+            "personal-development"
+        ],
+        "language": "English",
+        "language_slug": "english",
+        "coupon_code": "9.99",
+        "students": 45731,
+        "reviews": 270,
+        "last_updated": "2026-08-13",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 1136,
+        "title": "Complete Positive Thinking Course - Happiness Psychology",
+        "description": "The Positive Thinking Habit - Harness the Power of Positive Psychology to Manifest More Happiness In Your Life!",
+        "rating": 4.6,
+        "duration": "3.5 hours",
+        "affiliate_url": "https://trk.udemy.com/c/2758262/3227798/39854?prodsku=course.3469576&u=https://www.udemy.com/course/complete-positive-thinking-course-happiness-psychology/?couponCode=MIDOFAUG2026",
+        "image": "https://img-c.udemycdn.com/course/480x270/3469576_64f9.jpg",
+        "trainer": "Imran Afzal",
+        "trainer_slug": "imran-afzal",
+        "category": [
+            "Personal Development"
+        ],
+        "category_slug": [
+            "personal-development"
+        ],
+        "language": "English",
+        "language_slug": "english",
+        "coupon_code": "9.99",
+        "students": 58537,
+        "reviews": 495,
+        "last_updated": "2026-08-13",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 1137,
+        "title": "Complete AWS Cloud Practitioner Training - CLF-C02",
+        "description": "Mastering AWS: Cloud Practitioner Certification Course to Pass CLF-C02 exam",
+        "rating": 4.5,
+        "duration": "21.5 hours",
+        "affiliate_url": "https://trk.udemy.com/c/2758262/3227798/39854?prodsku=course.4763052&u=https://www.udemy.com/course/complete-aws-cloud-practitioner-training/?couponCode=MIDOFAUG2026",
+        "image": "https://img-c.udemycdn.com/course/480x270/4763052_84e0_3.jpg",
+        "trainer": "Imran Afzal",
+        "trainer_slug": "imran-afzal",
+        "category": [
+            "AWS Certified Cloud Practitioner"
+        ],
+        "category_slug": [
+            "aws-certified-cloud-practitioner"
+        ],
+        "language": "English",
+        "language_slug": "english",
+        "coupon_code": "9.99",
+        "students": 12182,
+        "reviews": 655,
+        "last_updated": "2026-08-13",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 1138,
+        "title": "Ultimate Java OCA 1Z0-808 Certification Prep: Practice Exams",
+        "description": "Master Java Fundamentals and Exam Strategies with Comprehensive Practice Tests",
+        "rating": 4.8,
+        "duration": "4 tests",
+        "affiliate_url": "https://trk.udemy.com/c/2758262/3227798/39854?prodsku=course.6044218&u=https://www.udemy.com/course/ultimate-java-oca-1z0-808-certification-prep-practice-exams/?couponCode=MIDOFAUG2026",
+        "image": "https://img-c.udemycdn.com/course/480x270/6044218_a8c5_6.jpg",
+        "trainer": "Imran Afzal",
+        "trainer_slug": "imran-afzal",
+        "category": [
+            "Java"
+        ],
+        "category_slug": [
+            "java"
+        ],
+        "language": "English",
+        "language_slug": "english",
+        "coupon_code": "9.99",
+        "students": 1509,
+        "reviews": 70,
+        "last_updated": "2026-08-13",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 1139,
+        "title": "CapCut Team Accelerator: Zero to Pro Video Editor in 1 Day",
+        "description": "CapCut video editing training for teams using AI to turn beginners into pro editors fast",
+        "rating": 4.1,
+        "duration": "3.5 hours",
+        "affiliate_url": "https://trk.udemy.com/c/2758262/3227798/39854?prodsku=course.6826211&u=https://www.udemy.com/course/capcut-team-accelerator-zero-to-pro-video-editor-in-1-day/?couponCode=MIDOFAUG2026",
+        "image": "https://img-c.udemycdn.com/course/480x270/6826211_d60f_2.jpg",
+        "trainer": "Imran Afzal",
+        "trainer_slug": "imran-afzal",
+        "category": [
+            "Video Design"
+        ],
+        "category_slug": [
+            "video-design"
+        ],
+        "language": "English",
+        "language_slug": "english",
+        "coupon_code": "9.99",
+        "students": 3183,
+        "reviews": 101,
+        "last_updated": "2026-08-13",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 1140,
+        "title": "Viral Youtube Thumbnail Design: Google Gemini's Nano Banana",
+        "description": "Master VIRAL AI Thumbnail Design using Google Gemini, Nano Banana & ChatGPT to Skyrocket Your YouTube CTR",
+        "rating": 4.6,
+        "duration": "1 hour",
+        "affiliate_url": "https://trk.udemy.com/c/2758262/3227798/39854?prodsku=course.6851333&u=https://www.udemy.com/course/viral-youtube-thumbnail-design-google-geminis-nano-banana/?couponCode=MIDOFAUG2026",
+        "image": "https://img-c.udemycdn.com/course/480x270/6851333_460f.jpg",
+        "trainer": "Imran Afzal",
+        "trainer_slug": "imran-afzal",
+        "category": [
+            "Business"
+        ],
+        "category_slug": [
+            "business"
+        ],
+        "language": "English",
+        "language_slug": "english",
+        "coupon_code": "9.99",
+        "students": 417,
+        "reviews": 99,
+        "last_updated": "2026-08-13",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 1141,
+        "title": "AI Product Marketing: ChatGPT, Midjourney, Nano Banana, VEO3",
+        "description": "Build and launch AI product ads using ChatGPT, Midjourney, Sora, VEO3, Leonardo AI, Google Gemini's Nano Banana",
+        "rating": 4.4,
+        "duration": "1 hour",
+        "affiliate_url": "https://trk.udemy.com/c/2758262/3227798/39854?prodsku=course.6826215&u=https://www.udemy.com/course/ai-product-marketing-chatgpt-midjourney-nano-banana-veo3/?couponCode=MIDOFAUG2026",
+        "image": "https://img-c.udemycdn.com/course/480x270/6826215_d901.jpg",
+        "trainer": "Imran Afzal",
+        "trainer_slug": "imran-afzal",
+        "category": [
+            "Product Marketing"
+        ],
+        "category_slug": [
+            "product-marketing"
+        ],
+        "language": "English",
+        "language_slug": "english",
+        "coupon_code": "9.99",
+        "students": 3830,
+        "reviews": 100,
+        "last_updated": "2026-08-13",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 1142,
+        "title": "ISC2 Certified in Cybersecurity: 600 Practice Questions",
+        "description": "Master the ISC2 Certified in Cybersecurity Exam with our practice tests, covering all domains for balanced preparation.",
+        "rating": 4.6,
+        "duration": "6 tests",
+        "affiliate_url": "https://trk.udemy.com/c/2758262/3227798/39854?prodsku=course.6624035&u=https://www.udemy.com/course/isc2-certificated-in-cybersecurity-600-practice-questions/?couponCode=MIDOFAUG2026",
+        "image": "https://img-c.udemycdn.com/course/480x270/6624035_7183_4.jpg",
+        "trainer": "Imran Afzal",
+        "trainer_slug": "imran-afzal",
+        "category": [
+            "Cybersecurity"
+        ],
+        "category_slug": [
+            "cybersecurity"
+        ],
+        "language": "English",
+        "language_slug": "english",
+        "coupon_code": "9.99",
+        "students": 1107,
+        "reviews": 57,
+        "last_updated": "2026-08-13",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 1143,
+        "title": "Introduction to AI and ChatGPT",
+        "description": "Artificial Intelligence, ChatGPT, Dell-E, Generative AI, Machine Learning, Deep Learning, Jobs and Interview Preparation",
+        "rating": 4.5,
+        "duration": "7.5 hours",
+        "affiliate_url": "https://trk.udemy.com/c/2758262/3227798/39854?prodsku=course.5693080&u=https://www.udemy.com/course/introduction-to-ai-and-chatgpt/?couponCode=MIDOFAUG2026",
+        "image": "https://img-c.udemycdn.com/course/480x270/5693080_6d3e_11.jpg",
+        "trainer": "Imran Afzal",
+        "trainer_slug": "imran-afzal",
+        "category": [
+            "ChatGPT"
+        ],
+        "category_slug": [
+            "chatgpt"
+        ],
+        "language": "English",
+        "language_slug": "english",
+        "coupon_code": "9.99",
+        "students": 15730,
+        "reviews": 3405,
+        "last_updated": "2026-08-13",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 1144,
+        "title": "Leadership Strategies for Greater Success",
+        "description": "Enhance your leadership impact and influence with proven strategies for success in professional and personal environment",
+        "rating": 4.7,
+        "duration": "3 hours",
+        "affiliate_url": "https://trk.udemy.com/c/2758262/3227798/39854?prodsku=course.5144916&u=https://www.udemy.com/course/leadership-strategies-for-greater-success/?couponCode=MIDOFAUG2026",
+        "image": "https://img-c.udemycdn.com/course/480x270/5144916_10d5_11.jpg",
+        "trainer": "Imran Afzal",
+        "trainer_slug": "imran-afzal",
+        "category": [
+            "Leadership"
+        ],
+        "category_slug": [
+            "leadership"
+        ],
+        "language": "English",
+        "language_slug": "english",
+        "coupon_code": "9.99",
+        "students": 5531,
+        "reviews": 715,
+        "last_updated": "2026-08-13",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 1145,
+        "title": "Google Gemini for Marketing — Brands AI Accelerator",
+        "description": "Master Google Gemini, Sora & Nano Banana to create cinematic, AI-powered brand ads and product marketing campaigns",
+        "rating": 4.4,
+        "duration": "1 hour",
+        "affiliate_url": "https://trk.udemy.com/c/2758262/3227798/39854?prodsku=course.6871213&u=https://www.udemy.com/course/google-gemini-for-marketing-brands-ai-accelerator/?couponCode=MIDOFAUG2026",
+        "image": "https://img-c.udemycdn.com/course/480x270/6871213_a916.jpg",
+        "trainer": "Imran Afzal",
+        "trainer_slug": "imran-afzal",
+        "category": [
+            "Generative AI"
+        ],
+        "category_slug": [
+            "generative-ai"
+        ],
+        "language": "English",
+        "language_slug": "english",
+        "coupon_code": "9.99",
+        "students": 1033,
+        "reviews": 58,
+        "last_updated": "2026-08-13",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 1146,
+        "title": "Fundamentals and Basics of Stock Trading",
+        "description": "Beginner’s Guide to Investing: Learn Stock Market Fundamentals, Key Concepts, and Strategies to Start Trading",
+        "rating": 4.6,
+        "duration": "4 hours",
+        "affiliate_url": "https://trk.udemy.com/c/2758262/3227798/39854?prodsku=course.4100816&u=https://www.udemy.com/course/fundamentals-and-basics-of-stock-trading/?couponCode=MIDOFAUG2026",
+        "image": "https://img-c.udemycdn.com/course/480x270/4100816_1945_14.jpg",
+        "trainer": "Imran Afzal",
+        "trainer_slug": "imran-afzal",
+        "category": [
+            "Investing & Trading"
+        ],
+        "category_slug": [
+            "investing-and-trading"
+        ],
+        "language": "English",
+        "language_slug": "english",
+        "coupon_code": "9.99",
+        "students": 7220,
+        "reviews": 410,
+        "last_updated": "2026-08-13",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 1147,
+        "title": "Pitching Yourself - The Complete Course to Help You Pitch",
+        "description": "Pitching Yourself in Business and Life - Enhance Your Personal Growth by Confidently Pitching Yourself - Business Skill",
+        "rating": 4.5,
+        "duration": "7 hours",
+        "affiliate_url": "https://trk.udemy.com/c/2758262/3227798/39854?prodsku=course.4862908&u=https://www.udemy.com/course/pitching-yourself-the-complete-course-to-help-you-pitch/?couponCode=MIDOFAUG2026",
+        "image": "https://img-c.udemycdn.com/course/480x270/4862908_c126_10.jpg",
+        "trainer": "Imran Afzal",
+        "trainer_slug": "imran-afzal",
+        "category": [
+            "Communication"
+        ],
+        "category_slug": [
+            "communication"
+        ],
+        "language": "English",
+        "language_slug": "english",
+        "coupon_code": "9.99",
+        "students": 5650,
+        "reviews": 870,
+        "last_updated": "2026-08-13",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 1148,
+        "title": "Get a Job of your Dreams in IT",
+        "description": "Your first stop for IT Job - Learn everything about Information Technology (IT) fields",
+        "rating": 4.6,
+        "duration": "2 hours",
+        "affiliate_url": "https://trk.udemy.com/c/2758262/3227798/39854?prodsku=course.1507676&u=https://www.udemy.com/course/find-the-right-it-job/?couponCode=MIDOFAUG2026",
+        "image": "https://img-c.udemycdn.com/course/480x270/1507676_dabc_14.jpg",
+        "trainer": "Imran Afzal",
+        "trainer_slug": "imran-afzal",
+        "category": [
+            "IT & Software"
+        ],
+        "category_slug": [
+            "it-and-software"
+        ],
+        "language": "English",
+        "language_slug": "english",
+        "coupon_code": "9.99",
+        "students": 23272,
+        "reviews": 250,
+        "last_updated": "2026-08-13",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 1149,
+        "title": "Computer Skills for Parents to Teach their Kids",
+        "description": "Empower Your Child with Computer Fundamentals: A Guide for Parents to Teach Kids Essential Computer Skills and Concepts.",
+        "rating": 4.4,
+        "duration": "43 min",
+        "affiliate_url": "https://trk.udemy.com/c/2758262/3227798/39854?prodsku=course.3618496&u=https://www.udemy.com/course/computer-skills-for-parents-to-teach-their-kids/?couponCode=MIDOFAUG2026",
+        "image": "https://img-c.udemycdn.com/course/480x270/3618496_260e_8.jpg",
+        "trainer": "Imran Afzal",
+        "trainer_slug": "imran-afzal",
+        "category": [
+            "IT & Software"
+        ],
+        "category_slug": [
+            "it-and-software"
+        ],
+        "language": "English",
+        "language_slug": "english",
+        "coupon_code": "9.99",
+        "students": 10156,
+        "reviews": 75,
+        "last_updated": "2026-08-13",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 1150,
+        "title": "Certified Kubernetes App Developer (CKAD) Full Exam Pack",
+        "description": "Complete CKAD coverage in 6 exams, designed to improve speed, accuracy, and confidence",
+        "rating": 4.4,
+        "duration": "6 tests",
+        "affiliate_url": "https://trk.udemy.com/c/2758262/3227798/39854?prodsku=course.6871211&u=https://www.udemy.com/course/certified-kubernetes-app-developer-ckad-full-exam-pack/?couponCode=MIDOFAUG2026",
+        "image": "https://img-c.udemycdn.com/course/480x270/7077393_cbd2.jpg",
+        "trainer": "Imran Afzal",
+        "trainer_slug": "imran-afzal",
+        "category": [
+            "Kubernetes"
+        ],
+        "category_slug": [
+            "kubernetes"
+        ],
+        "language": "English",
+        "language_slug": "english",
+        "coupon_code": "9.99",
+        "students": 320,
+        "reviews": 10,
+        "last_updated": "2026-08-13",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 1151,
+        "title": "ChatGPT & Sora for Brand Marketing - AI Accelerator",
+        "description": "Master AI-Powered Marketing: Use ChatGPT, Sora & VEO3 to Create Stunning Brand Campaigns & Viral Ads",
+        "rating": 4.4,
+        "duration": "1 hour",
+        "affiliate_url": "https://trk.udemy.com/c/2758262/3227798/39854?prodsku=course.6871211&u=https://www.udemy.com/course/chatgpt-sora-for-brand-marketing-ai-accelerator/?couponCode=MIDOFAUG2026",
+        "image": "https://img-c.udemycdn.com/course/480x270/6871211_37af.jpg",
+        "trainer": "Imran Afzal",
+        "trainer_slug": "imran-afzal",
+        "category": [
+            "Business"
+        ],
+        "category_slug": [
+            "business"
+        ],
+        "language": "English",
+        "language_slug": "english",
+        "coupon_code": "9.99",
+        "students": 1021,
+        "reviews": 50,
+        "last_updated": "2026-08-13",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 1152,
+        "title": "Midjourney for VIRAL Marketing - Big Brands AI Accelerator",
+        "description": "Create Viral Brand Commercials with Midjourney, SORA & Canva - Master AI Marketing for Real-World Campaigns",
+        "rating": 4.7,
+        "duration": "1.5 hours",
+        "affiliate_url": "https://trk.udemy.com/c/2758262/3227798/39854?prodsku=course.6871215&u=https://www.udemy.com/course/midjourney-for-viral-marketing-big-brands-ai-accelerator/?couponCode=MIDOFAUG2026",
+        "image": "https://img-c.udemycdn.com/course/480x270/6871215_b241.jpg",
+        "trainer": "Imran Afzal",
+        "trainer_slug": "imran-afzal",
+        "category": [
+            "Generative AI"
+        ],
+        "category_slug": [
+            "generative-ai"
+        ],
+        "language": "English",
+        "language_slug": "english",
+        "coupon_code": "9.99",
+        "students": 975,
+        "reviews": 36,
+        "last_updated": "2026-08-13",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 1153,
+        "title": "ChatGPT SECRET for impossible Graphic Design - No Photoshop",
+        "description": "Revolutionize Graphic Design: Mastery of ChatGPT, MidJourney & Veo3 to replace Photoshop & Canva for pro visuals fast.",
+        "rating": 4.4,
+        "duration": "3 hours",
+        "affiliate_url": "https://trk.udemy.com/c/2758262/3227798/39854?prodsku=course.6792351&u=https://www.udemy.com/course/chatgpt-secret-for-impossible-graphic-design-no-photoshop/?couponCode=MIDOFAUG2026",
+        "image": "https://img-c.udemycdn.com/course/480x270/6792351_3d39_3.jpg",
+        "trainer": "Imran Afzal",
+        "trainer_slug": "imran-afzal",
+        "category": [
+            "Business"
+        ],
+        "category_slug": [
+            "business"
+        ],
+        "language": "English",
+        "language_slug": "english",
+        "coupon_code": "9.99",
+        "students": 3317,
+        "reviews": 80,
+        "last_updated": "2026-08-13",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 1154,
+        "title": "ChatGPT Social Media Takeover - Beyond Canva & Photoshop",
+        "description": "Master ChatGPT social media design for YouTube, TikTok, Instagram, Facebook & Pinterest — fast, viral, Canva Free",
+        "rating": 4.4,
+        "duration": "2 hours",
+        "affiliate_url": "https://trk.udemy.com/c/2758262/3227798/39854?prodsku=course.6804561&u=https://www.udemy.com/course/chatgpt-social-media-takeover-beyond-canva-photoshop/?couponCode=MIDOFAUG2026",
+        "image": "https://img-c.udemycdn.com/course/480x270/6804561_c486_3.jpg",
+        "trainer": "Imran Afzal",
+        "trainer_slug": "imran-afzal",
+        "category": [
+            "Marketing"
+        ],
+        "category_slug": [
+            "marketing"
+        ],
+        "language": "English",
+        "language_slug": "english",
+        "coupon_code": "9.99",
+        "students": 3287,
+        "reviews": 35,
+        "last_updated": "2026-08-13",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 1155,
+        "title": "ChatGPT, Midjourney & VEO3 for VIRAL Product Marketing",
+        "description": "Master Midjourney, Google Veo3 & ChatGPT to Design Viral Product Ads, Studio-Style Visuals & Cinematic GenAI Commercials",
+        "rating": 4.5,
+        "duration": "2 hours",
+        "affiliate_url": "https://trk.udemy.com/c/2758262/3227798/39854?prodsku=course.6759095&u=https://www.udemy.com/course/chatgpt-midjourney-veo3-for-viral-product-marketing/?couponCode=MIDOFAUG2026",
+        "image": "https://img-c.udemycdn.com/course/480x270/6759095_ea9c_2.jpg",
+        "trainer": "Imran Afzal",
+        "trainer_slug": "imran-afzal",
+        "category": [
+            "Product Marketing"
+        ],
+        "category_slug": [
+            "product-marketing"
+        ],
+        "language": "English",
+        "language_slug": "english",
+        "coupon_code": "9.99",
+        "students": 5958,
+        "reviews": 80,
+        "last_updated": "2026-08-13",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 1156,
+        "title": "Complete CompTIA A+ Practice Test Pack – 220-1101 & 220-1102",
+        "description": "Prepare for the Latest A+ Exams with 4 Simulated Tests and PBQs",
+        "rating": 4.6,
+        "duration": "4 tests",
+        "affiliate_url": "https://trk.udemy.com/c/2758262/3227798/39854?prodsku=course.6565797&u=https://www.udemy.com/course/complete-comptia-a-practice-test-pack-220-1101-220-1102/?couponCode=MIDOFAUG2026",
+        "image": "https://img-c.udemycdn.com/course/480x270/6565797_59fe_2.jpg",
+        "trainer": "Imran Afzal",
+        "trainer_slug": "imran-afzal",
+        "category": [
+            "CompTIA"
+        ],
+        "category_slug": [
+            "comptia"
+        ],
+        "language": "English",
+        "language_slug": "english",
+        "coupon_code": "9.99",
+        "students": 1275,
+        "reviews": 40,
+        "last_updated": "2026-08-13",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 1157,
+        "title": "AWS Certified Cloud Practitioner Exam Practice Tests-CLF-02",
+        "description": "Prepare for Success: AWS CLF-02 Practice Exams for Cloud Practitioner Candidates",
+        "rating": 4.3,
+        "duration": "5 tests",
+        "affiliate_url": "https://trk.udemy.com/c/2758262/3227798/39854?prodsku=course.5693030&u=https://www.udemy.com/course/aws-certified-cloud-practitioner-practice-exam-tests/?couponCode=MIDOFAUG2026",
+        "image": "https://img-c.udemycdn.com/course/480x270/5693030_0b78_5.jpg",
+        "trainer": "Imran Afzal",
+        "trainer_slug": "imran-afzal",
+        "category": [
+            "AWS Certified Cloud Practitioner"
+        ],
+        "category_slug": [
+            "aws-certified-cloud-practitioner"
+        ],
+        "language": "English",
+        "language_slug": "english",
+        "coupon_code": "9.99",
+        "students": 6303,
+        "reviews": 160,
+        "last_updated": "2026-08-13",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 1158,
+        "title": "【AI 자막】 Microsoft SQL Server 데이터베이스 관리 - 완벽 마스터 과정!",
+        "description": "Microsoft SQL Server 로 데이터베이스 관리 및 보안 마스터하기",
+        "rating": 4.8,
+        "duration": "32.5 hours",
+        "affiliate_url": "https://trk.udemy.com/c/2758262/3227798/39854?prodsku=course.5866940&u=https://www.udemy.com/course/complete-microsoft-sql-server-database-administration-course-korean/?couponCode=MIDOFAUG2026",
+        "image": "https://img-c.udemycdn.com/course/480x270/5866940_6c6e_10.jpg",
+        "trainer": "Imran Afzal",
+        "trainer_slug": "imran-afzal",
+        "category": [
+            "SQL"
+        ],
+        "category_slug": [
+            "sql"
+        ],
+        "language": "Korean",
+        "language_slug": "korean",
+        "coupon_code": "9.99",
+        "students": 239,
+        "reviews": 80,
+        "last_updated": "2026-08-13",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 1159,
+        "title": "Fundamentos de TI - Todo lo que necesitas saber sobre TI",
+        "description": "Habilidades informáticas: gran ayuda para aprobar CompTIA A+ (220-1001) e ITF+ (FCO-U61)",
+        "rating": 4.5,
+        "duration": "10.5 hours",
+        "affiliate_url": "https://trk.udemy.com/c/2758262/3227798/39854?prodsku=course.5865462&u=https://www.udemy.com/course/fundamentos-de-ti-todo-lo-que-necesitas-saber-sobre-ti/?couponCode=MIDOFAUG2026",
+        "image": "https://img-c.udemycdn.com/course/480x270/5865462_d7ab_8.jpg",
+        "trainer": "Imran Afzal",
+        "trainer_slug": "imran-afzal",
+        "category": [
+            "IT Fundamentals"
+        ],
+        "category_slug": [
+            "it-fundamentals"
+        ],
+        "language": "Spanish",
+        "language_slug": "spanish",
+        "coupon_code": "9.99",
+        "students": 5412,
+        "reviews": 475,
+        "last_updated": "2026-08-13",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 1160,
+        "title": "【AI 자막】 VMWare vSphere ESXi 및 vCenter 관리 완전 정복하기!",
+        "description": "VMWare vSphere, VM, ESXi, vCenter, vNetwork, vStorage 등 가상화 관리에 대해 모든 것을 배웁니다.",
+        "rating": 4.7,
+        "duration": "11 hours",
+        "affiliate_url": "https://trk.udemy.com/c/2758262/3227798/39854?prodsku=course.5794316&u=https://www.udemy.com/course/vmware-vsphere-esxi-and-vcenter-administration-korean/?couponCode=MIDOFAUG2026",
+        "image": "https://img-c.udemycdn.com/course/480x270/5794316_fc88_13.jpg",
+        "trainer": "Imran Afzal",
+        "trainer_slug": "imran-afzal",
+        "category": [
+            "Vmware"
+        ],
+        "category_slug": [
+            "vmware"
+        ],
+        "language": "Korean",
+        "language_slug": "korean",
+        "coupon_code": "9.99",
+        "students": 225,
+        "reviews": 45,
+        "last_updated": "2026-08-13",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 1161,
+        "title": "【AI 자막】 Linux Redhat 시스템 관리자 자격증 마스터하기! (RHCSA - EX200)",
+        "description": "이 강의는 최단기간에 리눅스 레드햇 시스템 관리자 (RHCSA) 자격증을 취득하고 싶은 분들에게 가장 적합합니다!",
+        "rating": 4.3,
+        "duration": "12 hours",
+        "affiliate_url": "https://trk.udemy.com/c/2758262/3227798/39854?prodsku=course.5866954&u=https://www.udemy.com/course/linux-redhat-certified-system-administrator-rhcsa-ex200-korean/?couponCode=MIDOFAUG2026",
+        "image": "https://img-c.udemycdn.com/course/480x270/5866954_e1a1_6.jpg",
+        "trainer": "Imran Afzal",
+        "trainer_slug": "imran-afzal",
+        "category": [
+            "Linux"
+        ],
+        "category_slug": [
+            "linux"
+        ],
+        "language": "Korean",
+        "language_slug": "korean",
+        "coupon_code": "9.99",
+        "students": 529,
+        "reviews": 30,
+        "last_updated": "2026-08-13",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 1162,
+        "title": "【AI 자막】 꿈의 IT 직업을 얻기 위한 완벽한 Linux 리눅스 교육 과정 2026",
+        "description": "최고의 리눅스 관리자 훈련 과정으로 꿈의 IT 회사 취업 및 RHCSA, RHCE, LFCS, CLNP 등의 Linux 관련 자격증 시험에 대비할 수 있습니다.",
+        "rating": 4.5,
+        "duration": "40 hours",
+        "affiliate_url": "https://trk.udemy.com/c/2758262/3227798/39854?prodsku=course.5669700&u=https://www.udemy.com/course/complete-linux-training-course-to-get-your-dream-it-job-korean/?couponCode=MIDOFAUG2026",
+        "image": "https://img-c.udemycdn.com/course/480x270/5669700_b8b2_21.jpg",
+        "trainer": "Imran Afzal",
+        "trainer_slug": "imran-afzal",
+        "category": [
+            "Linux"
+        ],
+        "category_slug": [
+            "linux"
+        ],
+        "language": "Korean",
+        "language_slug": "korean",
+        "coupon_code": "9.99",
+        "students": 1120,
+        "reviews": 141,
+        "last_updated": "2026-08-13",
+        "featured": "",
+        "status": "Active"
     }
 ]

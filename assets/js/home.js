@@ -229,74 +229,91 @@ function displayStatistics(){
 */
 
 
-function displayLatestCourses(){
+function displayLatestCourses() {
 
     let container =
-    document.getElementById(
-        "latestCourses"
-    );
+        document.getElementById("latestCourses");
+
+    container.innerHTML = "";
+
+    if (!courses.length) {
+        return;
+    }
+
+    // Find the latest update date
+    const latestDate = courses.reduce((latest, course) => {
+
+        return new Date(course.last_updated) > new Date(latest)
+            ? course.last_updated
+            : latest;
+
+    }, courses[0].last_updated);
 
 
-    container.innerHTML="";
+    // Get ONLY courses updated on the latest date
+    let latestCourses = courses.filter(course => {
 
-
-    courses
-    .sort((a, b) => new Date(b.last_updated) - new Date(a.last_updated))
-    .slice(0,16)
-    .forEach(course=>{
-
-
-        container.innerHTML += `
-
-<div class="course-card">
-
-    <img
-    src="${course.image}"
-    alt="${course.title}">
-
-    <div class="course-card-content">
-
-        <h3>${course.title}</h3>
-
-        <p>
-        📂
-        <a href="category.html?category=${course.category_slug}">
-        ${course.category}
-        </a>
-        </p>
-
-        <p>⏱ ${course.duration}</p>
-
-        <p>⭐ ${course.rating}</p>
-
-        <p>
-        👨‍🏫
-        <a href="trainer.html?trainer=${course.trainer_slug}">
-        ${course.trainer}
-        </a>
-        </p>
-
-        
-
-        <a
-        class="coupon-btn"
-        href="${course.affiliate_url}"
-        target="_blank"
-        rel="noopener">
-
-        Get Coupon
-
-        </a>
-
-    </div>
-
-</div>
-
-`;
-
+        return course.last_updated === latestDate;
 
     });
 
+
+    // Randomize courses
+    latestCourses.sort(() => Math.random() - 0.5);
+
+
+    // Display maximum 16 random courses
+    latestCourses
+        .slice(0, 16)
+        .forEach(course => {
+
+            container.innerHTML += `
+
+            <div class="course-card">
+
+                <img
+                    src="${course.image}"
+                    alt="${course.title}">
+
+                <div class="course-card-content">
+
+                    <h3>${course.title}</h3>
+
+                    <p>
+                        📂
+                        <a href="category.html?category=${course.category_slug}">
+                            ${course.category}
+                        </a>
+                    </p>
+
+                    <p>⏱ ${course.duration}</p>
+
+                    <p>⭐ ${course.rating}</p>
+
+                    <p>
+                        👨‍🏫
+                        <a href="trainer.html?trainer=${course.trainer_slug}">
+                            ${course.trainer}
+                        </a>
+                    </p>
+
+                    <a
+                        class="coupon-btn"
+                        href="${course.affiliate_url}"
+                        target="_blank"
+                        rel="noopener">
+
+                        Get Coupon
+
+                    </a>
+
+                </div>
+
+            </div>
+
+            `;
+
+        });
 
 }
 

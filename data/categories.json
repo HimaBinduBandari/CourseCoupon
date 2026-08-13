@@ -1403,5 +1403,85 @@
         "id": 281,
         "name": "Software Development",
         "slug": "software-development"
+    },
+    {
+        "id": 282,
+        "name": "iOS Development",
+        "slug": "ios-development"
+    },
+    {
+        "id": 283,
+        "name": "Android Development",
+        "slug": "android-development"
+    },
+    {
+        "id": 284,
+        "name": "System Administrator",
+        "slug": "system-administrator"
+    },
+    {
+        "id": 285,
+        "name": "IT Fundamentals",
+        "slug": "it-fundamentals"
+    },
+    {
+        "id": 286,
+        "name": "Network Administrator",
+        "slug": "network-administrator"
+    },
+    {
+        "id": 287,
+        "name": "IT / Technical Support",
+        "slug": "it-technical-support"
+    },
+    {
+        "id": 288,
+        "name": "Cisco",
+        "slug": "cisco"
+    },
+    {
+        "id": 289,
+        "name": "Programming Languages",
+        "slug": "programming-languages"
+    },
+    {
+        "id": 290,
+        "name": "Microsoft Excel",
+        "slug": "microsoft-excel"
+    },
+    {
+        "id": 291,
+        "name": "Flask",
+        "slug": "flask"
+    },
+    {
+        "id": 292,
+        "name": "CompTIA",
+        "slug": "comptia"
+    },
+    {
+        "id": 293,
+        "name": "Marketing",
+        "slug": "marketing"
+    },
+    {
+        "id": 294,
+        "name": "Video Design",
+        "slug": "video-design"
+    },
+    {
+        "id": 295,
+        "name": "Product Marketing",
+        "slug": "product-marketing"
+    },
+    {
+        "id": 296,
+        "name": "Investing & Trading",
+        "slug": "investing-and-trading"
+    },
+    {
+        "id": 297,
+        "name": "Communication",
+        "slug": "communication"
     }
 ]

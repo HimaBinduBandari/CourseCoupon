@@ -449,5 +449,60 @@
         "bio": "",
         "website": "",
         "linkedin": "https://linkedin.com/in/marlon-anesi/"
+    },
+    {
+        "id": 42,
+        "name": "Dr. Ron Erez",
+        "slug": "dr-ron-erez",
+        "photo": "https://img-c.udemycdn.com/user/200_H/6552930_b361_2.jpg",
+        "banner": "",
+        "designation": "Computer programmer",
+        "bio": "",
+        "website": "",
+        "linkedin": ""
+    },
+    {
+        "id": 43,
+        "name": "Dan Mill",
+        "slug": "dan-mill",
+        "photo": "https://img-c.udemycdn.com/user/200_H/226772868_e5a5_8.jpg",
+        "banner": "",
+        "designation": "",
+        "bio": "",
+        "website": "",
+        "linkedin": "https://linkedin.com/in/danmilltraining/"
+    },
+    {
+        "id": 44,
+        "name": "Haris Ali Khan",
+        "slug": "haris-ali-khan",
+        "photo": "https://img-c.udemycdn.com/user/200_H/239666752_15ea.jpg",
+        "banner": "",
+        "designation": "Software Developer, YouTuber",
+        "bio": "",
+        "website": "",
+        "linkedin": ""
+    },
+    {
+        "id": 45,
+        "name": "Ing. Marcela Gamiño",
+        "slug": "ing-marcela-gami-o",
+        "photo": "https://img-c.udemycdn.com/user/200_H/8976590_7827_3.jpg",
+        "banner": "",
+        "designation": "Ingeniera en Computación",
+        "bio": "",
+        "website": "",
+        "linkedin": ""
+    },
+    {
+        "id": 46,
+        "name": "Imran Afzal",
+        "slug": "imran-afzal",
+        "photo": "https://img-c.udemycdn.com/user/200_H/37802628_874d_14.jpg",
+        "banner": "",
+        "designation": "",
+        "bio": "",
+        "website": "",
+        "linkedin": "https://linkedin.com/in/imran-afzal-4092473/"
     }
 ]
