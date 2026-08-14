@@ -1483,5 +1483,80 @@
         "id": 297,
         "name": "Communication",
         "slug": "communication"
+    },
+    {
+        "id": 298,
+        "name": "SignalR",
+        "slug": "signalr"
+    },
+    {
+        "id": 299,
+        "name": "TOEIC",
+        "slug": "toeic"
+    },
+    {
+        "id": 300,
+        "name": "IELTS",
+        "slug": "ielts"
+    },
+    {
+        "id": 301,
+        "name": "ISO",
+        "slug": "iso"
+    },
+    {
+        "id": 302,
+        "name": "Data Visualization",
+        "slug": "data-visualization"
+    },
+    {
+        "id": 303,
+        "name": "Quality Management",
+        "slug": "quality-management"
+    },
+    {
+        "id": 304,
+        "name": "Business Operations",
+        "slug": "business-operations"
+    },
+    {
+        "id": 305,
+        "name": "Quality Assurance",
+        "slug": "quality-assurance"
+    },
+    {
+        "id": 306,
+        "name": "Quality Auditor",
+        "slug": "quality-auditor"
+    },
+    {
+        "id": 307,
+        "name": "Quality Engineer",
+        "slug": "quality-engineer"
+    },
+    {
+        "id": 308,
+        "name": "Business Management",
+        "slug": "business-management"
+    },
+    {
+        "id": 309,
+        "name": "Risk Management",
+        "slug": "risk-management"
+    },
+    {
+        "id": 310,
+        "name": "Full Stack Web Development",
+        "slug": "full-stack-web-development"
+    },
+    {
+        "id": 311,
+        "name": "Engineering",
+        "slug": "engineering"
+    },
+    {
+        "id": 312,
+        "name": "Finance & Accounting",
+        "slug": "finance-and-accounting"
     }
 ]

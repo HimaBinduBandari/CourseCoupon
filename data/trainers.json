@@ -184,7 +184,7 @@
         "designation": "",
         "bio": "",
         "website": "",
-        "linkedin": ""
+        "linkedin": "https://linkedin.com/in/jose-andres-montoya"
     },
     {
         "id": 18,
@@ -504,5 +504,159 @@
         "bio": "",
         "website": "",
         "linkedin": "https://linkedin.com/in/imran-afzal-4092473/"
+    },
+    {
+        "id": 47,
+        "name": "Frank Kane",
+        "slug": "frank-kane",
+        "photo": "https://img-c.udemycdn.com/user/200_H/32164746_8429_3.jpg",
+        "banner": "",
+        "designation": "",
+        "bio": "",
+        "website": "",
+        "linkedin": ""
+    },
+    {
+        "id": 48,
+        "name": "Bhrugen Patel",
+        "slug": "bhrugen-patel",
+        "photo": "https://img-c.udemycdn.com/user/200_H/81389659_ee92_5.jpg",
+        "banner": "",
+        "designation": "Software engineer",
+        "bio": "",
+        "website": "",
+        "linkedin": "https://linkedin.com/in/bhrugenpatel/"
+    },
+    {
+        "id": 49,
+        "name": "Bonnie Schulkin",
+        "slug": "bonnie-schulkin",
+        "photo": "https://img-c.udemycdn.com/user/200_H/26019240_6689_5.jpg",
+        "banner": "",
+        "designation": "",
+        "bio": "",
+        "website": "",
+        "linkedin": "https://linkedin.com/in/bonnie-schulkin"
+    },
+    {
+        "id": 50,
+        "name": "Francis Carlisle",
+        "slug": "francis-carlisle",
+        "photo": "https://img-c.udemycdn.com/user/200_H/28681264_43b0_4.jpg",
+        "banner": "",
+        "designation": "Founder of Last Minute English",
+        "bio": "",
+        "website": "",
+        "linkedin": "https://linkedin.com/company/last-minute-english"
+    },
+    {
+        "id": 51,
+        "name": "Bogdan Stashchuk",
+        "slug": "bogdan-stashchuk",
+        "photo": "https://img-c.udemycdn.com/user/200_H/589907_c856_17.jpg",
+        "banner": "",
+        "designation": "Software Engineer",
+        "bio": "",
+        "website": "",
+        "linkedin": "https://linkedin.com/in/bogdanstashchuk"
+    },
+    {
+        "id": 52,
+        "name": "Sandeep Kumar",
+        "slug": "sandeep-kumar",
+        "photo": "https://img-c.udemycdn.com/user/200_H/523368_7e83_12.jpg",
+        "banner": "",
+        "designation": "Experienced Quality Director",
+        "bio": "",
+        "website": "",
+        "linkedin": "https://linkedin.com/in/qualitygurus/"
+    },
+    {
+        "id": 53,
+        "name": "Görkemli Yazılım",
+        "slug": "g-rkemli-yaz-l-m",
+        "photo": "https://img-c.udemycdn.com/user/200_H/38986868_33ce_5.jpg",
+        "banner": "",
+        "designation": "Profesyonel Yazılım Geliştirici",
+        "bio": "",
+        "website": "",
+        "linkedin": ""
+    },
+    {
+        "id": 54,
+        "name": "Murat Yücedağ",
+        "slug": "murat-y-ceda",
+        "photo": "https://img-c.udemycdn.com/user/200_H/29596928_1fdb_3.jpg",
+        "banner": "",
+        "designation": "Yazılım Mühendisi ve Eğitmen",
+        "bio": "",
+        "website": "",
+        "linkedin": "https://linkedin.com/in/murat-y%C3%BCceda%C4%9F-186933149/"
+    },
+    {
+        "id": 55,
+        "name": "Kamil KAVCAR",
+        "slug": "kamil-kavcar",
+        "photo": "https://img-c.udemycdn.com/user/200_H/194938934_1c82_3.jpg",
+        "banner": "",
+        "designation": "",
+        "bio": "",
+        "website": "",
+        "linkedin": ""
+    },
+    {
+        "id": 56,
+        "name": "Yazılım Teknolojileri",
+        "slug": "yaz-l-m-teknolojileri",
+        "photo": "https://img-c.udemycdn.com/user/200_H/160071586_bdbb_14.jpg",
+        "banner": "",
+        "designation": "",
+        "bio": "",
+        "website": "",
+        "linkedin": ""
+    },
+    {
+        "id": 57,
+        "name": "Enes Bayram",
+        "slug": "enes-bayram",
+        "photo": "https://img-c.udemycdn.com/user/200_H/65789628_bf62_13.jpg",
+        "banner": "",
+        "designation": "Full Stack Web Developer",
+        "bio": "",
+        "website": "",
+        "linkedin": "https://linkedin.com/in/enes-bayram-6a31021a4/"
+    },
+    {
+        "id": 58,
+        "name": "Bilişim Dünyası",
+        "slug": "bili-im-d-nyas",
+        "photo": "https://img-c.udemycdn.com/user/200_H/22598360_fe87_2.jpg",
+        "banner": "",
+        "designation": "Bilişim Teknolojileri ve Yazılım Öğretmeni",
+        "bio": "",
+        "website": "",
+        "linkedin": ""
+    },
+    {
+        "id": 59,
+        "name": "Emre Yilmaz",
+        "slug": "emre-yilmaz",
+        "photo": "https://img-c.udemycdn.com/user/200_H/27736868_7d6c_75.jpg",
+        "banner": "",
+        "designation": "Senior AWS Architect",
+        "bio": "",
+        "website": "",
+        "linkedin": "https://linkedin.com/in/emre-yilmaz-shikisoft/"
+    },
+    {
+        "id": 60,
+        "name": "Mohsen Hassan",
+        "slug": "mohsen-hassan",
+        "photo": "https://img-c.udemycdn.com/user/200_H/33900490_19da_2.jpg",
+        "banner": "",
+        "designation": "",
+        "bio": "",
+        "website": "",
+        "linkedin": ""
     }
 ]
