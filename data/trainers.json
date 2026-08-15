@@ -658,5 +658,93 @@
         "bio": "",
         "website": "",
         "linkedin": ""
+    },
+    {
+        "id": 61,
+        "name": "Henry Habib",
+        "slug": "henry-habib",
+        "photo": "https://img-c.udemycdn.com/user/200_H/114871766_7010_3.jpg",
+        "banner": "",
+        "designation": "",
+        "bio": "",
+        "website": "",
+        "linkedin": "https://linkedin.com/hasanainhn"
+    },
+    {
+        "id": 62,
+        "name": "Ramesh Fadatare",
+        "slug": "ramesh-fadatare",
+        "photo": "https://img-c.udemycdn.com/user/200_H/52467702_5352_4.jpg",
+        "banner": "",
+        "designation": "",
+        "bio": "",
+        "website": "",
+        "linkedin": "https://linkedin.com/in/ramesh-fadatare"
+    },
+    {
+        "id": 63,
+        "name": "Justin Kivel",
+        "slug": "justin-kivel",
+        "photo": "https://img-c.udemycdn.com/user/200_H/5020122_7a96_4.jpg",
+        "banner": "",
+        "designation": "Real estate investment professional",
+        "bio": "",
+        "website": "",
+        "linkedin": "https://linkedin.com/in/justin-kivel-aa06361a"
+    },
+    {
+        "id": 64,
+        "name": "Memi Lavi",
+        "slug": "memi-lavi",
+        "photo": "https://img-c.udemycdn.com/user/200_H/29720180_6882.jpg",
+        "banner": "",
+        "designation": "Senior Software Architect & Consultant",
+        "bio": "",
+        "website": "",
+        "linkedin": "https://linkedin.com/in/memilavi/"
+    },
+    {
+        "id": 65,
+        "name": "Phillip Burton",
+        "slug": "phillip-burton",
+        "photo": "https://img-c.udemycdn.com/user/200_H/12861544_ccc3_4.jpg",
+        "banner": "",
+        "designation": "",
+        "bio": "",
+        "website": "",
+        "linkedin": "https://linkedin.com/company/i-do-data"
+    },
+    {
+        "id": 66,
+        "name": "Ardit Sulce",
+        "slug": "ardit-sulce",
+        "photo": "https://img-c.udemycdn.com/user/200_H/717783_3157_9.jpg",
+        "banner": "",
+        "designation": "Software Developer",
+        "bio": "",
+        "website": "",
+        "linkedin": "https://linkedin.com/in/arditsulce"
+    },
+    {
+        "id": 67,
+        "name": "Akshay Kamath",
+        "slug": "akshay-kamath",
+        "photo": "https://img-c.udemycdn.com/user/200_H/99991568_4aa3_5.jpg",
+        "banner": "",
+        "designation": "Civil Engineer",
+        "bio": "",
+        "website": "",
+        "linkedin": "https://linkedin.com/in/akshay-kamath-263397a3/"
+    },
+    {
+        "id": 68,
+        "name": "Sufani Garza",
+        "slug": "sufani-garza",
+        "photo": "https://img-c.udemycdn.com/user/200_H/127795328_5cc8_6.jpg",
+        "banner": "",
+        "designation": "Director of Place of Bliss Academy",
+        "bio": "",
+        "website": "",
+        "linkedin": "https://linkedin.com/in/place-of-bliss-academy/"
     }
 ]

@@ -1558,5 +1558,60 @@
         "id": 312,
         "name": "Finance & Accounting",
         "slug": "finance-and-accounting"
+    },
+    {
+        "id": 313,
+        "name": "Google Looker",
+        "slug": "google-looker"
+    },
+    {
+        "id": 314,
+        "name": "dbt",
+        "slug": "dbt"
+    },
+    {
+        "id": 315,
+        "name": "Databricks",
+        "slug": "databricks"
+    },
+    {
+        "id": 316,
+        "name": "Digital Marketing",
+        "slug": "digital-marketing"
+    },
+    {
+        "id": 317,
+        "name": "Hibernate",
+        "slug": "hibernate"
+    },
+    {
+        "id": 318,
+        "name": "Real Estate",
+        "slug": "real-estate"
+    },
+    {
+        "id": 319,
+        "name": "Lifestyle",
+        "slug": "lifestyle"
+    },
+    {
+        "id": 320,
+        "name": "Psychology",
+        "slug": "psychology"
+    },
+    {
+        "id": 321,
+        "name": "Spirituality",
+        "slug": "spirituality"
+    },
+    {
+        "id": 322,
+        "name": "Meditation",
+        "slug": "meditation"
+    },
+    {
+        "id": 323,
+        "name": "Health & Fitness",
+        "slug": "health-and-fitness"
     }
 ]
