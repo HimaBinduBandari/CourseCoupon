@@ -40848,5 +40848,905 @@
         "last_updated": "2026-08-15",
         "featured": "",
         "status": "Active"
+    },
+    {
+        "id": 1637,
+        "title": "Formação Gestor de Tráfego Pago e Mídia Performance",
+        "description": "Aprenda TUDO que você precisa para entrar ou crescer em uma das áreas com MAIORES SALÁRIOS dentro do Marketing Digital",
+        "rating": 4.6,
+        "duration": "28.5 hours",
+        "affiliate_url": "https://trk.udemy.com/c/2758262/3227798/39854?prodsku=course.4481922&u=https://www.udemy.com/course/formacao-gestor-de-trafego-pago-e-midia-performance/?couponCode=AGOS_FGT",
+        "image": "https://i.udemycdn.com/course/480x270/4481922_93d2_5.jpg",
+        "trainer": "TCW Marketing",
+        "trainer_slug": "tcw-marketing",
+        "category": [
+            "Digital Marketing"
+        ],
+        "category_slug": [
+            "digital-marketing"
+        ],
+        "language": "Portuguese",
+        "language_slug": "portuguese",
+        "coupon_code": "14.99",
+        "students": 49733,
+        "reviews": 10897,
+        "last_updated": "2026-08-16",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 1638,
+        "title": "Formação Social Media Marketing e Redes Sociais",
+        "description": "Seja Gestor de Mídias Sociais e aprenda Estratégias, Técnicas e Ferramentas Avançadas para ter sucesso nas Redes Sociais",
+        "rating": 4.6,
+        "duration": "17.5 hours",
+        "affiliate_url": "https://trk.udemy.com/c/2758262/3227798/39854?prodsku=course.4850596&u=https://www.udemy.com/course/formacao-social-media-marketing-e-redes-sociais/?couponCode=AGOS_FSMM",
+        "image": "https://i.udemycdn.com/course/480x270/4850596_3d98_2.jpg",
+        "trainer": "TCW Marketing",
+        "trainer_slug": "tcw-marketing",
+        "category": [
+            "Social Media Marketing"
+        ],
+        "category_slug": [
+            "social-media-marketing"
+        ],
+        "language": "Portuguese",
+        "language_slug": "portuguese",
+        "coupon_code": "14.99",
+        "students": 13538,
+        "reviews": 3428,
+        "last_updated": "2026-08-16",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 1639,
+        "title": "Formação Gerente de Marketing Digital e E-commerce",
+        "description": "Aprenda TUDO que você precisa para ser um Gestor de Marketing Digital, uma das áreas com MAIORES SALÁRIOS da atualidade!",
+        "rating": 4.4,
+        "duration": "35.5 hours",
+        "affiliate_url": "https://trk.udemy.com/c/2758262/3227798/39854?prodsku=course.4543268&u=https://www.udemy.com/course/formacao-gerente-de-marketing-digital-e-ecommerce/?couponCode=AGOS_FGMD",
+        "image": "https://i.udemycdn.com/course/480x270/4543268_f1bd_7.jpg",
+        "trainer": "TCW Marketing",
+        "trainer_slug": "tcw-marketing",
+        "category": [
+            "Digital Marketing"
+        ],
+        "category_slug": [
+            "digital-marketing"
+        ],
+        "language": "Portuguese",
+        "language_slug": "portuguese",
+        "coupon_code": "14.99",
+        "students": 5312,
+        "reviews": 1046,
+        "last_updated": "2026-08-16",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 1640,
+        "title": "Formação Growth Marketing Hacking e Funil de Vendas Digitais",
+        "description": "Growth Marketing Hacking, nessa Formação você aprenderá Estratégias e Técnicas Digitais Avançadas para Crescer as Vendas",
+        "rating": 4.7,
+        "duration": "36.5 hours",
+        "affiliate_url": "https://trk.udemy.com/c/2758262/3227798/39854?prodsku=course.4719992&u=https://www.udemy.com/course/formacao-growth-marketing-hacking-e-funil-de-vendas-digitais/?couponCode=AGOS_FGMH",
+        "image": "https://i.udemycdn.com/course/480x270/4719992_c9ca_7.jpg",
+        "trainer": "TCW Marketing",
+        "trainer_slug": "tcw-marketing",
+        "category": [
+            "Marketing"
+        ],
+        "category_slug": [
+            "marketing"
+        ],
+        "language": "Portuguese",
+        "language_slug": "portuguese",
+        "coupon_code": "14.99",
+        "students": 5393,
+        "reviews": 951,
+        "last_updated": "2026-08-16",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 1641,
+        "title": "Formação Marketing Digital com Inteligência Artificial",
+        "description": "Aprenda IA's para atuar no Marketing Digital com Criação de Sites, Redes Sociais, SEO, Ads, Whatsapp e Copywriting",
+        "rating": 4.7,
+        "duration": "11.5 hours",
+        "affiliate_url": "https://trk.udemy.com/c/2758262/3227798/39854?prodsku=course.5609496&u=https://www.udemy.com/course/formacao-marketing-digital-com-inteligencia-artificial/?couponCode=AGOS_FMIA",
+        "image": "https://i.udemycdn.com/course/480x270/5609496_17e9_7.jpg",
+        "trainer": "TCW Marketing",
+        "trainer_slug": "tcw-marketing",
+        "category": [
+            "Digital Marketing"
+        ],
+        "category_slug": [
+            "digital-marketing"
+        ],
+        "language": "Portuguese",
+        "language_slug": "portuguese",
+        "coupon_code": "14.99",
+        "students": 3377,
+        "reviews": 610,
+        "last_updated": "2026-08-16",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 1642,
+        "title": "Online Business - 8 Negócios Digitais para Ganhar Dinheiro",
+        "description": "Aprenda sobre 8 tipos de Negócios Online: Afiliado, Dropshipping, PLR, Influenciador, Agência, Infoprodutor, Coprodutor",
+        "rating": 4.8,
+        "duration": "39 hours",
+        "affiliate_url": "https://trk.udemy.com/c/2758262/3227798/39854?prodsku=course.5634464&u=https://www.udemy.com/course/online-business-8-negocios-digitais-para-ganhar-dinheiro/?couponCode=AGOS_8NEG",
+        "image": "https://i.udemycdn.com/course/480x270/5634464_81f2_2.jpg",
+        "trainer": "TCW Marketing",
+        "trainer_slug": "tcw-marketing",
+        "category": [
+            "Business"
+        ],
+        "category_slug": [
+            "business"
+        ],
+        "language": "Portuguese",
+        "language_slug": "portuguese",
+        "coupon_code": "14.99",
+        "students": 760,
+        "reviews": 115,
+        "last_updated": "2026-08-16",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 1643,
+        "title": "Instagram Marketing com IA (ChatGPT e Canva)",
+        "description": "Aprenda a usar a Inteligência Artificial unindo ChatGPT com o Canva Pro para criar ações de Marketing no Instagram!",
+        "rating": 4.5,
+        "duration": "4 hours",
+        "affiliate_url": "https://trk.udemy.com/c/2758262/3227798/39854?prodsku=course.5462894&u=https://www.udemy.com/course/certificacao-instagram-marketing-com-ia-chatgpt-e-canva/?couponCode=AGOS_INSTAIA",
+        "image": "https://i.udemycdn.com/course/480x270/5462894_a03b_3.jpg",
+        "trainer": "TCW Marketing",
+        "trainer_slug": "tcw-marketing",
+        "category": [
+            "Social Media Marketing"
+        ],
+        "category_slug": [
+            "social-media-marketing"
+        ],
+        "language": "Portuguese",
+        "language_slug": "portuguese",
+        "coupon_code": "14.99",
+        "students": 360,
+        "reviews": 100,
+        "last_updated": "2026-08-16",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 1644,
+        "title": "Copywriting Avançado com Inteligência Artificial",
+        "description": "Seja uma Copywriter \"nível Hard\" usando a Inteligência Artificial e conheça a Estrutura de Copy para Vender o que quiser",
+        "rating": 4.1,
+        "duration": "1 hour",
+        "affiliate_url": "https://trk.udemy.com/c/2758262/3227798/39854?prodsku=course.5553578&u=https://www.udemy.com/course/certificacao-copywriting-avancado-com-ia/?couponCode=AGOS_COPYIA",
+        "image": "https://i.udemycdn.com/course/480x270/5553578_b4bc.jpg",
+        "trainer": "TCW Marketing",
+        "trainer_slug": "tcw-marketing",
+        "category": [
+            "Marketing"
+        ],
+        "category_slug": [
+            "marketing"
+        ],
+        "language": "Portuguese",
+        "language_slug": "portuguese",
+        "coupon_code": "14.99",
+        "students": 120,
+        "reviews": 30,
+        "last_updated": "2026-08-16",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 1645,
+        "title": "Facebook Ads e Instagram Ads (Básico ao Avançado) 2026",
+        "description": "Aprenda na PRÁTICA como fazer Anúncios no Facebook e Instagram para aumentar as suas Vendas e Lucro na Internet",
+        "rating": 4.6,
+        "duration": "9.5 hours",
+        "affiliate_url": "https://trk.udemy.com/c/2758262/3227798/39854?prodsku=course.4416630&u=https://www.udemy.com/course/facebook-ads-e-instagram-ads-basico-ao-avancado/?couponCode=AGOS_FACEINSTA",
+        "image": "https://i.udemycdn.com/course/480x270/4416630_e329_4.jpg",
+        "trainer": "TCW Marketing",
+        "trainer_slug": "tcw-marketing",
+        "category": [
+            "Social Media Marketing"
+        ],
+        "category_slug": [
+            "social-media-marketing"
+        ],
+        "language": "Portuguese",
+        "language_slug": "portuguese",
+        "coupon_code": "14.99",
+        "students": 2701,
+        "reviews": 620,
+        "last_updated": "2026-08-16",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 1646,
+        "title": "Google Ads e Youtube Ads (Básico ao Avançado) 2026",
+        "description": "Aprenda na PRÁTICA como Anunciar no Google através de Campanhas de Search, Display, Youtube, Shopping, Remarketing e etc",
+        "rating": 4.4,
+        "duration": "7.5 hours",
+        "affiliate_url": "https://trk.udemy.com/c/2758262/3227798/39854?prodsku=course.4399250&u=https://www.udemy.com/course/formacao-google-ads-search-display-youtube-e-shopping/?couponCode=AGOS_GW",
+        "image": "https://i.udemycdn.com/course/480x270/4399250_ea66_7.jpg",
+        "trainer": "TCW Marketing",
+        "trainer_slug": "tcw-marketing",
+        "category": [
+            "Social Media Marketing"
+        ],
+        "category_slug": [
+            "social-media-marketing"
+        ],
+        "language": "Portuguese",
+        "language_slug": "portuguese",
+        "coupon_code": "14.99",
+        "students": 920,
+        "reviews": 220,
+        "last_updated": "2026-08-16",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 1647,
+        "title": "TikTok Ads e Marketing no TikTok (Básico ao Avançado)",
+        "description": "Curso de TikTok Ads - Domine a Ferramenta de Tráfego Pago que está chegando a 100 milhões de usuários no Brasil",
+        "rating": 4.6,
+        "duration": "4.5 hours",
+        "affiliate_url": "https://trk.udemy.com/c/2758262/3227798/39854?prodsku=course.5385332&u=https://www.udemy.com/course/tiktok-ads-e-marketing-basico-ao-avancado/?couponCode=AGOS_TIKTOK",
+        "image": "https://i.udemycdn.com/course/480x270/5385332_003d.jpg",
+        "trainer": "TCW Marketing",
+        "trainer_slug": "tcw-marketing",
+        "category": [
+            "Social Media Marketing"
+        ],
+        "category_slug": [
+            "social-media-marketing"
+        ],
+        "language": "Portuguese",
+        "language_slug": "portuguese",
+        "coupon_code": "14.99",
+        "students": 680,
+        "reviews": 90,
+        "last_updated": "2026-08-16",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 1648,
+        "title": "Web Analytics (COMPLETO) - Muito além do Google Analytics",
+        "description": "Aprenda na PRÁTICA ferramentas e técnicas para analisar as ações de Marketing Digital e Vender Mais através dos Dados.",
+        "rating": 4.6,
+        "duration": "12 hours",
+        "affiliate_url": "https://trk.udemy.com/c/2758262/3227798/39854?prodsku=course.3871000&u=https://www.udemy.com/course/webanalytics-completo-muito-alem-do-google-analytics/?couponCode=AGOS_WA",
+        "image": "https://i.udemycdn.com/course/480x270/3871000_cf56_3.jpg",
+        "trainer": "TCW Marketing",
+        "trainer_slug": "tcw-marketing",
+        "category": [
+            "Digital Marketing"
+        ],
+        "category_slug": [
+            "digital-marketing"
+        ],
+        "language": "Portuguese",
+        "language_slug": "portuguese",
+        "coupon_code": "14.99",
+        "students": 3150,
+        "reviews": 650,
+        "last_updated": "2026-08-16",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 1649,
+        "title": "SEO On-Page e Off-Page com IA (Básico ao Avançado)",
+        "description": "SEO Descomplicado (mesmo para quem NÃO é um Desenvolvedor) com 7 ferramentas, Fases de um Projeto SEO e MUITO mais!",
+        "rating": 4.4,
+        "duration": "5 hours",
+        "affiliate_url": "https://trk.udemy.com/c/2758262/3227798/39854?prodsku=course.4498636&u=https://www.udemy.com/course/seo-on-page-e-off-page-basico-ao-avancado/?couponCode=AGOS_SEO",
+        "image": "https://i.udemycdn.com/course/480x270/4498636_b4b6_8.jpg",
+        "trainer": "TCW Marketing",
+        "trainer_slug": "tcw-marketing",
+        "category": [
+            "Digital Marketing"
+        ],
+        "category_slug": [
+            "digital-marketing"
+        ],
+        "language": "Portuguese",
+        "language_slug": "portuguese",
+        "coupon_code": "14.99",
+        "students": 490,
+        "reviews": 110,
+        "last_updated": "2026-08-16",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 1650,
+        "title": "Canva Pro - Crie Designs p/ Redes Sociais, Sites e Vídeos",
+        "description": "Ganhe dinheiro criando Artes Incríveis no Canva para usar em Posts de diversas Redes Sociais, Sites, Vídeos , etc.",
+        "rating": 4.9,
+        "duration": "2.5 hours",
+        "affiliate_url": "https://trk.udemy.com/c/2758262/3227798/39854?prodsku=course.5292040&u=https://www.udemy.com/course/canva-pro/?couponCode=AGOS_CANVA",
+        "image": "https://i.udemycdn.com/course/480x270/5292040_ce9f_3.jpg",
+        "trainer": "TCW Marketing",
+        "trainer_slug": "tcw-marketing",
+        "category": [
+            "Canva"
+        ],
+        "category_slug": [
+            "canva"
+        ],
+        "language": "Portuguese",
+        "language_slug": "portuguese",
+        "coupon_code": "14.99",
+        "students": 250,
+        "reviews": 50,
+        "last_updated": "2026-08-16",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 1651,
+        "title": "Introduction to Cloud Computing on AWS for Beginners [2026]",
+        "description": "Learn Cloud Computing Concepts and AWS Basics | Master AWS Fundamentals and Hands-on Skills on Amazon Web Services (AWS)",
+        "rating": 0,
+        "duration": "7 hours",
+        "affiliate_url": "https://trk.udemy.com/c/2758262/3227798/39854?prodsku=course.3329962&u=https://www.udemy.com/course/introduction-to-cloud-computing-on-amazon-aws-for-beginners/?couponCode=AWSAUG26",
+        "image": "https://i.udemycdn.com/course/480x270/3329962_a6e7_5.jpg",
+        "trainer": "Neal Davis",
+        "trainer_slug": "neal-davis",
+        "category": [
+            "Cloud Computing"
+        ],
+        "category_slug": [
+            "cloud-computing"
+        ],
+        "language": "English",
+        "language_slug": "english",
+        "coupon_code": "9.99",
+        "students": 234535,
+        "reviews": 39866,
+        "last_updated": "2026-08-16",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 1652,
+        "title": "AWS Certified Solutions Architect Associate (SAA-C03) Course",
+        "description": "2026 AWS Certified Solutions Architect Associate Video Course SAA-C03 | Hands-on Exercises + AWS Practice Exam + Slides",
+        "rating": 0,
+        "duration": "24 hours",
+        "affiliate_url": "https://trk.udemy.com/c/2758262/3227798/39854?prodsku=course.2469516&u=https://www.udemy.com/course/aws-certified-solutions-architect-associate-hands-on/?couponCode=AWSAUG26",
+        "image": "https://i.udemycdn.com/course/480x270/2469516_ab87_11.jpg",
+        "trainer": "Neal Davis",
+        "trainer_slug": "neal-davis",
+        "category": [
+            "AWS"
+        ],
+        "category_slug": [
+            "aws"
+        ],
+        "language": "English",
+        "language_slug": "english",
+        "coupon_code": "9.99",
+        "students": 124890,
+        "reviews": 22905,
+        "last_updated": "2026-08-16",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 1653,
+        "title": "AWS Certified Cloud Practitioner (CLF-C02) Exam Training",
+        "description": "[2026] Earn your AWS Certified Cloud Practitioner Certification in 20 Days! Hands-on Exercises + AWS Bonus Practice Exam",
+        "rating": 0,
+        "duration": "13.5 hours",
+        "affiliate_url": "https://trk.udemy.com/c/2758262/3227798/39854?prodsku=course.2645936&u=https://www.udemy.com/course/aws-certified-cloud-practitioner-training-course/?couponCode=AWSAUG26",
+        "image": "https://i.udemycdn.com/course/480x270/2645936_2526_8.jpg",
+        "trainer": "Neal Davis",
+        "trainer_slug": "neal-davis",
+        "category": [
+            "AWS"
+        ],
+        "category_slug": [
+            "aws"
+        ],
+        "language": "English",
+        "language_slug": "english",
+        "coupon_code": "9.99",
+        "students": 176970,
+        "reviews": 39655,
+        "last_updated": "2026-08-16",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 1654,
+        "title": "AWS Certified Cloud Practitioner Practice Exams CLF-C02",
+        "description": "[2026] AWS Certified Cloud Practitioner [CLF-C02] 6 Practice Tests + Exam Simulator + Explanations + AWS Cheat Sheets",
+        "rating": 0,
+        "duration": "6 tests",
+        "affiliate_url": "https://trk.udemy.com/c/2758262/3227798/39854?prodsku=course.6107295&u=https://www.udemy.com/course/aws-certified-cloud-practitioner-practice-exams-c/?couponCode=AWSAUG26",
+        "image": "https://i.udemycdn.com/course/480x270/6107295_2bc9_5.jpg",
+        "trainer": "Neal Davis",
+        "trainer_slug": "neal-davis",
+        "category": [
+            "AWS Certified Cloud Practitioner"
+        ],
+        "category_slug": [
+            "aws-certified-cloud-practitioner"
+        ],
+        "language": "English",
+        "language_slug": "english",
+        "coupon_code": "9.99",
+        "students": 158104,
+        "reviews": 27934,
+        "last_updated": "2026-08-16",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 1655,
+        "title": "AWS Certified Solutions Architect Professional SAP-C02",
+        "description": "[2026] AWS Certified Solutions Architect Professional Video Course | includes AWS Solutions Architect PRO Practice Test",
+        "rating": 0,
+        "duration": "21 hours",
+        "affiliate_url": "https://trk.udemy.com/c/2758262/3227798/39854?prodsku=course.3898634&u=https://www.udemy.com/course/aws-certified-solutions-architect-professional-training/?couponCode=AWSAUG26",
+        "image": "https://i.udemycdn.com/course/480x270/3898634_5c95_4.jpg",
+        "trainer": "Neal Davis",
+        "trainer_slug": "neal-davis",
+        "category": [
+            "AWS Certified Solutions Architect"
+        ],
+        "category_slug": [
+            "aws-certified-solutions-architect"
+        ],
+        "language": "English",
+        "language_slug": "english",
+        "coupon_code": "9.99",
+        "students": 73946,
+        "reviews": 7547,
+        "last_updated": "2026-08-16",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 1656,
+        "title": "AWS Certified Solutions Architect Associate Practice Exams",
+        "description": "2026 AWS Certified Solutions Architect Associate Practice Tests [SAA-C03] + Exam Simulator + Explanations + Cheat Sheets",
+        "rating": 0,
+        "duration": "6 tests",
+        "affiliate_url": "https://trk.udemy.com/c/2758262/3227798/39854?prodsku=course.7095461&u=https://www.udemy.com/course/aws-certified-solutions-architect-associate-practice-tests-k/?couponCode=AWSAUG26",
+        "image": "https://i.udemycdn.com/course/480x270/7095461_51da.jpg",
+        "trainer": "Neal Davis",
+        "trainer_slug": "neal-davis",
+        "category": [
+            "AWS Certified Solutions Architect"
+        ],
+        "category_slug": [
+            "aws-certified-solutions-architect"
+        ],
+        "language": "English",
+        "language_slug": "english",
+        "coupon_code": "9.99",
+        "students": 127456,
+        "reviews": 13509,
+        "last_updated": "2026-08-16",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 1657,
+        "title": "AWS Certified Solutions Architect Professional Practice Exam",
+        "description": "[2026] AWS Certified Solutions Architect Professional Practice Test Questions [SAP-C02] Exam Simulator + Explanations",
+        "rating": 0,
+        "duration": "6 tests",
+        "affiliate_url": "https://trk.udemy.com/c/2758262/3227798/39854?prodsku=course.5701620&u=https://www.udemy.com/course/aws-certified-solutions-architect-professional-aws-practice-exams/?couponCode=AWSAUG26",
+        "image": "https://i.udemycdn.com/course/480x270/5701620_e514_3.jpg",
+        "trainer": "Neal Davis",
+        "trainer_slug": "neal-davis",
+        "category": [
+            "AWS Certified Solutions Architect"
+        ],
+        "category_slug": [
+            "aws-certified-solutions-architect"
+        ],
+        "language": "English",
+        "language_slug": "english",
+        "coupon_code": "9.99",
+        "students": 39802,
+        "reviews": 2137,
+        "last_updated": "2026-08-16",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 1658,
+        "title": "AWS Certified Developer Associate Exam Training DVA-C02",
+        "description": "[2026] Ace your AWS Certified Developer Exam with this AWS Developer Course [DVA-C02] Bonus Practice Test included",
+        "rating": 0,
+        "duration": "16.5 hours",
+        "affiliate_url": "https://trk.udemy.com/c/2758262/3227798/39854?prodsku=course.2827920&u=https://www.udemy.com/course/aws-certified-developer-associate-exam-training/?couponCode=AWSAUG26",
+        "image": "https://i.udemycdn.com/course/480x270/2827920_f8dc_7.jpg",
+        "trainer": "Neal Davis",
+        "trainer_slug": "neal-davis",
+        "category": [
+            "AWS Certified Developer"
+        ],
+        "category_slug": [
+            "aws-certified-developer"
+        ],
+        "language": "English",
+        "language_slug": "english",
+        "coupon_code": "9.99",
+        "students": 42496,
+        "reviews": 4669,
+        "last_updated": "2026-08-16",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 1659,
+        "title": "Python Programming for AWS - Learn Python with AWS and Boto3",
+        "description": "[2026] Master Python Programming with AWS Serverless and Boto3. From Python Basics to Advanced Automation and AI",
+        "rating": 0,
+        "duration": "10 hours",
+        "affiliate_url": "https://trk.udemy.com/c/2758262/3227798/39854?prodsku=course.5189320&u=https://www.udemy.com/course/python-programming-for-aws-with-boto3/?couponCode=AWSAUG26",
+        "image": "https://i.udemycdn.com/course/480x270/5189320_d708_6.jpg",
+        "trainer": "Neal Davis",
+        "trainer_slug": "neal-davis",
+        "category": [
+            "Python"
+        ],
+        "category_slug": [
+            "python"
+        ],
+        "language": "English",
+        "language_slug": "english",
+        "coupon_code": "9.99",
+        "students": 13510,
+        "reviews": 1400,
+        "last_updated": "2026-08-16",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 1660,
+        "title": "AWS Certified Developer Associate Practice Exams DVA-C02",
+        "description": "[2026] AWS Certified Developer Associate 6 Practice Tests | 390 Practice Exam Questions | Exam Simulator + Explanations",
+        "rating": 0,
+        "duration": "6 tests",
+        "affiliate_url": "https://trk.udemy.com/c/2758262/3227798/39854?prodsku=course.5701604&u=https://www.udemy.com/course/aws-developer-associate-practice-exams/?couponCode=AWSAUG26",
+        "image": "https://i.udemycdn.com/course/480x270/5701604_f227.jpg",
+        "trainer": "Neal Davis",
+        "trainer_slug": "neal-davis",
+        "category": [
+            "AWS Certified Developer"
+        ],
+        "category_slug": [
+            "aws-certified-developer"
+        ],
+        "language": "English",
+        "language_slug": "english",
+        "coupon_code": "9.99",
+        "students": 36892,
+        "reviews": 3822,
+        "last_updated": "2026-08-16",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 1661,
+        "title": "AWS Certified Security Specialty Course SCS-C03",
+        "description": "[2026] Ace your AWS Certified Security Specialty Exam [SCS-C02] | AWS Security Specialty Practice Test included",
+        "rating": 0,
+        "duration": "9.5 hours",
+        "affiliate_url": "https://trk.udemy.com/c/2758262/3227798/39854?prodsku=course.5057824&u=https://www.udemy.com/course/aws-certified-security-specialty-course/?couponCode=AWSAUG26",
+        "image": "https://i.udemycdn.com/course/480x270/5057824_1b8f_3.jpg",
+        "trainer": "Neal Davis",
+        "trainer_slug": "neal-davis",
+        "category": [
+            "AWS Certified Security"
+        ],
+        "category_slug": [
+            "aws-certified-security"
+        ],
+        "language": "English",
+        "language_slug": "english",
+        "coupon_code": "9.99",
+        "students": 11601,
+        "reviews": 1319,
+        "last_updated": "2026-08-16",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 1662,
+        "title": "AWS Certified Security Specialty Practice Exams SCS-C03",
+        "description": "[2026] AWS Certified Security Specialty Practice Exams SCS-C02 | Exam-Style Questions and Realistic Exam Simulation",
+        "rating": 0,
+        "duration": "6 tests",
+        "affiliate_url": "https://trk.udemy.com/c/2758262/3227798/39854?prodsku=course.5057192&u=https://www.udemy.com/course/aws-certified-security-specialty-practice-exams-course/?couponCode=AWSAUG26",
+        "image": "https://i.udemycdn.com/course/480x270/5057192_f087_2.jpg",
+        "trainer": "Neal Davis",
+        "trainer_slug": "neal-davis",
+        "category": [
+            "AWS Certified Security"
+        ],
+        "category_slug": [
+            "aws-certified-security"
+        ],
+        "language": "English",
+        "language_slug": "english",
+        "coupon_code": "9.99",
+        "students": 7116,
+        "reviews": 635,
+        "last_updated": "2026-08-16",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 1663,
+        "title": "AWS Certified SysOps Administrator Associate Practice Exams",
+        "description": "[2026] AWS Certified SysOps Administrator Associate Practice Exam Questions for AWS SysOps Admin Certification [SOA-C02]",
+        "rating": 0,
+        "duration": "5 tests",
+        "affiliate_url": "https://trk.udemy.com/c/2758262/3227798/39854?prodsku=course.6062437&u=https://www.udemy.com/course/aws-certified-sysops-administrator-associate-aws-practice-exams/?couponCode=AWSAUG26",
+        "image": "https://i.udemycdn.com/course/480x270/6062437_dad8_2.jpg",
+        "trainer": "Neal Davis",
+        "trainer_slug": "neal-davis",
+        "category": [
+            "AWS Certified CloudOps"
+        ],
+        "category_slug": [
+            "aws-certified-cloudops"
+        ],
+        "language": "English",
+        "language_slug": "english",
+        "coupon_code": "9.99",
+        "students": 14586,
+        "reviews": 1377,
+        "last_updated": "2026-08-16",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 1664,
+        "title": "AWS Certified CloudOps Engineer Associate SOA-C03 [2026]",
+        "description": "Pass your AWS Certified SysOps Administrator Associate Exam [SOA-C02] Earn your AWS SysOps Certification in 21 Days",
+        "rating": 0,
+        "duration": "14.5 hours",
+        "affiliate_url": "https://trk.udemy.com/c/2758262/3227798/39854?prodsku=course.3427676&u=https://www.udemy.com/course/aws-certified-cloudops-engineer-associate-video-course/?couponCode=AWSAUG26",
+        "image": "https://i.udemycdn.com/course/480x270/3427676_a4db_6.jpg",
+        "trainer": "Neal Davis",
+        "trainer_slug": "neal-davis",
+        "category": [
+            "AWS Certified CloudOps"
+        ],
+        "category_slug": [
+            "aws-certified-cloudops"
+        ],
+        "language": "English",
+        "language_slug": "english",
+        "coupon_code": "9.99",
+        "students": 19570,
+        "reviews": 2737,
+        "last_updated": "2026-08-16",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 1665,
+        "title": "Learn AWS Identity Management with AWS IAM, SSO & Federation",
+        "description": "[2026] Learn AWS Identity Access Management [AWS IAM], AWS Organizations, Directory Service, SSO and Federation",
+        "rating": 0,
+        "duration": "4 hours",
+        "affiliate_url": "https://trk.udemy.com/c/2758262/3227798/39854?prodsku=course.3587142&u=https://www.udemy.com/course/aws-iam-aws-organizations-aws-sso-aws-directory-service-federation/?couponCode=AWSAUG26",
+        "image": "https://i.udemycdn.com/course/480x270/3587142_7f58_2.jpg",
+        "trainer": "Neal Davis",
+        "trainer_slug": "neal-davis",
+        "category": [
+            "Software Engineering"
+        ],
+        "category_slug": [
+            "software-engineering"
+        ],
+        "language": "English",
+        "language_slug": "english",
+        "coupon_code": "9.99",
+        "students": 39254,
+        "reviews": 3501,
+        "last_updated": "2026-08-16",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 1666,
+        "title": "AWS Networking Masterclass - Amazon VPC & Hybrid Cloud 2026",
+        "description": "Hands-On AWS Networking Training [Beginners to Advanced] Amazon Virtual Private Cloud VPC, AWS VPN + AWS Direct Connect",
+        "rating": 0,
+        "duration": "7 hours",
+        "affiliate_url": "https://trk.udemy.com/c/2758262/3227798/39854?prodsku=course.3703210&u=https://www.udemy.com/course/aws-networking-amazon-vpc-aws-vpn-hybrid-cloud/?couponCode=AWSAUG26",
+        "image": "https://i.udemycdn.com/course/480x270/3703210_336a_3.jpg",
+        "trainer": "Neal Davis",
+        "trainer_slug": "neal-davis",
+        "category": [
+            "Network & Security"
+        ],
+        "category_slug": [
+            "network-and-security"
+        ],
+        "language": "English",
+        "language_slug": "english",
+        "coupon_code": "9.99",
+        "students": 40827,
+        "reviews": 2751,
+        "last_updated": "2026-08-16",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 1667,
+        "title": "AWS Certified Advanced Networking Specialty Course [ANS-CO1]",
+        "description": "[2026] AWS Certified Advanced Networking Specialty Exam [ANS-C01] | AWS Advanced Networking Practice Test included",
+        "rating": 0,
+        "duration": "11 hours",
+        "affiliate_url": "https://trk.udemy.com/c/2758262/3227798/39854?prodsku=course.5140860&u=https://www.udemy.com/course/aws-advanced-networking-specialty-ans/?couponCode=AWSAUG26",
+        "image": "https://i.udemycdn.com/course/480x270/5140860_7de2_6.jpg",
+        "trainer": "Neal Davis",
+        "trainer_slug": "neal-davis",
+        "category": [
+            "AWS Certified Advanced Networking"
+        ],
+        "category_slug": [
+            "aws-certified-advanced-networking"
+        ],
+        "language": "English",
+        "language_slug": "english",
+        "coupon_code": "9.99",
+        "students": 5151,
+        "reviews": 511,
+        "last_updated": "2026-08-16",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 1668,
+        "title": "AWS Certified Advanced Networking Specialty Practice Exams",
+        "description": "[2026] AWS Certified Advanced Networking Specialty Practice Exams | Exam-Style Questions and Real Exam Simulation",
+        "rating": 0,
+        "duration": "6 tests",
+        "affiliate_url": "https://trk.udemy.com/c/2758262/3227798/39854?prodsku=course.5140856&u=https://www.udemy.com/course/aws-certified-advanced-networking-specialty-practice-exams-ans/?couponCode=AWSAUG26",
+        "image": "https://i.udemycdn.com/course/480x270/5140856_3ff4_4.jpg",
+        "trainer": "Neal Davis",
+        "trainer_slug": "neal-davis",
+        "category": [
+            "AWS Certified Advanced Networking"
+        ],
+        "category_slug": [
+            "aws-certified-advanced-networking"
+        ],
+        "language": "English",
+        "language_slug": "english",
+        "coupon_code": "9.99",
+        "students": 3412,
+        "reviews": 310,
+        "last_updated": "2026-08-16",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 1669,
+        "title": "[EXAM REVIEWER] AWS Certified Cloud Practitioner CLF-C02",
+        "description": "Guided Video Walkthrough for the AWS Certified Cloud Practitioner CLF-C02 | 2 Practice Tests with 130 Practice Questions",
+        "rating": 0,
+        "duration": "5 hours",
+        "affiliate_url": "https://trk.udemy.com/c/2758262/3227798/39854?prodsku=course.3276498&u=https://www.udemy.com/course/aws-certified-cloud-practitioner-certification-training/?couponCode=AWSAUG26",
+        "image": "https://i.udemycdn.com/course/480x270/3276498_75a5_5.jpg",
+        "trainer": "Neal Davis",
+        "trainer_slug": "neal-davis",
+        "category": [
+            "AWS Certified Cloud Practitioner"
+        ],
+        "category_slug": [
+            "aws-certified-cloud-practitioner"
+        ],
+        "language": "English",
+        "language_slug": "english",
+        "coupon_code": "9.99",
+        "students": 23230,
+        "reviews": 3214,
+        "last_updated": "2026-08-16",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 1670,
+        "title": "AWS Certified DevOps Engineer Professional Practice Exams",
+        "description": "[2026] Pass the AWS DevOps Engineer Professional Exam DOP-C02 | Exam-Difficulty Practice Questions + Exam Simulation",
+        "rating": 0,
+        "duration": "6 tests",
+        "affiliate_url": "https://trk.udemy.com/c/2758262/3227798/39854?prodsku=course.7012729&u=https://www.udemy.com/course/aws-certified-devops-engineer-professional-practice-exams-course/?couponCode=AWSAUG26",
+        "image": "https://i.udemycdn.com/course/480x270/7012729_ea47.jpg",
+        "trainer": "Neal Davis",
+        "trainer_slug": "neal-davis",
+        "category": [
+            "AWS Certified DevOps Engineer"
+        ],
+        "category_slug": [
+            "aws-certified-devops-engineer"
+        ],
+        "language": "English",
+        "language_slug": "english",
+        "coupon_code": "9.99",
+        "students": 6718,
+        "reviews": 448,
+        "last_updated": "2026-08-16",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 1671,
+        "title": "AWS Business Essentials - The Business Value of AWS [2026]",
+        "description": "Learn the fundamentals of cloud computing and Amazon Web Services AWS | Build a business case for migrating to AWS Cloud",
+        "rating": 0,
+        "duration": "2.5 hours",
+        "affiliate_url": "https://trk.udemy.com/c/2758262/3227798/39854?prodsku=course.3556979&u=https://www.udemy.com/course/aws-business-essentials/?couponCode=AWSAUG26",
+        "image": "https://i.udemycdn.com/course/480x270/3556979_3687_2.jpg",
+        "trainer": "Neal Davis",
+        "trainer_slug": "neal-davis",
+        "category": [
+            "AWS"
+        ],
+        "category_slug": [
+            "aws"
+        ],
+        "language": "English",
+        "language_slug": "english",
+        "coupon_code": "9.99",
+        "students": 43791,
+        "reviews": 8645,
+        "last_updated": "2026-08-16",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 1672,
+        "title": "AWS Certified Data Engineer Associate Practice Exams DEA-C01",
+        "description": "[NEW 2026] AWS Certified Data Engineer Associate Practice Tests | Exam-Style Practice Questions and Exam Simulation",
+        "rating": 0,
+        "duration": "6 tests",
+        "affiliate_url": "https://trk.udemy.com/c/2758262/3227798/39854?prodsku=course.7125981&u=https://www.udemy.com/course/aws-certified-data-engineer-associate-practice-exams-dea/?couponCode=AWSAUG26",
+        "image": "https://i.udemycdn.com/course/480x270/7125981_dd62.jpg",
+        "trainer": "Neal Davis",
+        "trainer_slug": "neal-davis",
+        "category": [
+            "AWS Certified Data Engineer"
+        ],
+        "category_slug": [
+            "aws-certified-data-engineer"
+        ],
+        "language": "English",
+        "language_slug": "english",
+        "coupon_code": "9.99",
+        "students": 6452,
+        "reviews": 535,
+        "last_updated": "2026-08-16",
+        "featured": "",
+        "status": "Active"
     }
 ]

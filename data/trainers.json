@@ -746,5 +746,27 @@
         "bio": "",
         "website": "",
         "linkedin": "https://linkedin.com/in/place-of-bliss-academy/"
+    },
+    {
+        "id": 69,
+        "name": "TCW Marketing",
+        "slug": "tcw-marketing",
+        "photo": "https://img-c.udemycdn.com/user/200_H/21934006_36ef_3.jpg",
+        "banner": "",
+        "designation": "",
+        "bio": "",
+        "website": "",
+        "linkedin": "https://www.linkedin.com/company/tcwmarketing/"
+    },
+    {
+        "id": 70,
+        "name": "Neal Davis",
+        "slug": "neal-davis",
+        "photo": "https://img-c.udemycdn.com/user/200_H/23565832_b988_5.jpg",
+        "banner": "",
+        "designation": "AWS Solutions Architect & AWS Certified Instructor",
+        "bio": "Neal Davis is the founder of Digital Cloud Training and a successful IT instructor.",
+        "website": "",
+        "linkedin": "https://linkedin.com/in/nealkdavis"
     }
 ]
