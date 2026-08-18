@@ -1618,5 +1618,40 @@
         "id": 324,
         "name": "Canva",
         "slug": "canva"
+    },
+    {
+        "id": 325,
+        "name": "Splunk",
+        "slug": "splunk"
+    },
+    {
+        "id": 326,
+        "name": "Nginx",
+        "slug": "nginx"
+    },
+    {
+        "id": 327,
+        "name": "Prompt Engineering",
+        "slug": "prompt-engineering"
+    },
+    {
+        "id": 328,
+        "name": "ITIL",
+        "slug": "itil"
+    },
+    {
+        "id": 329,
+        "name": "SAP",
+        "slug": "sap"
+    },
+    {
+        "id": 330,
+        "name": "Game Development",
+        "slug": "game-development"
+    },
+    {
+        "id": 331,
+        "name": "eCommerce",
+        "slug": "ecommerce"
     }
 ]

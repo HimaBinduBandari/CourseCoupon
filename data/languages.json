@@ -38,5 +38,15 @@
         "id": 8,
         "name": "Russian",
         "slug": "russian"
+    },
+    {
+        "id": 9,
+        "name": "Japanese",
+        "slug": "japanese"
+    },
+    {
+        "id": 10,
+        "name": "French",
+        "slug": "french"
     }
 ]

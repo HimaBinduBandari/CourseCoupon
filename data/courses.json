@@ -146,7 +146,7 @@
         "students": 0,
         "reviews": 0,
         "last_updated": "2026-08-15",
-        "featured": "",
+        "featured": "Yes",
         "status": "Active"
     },
     {
@@ -7046,7 +7046,7 @@
         "students": 19046,
         "reviews": 1253,
         "last_updated": "2026-08-03",
-        "featured": "",
+        "featured": "Yes",
         "status": "Active"
     },
     {
@@ -10221,7 +10221,7 @@
         "students": 4610,
         "reviews": 776,
         "last_updated": "2026-08-04",
-        "featured": "",
+        "featured": "Yes",
         "status": "Active"
     },
     {
@@ -18826,7 +18826,7 @@
     },
     {
         "id": 756,
-        "title": "RAG-LLM Evals & Test Automation for Beginners",
+        "title": "Testing AI Systems with DeepEval: AI Agents, Chatbots & RAG",
         "description": "Understand, Evaluate & Test RAG - LLM's (AI based Systems) from Scratch using RAGAS-Python-Pytest Framework",
         "rating": 4.5,
         "duration": "8.5 hours",
@@ -18846,7 +18846,7 @@
         "students": 17024,
         "reviews": 2110,
         "last_updated": "2026-08-11",
-        "featured": "",
+        "featured": "Yes",
         "status": "Active"
     },
     {
@@ -20246,7 +20246,7 @@
         "students": 16298,
         "reviews": 3084,
         "last_updated": "2026-08-11",
-        "featured": "",
+        "featured": "Yes",
         "status": "Active"
     },
     {
@@ -41746,6 +41746,4856 @@
         "students": 6452,
         "reviews": 535,
         "last_updated": "2026-08-16",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 1673,
+        "title": "Claude Certified Developer Foundations (CCDV-F) Exam Prep",
+        "description": "Prepare for the Claude Developer Exam with Instructor-led labs and videos",
+        "rating": 4.6,
+        "duration": "9.5 hours",
+        "affiliate_url": "https://www.udemy.com/course/claude-certified-developer-foundations-exam-prep/?couponCode=CCDV-F-LAUNCH",
+        "image": "https://img-c.udemycdn.com/course/480x270/7271373_01c9_3.jpg",
+        "trainer": "Kuljot Singh Bakshi",
+        "trainer_slug": "kuljot-singh-bakshi",
+        "category": [
+            "Claude"
+        ],
+        "category_slug": [
+            "claude"
+        ],
+        "language": "English",
+        "language_slug": "english",
+        "coupon_code": "12.99",
+        "students": 500,
+        "reviews": 50,
+        "last_updated": "2026-08-17",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 1674,
+        "title": "[NEW] AWS Certified Cloud Practitioner 2026",
+        "description": "Video Course + Practice Tests | Pass the AWS Cloud Practitioner Exam!",
+        "rating": 4.6,
+        "duration": "27 hours",
+        "affiliate_url": "https://trk.udemy.com/c/2758262/3227798/39854?prodsku=course.1360446&u=https://www.udemy.com/course/aws-certified-cloud-practitioner/?couponCode=CP-AUG-26",
+        "image": "https://i.udemycdn.com/course/480x270/1360446_f69e.jpg",
+        "trainer": "Zeal Vora",
+        "trainer_slug": "zeal-vora",
+        "category": [
+            "AWS Certified Cloud Practitioner"
+        ],
+        "category_slug": [
+            "aws-certified-cloud-practitioner"
+        ],
+        "language": "English",
+        "language_slug": "english",
+        "coupon_code": "12.99",
+        "students": 148386,
+        "reviews": 27411,
+        "last_updated": "2026-08-17",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 1675,
+        "title": "HashiCorp Certified: Terraform Associate 2026",
+        "description": "All in One course for learning Terraform and gaining the official Terraform Associate Certification (004).",
+        "rating": 4.8,
+        "duration": "25.5 hours",
+        "affiliate_url": "https://trk.udemy.com/c/2758262/3227798/39854?prodsku=course.1617616&u=https://www.udemy.com/course/terraform-beginner-to-advanced/?couponCode=TF-AUG-26",
+        "image": "https://i.udemycdn.com/course/480x270/1617616_5a60_3.jpg",
+        "trainer": "Zeal Vora",
+        "trainer_slug": "zeal-vora",
+        "category": [
+            "Terraform"
+        ],
+        "category_slug": [
+            "terraform"
+        ],
+        "language": "English",
+        "language_slug": "english",
+        "coupon_code": "12.99",
+        "students": 157715,
+        "reviews": 31952,
+        "last_updated": "2026-08-17",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 1676,
+        "title": "Certified Kubernetes Security Specialist 2026",
+        "description": "Master Course to prepare for CKS certification.",
+        "rating": 4.8,
+        "duration": "20 hours",
+        "affiliate_url": "https://trk.udemy.com/c/2758262/3227798/39854?prodsku=course.3336410&u=https://www.udemy.com/course/certified-kubernetes-security-specialist-certification/?couponCode=CKS-AUG-26",
+        "image": "https://i.udemycdn.com/course/480x270/3336410_66b0_2.jpg",
+        "trainer": "Zeal Vora",
+        "trainer_slug": "zeal-vora",
+        "category": [
+            "Kubernetes"
+        ],
+        "category_slug": [
+            "kubernetes"
+        ],
+        "language": "English",
+        "language_slug": "english",
+        "coupon_code": "12.99",
+        "students": 20317,
+        "reviews": 1714,
+        "last_updated": "2026-08-17",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 1677,
+        "title": "Certified Kubernetes Administrator 2026",
+        "description": "Master Course to prepare for Certified Kubernetes Administrator certification.",
+        "rating": 4.8,
+        "duration": "25.5 hours",
+        "affiliate_url": "https://trk.udemy.com/c/2758262/3227798/39854?prodsku=course.2394022&u=https://www.udemy.com/course/certified-kubernetes-administrator/?couponCode=CKA-AUG-26",
+        "image": "https://i.udemycdn.com/course/480x270/2394022_1773_2.jpg",
+        "trainer": "Zeal Vora",
+        "trainer_slug": "zeal-vora",
+        "category": [
+            "Kubernetes"
+        ],
+        "category_slug": [
+            "kubernetes"
+        ],
+        "language": "English",
+        "language_slug": "english",
+        "coupon_code": "12.99",
+        "students": 32654,
+        "reviews": 3605,
+        "last_updated": "2026-08-17",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 1678,
+        "title": "AWS Certified Solutions Architect - Professional 2026 [NEW]",
+        "description": "All you need to master AWS Solutions Architect - Professional (SAP-C02) certification",
+        "rating": 4.9,
+        "duration": "45 hours",
+        "affiliate_url": "https://trk.udemy.com/c/2758262/3227798/39854?prodsku=course.1425762&u=https://www.udemy.com/course/aws-certified-solutions-architect-professional/?couponCode=SAPRO-AUG-26",
+        "image": "https://i.udemycdn.com/course/480x270/1425762_36e3.jpg",
+        "trainer": "Zeal Vora",
+        "trainer_slug": "zeal-vora",
+        "category": [
+            "AWS Certified Solutions Architect"
+        ],
+        "category_slug": [
+            "aws-certified-solutions-architect"
+        ],
+        "language": "English",
+        "language_slug": "english",
+        "coupon_code": "12.99",
+        "students": 24053,
+        "reviews": 2990,
+        "last_updated": "2026-08-17",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 1679,
+        "title": "Splunk - Beginner to Architect 2026",
+        "description": "All in One Course in Mastering Splunk",
+        "rating": 4.8,
+        "duration": "12 hours",
+        "affiliate_url": "https://trk.udemy.com/c/2758262/3227798/39854?prodsku=course.1838188&u=https://www.udemy.com/course/splunk-beginner-to-architect/?couponCode=SPLUNK-AUG-26",
+        "image": "https://i.udemycdn.com/course/480x270/1838188_c886.jpg",
+        "trainer": "Zeal Vora",
+        "trainer_slug": "zeal-vora",
+        "category": [
+            "Splunk"
+        ],
+        "category_slug": [
+            "splunk"
+        ],
+        "language": "English",
+        "language_slug": "english",
+        "coupon_code": "12.99",
+        "students": 29735,
+        "reviews": 4674,
+        "last_updated": "2026-08-17",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 1680,
+        "title": "[NEW] AWS Certified Security Specialty 2026",
+        "description": "All-In-One Course to CLEAR the AWS Certified Security Specialty certification (SCS-C03)",
+        "rating": 4.6,
+        "duration": "46 hours",
+        "affiliate_url": "https://trk.udemy.com/c/2758262/3227798/39854?prodsku=course.1102458&u=https://www.udemy.com/course/aws-certified-security-specialty/?couponCode=SEC-AUG-26",
+        "image": "https://i.udemycdn.com/course/480x270/1102458_d6e6_2.jpg",
+        "trainer": "Zeal Vora",
+        "trainer_slug": "zeal-vora",
+        "category": [
+            "AWS Certified Security"
+        ],
+        "category_slug": [
+            "aws-certified-security"
+        ],
+        "language": "English",
+        "language_slug": "english",
+        "coupon_code": "12.99",
+        "students": 57700,
+        "reviews": 8717,
+        "last_updated": "2026-08-17",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 1681,
+        "title": "Docker Certified Associate 2026",
+        "description": "Master Course to prepare for Docker Certified Associate certification.",
+        "rating": 4.5,
+        "duration": "20.5 hours",
+        "affiliate_url": "https://trk.udemy.com/c/2758262/3227798/39854?prodsku=course.2074534&u=https://www.udemy.com/course/docker-certified-associate/?couponCode=DCA-AUG-26",
+        "image": "https://i.udemycdn.com/course/480x270/2074534_8ade.jpg",
+        "trainer": "Zeal Vora",
+        "trainer_slug": "zeal-vora",
+        "category": [
+            "Docker"
+        ],
+        "category_slug": [
+            "docker"
+        ],
+        "language": "English",
+        "language_slug": "english",
+        "coupon_code": "12.99",
+        "students": 28610,
+        "reviews": 4487,
+        "last_updated": "2026-08-17",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 1682,
+        "title": "Terraform Authoring and Operations Professional 2026",
+        "description": "All in One course for Mastering Terraform and gaining the official Terraform Professional Certification",
+        "rating": 4.6,
+        "duration": "28.5 hours",
+        "affiliate_url": "https://trk.udemy.com/c/2758262/3227798/39854?prodsku=course.6052807&u=https://www.udemy.com/course/terraform-authoring-and-operations-professional/?couponCode=TFPRO-AUG-26",
+        "image": "https://i.udemycdn.com/course/480x270/6052807_4b85_3.jpg",
+        "trainer": "Zeal Vora",
+        "trainer_slug": "zeal-vora",
+        "category": [
+            "Terraform"
+        ],
+        "category_slug": [
+            "terraform"
+        ],
+        "language": "English",
+        "language_slug": "english",
+        "coupon_code": "12.99",
+        "students": 4043,
+        "reviews": 335,
+        "last_updated": "2026-08-17",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 1683,
+        "title": "Kubernetes and Cloud Native Security Associate (KCSA) 2026",
+        "description": "Prepare and PASS the KCSA 2026 Certification Exam.",
+        "rating": 4.3,
+        "duration": "10.5 hours",
+        "affiliate_url": "https://trk.udemy.com/c/2758262/3227798/39854?prodsku=course.7015163&u=https://www.udemy.com/course/kubernetes-cloud-native-security-associate-kcsa/?couponCode=KCSA-AUG-26",
+        "image": "https://i.udemycdn.com/course/480x270/7015163_e70a_2.jpg",
+        "trainer": "Zeal Vora",
+        "trainer_slug": "zeal-vora",
+        "category": [
+            "Kubernetes"
+        ],
+        "category_slug": [
+            "kubernetes"
+        ],
+        "language": "English",
+        "language_slug": "english",
+        "coupon_code": "12.99",
+        "students": 951,
+        "reviews": 70,
+        "last_updated": "2026-08-17",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 1684,
+        "title": "Nginx 2026 - Beginner to Advanced",
+        "description": "Beginners Guide to Master NGINX",
+        "rating": 4.7,
+        "duration": "9.5 hours",
+        "affiliate_url": "https://trk.udemy.com/c/2758262/3227798/39854?prodsku=course.694100&u=https://www.udemy.com/course/nginx-beginner-to-advanced/?couponCode=NGINX-AUG-26",
+        "image": "https://i.udemycdn.com/course/480x270/694100_9e4f_3.jpg",
+        "trainer": "Zeal Vora",
+        "trainer_slug": "zeal-vora",
+        "category": [
+            "Nginx"
+        ],
+        "category_slug": [
+            "nginx"
+        ],
+        "language": "English",
+        "language_slug": "english",
+        "coupon_code": "12.99",
+        "students": 13382,
+        "reviews": 1576,
+        "last_updated": "2026-08-17",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 1685,
+        "title": "AWS Certified DevOps Engineer - Professional 2026 [NEW]",
+        "description": "All you need to master AWS Certified DevOps Engineer - Professional (DOP-C02) certification.",
+        "rating": 4.7,
+        "duration": "37.5 hours",
+        "affiliate_url": "https://trk.udemy.com/c/2758262/3227798/39854?prodsku=course.2045722&u=https://www.udemy.com/course/master-aws-certified-devops-engineer-professional/?couponCode=DEVOPS-AUG-26",
+        "image": "https://i.udemycdn.com/course/480x270/2045722_9c82_2.jpg",
+        "trainer": "Zeal Vora",
+        "trainer_slug": "zeal-vora",
+        "category": [
+            "AWS Certified DevOps Engineer"
+        ],
+        "category_slug": [
+            "aws-certified-devops-engineer"
+        ],
+        "language": "English",
+        "language_slug": "english",
+        "coupon_code": "12.99",
+        "students": 16626,
+        "reviews": 1736,
+        "last_updated": "2026-08-17",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 1686,
+        "title": "[NEW] AWS Certified Solutions Architect - Associate 2026",
+        "description": "All you need to master AWS Solutions Architect - Associate (SAA-C03) certification",
+        "rating": 4.6,
+        "duration": "35.5 hours",
+        "affiliate_url": "https://trk.udemy.com/c/2758262/3227798/39854?prodsku=course.1328072&u=https://www.udemy.com/course/aws-certified-solutions-architect-associate-2018/?couponCode=SAA-AUG-26",
+        "image": "https://i.udemycdn.com/course/480x270/1328072_e082_5.jpg",
+        "trainer": "Zeal Vora",
+        "trainer_slug": "zeal-vora",
+        "category": [
+            "AWS Certified Solutions Architect"
+        ],
+        "category_slug": [
+            "aws-certified-solutions-architect"
+        ],
+        "language": "English",
+        "language_slug": "english",
+        "coupon_code": "12.99",
+        "students": 23289,
+        "reviews": 3959,
+        "last_updated": "2026-08-17",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 1687,
+        "title": "AWS Certified Advanced Networking - Specialty 2026 [NEW]",
+        "description": "All you need to master AWS Certified Advanced Networking - Specialty certification",
+        "rating": 4.4,
+        "duration": "35.5 hours",
+        "affiliate_url": "https://trk.udemy.com/c/2758262/3227798/39854?prodsku=course.1581742&u=https://www.udemy.com/course/aws-certified-advanced-networking-specialty/?couponCode=ANS-AUG-26",
+        "image": "https://i.udemycdn.com/course/480x270/1581742_5d24_3.jpg",
+        "trainer": "Zeal Vora",
+        "trainer_slug": "zeal-vora",
+        "category": [
+            "AWS Certified Advanced Networking"
+        ],
+        "category_slug": [
+            "aws-certified-advanced-networking"
+        ],
+        "language": "English",
+        "language_slug": "english",
+        "coupon_code": "12.99",
+        "students": 14877,
+        "reviews": 1822,
+        "last_updated": "2026-08-17",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 1688,
+        "title": "Certified Kubernetes Application Developer 2026",
+        "description": "Master Course to prepare for Certified Kubernetes Application Developer certification.",
+        "rating": 4.7,
+        "duration": "18 hours",
+        "affiliate_url": "https://trk.udemy.com/c/2758262/3227798/39854?prodsku=course.2602616&u=https://www.udemy.com/course/mastering-certified-kubernetes-application-developer/?couponCode=CKAD-AUG-26",
+        "image": "https://i.udemycdn.com/course/480x270/2602616_eee2_2.jpg",
+        "trainer": "Zeal Vora",
+        "trainer_slug": "zeal-vora",
+        "category": [
+            "Kubernetes"
+        ],
+        "category_slug": [
+            "kubernetes"
+        ],
+        "language": "English",
+        "language_slug": "english",
+        "coupon_code": "12.99",
+        "students": 15911,
+        "reviews": 1223,
+        "last_updated": "2026-08-17",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 1689,
+        "title": "HashiCorp Certified: Vault Associate 2023",
+        "description": "All in one course for learning Vault and gaining the official certification.",
+        "rating": 4.6,
+        "duration": "8 hours",
+        "affiliate_url": "https://trk.udemy.com/c/2758262/3227798/39854?prodsku=course.3137638&u=https://www.udemy.com/course/hashicorp-certified-vault-associate/?couponCode=VAULT-AUG-26",
+        "image": "https://i.udemycdn.com/course/480x270/3137638_90bb.jpg",
+        "trainer": "Zeal Vora",
+        "trainer_slug": "zeal-vora",
+        "category": [
+            "HashiCorp"
+        ],
+        "category_slug": [
+            "hashicorp"
+        ],
+        "language": "English",
+        "language_slug": "english",
+        "coupon_code": "12.99",
+        "students": 7758,
+        "reviews": 1087,
+        "last_updated": "2026-08-17",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 1690,
+        "title": "HashiCorp Certified: Consul Associate 2022",
+        "description": "All in one course for learning Consul and gaining the official certification.",
+        "rating": 4.5,
+        "duration": "8 hours",
+        "affiliate_url": "https://trk.udemy.com/c/2758262/3227798/39854?prodsku=course.3593544&u=https://www.udemy.com/course/hashicorp-certified-consul-associate/?couponCode=CONSUL-AUG-26",
+        "image": "https://i.udemycdn.com/course/480x270/3593544_3f96.jpg",
+        "trainer": "Zeal Vora",
+        "trainer_slug": "zeal-vora",
+        "category": [
+            "HashiCorp"
+        ],
+        "category_slug": [
+            "hashicorp"
+        ],
+        "language": "English",
+        "language_slug": "english",
+        "coupon_code": "12.99",
+        "students": 2794,
+        "reviews": 370,
+        "last_updated": "2026-08-17",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 1691,
+        "title": "Prompt Engineering: Build AI Apps with OpenAI (ChatGPT)",
+        "description": "Build 3 Real AI Apps using the OpenAI API — Research Assistant, Production Chatbot, and Multi-Tool Agent",
+        "rating": 4.8,
+        "duration": "6 hours",
+        "affiliate_url": "https://trk.udemy.com/c/2758262/3227798/39854?prodsku=course.6650077&u=",
+        "image": "https://i.udemycdn.com/course/480x270/6650077_c963_2.jpg",
+        "trainer": "Scott Barrett",
+        "trainer_slug": "scott-barrett",
+        "category": [
+            "Prompt Engineering"
+        ],
+        "category_slug": [
+            "prompt-engineering"
+        ],
+        "language": "English",
+        "language_slug": "english",
+        "coupon_code": "12.99",
+        "students": 600,
+        "reviews": 50,
+        "last_updated": "2026-08-17",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 1692,
+        "title": "Python Data Structures & Algorithms + LEETCODE Exercises",
+        "description": "DSA + LEETCODE for Coding Interviews — Clear, Step-by-Step Animated Walkthroughs!",
+        "rating": 4.7,
+        "duration": "10.5 hours",
+        "affiliate_url": "https://trk.udemy.com/c/2758262/3227798/39854?prodsku=course.4094340&u=https://www.udemy.com/course/data-structures-algorithms-python/?couponCode=PYTHON-AUG2026",
+        "image": "https://i.udemycdn.com/course/480x270/4094340_0609_17.jpg",
+        "trainer": "Scott Barrett",
+        "trainer_slug": "scott-barrett",
+        "category": [
+            "Data Structures"
+        ],
+        "category_slug": [
+            "data-structures"
+        ],
+        "language": "English",
+        "language_slug": "english",
+        "coupon_code": "12.99",
+        "students": 122629,
+        "reviews": 17201,
+        "last_updated": "2026-08-17",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 1693,
+        "title": "JavaScript Data Structures & Algorithms + LEETCODE Exercises",
+        "description": "DSA + LEETCODE for Coding Interviews — Clear, Step-by-Step Animated Walkthroughs!",
+        "rating": 4.9,
+        "duration": "9.5 hours",
+        "affiliate_url": "https://trk.udemy.com/c/2758262/3227798/39854?prodsku=course.3406816&u=https://www.udemy.com/course/data-structures-algorithms-javascript/?couponCode=JAVASCRIPT-AUG2026",
+        "image": "https://i.udemycdn.com/course/480x270/3406816_0ea7_10.jpg",
+        "trainer": "Scott Barrett",
+        "trainer_slug": "scott-barrett",
+        "category": [
+            "Data Structures"
+        ],
+        "category_slug": [
+            "data-structures"
+        ],
+        "language": "English",
+        "language_slug": "english",
+        "coupon_code": "12.99",
+        "students": 34677,
+        "reviews": 4108,
+        "last_updated": "2026-08-17",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 1694,
+        "title": "Java Data Structures & Algorithms + LEETCODE Exercises",
+        "description": "DSA + LEETCODE for Coding Interviews — Clear, Step-by-Step Animated Walkthroughs!",
+        "rating": 4.6,
+        "duration": "11 hours",
+        "affiliate_url": "https://trk.udemy.com/c/2758262/3227798/39854?prodsku=course.4218796&u=https://www.udemy.com/course/data-structures-and-algorithms-java/?couponCode=JAVA-AUG2026",
+        "image": "https://i.udemycdn.com/course/480x270/4218796_d1d8_28.jpg",
+        "trainer": "Scott Barrett",
+        "trainer_slug": "scott-barrett",
+        "category": [
+            "Data Structures"
+        ],
+        "category_slug": [
+            "data-structures"
+        ],
+        "language": "English",
+        "language_slug": "english",
+        "coupon_code": "12.99",
+        "students": 106529,
+        "reviews": 14632,
+        "last_updated": "2026-08-17",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 1695,
+        "title": "C++ Data Structures & Algorithms + LEETCODE Exercises",
+        "description": "DSA + LEETCODE for Coding Interviews — Clear, Step-by-Step Animated Walkthroughs!",
+        "rating": 4.7,
+        "duration": "10.5 hours",
+        "affiliate_url": "https://trk.udemy.com/c/2758262/3227798/39854?prodsku=course.4453612&u=https://www.udemy.com/course/data-structures-algorithms-cpp/?couponCode=CPP-AUG2026",
+        "image": "https://i.udemycdn.com/course/480x270/4453612_766c_39.jpg",
+        "trainer": "Scott Barrett",
+        "trainer_slug": "scott-barrett",
+        "category": [
+            "Data Structures"
+        ],
+        "category_slug": [
+            "data-structures"
+        ],
+        "language": "English",
+        "language_slug": "english",
+        "coupon_code": "12.99",
+        "students": 23494,
+        "reviews": 3285,
+        "last_updated": "2026-08-17",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 1696,
+        "title": "60 PDUs Full PMP Renewal Course. Renews PMP, CAPM, PMI-ACP",
+        "description": "This comprehensive program brings together five top-rated courses into one streamlined package to help you sharpen your skills, stay current, and fulfill all your PMI® continuing education requirements.",
+        "rating": 4.8,
+        "duration": "30 hours",
+        "affiliate_url": "https://trk.udemy.com/c/2758262/3227798/39854?prodsku=course.6461197&u=https://www.udemy.com/course/pdu-pmp-renewal/?couponCode=AUG2026",
+        "image": "https://img-c.udemycdn.com/course/480x270/6461197_6bd2.jpg",
+        "trainer": "Andrew Ramdayal",
+        "trainer_slug": "andrew-ramdayal",
+        "category": [
+            "Project Management"
+        ],
+        "category_slug": [
+            "project-management"
+        ],
+        "language": "English",
+        "language_slug": "english",
+        "coupon_code": "12.99",
+        "students": 27148,
+        "reviews": 7878,
+        "last_updated": "2026-08-17",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 1697,
+        "title": "CompTIA Security+ SY0-701 Full Course, Labs, and Study Plan",
+        "description": "This course will prepare you to pass the CompTIA Security+ SY0-701 exam on the first try. Full Study Plan with labs and practice exams.",
+        "rating": 4.7,
+        "duration": "26 hours",
+        "affiliate_url": "https://trk.udemy.com/c/2758262/3227798/39854?prodsku=course.5668016&u=https://www.udemy.com/course/comptia_security_plus/?couponCode=AUG2026",
+        "image": "https://img-c.udemycdn.com/course/480x270/5668016_6aec.jpg",
+        "trainer": "Andrew Ramdayal",
+        "trainer_slug": "andrew-ramdayal",
+        "category": [
+            "CompTIA"
+        ],
+        "category_slug": [
+            "comptia"
+        ],
+        "language": "English",
+        "language_slug": "english",
+        "coupon_code": "12.99",
+        "students": 50728,
+        "reviews": 12500,
+        "last_updated": "2026-08-17",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 1698,
+        "title": "CompTIA Network+ N10-009 Full Course, Labs, Course Notes",
+        "description": "This comprehensive CompTIA Network+ N10-009 course is designed to equip you with the essential networking skills required to excel in the IT industry.",
+        "rating": 4.8,
+        "duration": "30 hours",
+        "affiliate_url": "https://trk.udemy.com/c/2758262/3227798/39854?prodsku=course.6020890&u=https://www.udemy.com/course/comptia_network_plus/?couponCode=AUG2026",
+        "image": "https://img-c.udemycdn.com/course/480x270/6020890_d422_3.jpg",
+        "trainer": "Andrew Ramdayal",
+        "trainer_slug": "andrew-ramdayal",
+        "category": [
+            "CompTIA"
+        ],
+        "category_slug": [
+            "comptia"
+        ],
+        "language": "English",
+        "language_slug": "english",
+        "coupon_code": "12.99",
+        "students": 40705,
+        "reviews": 9860,
+        "last_updated": "2026-08-17",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 1699,
+        "title": "CompTIA A+ 220-1201 Core 1 Hands-On Course Full Training",
+        "description": "To become A+ certified you will need to pass the core 1 (220-1201) and core 2 (220-1202) exams, this course will only prepare you to pass the core 1 exam.",
+        "rating": 4.8,
+        "duration": "15 hours",
+        "affiliate_url": "https://trk.udemy.com/c/2758262/3227798/39854?prodsku=course.4914508&u=https://www.udemy.com/course/comptia-a-plus-core-1-course-hands-on-training/?couponCode=AUG2026",
+        "image": "https://img-c.udemycdn.com/course/480x270/4914508_e716_6.jpg",
+        "trainer": "Andrew Ramdayal",
+        "trainer_slug": "andrew-ramdayal",
+        "category": [
+            "CompTIA"
+        ],
+        "category_slug": [
+            "comptia"
+        ],
+        "language": "English",
+        "language_slug": "english",
+        "coupon_code": "12.99",
+        "students": 25532,
+        "reviews": 7640,
+        "last_updated": "2026-08-17",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 1700,
+        "title": "Complete CISSP Course, Exam and the Mindset",
+        "description": "This Full CISSP Course and Mindset provides complete coverage of all exam topics explained in simple, easy-to-understand language, with real-world examples that make the material stick.",
+        "rating": 4.8,
+        "duration": "41.5 hours",
+        "affiliate_url": "https://trk.udemy.com/c/2758262/3227798/39854?prodsku=course.6636637&u=https://www.udemy.com/course/cisspcertification/?couponCode=AUG2026",
+        "image": "https://img-c.udemycdn.com/course/480x270/6636637_e8fb.jpg",
+        "trainer": "Andrew Ramdayal",
+        "trainer_slug": "andrew-ramdayal",
+        "category": [
+            "CISSP"
+        ],
+        "category_slug": [
+            "cissp"
+        ],
+        "language": "English",
+        "language_slug": "english",
+        "coupon_code": "12.99",
+        "students": 12149,
+        "reviews": 2107,
+        "last_updated": "2026-08-17",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 1701,
+        "title": "CAPM Exam Prep Course 25 PDU's for Current Exam",
+        "description": "This course will not only help you pass your exam but also learn how to apply the concepts in real-world project management. This way, you are ready for the exam and your job.",
+        "rating": 4.7,
+        "duration": "26 hours",
+        "affiliate_url": "https://trk.udemy.com/c/2758262/3227798/39854?prodsku=course.3064442&u=https://www.udemy.com/course/capm-certification-training-prep-course/?couponCode=AUG2026",
+        "image": "https://img-c.udemycdn.com/course/480x270/3064442_2093_8.jpg",
+        "trainer": "Andrew Ramdayal",
+        "trainer_slug": "andrew-ramdayal",
+        "category": [
+            "Project Management"
+        ],
+        "category_slug": [
+            "project-management"
+        ],
+        "language": "English",
+        "language_slug": "english",
+        "coupon_code": "12.99",
+        "students": 67660,
+        "reviews": 21830,
+        "last_updated": "2026-08-17",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 1702,
+        "title": "PMP Exam Cram Course - 35-Hour Course Condensed - 12 PDUs",
+        "description": "Perfect for those looking to reinforce their understanding and boost their confidence before the PMP exam.",
+        "rating": 4.7,
+        "duration": "11.5 hours",
+        "affiliate_url": "https://trk.udemy.com/c/2758262/3227798/39854?prodsku=course.5944562&u=https://www.udemy.com/course/pmp_cram_course/?couponCode=AUG2026",
+        "image": "https://img-c.udemycdn.com/course/480x270/5944562_8ac4.jpg",
+        "trainer": "Andrew Ramdayal",
+        "trainer_slug": "andrew-ramdayal",
+        "category": [
+            "Project Management"
+        ],
+        "category_slug": [
+            "project-management"
+        ],
+        "language": "English",
+        "language_slug": "english",
+        "coupon_code": "12.99",
+        "students": 36983,
+        "reviews": 7076,
+        "last_updated": "2026-08-17",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 1703,
+        "title": "PMP Certification Exam Prep Course 35 PDU Contact Hours/PDU",
+        "description": "Get your PMP Certification with this course. Fully updated for the Current PMP Exam",
+        "rating": 4.7,
+        "duration": "35 hours",
+        "affiliate_url": "https://trk.udemy.com/c/2758262/3227798/39854?prodsku=course.1759114&u=https://www.udemy.com/course/pmp-certification-exam-prep-course-pmbok-6th-edition/?couponCode=AUG2026",
+        "image": "https://img-c.udemycdn.com/course/480x270/1759114_873a_14.jpg",
+        "trainer": "Andrew Ramdayal",
+        "trainer_slug": "andrew-ramdayal",
+        "category": [
+            "Project Management"
+        ],
+        "category_slug": [
+            "project-management"
+        ],
+        "language": "English",
+        "language_slug": "english",
+        "coupon_code": "12.99",
+        "students": 640739,
+        "reviews": 197308,
+        "last_updated": "2026-08-17",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 1704,
+        "title": "PMP Certification Exam Prep Exam 720 Questions",
+        "description": "The 4 mock exams in this course are mostly scenarios and are formatted just like the actual exam.",
+        "rating": 4.3,
+        "duration": "4 tests",
+        "affiliate_url": "https://trk.udemy.com/c/2758262/3227798/39854?prodsku=course.1621470&u=https://www.udemy.com/course/pmp-practice-exams-pmbok-guide-6th-edition/?couponCode=AUG2026",
+        "image": "https://img-c.udemycdn.com/course/480x270/1621470_2c0a.jpg",
+        "trainer": "Andrew Ramdayal",
+        "trainer_slug": "andrew-ramdayal",
+        "category": [
+            "Project Management"
+        ],
+        "category_slug": [
+            "project-management"
+        ],
+        "language": "English",
+        "language_slug": "english",
+        "coupon_code": "12.99",
+        "students": 45241,
+        "reviews": 3546,
+        "last_updated": "2026-08-17",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 1705,
+        "title": "Microsoft Project Course Complete, 2016, 2019, 2021 6 PDUs",
+        "description": "Learn Everything you need to know about Microsoft Project. Beginner to Expert.",
+        "rating": 4.7,
+        "duration": "6.5 hours",
+        "affiliate_url": "https://trk.udemy.com/c/2758262/3227798/39854?prodsku=course.4180934&u=https://www.udemy.com/course/microsoft-project-course/?couponCode=AUG2026",
+        "image": "https://img-c.udemycdn.com/course/480x270/4180934_2e68_2.jpg",
+        "trainer": "Andrew Ramdayal",
+        "trainer_slug": "andrew-ramdayal",
+        "category": [
+            "Office Productivity"
+        ],
+        "category_slug": [
+            "office-productivity"
+        ],
+        "language": "English",
+        "language_slug": "english",
+        "coupon_code": "12.99",
+        "students": 19034,
+        "reviews": 4262,
+        "last_updated": "2026-08-17",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 1706,
+        "title": "The Complete Project Management Course - 20 PDUs",
+        "description": "Transform your project management skills with this course and learn crucial strategies for success!",
+        "rating": 4.6,
+        "duration": "13 hours",
+        "affiliate_url": "https://trk.udemy.com/c/2758262/3227798/39854?prodsku=course.5522018&u=https://www.udemy.com/course/essentials-of-project-management/?couponCode=AUG2026",
+        "image": "https://img-c.udemycdn.com/course/480x270/5522018_4553_4.jpg",
+        "trainer": "Andrew Ramdayal",
+        "trainer_slug": "andrew-ramdayal",
+        "category": [
+            "Project Management"
+        ],
+        "category_slug": [
+            "project-management"
+        ],
+        "language": "English",
+        "language_slug": "english",
+        "coupon_code": "12.99",
+        "students": 13884,
+        "reviews": 2885,
+        "last_updated": "2026-08-17",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 1707,
+        "title": "CompTIA A+ (220-1201) Core 1 Practice Exams",
+        "description": "This course will prepare you to pass the CompTIA A+ 220-1201 exam on the first try",
+        "rating": 4.4,
+        "duration": "6 tests",
+        "affiliate_url": "https://trk.udemy.com/c/2758262/3227798/39854?prodsku=course.5774012&u=https://www.udemy.com/course/comptiaaplucore1practiceexams/?couponCode=AUG2026",
+        "image": "https://img-c.udemycdn.com/course/480x270/5774012_b3c1_2.jpg",
+        "trainer": "Andrew Ramdayal",
+        "trainer_slug": "andrew-ramdayal",
+        "category": [
+            "CompTIA"
+        ],
+        "category_slug": [
+            "comptia"
+        ],
+        "language": "English",
+        "language_slug": "english",
+        "coupon_code": "12.99",
+        "students": 6707,
+        "reviews": 381,
+        "last_updated": "2026-08-17",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 1708,
+        "title": "PMI-ACP Exam Prep 28 PDUs/Contact Hours Course 2025 Updated",
+        "description": "This course isn’t just about passing the test—it’s about truly understanding Agile so you can apply it in your day-to-day project work.",
+        "rating": 4.8,
+        "duration": "18 hours",
+        "affiliate_url": "https://trk.udemy.com/c/2758262/3227798/39854?prodsku=course.3008812&u=https://www.udemy.com/course/pmi-acp-certification-course/?couponCode=AUG2026",
+        "image": "https://img-c.udemycdn.com/course/480x270/3008812_d1e0_5.jpg",
+        "trainer": "Andrew Ramdayal",
+        "trainer_slug": "andrew-ramdayal",
+        "category": [
+            "Project Management"
+        ],
+        "category_slug": [
+            "project-management"
+        ],
+        "language": "English",
+        "language_slug": "english",
+        "coupon_code": "12.99",
+        "students": 40248,
+        "reviews": 10805,
+        "last_updated": "2026-08-17",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 1709,
+        "title": "CompTIA Network+ N10-009 Practice Exams",
+        "description": "This CompTIA Network+ N10-009 Practice Exam Course is designed to thoroughly prepare you for the official certification exam by offering six full-length mock exams.",
+        "rating": 4.5,
+        "duration": "6 tests",
+        "affiliate_url": "https://trk.udemy.com/c/2758262/3227798/39854?prodsku=course.6180741&u=https://www.udemy.com/course/network-plus-practice-exams/?couponCode=AUG2026",
+        "image": "https://img-c.udemycdn.com/course/480x270/6180741_171d.jpg",
+        "trainer": "Andrew Ramdayal",
+        "trainer_slug": "andrew-ramdayal",
+        "category": [
+            "CompTIA"
+        ],
+        "category_slug": [
+            "comptia"
+        ],
+        "language": "English",
+        "language_slug": "english",
+        "coupon_code": "12.99",
+        "students": 10344,
+        "reviews": 845,
+        "last_updated": "2026-08-17",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 1710,
+        "title": "CompTIA A+ 220-1202 Core 2 Hands-On Course - Full Training",
+        "description": "To become A+ certified you will need to pass the core 1 (220-1201) and core 2 (220-1202) exams, this course will only prepare you to pass the core 2 exams.",
+        "rating": 4.8,
+        "duration": "14 hours",
+        "affiliate_url": "https://trk.udemy.com/c/2758262/3227798/39854?prodsku=course.4934960&u=https://www.udemy.com/course/comptia-a-plus-core-2-exam-prep/?couponCode=AUG2026",
+        "image": "https://img-c.udemycdn.com/course/480x270/4934960_7d41_5.jpg",
+        "trainer": "Andrew Ramdayal",
+        "trainer_slug": "andrew-ramdayal",
+        "category": [
+            "CompTIA"
+        ],
+        "category_slug": [
+            "comptia"
+        ],
+        "language": "English",
+        "language_slug": "english",
+        "coupon_code": "12.99",
+        "students": 20050,
+        "reviews": 5041,
+        "last_updated": "2026-08-17",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 1711,
+        "title": "CompTIA Security+ (SY0-701) Practice Exams",
+        "description": "This course will prepare you to pass the CompTIA Security+ SY0-701 exam on the first try.",
+        "rating": 4.5,
+        "duration": "6 tests",
+        "affiliate_url": "https://trk.udemy.com/c/2758262/3227798/39854?prodsku=course.5754880&u=https://www.udemy.com/course/securitypluspracticeexams/?couponCode=AUG2026",
+        "image": "https://img-c.udemycdn.com/course/480x270/5754880_35c5.jpg",
+        "trainer": "Andrew Ramdayal",
+        "trainer_slug": "andrew-ramdayal",
+        "category": [
+            "CompTIA"
+        ],
+        "category_slug": [
+            "comptia"
+        ],
+        "language": "English",
+        "language_slug": "english",
+        "coupon_code": "12.99",
+        "students": 13815,
+        "reviews": 990,
+        "last_updated": "2026-08-17",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 1712,
+        "title": "Complete Project Manager's Practical Guide to Using AI 8 PDU",
+        "description": "Learn how to use cutting-edge AI tools like ChatGPT to create all the essential documents, plans, and registers you need from the PMBOK and Agile Practice Guide in a fraction of the time.",
+        "rating": 4.5,
+        "duration": "7 hours",
+        "affiliate_url": "https://trk.udemy.com/c/2758262/3227798/39854?prodsku=course.6204327&u=https://www.udemy.com/course/project-management-ai/?couponCode=AUG2026",
+        "image": "https://img-c.udemycdn.com/course/480x270/6204327_7fe0_4.jpg",
+        "trainer": "Andrew Ramdayal",
+        "trainer_slug": "andrew-ramdayal",
+        "category": [
+            "Project Management"
+        ],
+        "category_slug": [
+            "project-management"
+        ],
+        "language": "English",
+        "language_slug": "english",
+        "coupon_code": "12.99",
+        "students": 27191,
+        "reviews": 6127,
+        "last_updated": "2026-08-17",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 1713,
+        "title": "ITIL 5 Foundation, 6 Practice Exams",
+        "description": "Preparing for the ITIL 5 Foundation certification exam requires more than memorization — it requires practicing exactly",
+        "rating": 4.5,
+        "duration": "6 tests",
+        "affiliate_url": "https://trk.udemy.com/c/2758262/3227798/39854?prodsku=course.7061715&u=https://www.udemy.com/course/itil-foundation-practice-exams-6/?couponCode=AUG2026",
+        "image": "https://img-c.udemycdn.com/course/480x270/7061715_2b42.jpg",
+        "trainer": "Andrew Ramdayal",
+        "trainer_slug": "andrew-ramdayal",
+        "category": [
+            "ITIL"
+        ],
+        "category_slug": [
+            "itil"
+        ],
+        "language": "English",
+        "language_slug": "english",
+        "coupon_code": "12.99",
+        "students": 1421,
+        "reviews": 130,
+        "last_updated": "2026-08-17",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 1714,
+        "title": "CompTIA Tech+ FC0-U71 Prep Hands-on training, Practice Exam",
+        "description": "Pass Your Tech+ Exam on the First Try with this Hand-on interactive class",
+        "rating": 4.8,
+        "duration": "7.5 hours",
+        "affiliate_url": "https://trk.udemy.com/c/2758262/3227798/39854?prodsku=course.6957559&u=https://www.udemy.com/course/comptia-tech-plus-prep/?couponCode=AUG2026",
+        "image": "https://img-c.udemycdn.com/course/480x270/6957559_1a64.jpg",
+        "trainer": "Andrew Ramdayal",
+        "trainer_slug": "andrew-ramdayal",
+        "category": [
+            "CompTIA"
+        ],
+        "category_slug": [
+            "comptia"
+        ],
+        "language": "English",
+        "language_slug": "english",
+        "coupon_code": "12.99",
+        "students": 1710,
+        "reviews": 115,
+        "last_updated": "2026-08-17",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 1715,
+        "title": "CompTIA A+ (220-1202) Core 2 Practice Exams",
+        "description": "Pass your A+ 220-1202 with these practice exam.",
+        "rating": 4.5,
+        "duration": "6 tests",
+        "affiliate_url": "https://trk.udemy.com/c/2758262/3227798/39854?prodsku=course.5774018&u=https://www.udemy.com/course/comptiaaplucore2practiceexams/?couponCode=AUG2026",
+        "image": "https://img-c.udemycdn.com/course/480x270/5774018_8a6e_2.jpg",
+        "trainer": "Andrew Ramdayal",
+        "trainer_slug": "andrew-ramdayal",
+        "category": [
+            "CompTIA"
+        ],
+        "category_slug": [
+            "comptia"
+        ],
+        "language": "English",
+        "language_slug": "english",
+        "coupon_code": "12.99",
+        "students": 5750,
+        "reviews": 245,
+        "last_updated": "2026-08-17",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 1716,
+        "title": "The Essentials of Business Analyst- 6 PDUs",
+        "description": "Learn the Basis of Business Analysis to Enhance Your Career",
+        "rating": 4.7,
+        "duration": "3.5 hours",
+        "affiliate_url": "https://trk.udemy.com/c/2758262/3227798/39854?prodsku=course.5522158&u=https://www.udemy.com/course/essentials-of-business-analysis/?couponCode=AUG2026",
+        "image": "https://img-c.udemycdn.com/course/480x270/5522158_f62d_5.jpg",
+        "trainer": "Andrew Ramdayal",
+        "trainer_slug": "andrew-ramdayal",
+        "category": [
+            "Business Analysis"
+        ],
+        "category_slug": [
+            "business-analysis"
+        ],
+        "language": "English",
+        "language_slug": "english",
+        "coupon_code": "12.99",
+        "students": 8216,
+        "reviews": 1800,
+        "last_updated": "2026-08-17",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 1717,
+        "title": "The Full Agile Master Course, Scrum, Kanban - 10 PDUs",
+        "description": "Master Class in Agile Project Management. Exam Prep Course for CSM and PSM.",
+        "rating": 4.7,
+        "duration": "6.5 hours",
+        "affiliate_url": "https://trk.udemy.com/c/2758262/3227798/39854?prodsku=course.5521918&u=https://www.udemy.com/course/agile-fundamentals-course/?couponCode=AUG2026",
+        "image": "https://img-c.udemycdn.com/course/480x270/5521918_f73c_3.jpg",
+        "trainer": "Andrew Ramdayal",
+        "trainer_slug": "andrew-ramdayal",
+        "category": [
+            "Agile"
+        ],
+        "category_slug": [
+            "agile"
+        ],
+        "language": "English",
+        "language_slug": "english",
+        "coupon_code": "12.99",
+        "students": 12003,
+        "reviews": 2950,
+        "last_updated": "2026-08-17",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 1718,
+        "title": "GeminiNote完全入門 嘘をつかないAIで仕事効率大幅アップの実践講座【ChatGPTより簡単・非エンジニア向け】",
+        "description": "音声解説・動画生成・スライド・インフォグラフィック・データテーブル等Studioを完全解説｜PDF・YouTube・議事録・論文の要約から資料作成・学習活用まで | Gemini連携対応",
+        "rating": 4.8,
+        "duration": "2 hours",
+        "affiliate_url": "https://trk.udemy.com/c/2758262/3227798/39854?prodsku=course.6964245&u=https://www.udemy.com/course/notebooklm_basic/?couponCode=202608NLM",
+        "image": "https://img-c.udemycdn.com/course/480x270/6964245_3d36.jpg",
+        "trainer": "世界のアオキ (Akihiro Aoki)",
+        "trainer_slug": "akihiro-aoki",
+        "category": [
+            "Office Productivity"
+        ],
+        "category_slug": [
+            "office-productivity"
+        ],
+        "language": "Japanese",
+        "language_slug": "japanese",
+        "coupon_code": "14.99",
+        "students": 1289,
+        "reviews": 130,
+        "last_updated": "2026-08-17",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 1719,
+        "title": "【Cursor入門】ゼロから始める業務効率化術【非エンジニア向け】｜具体例で完全マスター",
+        "description": "プログラミング知識不要！日本語指示だけで文書作成・資料整理・アイデア出しが劇的に効率化。Tab補完/インライン編集/チャット(エージェント)/@シンボル/ProjectRules/Commands/コンテキストエンジニアリング",
+        "rating": 4.4,
+        "duration": "4 hours",
+        "affiliate_url": "https://trk.udemy.com/c/2758262/3227798/39854?prodsku=course.6619629&u=https://www.udemy.com/course/cursor-basic/?couponCode=202608CURSOR",
+        "image": "https://img-c.udemycdn.com/course/480x270/6619629_2877.jpg",
+        "trainer": "世界のアオキ (Akihiro Aoki)",
+        "trainer_slug": "akihiro-aoki",
+        "category": [
+            "Office Productivity"
+        ],
+        "category_slug": [
+            "office-productivity"
+        ],
+        "language": "Japanese",
+        "language_slug": "japanese",
+        "coupon_code": "14.99",
+        "students": 807,
+        "reviews": 90,
+        "last_updated": "2026-08-17",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 1720,
+        "title": "【画像生成AI・図解AI】ビジネス活用講座 すぐに使えるWebバナー・チラシ向け高品質画像を作成する方法 【初心者向け】",
+        "description": "画像生成AIをビジネスで活用するための効率的な方法や考え方をできるだけわかりやすく解説しています。5つの画像生成AIを並行で扱い画像生成AIのカタログの様な講座にしています。DALL-E3/FLUX.1/ImageFX/Midjourney",
+        "rating": 4.3,
+        "duration": "3.5 hours",
+        "affiliate_url": "https://trk.udemy.com/c/2758262/3227798/39854?prodsku=course.6239923&u=https://www.udemy.com/course/imagegen-b/?couponCode=202608IMGGEN",
+        "image": "https://img-c.udemycdn.com/course/480x270/6239923_d106_2.jpg",
+        "trainer": "世界のアオキ (Akihiro Aoki)",
+        "trainer_slug": "akihiro-aoki",
+        "category": [
+            "Generative AI"
+        ],
+        "category_slug": [
+            "generative-ai"
+        ],
+        "language": "Japanese",
+        "language_slug": "japanese",
+        "coupon_code": "14.99",
+        "students": 1045,
+        "reviews": 145,
+        "last_updated": "2026-08-17",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 1721,
+        "title": "【生成AI】【Dify講座】社内文書を学習した実用的なチャットボットを作ってみよう【非エンジニア向け】【ノーコード】",
+        "description": "生成AIを組み合わせプログラミング不要で高度なAIアプリを構築する方法を解説しています。社内文書を登録する方法や知っておきたい設定方法などもできるだけ図解多めでわかりやすく解説しています。",
+        "rating": 4.3,
+        "duration": "5 hours",
+        "affiliate_url": "https://trk.udemy.com/c/2758262/3227798/39854?prodsku=course.6117447&u=https://www.udemy.com/course/dify-basic/?couponCode=202608DIFY",
+        "image": "https://img-c.udemycdn.com/course/480x270/6117447_fb10_4.jpg",
+        "trainer": "世界のアオキ (Akihiro Aoki)",
+        "trainer_slug": "akihiro-aoki",
+        "category": [
+            "Office Productivity"
+        ],
+        "category_slug": [
+            "office-productivity"
+        ],
+        "language": "Japanese",
+        "language_slug": "japanese",
+        "coupon_code": "14.99",
+        "students": 7699,
+        "reviews": 1165,
+        "last_updated": "2026-08-17",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 1722,
+        "title": "【生成AI】Dify徹底活用: モダンな技術を効率的に習得 実践的な生成AIエンジニアコース【エンジニア向け】",
+        "description": "生成AIを組み合わせ高度なAIアプリを構築する方法を解説しています。コミュニティ版を扱い容量上限のない環境で実践的なワークフローを構築する方法を学びます。Basic認証やユーザー画面のカスタマイズ方法も解説しています。",
+        "rating": 4.2,
+        "duration": "7 hours",
+        "affiliate_url": "https://trk.udemy.com/c/2758262/3227798/39854?prodsku=course.6179333&u=https://www.udemy.com/course/dify-engineer/?couponCode=202608DIFY2",
+        "image": "https://img-c.udemycdn.com/course/480x270/6179333_1c09_10.jpg",
+        "trainer": "世界のアオキ (Akihiro Aoki)",
+        "trainer_slug": "akihiro-aoki",
+        "category": [
+            "Office Productivity"
+        ],
+        "category_slug": [
+            "office-productivity"
+        ],
+        "language": "Japanese",
+        "language_slug": "japanese",
+        "coupon_code": "14.99",
+        "students": 2966,
+        "reviews": 362,
+        "last_updated": "2026-08-17",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 1723,
+        "title": "【ChatGPT】講座 システム設計・開発・学習のアシスタントとしてフル活用し業務効率化【エンジニア向け】",
+        "description": "エンジニアの新たな支援ツール【ChatGPT】を有効に使い開発効率を大幅にアップデートしよう。要件定義/機能要件/非機能要件/基本設計(画面設計・機能設計・テーブル設計)/クラス図/ER図作成/plantUML/変数/関数/繰り返し",
+        "rating": 4,
+        "duration": "2.5 hours",
+        "affiliate_url": "https://trk.udemy.com/c/2758262/3227798/39854?prodsku=course.5232064&u=https://www.udemy.com/course/chatgpt-sw/?couponCode=202608GPTS",
+        "image": "https://img-c.udemycdn.com/course/480x270/5232064_4957_3.jpg",
+        "trainer": "世界のアオキ (Akihiro Aoki)",
+        "trainer_slug": "akihiro-aoki",
+        "category": [
+            "Office Productivity"
+        ],
+        "category_slug": [
+            "office-productivity"
+        ],
+        "language": "Japanese",
+        "language_slug": "japanese",
+        "coupon_code": "14.99",
+        "students": 15688,
+        "reviews": 3289,
+        "last_updated": "2026-08-17",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 1724,
+        "title": "【ChatGPT】初心者向け講座 ビジネスで活用できる程に返答の精度や品質を上げるコツを徹底解説【非エンジニア向け】",
+        "description": "ChatGPTの返答の精度・品質を高めることでビジネスに活用し効率的な文書作成・ブレスト・コンテンツ制作・要点整理などを実現する事ができるようになります。強力な助っ人AIをうまく使いこなして短時間・高品質なビジネス環境を実現しましょう。",
+        "rating": 4.1,
+        "duration": "4 hours",
+        "affiliate_url": "https://trk.udemy.com/c/2758262/3227798/39854?prodsku=course.5216934&u=https://www.udemy.com/course/chatgpt-business/?couponCode=202608GPTB",
+        "image": "https://img-c.udemycdn.com/course/480x270/5216934_b5de_3.jpg",
+        "trainer": "世界のアオキ (Akihiro Aoki)",
+        "trainer_slug": "akihiro-aoki",
+        "category": [
+            "ChatGPT"
+        ],
+        "category_slug": [
+            "chatgpt"
+        ],
+        "language": "Japanese",
+        "language_slug": "japanese",
+        "coupon_code": "14.99",
+        "students": 35822,
+        "reviews": 9228,
+        "last_updated": "2026-08-17",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 1725,
+        "title": "【生成AIデータ分析講座】ビジネス活用できる分析手法と使うコツ・実践テクニックを網羅【初心者向け】【ChatGPT】",
+        "description": "生成AIを使ったデータ分析の初心者向けに難しい数式や用語をできるだけなくしてわかりやすく解説しています。データ分析手法を調べる方法/データ分析の進め方/基本統計量/データ探索的分析/RFM分析/ABC分析/相関分析/回帰分析など",
+        "rating": 3.7,
+        "duration": "4 hours",
+        "affiliate_url": "https://trk.udemy.com/c/2758262/3227798/39854?prodsku=course.5440360&u=https://www.udemy.com/course/chatgpt-code-interpreter/?couponCode=202608GPTCI",
+        "image": "https://img-c.udemycdn.com/course/480x270/5440360_b590_4.jpg",
+        "trainer": "世界のアオキ (Akihiro Aoki)",
+        "trainer_slug": "akihiro-aoki",
+        "category": [
+            "ChatGPT"
+        ],
+        "category_slug": [
+            "chatgpt"
+        ],
+        "language": "Japanese",
+        "language_slug": "japanese",
+        "coupon_code": "14.99",
+        "students": 460,
+        "reviews": 70,
+        "last_updated": "2026-08-17",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 1726,
+        "title": "【ChatGPT3.5限定講座】実務で役立つ実践テクニックを網羅し業務効率大幅アップ【金融特化】【わかりやすく】",
+        "description": "ChatGPT3.5に限定し、金融業界に特化した講座構成になっています。ChatGPT3.5環境でもできるだけ精度を高めるための考え方や細かいテクニックを網羅。ペルソナ生成、ステップバイステップ、出力形式の固定、対話などテクニック多数",
+        "rating": 4.4,
+        "duration": "2.5 hours",
+        "affiliate_url": "https://trk.udemy.com/c/2758262/3227798/39854?prodsku=course.5669816&u=https://www.udemy.com/course/chatgpt35/?couponCode=202608GPT35",
+        "image": "https://img-c.udemycdn.com/course/480x270/5669816_b370_2.jpg",
+        "trainer": "世界のアオキ (Akihiro Aoki)",
+        "trainer_slug": "akihiro-aoki",
+        "category": [
+            "IT Certifications"
+        ],
+        "category_slug": [
+            "it-certifications"
+        ],
+        "language": "Japanese",
+        "language_slug": "japanese",
+        "coupon_code": "14.99",
+        "students": 1497,
+        "reviews": 143,
+        "last_updated": "2026-08-17",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 1727,
+        "title": "ITパスポート試験 問題集 2025年-2026年 模擬テスト6回分で合格を目指す【200問完全対策】",
+        "description": "本試験と同じ配分で200問収録！ストラテジ・マネジメント・テクノロジの全分野を網羅。詳しい解説付きで初学者でも安心して学習できる実践型問題集",
+        "rating": 4.2,
+        "duration": "6 tests",
+        "affiliate_url": "https://trk.udemy.com/c/2758262/3227798/39854?prodsku=course.6896849&u=https://www.udemy.com/course/itpassport-exam/?couponCode=202608ITPASS",
+        "image": "https://img-c.udemycdn.com/course/480x270/6896849_289d.jpg",
+        "trainer": "世界のアオキ (Akihiro Aoki)",
+        "trainer_slug": "akihiro-aoki",
+        "category": [
+            "IT Certifications"
+        ],
+        "category_slug": [
+            "it-certifications"
+        ],
+        "language": "Japanese",
+        "language_slug": "japanese",
+        "coupon_code": "14.99",
+        "students": 2498,
+        "reviews": 230,
+        "last_updated": "2026-08-17",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 1728,
+        "title": "情報セキュリティマネジメント試験 問題集【2025年-2026年最新版】6つの模擬テストで実力アップ",
+        "description": "IPA公式シラバス完全準拠！約270問の問題演習で基礎から実践まで段階的に学習。CBT試験対応・令和7年度出題傾向反映・合格率70%を目指す",
+        "rating": 3.9,
+        "duration": "6 tests",
+        "affiliate_url": "https://trk.udemy.com/c/2758262/3227798/39854?prodsku=course.6898501&u=https://www.udemy.com/course/security-management-exam/?couponCode=202608SGTEST",
+        "image": "https://img-c.udemycdn.com/course/480x270/6898501_9ab3.jpg",
+        "trainer": "世界のアオキ (Akihiro Aoki)",
+        "trainer_slug": "akihiro-aoki",
+        "category": [
+            "Next Js"
+        ],
+        "category_slug": [
+            "next-js"
+        ],
+        "language": "Japanese",
+        "language_slug": "japanese",
+        "coupon_code": "14.99",
+        "students": 490,
+        "reviews": 25,
+        "last_updated": "2026-08-17",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 1729,
+        "title": "【Next.js】【DifyAPI】認証・継続課金機能付きの生成AIアプリをハンズオンで開発してみよう【資料たっぷり】",
+        "description": "『Dify』と『Next.js』を組み合わせた生成AIアプリの作り方を解説しています。生成AIに関わる処理を『Dify』に任せつつ、『Next.js』側で画面作成や必要最低限のDBなどを用意し簡易的な生成AIアプリが作れるようになろう。",
+        "rating": 4.4,
+        "duration": "13 hours",
+        "affiliate_url": "https://trk.udemy.com/c/2758262/3227798/39854?prodsku=course.6513801&u=https://www.udemy.com/course/nextjsdifyapi/?couponCode=202608NEXTDIFY",
+        "image": "https://img-c.udemycdn.com/course/480x270/6513801_472e_4.jpg",
+        "trainer": "世界のアオキ (Akihiro Aoki)",
+        "trainer_slug": "akihiro-aoki",
+        "category": [
+            "Next Js"
+        ],
+        "category_slug": [
+            "next-js"
+        ],
+        "language": "Japanese",
+        "language_slug": "japanese",
+        "coupon_code": "14.99",
+        "students": 2491,
+        "reviews": 295,
+        "last_updated": "2026-08-17",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 1730,
+        "title": "【Next.js】フルスタック開発基本講座(TypeScript/Prisma/Auth)【脱初心者/わかりやすさ重視】",
+        "description": "Next.jsを使いフロントエンドとバックエンドを同じ言語・フレームワークで開発する方法を解説しています。実用的な様々なライブラリも組み合わせてハンズオンで進める事で、フルスタック開発に必要な知識や技術を効率よく学ぶことができます。",
+        "rating": 4.6,
+        "duration": "11.5 hours",
+        "affiliate_url": "https://trk.udemy.com/c/2758262/3227798/39854?prodsku=course.6331993&u=https://www.udemy.com/course/nextjs-basic/?couponCode=202608NEXT",
+        "image": "https://img-c.udemycdn.com/course/480x270/6331993_2782.jpg",
+        "trainer": "世界のアオキ (Akihiro Aoki)",
+        "trainer_slug": "akihiro-aoki",
+        "category": [
+            "Next Js"
+        ],
+        "category_slug": [
+            "next-js"
+        ],
+        "language": "Japanese",
+        "language_slug": "japanese",
+        "coupon_code": "14.99",
+        "students": 2491,
+        "reviews": 295,
+        "last_updated": "2026-08-17",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 1731,
+        "title": "PythonからFastAPIまで【初心者向け講座】モダンなAPIサーバを構築してみよう【わかりやすさ重視】",
+        "description": "Python初歩からFastAPIまでを繋ぐように網羅しています。多次元の辞書型、パッケージ、クラスの初歩から、Pydanticを使った型ヒント、非同期処理、キュメント自動生成など現代的な開発方法を体験することができます。",
+        "rating": 4.4,
+        "duration": "9 hours",
+        "affiliate_url": "https://trk.udemy.com/c/2758262/3227798/39854?prodsku=course.5843560&u=https://www.udemy.com/course/python_fastapi/?couponCode=202608PYTHON",
+        "image": "https://img-c.udemycdn.com/course/480x270/5843560_cfb9.jpg",
+        "trainer": "世界のアオキ (Akihiro Aoki)",
+        "trainer_slug": "akihiro-aoki",
+        "category": [
+            "FastAPI"
+        ],
+        "category_slug": [
+            "fastapi"
+        ],
+        "language": "Japanese",
+        "language_slug": "japanese",
+        "coupon_code": "14.99",
+        "students": 780,
+        "reviews": 60,
+        "last_updated": "2026-08-17",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 1732,
+        "title": "【Laravel】【Vue.js3】で【CRM(顧客管理システム)】をつくってみよう【Breeze(Inertia)】",
+        "description": "受講者向けアンケートでご要望の多かった顧客管理システムを、Vue.js3 (CompositionAPI)の機能をたっぷり使いながら実装しています。フロントエンド・バックエンド幅広い知識をまとめて習得できる講座になっています。",
+        "rating": 4.4,
+        "duration": "15 hours",
+        "affiliate_url": "https://trk.udemy.com/c/2758262/3227798/39854?prodsku=course.4711620&u=https://www.udemy.com/course/laravel-vue3-crm/?couponCode=202608CRM",
+        "image": "https://img-c.udemycdn.com/course/480x270/4711620_8f53_2.jpg",
+        "trainer": "世界のアオキ (Akihiro Aoki)",
+        "trainer_slug": "akihiro-aoki",
+        "category": [
+            "Vue JS"
+        ],
+        "category_slug": [
+            "vue-js"
+        ],
+        "language": "Japanese",
+        "language_slug": "japanese",
+        "coupon_code": "14.99",
+        "students": 4450,
+        "reviews": 430,
+        "last_updated": "2026-08-17",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 1733,
+        "title": "JavaScriptをとことんやってみよう【超初心者から脱初心者へレベルアップ】【わかりやすさ重視】",
+        "description": "わかりやすさ重視でバニラJavaScript(ES6)を扱っています。関数やオブジェクトから、イベントリスナーを使ったイベント処理、近年必須なPromise、Ajaxのためのfetchまで。webpackなどの環境構築方法までこれ1つでok",
+        "rating": 4.4,
+        "duration": "9.5 hours",
+        "affiliate_url": "https://trk.udemy.com/c/2758262/3227798/39854?prodsku=course.2845524&u=https://www.udemy.com/course/js-beginner/?couponCode=202608JS",
+        "image": "https://img-c.udemycdn.com/course/480x270/2845524_6e0d_2.jpg",
+        "trainer": "世界のアオキ (Akihiro Aoki)",
+        "trainer_slug": "akihiro-aoki",
+        "category": [
+            "JavaScript"
+        ],
+        "category_slug": [
+            "javascript"
+        ],
+        "language": "Japanese",
+        "language_slug": "japanese",
+        "coupon_code": "14.99",
+        "students": 10553,
+        "reviews": 1559,
+        "last_updated": "2026-08-17",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 1734,
+        "title": "【TypeScript】初心者向け講座【Vue3】【React】で使う内容に絞り【タイパ重視】の構成",
+        "description": "TypeScript入門講座。Vuejs3やReactでTypeScriptを使いたい方向けに必要な機能・知識を厳選して紹介しています。ジェネリクス、ユーティリティ、型アサーション、DOM操作、イベント、type、interfaceなど",
+        "rating": 4.2,
+        "duration": "4.5 hours",
+        "affiliate_url": "https://trk.udemy.com/c/2758262/3227798/39854?prodsku=course.5146940&u=https://www.udemy.com/course/typescript-timep/?couponCode=202608TYPE",
+        "image": "https://img-c.udemycdn.com/course/480x270/5146940_6512.jpg",
+        "trainer": "世界のアオキ (Akihiro Aoki)",
+        "trainer_slug": "akihiro-aoki",
+        "category": [
+            "TypeScript"
+        ],
+        "category_slug": [
+            "typescript"
+        ],
+        "language": "Japanese",
+        "language_slug": "japanese",
+        "coupon_code": "14.99",
+        "students": 1201,
+        "reviews": 165,
+        "last_updated": "2026-08-17",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 1735,
+        "title": "【React】初心者向け入門講座・サンプル豊富でわかりやすさ重視【v18対応・Hooks・MUIデザイン】",
+        "description": "React初心者向けにサンプル豊富で実践で使える知識をたっぷり身につけていきます。React初歩の初歩からReactRouter, Reactカスタムフックまで。MUIを使ってデザインも意識したアプリサンプルあり。",
+        "rating": 4,
+        "duration": "11 hours",
+        "affiliate_url": "https://trk.udemy.com/c/2758262/3227798/39854?prodsku=course.5005866&u=https://www.udemy.com/course/react-basic-mui/?couponCode=202608REACT",
+        "image": "https://img-c.udemycdn.com/course/480x270/5005866_2a82.jpg",
+        "trainer": "世界のアオキ (Akihiro Aoki)",
+        "trainer_slug": "akihiro-aoki",
+        "category": [
+            "React"
+        ],
+        "category_slug": [
+            "react"
+        ],
+        "language": "Japanese",
+        "language_slug": "japanese",
+        "coupon_code": "14.99",
+        "students": 1648,
+        "reviews": 170,
+        "last_updated": "2026-08-17",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 1736,
+        "title": "【Vue.js2&Vue.js3対応】基礎から【Vuetify】を使った応用まで！ 超初心者から最短距離でレベルアップ",
+        "description": "サンプル豊富で実践で使える知識をたっぷり身につけていきます。Vue.js2 初歩の初歩からVueRouter, Vuexまで。Vuetifyを使ってデザインも意識したアプリサンプルあり。Vue.js3のCompositionAPIも追加!",
+        "rating": 4.1,
+        "duration": "16 hours",
+        "affiliate_url": "https://trk.udemy.com/c/2758262/3227798/39854?prodsku=course.3412518&u=https://www.udemy.com/course/vuejs-basic/?couponCode=202608VUE",
+        "image": "https://img-c.udemycdn.com/course/480x270/3412518_106b.jpg",
+        "trainer": "世界のアオキ (Akihiro Aoki)",
+        "trainer_slug": "akihiro-aoki",
+        "category": [
+            "Vue JS"
+        ],
+        "category_slug": [
+            "vue-js"
+        ],
+        "language": "Japanese",
+        "language_slug": "japanese",
+        "coupon_code": "14.99",
+        "students": 6964,
+        "reviews": 902,
+        "last_updated": "2026-08-17",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 1737,
+        "title": "【Nuxt.js】入門から応用まで！【Firebase】と連携しWebアプリをつくってみよう【SPA】",
+        "description": "Nuxt.jsの基本的な機能から丁寧に解説し、実際にウェブアプリを作りながら応用的な知識もフォローしていきます。VueRouter, Vuex, middlware, plugin, ライフサイクル, Firebase対応などなど。",
+        "rating": 4.3,
+        "duration": "7.5 hours",
+        "affiliate_url": "https://trk.udemy.com/c/2758262/3227798/39854?prodsku=course.4306775&u=https://www.udemy.com/course/nuxtjs-firebase/?couponCode=202608NUXT",
+        "image": "https://img-c.udemycdn.com/course/480x270/4306775_3126.jpg",
+        "trainer": "世界のアオキ (Akihiro Aoki)",
+        "trainer_slug": "akihiro-aoki",
+        "category": [
+            "Nuxt Js"
+        ],
+        "category_slug": [
+            "nuxt-js"
+        ],
+        "language": "Japanese",
+        "language_slug": "japanese",
+        "coupon_code": "14.99",
+        "students": 1543,
+        "reviews": 130,
+        "last_updated": "2026-08-17",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 1738,
+        "title": "【TailwindCSS】初心者向け講座・CSSが苦手な人向け 【わかりやすさ重視】【次世代のCSS】にじっくり取り組む",
+        "description": "近年人気急上昇中のCSSフレームワーク。CSSが苦手だからこそ取り組む価値のある厳選されたCSSプロパティ集を初歩からじっくり解説しています。CSS基礎/モバイルファースト/レスポンシブ対応/Flexbox/Grid/",
+        "rating": 4.4,
+        "duration": "7 hours",
+        "affiliate_url": "https://trk.udemy.com/c/2758262/3227798/39854?prodsku=course.3682090&u=https://www.udemy.com/course/tailwindcss_beginner/?couponCode=202608TAIL",
+        "image": "https://img-c.udemycdn.com/course/480x270/3682090_cf43.jpg",
+        "trainer": "世界のアオキ (Akihiro Aoki)",
+        "trainer_slug": "akihiro-aoki",
+        "category": [
+            "CSS"
+        ],
+        "category_slug": [
+            "css"
+        ],
+        "language": "Japanese",
+        "language_slug": "japanese",
+        "coupon_code": "14.99",
+        "students": 2564,
+        "reviews": 320,
+        "last_updated": "2026-08-17",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 1739,
+        "title": "【P5.js】プログラミングと数学(物理)を使って遊んでみよう【初心者向け】【わかりやすさ重視】【JavaScript】",
+        "description": "わかりやすさ重視でP5.js+数学・物理を扱っています。JavaScriptの基本を抑えたあとは、直交座標(X,Y)上でベクトル(2次元)を使って動かしたり、速度加速度、三角関数を使って実際に動かしながら数学物理を楽しく扱うことができます。",
+        "rating": 4.5,
+        "duration": "7 hours",
+        "affiliate_url": "https://trk.udemy.com/c/2758262/3227798/39854?prodsku=course.3030372&u=https://www.udemy.com/course/p5js_beginner/?couponCode=202608P5",
+        "image": "https://img-c.udemycdn.com/course/480x270/3030372_7d0a_2.jpg",
+        "trainer": "世界のアオキ (Akihiro Aoki)",
+        "trainer_slug": "akihiro-aoki",
+        "category": [
+            "JavaScript"
+        ],
+        "category_slug": [
+            "javascript"
+        ],
+        "language": "Japanese",
+        "language_slug": "japanese",
+        "coupon_code": "14.99",
+        "students": 1107,
+        "reviews": 115,
+        "last_updated": "2026-08-17",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 1740,
+        "title": "PHPからLaravelまで サーバーサイドをとことんやってみよう【初心者から脱初心者へ】【わかりやすさ最重視】",
+        "description": "PHP初歩からLaravelまでをつなぐように知識を網羅しています。連想配列や関数からフォーム(HTTP)/セキュリティ/PDO/クラスなど。composer/名前空間などを使った現代的な開発方法を体験することができます。",
+        "rating": 4.4,
+        "duration": "18.5 hours",
+        "affiliate_url": "https://trk.udemy.com/c/2758262/3227798/39854?prodsku=course.2675508&u=https://www.udemy.com/course/phpbeginnertolaravel/?couponCode=202608LARA",
+        "image": "https://img-c.udemycdn.com/course/480x270/2675508_e5fe.jpg",
+        "trainer": "世界のアオキ (Akihiro Aoki)",
+        "trainer_slug": "akihiro-aoki",
+        "category": [
+            "Laravel"
+        ],
+        "category_slug": [
+            "laravel"
+        ],
+        "language": "Japanese",
+        "language_slug": "japanese",
+        "coupon_code": "14.99",
+        "students": 16396,
+        "reviews": 2523,
+        "last_updated": "2026-08-17",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 1741,
+        "title": "【Laravel】マルチログイン機能を構築し本格的なECサイトをつくってみよう【Breeze/tailwindcss】",
+        "description": "Laravelが搭載している認証機能を活用し、管理者、オーナー、ユーザーと3つのログイン情報を持たせ、本格的なECサイトをつくってみよう。 Bladeコンポーネント, Stripe決済, 画像アップロードなど実戦形式でたっぷり解説してます。",
+        "rating": 4.5,
+        "duration": "21.5 hours",
+        "affiliate_url": "https://trk.udemy.com/c/2758262/3227798/39854?prodsku=course.3898578&u=https://www.udemy.com/course/laravel-multi-ec/?couponCode=202608LARAEC",
+        "image": "https://img-c.udemycdn.com/course/480x270/3898578_6c05.jpg",
+        "trainer": "世界のアオキ (Akihiro Aoki)",
+        "trainer_slug": "akihiro-aoki",
+        "category": [
+            "Laravel"
+        ],
+        "category_slug": [
+            "laravel"
+        ],
+        "language": "Japanese",
+        "language_slug": "japanese",
+        "coupon_code": "14.99",
+        "students": 7028,
+        "reviews": 780,
+        "last_updated": "2026-08-17",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 1742,
+        "title": "【Laravel】イベント予約システムをつくってみよう【Jetstream x Livewire】【TALLスタック】",
+        "description": "さまざまな業界で需要のある予約管理システムの中から、日時を指定して予約できるイベント管理システムをハンズオン形式で作っていきます。Datepicker、Carbon、Livewireなどを扱い動的な予約カレンダーなどの構築方法を学べます。",
+        "rating": 4.4,
+        "duration": "12.5 hours",
+        "affiliate_url": "https://trk.udemy.com/c/2758262/3227798/39854?prodsku=course.4545108&u=https://www.udemy.com/course/laravel-livewire-event-calendar/?couponCode=202608LARA3",
+        "image": "https://img-c.udemycdn.com/course/480x270/4545108_f7e7_2.jpg",
+        "trainer": "世界のアオキ (Akihiro Aoki)",
+        "trainer_slug": "akihiro-aoki",
+        "category": [
+            "Laravel"
+        ],
+        "category_slug": [
+            "laravel"
+        ],
+        "language": "Japanese",
+        "language_slug": "japanese",
+        "coupon_code": "14.99",
+        "students": 2147,
+        "reviews": 175,
+        "last_updated": "2026-08-17",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 1743,
+        "title": "【MySQL8対応】データベースをとことん扱ってみよう【初心者〜中級者対応】【わかりやすさ重視】【解説資料たっぷり】",
+        "description": "WINDOW関数(ウィンドウ関数)/CASE文/WITH句 などの新しく便利な機能から、ベーシックなSQL構文、設計・運用に至るまで幅広いトピックを網羅的にまとめています。",
+        "rating": 4.5,
+        "duration": "10 hours",
+        "affiliate_url": "https://trk.udemy.com/c/2758262/3227798/39854?prodsku=course.6037592&u=https://www.udemy.com/course/mysql-tokoton/?couponCode=202608MYSQL",
+        "image": "https://img-c.udemycdn.com/course/480x270/6037592_d83b.jpg",
+        "trainer": "世界のアオキ (Akihiro Aoki)",
+        "trainer_slug": "akihiro-aoki",
+        "category": [
+            "MySQL"
+        ],
+        "category_slug": [
+            "mysql"
+        ],
+        "language": "Japanese",
+        "language_slug": "japanese",
+        "coupon_code": "14.99",
+        "students": 939,
+        "reviews": 45,
+        "last_updated": "2026-08-17",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 1744,
+        "title": "【Git/GitHub】【初心者向け講座】最短で実践力を身につける【VSCode】イメージ図たっぷり【わかりやすさ重視】",
+        "description": "Git/GitHubを最短で習得したいならコレです。あえて機能を網羅せず、本当によく使うコマンドを中心に、実践的で濃度が高く、イメージ優先とし、本当に使えるようになるような構成にしています。",
+        "rating": 4,
+        "duration": "8.5 hours",
+        "affiliate_url": "https://trk.udemy.com/c/2758262/3227798/39854?prodsku=course.4711606&u=https://www.udemy.com/course/git-github-vscode/?couponCode=202608GIT",
+        "image": "https://img-c.udemycdn.com/course/480x270/4711606_5341.jpg",
+        "trainer": "世界のアオキ (Akihiro Aoki)",
+        "trainer_slug": "akihiro-aoki",
+        "category": [
+            "Git"
+        ],
+        "category_slug": [
+            "git"
+        ],
+        "language": "Japanese",
+        "language_slug": "japanese",
+        "coupon_code": "14.99",
+        "students": 6467,
+        "reviews": 595,
+        "last_updated": "2026-08-17",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 1745,
+        "title": "【AWS】【初心者向け入門講座】資料たっぷりで【わかりやすさ重視】で解説しています。【PHP・Laravelもあり】",
+        "description": "初めての方向けに、サーバー、ネットワークなどの解説も交えながら、AWSの主要な機能をハンズオン形式で解説しています。LightSail, EC2, VPC, RDS, ELB, S3, Route53, Casheなどなど",
+        "rating": 4,
+        "duration": "8.5 hours",
+        "affiliate_url": "https://trk.udemy.com/c/2758262/3227798/39854?prodsku=course.4711616&u=https://www.udemy.com/course/aws-basic-monpro/?couponCode=202608AWS",
+        "image": "https://img-c.udemycdn.com/course/480x270/4711616_04bc_5.jpg",
+        "trainer": "世界のアオキ (Akihiro Aoki)",
+        "trainer_slug": "akihiro-aoki",
+        "category": [
+            "AWS"
+        ],
+        "category_slug": [
+            "aws"
+        ],
+        "language": "Japanese",
+        "language_slug": "japanese",
+        "coupon_code": "14.99",
+        "students": 3083,
+        "reviews": 350,
+        "last_updated": "2026-08-17",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 1746,
+        "title": "Google Gemini スライド自動生成で作るプレゼン資料作成術 | 初心者向け! 【わかりやすさ重視】",
+        "description": "Google Drive検索、Geminiのcanvas機能を活用した5ステップで、設計から情報収集、構成、制作、磨きまでを体系的に学ぶ実践講座",
+        "rating": 4.2,
+        "duration": "1 hour",
+        "affiliate_url": "https://trk.udemy.com/c/2758262/3227798/39854?prodsku=course.6909899&u=https://www.udemy.com/course/google-gemini-slide/?couponCode=202608GEMINISLIDE",
+        "image": "https://img-c.udemycdn.com/course/480x270/6909899_aa64.jpg",
+        "trainer": "世界のアオキ (Akihiro Aoki)",
+        "trainer_slug": "akihiro-aoki",
+        "category": [
+            "Office Productivity"
+        ],
+        "category_slug": [
+            "office-productivity"
+        ],
+        "language": "Japanese",
+        "language_slug": "japanese",
+        "coupon_code": "14.99",
+        "students": 2572,
+        "reviews": 537,
+        "last_updated": "2026-08-17",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 1747,
+        "title": "Excel VBA(エクセルVBA)はこれだけでOK～マクロで自動化するコツを詰め込みました【わかりやすさ重視】脱初心者",
+        "description": "本を読んでもなかなか身につかないエクセルVBA。初心者の頃にわからなかった事、知りたかった事をできるだけ図を使い、わかりやすく解説しています。関数やオブジェクトなどの考え方がすっとふに落ちるようになると爆速で業務効率化が図れるようになってき",
+        "rating": 4.3,
+        "duration": "9 hours",
+        "affiliate_url": "https://trk.udemy.com/c/2758262/3227798/39854?prodsku=course.3227577&u=https://www.udemy.com/course/excelvbalearn/?couponCode=202608VBA",
+        "image": "https://img-c.udemycdn.com/course/480x270/3227577_d597_2.jpg",
+        "trainer": "世界のアオキ (Akihiro Aoki)",
+        "trainer_slug": "akihiro-aoki",
+        "category": [
+            "Microsoft Excel"
+        ],
+        "category_slug": [
+            "microsoft-excel"
+        ],
+        "language": "Japanese",
+        "language_slug": "japanese",
+        "coupon_code": "14.99",
+        "students": 2672,
+        "reviews": 421,
+        "last_updated": "2026-08-17",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 1748,
+        "title": "①米国AI開発者がやさしく教える深層学習超入門第一弾【Pythonで実践】",
+        "description": "ニューラルネットワークとPytorchの基本",
+        "rating": 4.9,
+        "duration": "13.5 hours",
+        "affiliate_url": "https://trk.udemy.com/c/2758262/3227798/39854?prodsku=course.5589146&u=https://www.udemy.com/course/deeplearning1/?couponCode=DATAWOKAGAKUJUL26",
+        "image": "https://img-c.udemycdn.com/course/480x270/5589146_ed00_2.jpg",
+        "trainer": "かめ れおん",
+        "trainer_slug": "",
+        "category": [
+            "Deep Learning"
+        ],
+        "category_slug": [
+            "deep-learning"
+        ],
+        "language": "Japanese",
+        "language_slug": "japanese",
+        "coupon_code": "14.99",
+        "students": 1930,
+        "reviews": 230,
+        "last_updated": "2026-08-17",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 1749,
+        "title": "②米国AI開発者がやさしく教える深層学習超入門第二弾(画像認識)【Pythonで実践】",
+        "description": "画像系深層学習の基礎(CNN)",
+        "rating": 4.7,
+        "duration": "17.5 hours",
+        "affiliate_url": "https://trk.udemy.com/c/2758262/3227798/39854?prodsku=course.5612260&u=https://www.udemy.com/course/deeplearning2/?couponCode=DATAWOKAGAKUJUL26",
+        "image": "https://img-c.udemycdn.com/course/480x270/5612260_130c.jpg",
+        "trainer": "かめ れおん",
+        "trainer_slug": "",
+        "category": [
+            "Deep Learning"
+        ],
+        "category_slug": [
+            "deep-learning"
+        ],
+        "language": "Japanese",
+        "language_slug": "japanese",
+        "coupon_code": "14.99",
+        "students": 1729,
+        "reviews": 125,
+        "last_updated": "2026-08-17",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 1750,
+        "title": "③米国AI開発者がやさしく教える深層学習超入門第三弾(自然言語処理)【Pythonで実践】",
+        "description": "自然言語処理の深層学習の基礎(RNN)",
+        "rating": 4.7,
+        "duration": "15 hours",
+        "affiliate_url": "https://trk.udemy.com/c/2758262/3227798/39854?prodsku=course.5899332&u=https://www.udemy.com/course/deeplearning3/?couponCode=DATAWOKAGAKUJUL26",
+        "image": "https://img-c.udemycdn.com/course/480x270/5899332_4b5a.jpg",
+        "trainer": "かめ れおん",
+        "trainer_slug": "",
+        "category": [
+            "Deep Learning"
+        ],
+        "category_slug": [
+            "deep-learning"
+        ],
+        "language": "Japanese",
+        "language_slug": "japanese",
+        "coupon_code": "14.99",
+        "students": 1319,
+        "reviews": 60,
+        "last_updated": "2026-08-17",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 1751,
+        "title": "米国AI開発者がゼロから教えるPython入門講座",
+        "description": "未経験者OK! Pythonをゼロからやさしく教えるPython講座の決定版です．",
+        "rating": 4.8,
+        "duration": "22 hours",
+        "affiliate_url": "https://trk.udemy.com/c/2758262/3227798/39854?prodsku=course.3987088&u=https://www.udemy.com/course/python-ai/?couponCode=DATAWOKAGAKUJUL26",
+        "image": "https://img-c.udemycdn.com/course/480x270/3987088_499f_2.jpg",
+        "trainer": "かめ れおん",
+        "trainer_slug": "",
+        "category": [
+            "Python"
+        ],
+        "category_slug": [
+            "python"
+        ],
+        "language": "Japanese",
+        "language_slug": "japanese",
+        "coupon_code": "14.99",
+        "students": 5295,
+        "reviews": 1522,
+        "last_updated": "2026-08-17",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 1752,
+        "title": "米国AI開発者がゼロから教えるDocker講座",
+        "description": "AI開発のプロが徹底的に現場目線でわかりやすく教えます．Dockerを使って超本格的なデータサイエンスやWeb開発の環境が作れるようになります．",
+        "rating": 4.6,
+        "duration": "14.5 hours",
+        "affiliate_url": "https://trk.udemy.com/c/2758262/3227798/39854?prodsku=course.3207931&u=https://www.udemy.com/course/aidocker/?couponCode=DATAWOKAGAKUJUL26",
+        "image": "https://img-c.udemycdn.com/course/480x270/3207931_c941.jpg",
+        "trainer": "かめ れおん",
+        "trainer_slug": "",
+        "category": [
+            "Docker"
+        ],
+        "category_slug": [
+            "docker"
+        ],
+        "language": "Japanese",
+        "language_slug": "japanese",
+        "coupon_code": "14.99",
+        "students": 9886,
+        "reviews": 3184,
+        "last_updated": "2026-08-17",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 1753,
+        "title": "【本番編!!】米国データサイエンティストがやさしく教える機械学習超入門【Pythonで実践】",
+        "description": "実際に現場で使える本格的な機械学習のアルゴリズムやテクニックを学べます",
+        "rating": 4.8,
+        "duration": "14.5 hours",
+        "affiliate_url": "https://trk.udemy.com/c/2758262/3227798/39854?prodsku=course.5162678&u=https://www.udemy.com/course/mlpython-3/?couponCode=DATAWOKAGAKUJUL26",
+        "image": "https://img-c.udemycdn.com/course/480x270/5162678_3484.jpg",
+        "trainer": "かめ れおん",
+        "trainer_slug": "",
+        "category": [
+            "Python"
+        ],
+        "category_slug": [
+            "python"
+        ],
+        "language": "Japanese",
+        "language_slug": "japanese",
+        "coupon_code": "14.99",
+        "students": 2644,
+        "reviews": 310,
+        "last_updated": "2026-08-17",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 1754,
+        "title": "米国データサイエンティストがやさしく教えるデータサイエンスのためのPython講座",
+        "description": "データサイエンスのプロが現場目線で徹底的にわかりやすく教えます．ここでしか学べない実践的な内容です．",
+        "rating": 4.7,
+        "duration": "23.5 hours",
+        "affiliate_url": "https://trk.udemy.com/c/2758262/3227798/39854?prodsku=course.3398586&u=https://www.udemy.com/course/ds_for_python/?couponCode=DATAWOKAGAKUJUL26",
+        "image": "https://img-c.udemycdn.com/course/480x270/3398586_3330.jpg",
+        "trainer": "かめ れおん",
+        "trainer_slug": "",
+        "category": [
+            "Python"
+        ],
+        "category_slug": [
+            "python"
+        ],
+        "language": "Japanese",
+        "language_slug": "japanese",
+        "coupon_code": "14.99",
+        "students": 6756,
+        "reviews": 1630,
+        "last_updated": "2026-08-17",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 1755,
+        "title": "米国AI開発者がやさしく教えるGit入門講座",
+        "description": "米国で働く現役AIエンジニアがGitをゼロからやさしく教えます．現場目線で教えるので修了後には実際に日々の開発・プログラミング学習にGitを導入することができます．",
+        "rating": 4.8,
+        "duration": "10 hours",
+        "affiliate_url": "https://trk.udemy.com/c/2758262/3227798/39854?prodsku=course.3835006&u=https://www.udemy.com/course/aigitgithub/?couponCode=DATAWOKAGAKUJUL26",
+        "image": "https://img-c.udemycdn.com/course/480x270/3835006_c7e8.jpg",
+        "trainer": "かめ れおん",
+        "trainer_slug": "",
+        "category": [
+            "Git"
+        ],
+        "category_slug": [
+            "git"
+        ],
+        "language": "Japanese",
+        "language_slug": "japanese",
+        "coupon_code": "14.99",
+        "students": 5255,
+        "reviews": 1531,
+        "last_updated": "2026-08-17",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 1756,
+        "title": "米国データサイエンティストが教える統計学超入門講座【Pythonで実践】",
+        "description": "米国で現役で働くデータサイエンティストがゼロからやさしく教えます．学習した統計学の理論をPythonで実装するので即実務に適用可能です",
+        "rating": 4.7,
+        "duration": "16 hours",
+        "affiliate_url": "https://trk.udemy.com/c/2758262/3227798/39854?prodsku=course.4382094&u=https://www.udemy.com/course/python-stats/?couponCode=DATAWOKAGAKUJUL26",
+        "image": "https://img-c.udemycdn.com/course/480x270/4382094_985b_2.jpg",
+        "trainer": "かめ れおん",
+        "trainer_slug": "",
+        "category": [
+            "Data Science"
+        ],
+        "category_slug": [
+            "data-science"
+        ],
+        "language": "Japanese",
+        "language_slug": "japanese",
+        "coupon_code": "14.99",
+        "students": 5194,
+        "reviews": 1135,
+        "last_updated": "2026-08-17",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 1757,
+        "title": "【前編】米国データサイエンティストがやさしく教える機械学習超入門【Pythonで実践】",
+        "description": "米国で働くデータサイエンティストがゼロからやさしく教えます．学習した機械学習の理論をPythonで実装するので即実務に適用可能です",
+        "rating": 4.9,
+        "duration": "12.5 hours",
+        "affiliate_url": "https://trk.udemy.com/c/2758262/3227798/39854?prodsku=course.4835242&u=https://www.udemy.com/course/mlpython-1/?couponCode=DATAWOKAGAKUJUL26",
+        "image": "https://img-c.udemycdn.com/course/480x270/4835242_6b7e.jpg",
+        "trainer": "かめ れおん",
+        "trainer_slug": "",
+        "category": [
+            "Machine Learning"
+        ],
+        "category_slug": [
+            "machine-learning"
+        ],
+        "language": "Japanese",
+        "language_slug": "japanese",
+        "coupon_code": "14.99",
+        "students": 3696,
+        "reviews": 730,
+        "last_updated": "2026-08-17",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 1758,
+        "title": "【後編】米国データサイエンティストがやさしく教える機械学習超入門【Pythonで実践】",
+        "description": "米国で働くデータサイエンティストがゼロからやさしく教えます．学習した機械学習の理論をPythonで実装するので即実務に適用可能です",
+        "rating": 4.8,
+        "duration": "11.5 hours",
+        "affiliate_url": "https://trk.udemy.com/c/2758262/3227798/39854?prodsku=course.4874468&u=https://www.udemy.com/course/mlpython-2/?couponCode=DATAWOKAGAKUJUL26",
+        "image": "https://img-c.udemycdn.com/course/480x270/4874468_2500.jpg",
+        "trainer": "かめ れおん",
+        "trainer_slug": "",
+        "category": [
+            "Machine Learning"
+        ],
+        "category_slug": [
+            "machine-learning"
+        ],
+        "language": "Japanese",
+        "language_slug": "japanese",
+        "coupon_code": "14.99",
+        "students": 3256,
+        "reviews": 420,
+        "last_updated": "2026-08-17",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 1759,
+        "title": "Flutter ile Uygulama Geliştirme Kursu | Android & iOS | 2026",
+        "description": "Profesyonel ve güncel eğitim içeriğiyle temelden ileri seviyeye Flutter & Dart ile Android - IOS uygulama geliştirme.",
+        "rating": 4.5,
+        "duration": "66.5 hours",
+        "affiliate_url": "https://trk.udemy.com/c/2758262/3227798/39854?prodsku=course.3687520&u=https://www.udemy.com/course/flutter-ile-uygulama-gelistirme-kursu-android-ios/?couponCode=KA2025AGUSTOS2026",
+        "image": "https://img-c.udemycdn.com/course/480x270/3687520_b474.jpg",
+        "trainer": "Kasım Adalan",
+        "trainer_slug": "kas-m-adalan",
+        "category": [
+            "Flutter"
+        ],
+        "category_slug": [
+            "flutter"
+        ],
+        "language": "Turkish",
+        "language_slug": "turkish",
+        "coupon_code": "14.99",
+        "students": 11137,
+        "reviews": 1804,
+        "last_updated": "2026-08-18",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 1760,
+        "title": "Yapay Zeka ile Flutter Uygulama Geliştirme | 2026",
+        "description": "Yapay Zeka [AI] ile profesyonel bir şekilde mobil uygulama geliştirip hem kodlamayı hem de AI kullanımını öğreneceksiniz",
+        "rating": 4.5,
+        "duration": "14 hours",
+        "affiliate_url": "https://trk.udemy.com/c/2758262/3227798/39854?prodsku=course.6854515&u=https://www.udemy.com/course/yapay-zeka-ile-flutter-uygulama-gelistirme/?couponCode=KA2025AGUSTOS2026",
+        "image": "https://img-c.udemycdn.com/course/480x270/6854515_c9f1.jpg",
+        "trainer": "Kasım Adalan",
+        "trainer_slug": "kas-m-adalan",
+        "category": [
+            "Flutter"
+        ],
+        "category_slug": [
+            "flutter"
+        ],
+        "language": "Turkish",
+        "language_slug": "turkish",
+        "coupon_code": "14.99",
+        "students": 331,
+        "reviews": 20,
+        "last_updated": "2026-08-18",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 1761,
+        "title": "Flutter Bootcamp Programı | Dart | 2026",
+        "description": "Özel tasarlanmış ders programı ile pratik ve verimli sonuç alarak gerçek bir Flutter Bootcamp deneyimi yaşayacaksınız",
+        "rating": 4.6,
+        "duration": "19.5 hours",
+        "affiliate_url": "https://trk.udemy.com/c/2758262/3227798/39854?prodsku=course.5523638&u=https://www.udemy.com/course/flutter-bootcamp-program-dart/?couponCode=KA2025AGUSTOS2026",
+        "image": "https://img-c.udemycdn.com/course/480x270/5523638_972c.jpg",
+        "trainer": "Kasım Adalan",
+        "trainer_slug": "kas-m-adalan",
+        "category": [
+            "Flutter"
+        ],
+        "category_slug": [
+            "flutter"
+        ],
+        "language": "Turkish",
+        "language_slug": "turkish",
+        "coupon_code": "14.99",
+        "students": 3370,
+        "reviews": 475,
+        "last_updated": "2026-08-18",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 1762,
+        "title": "SwiftUI ile iOS Uygulama Geliştirme Eğitimi | Swift | 2026",
+        "description": "Profesyonel ve sürekli güncellenen eğitim içeriği ile temelden ileri seviyeye SwiftUI ile IOS mobil uygulama geliştirme.",
+        "rating": 4.6,
+        "duration": "50 hours",
+        "affiliate_url": "https://trk.udemy.com/c/2758262/3227798/39854?prodsku=course.5217312&u=https://www.udemy.com/course/swiftui-ile-ios-uygulama-gelistirme-egitimi-swift/?couponCode=KA2025AGUSTOS2026",
+        "image": "https://img-c.udemycdn.com/course/480x270/5217312_f8d5.jpg",
+        "trainer": "Kasım Adalan",
+        "trainer_slug": "kas-m-adalan",
+        "category": [
+            "iOS Development"
+        ],
+        "category_slug": [
+            "ios-development"
+        ],
+        "language": "Turkish",
+        "language_slug": "turkish",
+        "coupon_code": "14.99",
+        "students": 1453,
+        "reviews": 150,
+        "last_updated": "2026-08-18",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 1763,
+        "title": "Yapay Zeka ile iOS Uygulama Geliştirme | SwiftUI | 2026",
+        "description": "Yapay Zeka [AI] ile profesyonel bir şekilde mobil uygulama geliştirip hem kodlamayı hem de AI kullanımını öğreneceksiniz",
+        "rating": 4.8,
+        "duration": "12.5 hours",
+        "affiliate_url": "https://trk.udemy.com/c/2758262/3227798/39854?prodsku=course.7075559&u=https://www.udemy.com/course/yapay-zeka-ile-ios-uygulama-gelistirme-swiftui/?couponCode=KA2025AGUSTOS2026",
+        "image": "https://img-c.udemycdn.com/course/480x270/7075559_0105_3.jpg",
+        "trainer": "Kasım Adalan",
+        "trainer_slug": "kas-m-adalan",
+        "category": [
+            "iOS Development"
+        ],
+        "category_slug": [
+            "ios-development"
+        ],
+        "language": "Turkish",
+        "language_slug": "turkish",
+        "coupon_code": "14.99",
+        "students": 26,
+        "reviews": 5,
+        "last_updated": "2026-08-18",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 1764,
+        "title": "Android Mobil Uygulama Geliştirme Eğitimi | Java | 2026",
+        "description": "Profesyonel ve sürekli güncellenen eğitim içeriği ile temel seviyeden ileri seviyeye Android mobil uygulama geliştirme.",
+        "rating": 4.6,
+        "duration": "75 hours",
+        "affiliate_url": "https://trk.udemy.com/c/2758262/3227798/39854?prodsku=course.1885376&u=https://www.udemy.com/course/android-mobil-uygulama-gelistirme-egitimi-java/?couponCode=KA2025AGUSTOS2026",
+        "image": "https://img-c.udemycdn.com/course/480x270/1885376_e7da_3.jpg",
+        "trainer": "Kasım Adalan",
+        "trainer_slug": "kas-m-adalan",
+        "category": [
+            "Android Development"
+        ],
+        "category_slug": [
+            "android-development"
+        ],
+        "language": "Turkish",
+        "language_slug": "turkish",
+        "coupon_code": "14.99",
+        "students": 11582,
+        "reviews": 2494,
+        "last_updated": "2026-08-18",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 1765,
+        "title": "Android Mobil Uygulama Geliştirme Eğitimi | Kotlin | 2026",
+        "description": "Profesyonel ve sürekli güncellenen eğitim içeriği ile temel seviyeden ileri seviyeye Kotlin dili ile Android geliştirme",
+        "rating": 4.5,
+        "duration": "80 hours",
+        "affiliate_url": "https://trk.udemy.com/c/2758262/3227798/39854?prodsku=course.3199024&u=https://www.udemy.com/course/android-mobil-uygulama-gelistirme-egitimi-kotlin/?couponCode=KA2025AGUSTOS2026",
+        "image": "https://img-c.udemycdn.com/course/480x270/3199024_bc90.jpg",
+        "trainer": "Kasım Adalan",
+        "trainer_slug": "kas-m-adalan",
+        "category": [
+            "Android Development"
+        ],
+        "category_slug": [
+            "android-development"
+        ],
+        "language": "Turkish",
+        "language_slug": "turkish",
+        "coupon_code": "14.99",
+        "students": 4882,
+        "reviews": 885,
+        "last_updated": "2026-08-18",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 1766,
+        "title": "SwiftUI Bootcamp Programı | iOS | 2026",
+        "description": "Özel tasarlanmış ders programı ile pratik ve verimli sonuç alarak gerçek bir IOS Bootcamp deneyimi yaşayacaksınız",
+        "rating": 4.7,
+        "duration": "16.5 hours",
+        "affiliate_url": "https://trk.udemy.com/c/2758262/3227798/39854?prodsku=course.6130265&u=https://www.udemy.com/course/swiftui-bootcamp-program-ios/?couponCode=KA2025AGUSTOS2026",
+        "image": "https://img-c.udemycdn.com/course/480x270/6130265_f9e5_2.jpg",
+        "trainer": "Kasım Adalan",
+        "trainer_slug": "kas-m-adalan",
+        "category": [
+            "iOS Development"
+        ],
+        "category_slug": [
+            "ios-development"
+        ],
+        "language": "Turkish",
+        "language_slug": "turkish",
+        "coupon_code": "14.99",
+        "students": 255,
+        "reviews": 45,
+        "last_updated": "2026-08-18",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 1767,
+        "title": "Compose Multiplatform Bootcamp | Android | iOS | 2026",
+        "description": "Özel ders programı ile verimli şekilde Compose Multiplatform ( Kotlin Multiplatform ) Bootcamp deneyimi yaşayacaksınız.",
+        "rating": 4.8,
+        "duration": "20 hours",
+        "affiliate_url": "https://trk.udemy.com/c/2758262/3227798/39854?prodsku=course.6469699&u=https://www.udemy.com/course/compose-multiplatform-bootcamp-android-ios/?couponCode=KA2025AGUSTOS2026",
+        "image": "https://img-c.udemycdn.com/course/480x270/6469699_541e_2.jpg",
+        "trainer": "Kasım Adalan",
+        "trainer_slug": "kas-m-adalan",
+        "category": [
+            "App Development"
+        ],
+        "category_slug": [
+            "app-development"
+        ],
+        "language": "Turkish",
+        "language_slug": "turkish",
+        "coupon_code": "14.99",
+        "students": 227,
+        "reviews": 25,
+        "last_updated": "2026-08-18",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 1768,
+        "title": "Yapay Zeka ile iOS Uygulama Geliştirme | UIKit | 2026",
+        "description": "Yapay Zeka [AI] ile profesyonel bir şekilde mobil uygulama geliştirip hem kodlamayı hem de AI kullanımını öğreneceksiniz",
+        "rating": 4.8,
+        "duration": "13 hours",
+        "affiliate_url": "https://trk.udemy.com/c/2758262/3227798/39854?prodsku=course.7075565&u=https://www.udemy.com/course/yapay-zeka-ile-ios-uygulama-gelistirme-uikit/?couponCode=KA2025AGUSTOS2026",
+        "image": "https://img-c.udemycdn.com/course/480x270/7075565_8a44_2.jpg",
+        "trainer": "Kasım Adalan",
+        "trainer_slug": "kas-m-adalan",
+        "category": [
+            "iOS Development"
+        ],
+        "category_slug": [
+            "ios-development"
+        ],
+        "language": "Turkish",
+        "language_slug": "turkish",
+        "coupon_code": "14.99",
+        "students": 15,
+        "reviews": 5,
+        "last_updated": "2026-08-18",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 1769,
+        "title": "iOS Mobil Uygulama Geliştirme Eğitimi | Swift | 2026",
+        "description": "Profesyonel ve sürekli güncellenen eğitim içeriği ile temel seviyeden ileri seviyeye IOS mobil uygulama geliştirme.",
+        "rating": 4.6,
+        "duration": "72.5 hours",
+        "affiliate_url": "https://trk.udemy.com/c/2758262/3227798/39854?prodsku=course.2580124&u=https://www.udemy.com/course/ios-mobil-uygulama-gelistirme-egitimi-swift/?couponCode=KA2025AGUSTOS2026",
+        "image": "https://img-c.udemycdn.com/course/480x270/2580124_b58e.jpg",
+        "trainer": "Kasım Adalan",
+        "trainer_slug": "kas-m-adalan",
+        "category": [
+            "iOS Development"
+        ],
+        "category_slug": [
+            "ios-development"
+        ],
+        "language": "Turkish",
+        "language_slug": "turkish",
+        "coupon_code": "14.99",
+        "students": 5671,
+        "reviews": 840,
+        "last_updated": "2026-08-18",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 1770,
+        "title": "Jetpack Compose Bootcamp Programı | Android | 2026",
+        "description": "Özel tasarlanmış ders programı ile pratik ve verimli sonuç alarak gerçek bir Android Bootcamp deneyimi yaşayacaksınız",
+        "rating": 4.8,
+        "duration": "19 hours",
+        "affiliate_url": "https://trk.udemy.com/c/2758262/3227798/39854?prodsku=course.6130281&u=https://www.udemy.com/course/jetpack-compose-bootcamp-program-android/?couponCode=KA2025AGUSTOS2026",
+        "image": "https://img-c.udemycdn.com/course/480x270/6130281_4402_2.jpg",
+        "trainer": "Kasım Adalan",
+        "trainer_slug": "kas-m-adalan",
+        "category": [
+            "App Development"
+        ],
+        "category_slug": [
+            "app-development"
+        ],
+        "language": "Turkish",
+        "language_slug": "turkish",
+        "coupon_code": "14.99",
+        "students": 255,
+        "reviews": 35,
+        "last_updated": "2026-08-18",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 1771,
+        "title": "Android Bootcamp Programı | Kotlin | 2026",
+        "description": "Özel tasarlanmış ders programı ile pratik ve verimli sonuç alarak gerçek bir Android Bootcamp deneyimi yaşayacaksınız",
+        "rating": 4.5,
+        "duration": "27.5 hours",
+        "affiliate_url": "https://trk.udemy.com/c/2758262/3227798/39854?prodsku=course.5522258&u=https://www.udemy.com/course/android-bootcamp-program-kotlin/?couponCode=KA2025AGUSTOS2026",
+        "image": "https://img-c.udemycdn.com/course/480x270/5522258_3a80_3.jpg",
+        "trainer": "Kasım Adalan",
+        "trainer_slug": "kas-m-adalan",
+        "category": [
+            "Android Development"
+        ],
+        "category_slug": [
+            "android-development"
+        ],
+        "language": "Turkish",
+        "language_slug": "turkish",
+        "coupon_code": "14.99",
+        "students": 1653,
+        "reviews": 255,
+        "last_updated": "2026-08-18",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 1772,
+        "title": "Android Bootcamp Programı | Java | 2026",
+        "description": "Özel tasarlanmış ders programı ile pratik ve verimli sonuç alarak gerçek bir Android Bootcamp deneyimi yaşayacaksınız",
+        "rating": 4.8,
+        "duration": "19.5 hours",
+        "affiliate_url": "https://trk.udemy.com/c/2758262/3227798/39854?prodsku=course.5523616&u=https://www.udemy.com/course/android-bootcamp-program-java/?couponCode=KA2025AGUSTOS2026",
+        "image": "https://img-c.udemycdn.com/course/480x270/5523616_f31a.jpg",
+        "trainer": "Kasım Adalan",
+        "trainer_slug": "kas-m-adalan",
+        "category": [
+            "Android Development"
+        ],
+        "category_slug": [
+            "android-development"
+        ],
+        "language": "Turkish",
+        "language_slug": "turkish",
+        "coupon_code": "14.99",
+        "students": 315,
+        "reviews": 30,
+        "last_updated": "2026-08-18",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 1773,
+        "title": "Jetpack Compose ile Android Uygulama Geliştirme Kursu | 2026",
+        "description": "Profesyonel ve güncellenen eğitim içeriği ile temelden ileri seviyeye Jetpack Compose ( Kotlin ) ile Android geliştirme",
+        "rating": 4.1,
+        "duration": "44.5 hours",
+        "affiliate_url": "https://trk.udemy.com/c/2758262/3227798/39854?prodsku=course.4331654&u=https://www.udemy.com/course/jetpack-compose-ile-android-uygulama-gelistirme-kursu/?couponCode=KA2025AGUSTOS2026",
+        "image": "https://img-c.udemycdn.com/course/480x270/4331654_bdfe_3.jpg",
+        "trainer": "Kasım Adalan",
+        "trainer_slug": "kas-m-adalan",
+        "category": [
+            "Android Development"
+        ],
+        "category_slug": [
+            "android-development"
+        ],
+        "language": "Turkish",
+        "language_slug": "turkish",
+        "coupon_code": "14.99",
+        "students": 1636,
+        "reviews": 220,
+        "last_updated": "2026-08-18",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 1774,
+        "title": "Yapay Zeka ile Jetpack Compose Uygulama Geliştirme | 2026",
+        "description": "Yapay Zeka [AI] ile profesyonel bir şekilde mobil uygulama geliştirip hem kodlamayı hem de AI kullanımını öğreneceksiniz",
+        "rating": 4.2,
+        "duration": "13 hours",
+        "affiliate_url": "https://trk.udemy.com/c/2758262/3227798/39854?prodsku=course.6854519&u=https://www.udemy.com/course/yapay-zeka-ile-jetpack-compose-uygulama-gelistirme/?couponCode=KA2025AGUSTOS2026",
+        "image": "https://img-c.udemycdn.com/course/480x270/6854519_0add.jpg",
+        "trainer": "Kasım Adalan",
+        "trainer_slug": "kas-m-adalan",
+        "category": [
+            "Android Development"
+        ],
+        "category_slug": [
+            "android-development"
+        ],
+        "language": "Turkish",
+        "language_slug": "turkish",
+        "coupon_code": "14.99",
+        "students": 45,
+        "reviews": 5,
+        "last_updated": "2026-08-18",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 1775,
+        "title": "iOS Bootcamp Programı | Swift | 2026",
+        "description": "Özel tasarlanmış ders programı ile pratik ve verimli sonuç alarak gerçek bir IOS Bootcamp deneyimi yaşayacaksınız",
+        "rating": 4.7,
+        "duration": "21.5 hours",
+        "affiliate_url": "https://trk.udemy.com/c/2758262/3227798/39854?prodsku=course.5523610&u=https://www.udemy.com/course/ios-bootcamp-program-swift/?couponCode=KA2025AGUSTOS2026",
+        "image": "https://img-c.udemycdn.com/course/480x270/5523610_4b3a_2.jpg",
+        "trainer": "Kasım Adalan",
+        "trainer_slug": "kas-m-adalan",
+        "category": [
+            "iOS Development"
+        ],
+        "category_slug": [
+            "ios-development"
+        ],
+        "language": "Turkish",
+        "language_slug": "turkish",
+        "coupon_code": "14.99",
+        "students": 1500,
+        "reviews": 300,
+        "last_updated": "2026-08-18",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 1776,
+        "title": "Yapay Zeka ile Android Xml Uygulama Geliştirme | 2026",
+        "description": "Yapay Zeka [AI] ile profesyonel bir şekilde mobil uygulama geliştirip hem kodlamayı hem de AI kullanımını öğreneceksiniz",
+        "rating": 4.8,
+        "duration": "12 hours",
+        "affiliate_url": "https://trk.udemy.com/c/2758262/3227798/39854?prodsku=course.6854495&u=https://www.udemy.com/course/yapay-zeka-ile-android-xml-uygulama-gelistirme/?couponCode=KA2025AGUSTOS2026",
+        "image": "https://img-c.udemycdn.com/course/480x270/6854495_7164.jpg",
+        "trainer": "Kasım Adalan",
+        "trainer_slug": "kas-m-adalan",
+        "category": [
+            "Android Development"
+        ],
+        "category_slug": [
+            "android-development"
+        ],
+        "language": "Turkish",
+        "language_slug": "turkish",
+        "coupon_code": "14.99",
+        "students": 25,
+        "reviews": 5,
+        "last_updated": "2026-08-18",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 1777,
+        "title": "Sıfırdan İleri Düzey Web Geliştirme (HTML, CSS, Javascript)",
+        "description": "HTML, CSS, Javascript, Bootstrap, JQuery konularını derinlemesine öğrenerek, profesyonel web sayfaları oluşturun!",
+        "rating": 4.5,
+        "duration": "26.5 hours",
+        "affiliate_url": "https://trk.udemy.com/c/2758262/3227798/39854?prodsku=course.3411232&u=https://www.udemy.com/course/sifirdan-ileri-duzey-web-programlama-html-css-javascript/?couponCode=LEVENTERT0826",
+        "image": "https://img-c.udemycdn.com/course/480x270/3411232_ca80_6.jpg",
+        "trainer": "Levent Ertunalılar",
+        "trainer_slug": "levent-ertunal-lar",
+        "category": [
+            "JavaScript"
+        ],
+        "category_slug": [
+            "javascript"
+        ],
+        "language": "Turkish",
+        "language_slug": "turkish",
+        "coupon_code": "14.99",
+        "students": 50178,
+        "reviews": 12420,
+        "last_updated": "2026-08-18",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 1778,
+        "title": "SAP MM 2026 | Uygulamalı Malzeme Yönetimi Eğitimi",
+        "description": "SAP ERP MM Key User ve modül uzmanı kursunda uygulamalı olarak öğrenin ve MM modülünde profesyonelleşin.",
+        "rating": 4.2,
+        "duration": "1.5 hours",
+        "affiliate_url": "https://trk.udemy.com/c/2758262/3227798/39854?prodsku=course.5968558&u=https://www.udemy.com/course/sap-mm-uygulamali-malzeme-yonetimi-egitimi/?couponCode=LEVENTERT0826",
+        "image": "https://img-c.udemycdn.com/course/480x270/5968558_074c.jpg",
+        "trainer": "Levent Ertunalılar",
+        "trainer_slug": "levent-ertunal-lar",
+        "category": [
+            "SAP"
+        ],
+        "category_slug": [
+            "sap"
+        ],
+        "language": "Turkish",
+        "language_slug": "turkish",
+        "coupon_code": "14.99",
+        "students": 6400,
+        "reviews": 710,
+        "last_updated": "2026-08-18",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 1779,
+        "title": "Python ile Sıfırdan İleri Seviye Programlama 2026",
+        "description": "Projelerle, Python, Selenium, PyQt5, Tkinter, Sqlite, Flask, Django, Numpy, Web Geliştirme öğrenmenin tadını çıkarın!",
+        "rating": 4.6,
+        "duration": "28 hours",
+        "affiliate_url": "https://trk.udemy.com/c/2758262/3227798/39854?prodsku=course.3124082&u=https://www.udemy.com/course/python-programlama-kursu-2020-levent-ertunalilar/?couponCode=LEVENTERT0826",
+        "image": "https://img-c.udemycdn.com/course/480x270/3124082_134b_10.jpg",
+        "trainer": "Levent Ertunalılar",
+        "trainer_slug": "levent-ertunal-lar",
+        "category": [
+            "Python"
+        ],
+        "category_slug": [
+            "python"
+        ],
+        "language": "Turkish",
+        "language_slug": "turkish",
+        "coupon_code": "14.99",
+        "students": 42784,
+        "reviews": 10140,
+        "last_updated": "2026-08-18",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 1780,
+        "title": "Python ile Programlama Kampı | 2026",
+        "description": "Zengin eğitim içeriğinin yanında etkili güncel örnekler ve quizlerle python'ı bütünlemesine öğrenin!",
+        "rating": 4.6,
+        "duration": "30.5 hours",
+        "affiliate_url": "https://trk.udemy.com/c/2758262/3227798/39854?prodsku=course.4464212&u=https://www.udemy.com/course/python-ile-sifirdan-ileri-seviye-programlama/?couponCode=LEVENTERT0826",
+        "image": "https://img-c.udemycdn.com/course/480x270/4464212_620f_4.jpg",
+        "trainer": "Levent Ertunalılar",
+        "trainer_slug": "levent-ertunal-lar",
+        "category": [
+            "Python"
+        ],
+        "category_slug": [
+            "python"
+        ],
+        "language": "Turkish",
+        "language_slug": "turkish",
+        "coupon_code": "14.99",
+        "students": 23475,
+        "reviews": 4380,
+        "last_updated": "2026-08-18",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 1781,
+        "title": "Sıfırdan ileri Seviye MS Excel Kursu | 2026 | Sertifikalı",
+        "description": "Başlangıç seviyesinden başlayarak Excel'i uzman seviyesinde öğrenebilirsiniz! Fonksiyonlar, Pivot Tablo, Veri Analizi ..",
+        "rating": 4.6,
+        "duration": "10 hours",
+        "affiliate_url": "https://trk.udemy.com/c/2758262/3227798/39854?prodsku=course.4687422&u=https://www.udemy.com/course/sifirdan-ileri-seviye-microsoft-excel-kursu/?couponCode=LEVENTERT0826",
+        "image": "https://img-c.udemycdn.com/course/480x270/4687422_df8e_5.jpg",
+        "trainer": "Levent Ertunalılar",
+        "trainer_slug": "levent-ertunal-lar",
+        "category": [
+            "Microsoft Excel"
+        ],
+        "category_slug": [
+            "microsoft-excel"
+        ],
+        "language": "Turkish",
+        "language_slug": "turkish",
+        "coupon_code": "14.99",
+        "students": 25639,
+        "reviews": 4904,
+        "last_updated": "2026-08-18",
+        "featured": "Yes",
+        "status": "Active"
+    },
+    {
+        "id": 1782,
+        "title": "Etik Hacker Olma Kursu (Uygulamalı) | 2026",
+        "description": "Güncel yazılımları kullanarak ve yeni teknolojilerle birlikte uygulama yaparak Etik Hacker olmayı öğreneceksiniz!",
+        "rating": 4.6,
+        "duration": "8 hours",
+        "affiliate_url": "https://trk.udemy.com/c/2758262/3227798/39854?prodsku=course.3555111&u=https://www.udemy.com/course/etik-hacker-olma-kursu-uygulamali/?couponCode=LEVENTERT0826",
+        "image": "https://img-c.udemycdn.com/course/480x270/3555111_8ddb_2.jpg",
+        "trainer": "Levent Ertunalılar",
+        "trainer_slug": "levent-ertunal-lar",
+        "category": [
+            "Ethical Hacking"
+        ],
+        "category_slug": [
+            "ethical-hacking"
+        ],
+        "language": "Turkish",
+        "language_slug": "turkish",
+        "coupon_code": "14.99",
+        "students": 21607,
+        "reviews": 2354,
+        "last_updated": "2026-08-18",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 1783,
+        "title": "Frontend Web Geliştirme Eğitimi | Uygulamalı",
+        "description": "HTML, CSS ve Framework'ler ile Kullanıcı Deneyimini Ön Plana Çıkaran Modern Web Arayüzleri Tasarlama ve Geliştirme",
+        "rating": 4.8,
+        "duration": "7.5 hours",
+        "affiliate_url": "https://trk.udemy.com/c/2758262/3227798/39854?prodsku=course.4455950&u=https://www.udemy.com/course/sifirdan-ileri-duzey-web-gelistirme-kursu/?couponCode=LEVENTERT0826",
+        "image": "https://img-c.udemycdn.com/course/480x270/4455950_3d88_4.jpg",
+        "trainer": "Levent Ertunalılar",
+        "trainer_slug": "levent-ertunal-lar",
+        "category": [
+            "Web Development"
+        ],
+        "category_slug": [
+            "web-development"
+        ],
+        "language": "Turkish",
+        "language_slug": "turkish",
+        "coupon_code": "14.99",
+        "students": 19954,
+        "reviews": 4130,
+        "last_updated": "2026-08-18",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 1784,
+        "title": "TypeScript 2026 | Uygulamalı TypeScript Eğitimi",
+        "description": "Uygulamalı derslerle güçlü ve güvenli JavaScript kodları için TypeScript'e hakim olun!",
+        "rating": 4.5,
+        "duration": "8.5 hours",
+        "affiliate_url": "https://trk.udemy.com/c/2758262/3227798/39854?prodsku=course.6137989&u=https://www.udemy.com/course/typescript-uygulamali-typescript-egitimi/?couponCode=LEVENTERT0826",
+        "image": "https://img-c.udemycdn.com/course/480x270/6137989_2bd6_3.jpg",
+        "trainer": "Levent Ertunalılar",
+        "trainer_slug": "levent-ertunal-lar",
+        "category": [
+            "TypeScript"
+        ],
+        "category_slug": [
+            "typescript"
+        ],
+        "language": "Turkish",
+        "language_slug": "turkish",
+        "coupon_code": "14.99",
+        "students": 4236,
+        "reviews": 300,
+        "last_updated": "2026-08-18",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 1785,
+        "title": "Android ve iOS Mobil Uygulama Geliştirme: Dart & Flutter",
+        "description": "Dart dilini öğrenerek Flutter ile hem iOS hem de Android platformlar için profesyonel uygulamalar geliştirebileceksiniz!",
+        "rating": 4.1,
+        "duration": "13 hours",
+        "affiliate_url": "https://trk.udemy.com/c/2758262/3227798/39854?prodsku=course.3210073&u=https://www.udemy.com/course/leventertunalilar-dart-flutter-ile-android-ve-ios-uygulama-gelistirme/?couponCode=LEVENTERT0826",
+        "image": "https://img-c.udemycdn.com/course/480x270/3210073_f316_5.jpg",
+        "trainer": "Levent Ertunalılar",
+        "trainer_slug": "levent-ertunal-lar",
+        "category": [
+            "App Development"
+        ],
+        "category_slug": [
+            "app-development"
+        ],
+        "language": "Turkish",
+        "language_slug": "turkish",
+        "coupon_code": "14.99",
+        "students": 27364,
+        "reviews": 3721,
+        "last_updated": "2026-08-18",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 1786,
+        "title": "Learn Go (Golang) Programming: From Beginner to Advanced",
+        "description": "Master Go from scratch and build high-performance, concurrent applications with ease.",
+        "rating": 4.8,
+        "duration": "11 hours",
+        "affiliate_url": "https://trk.udemy.com/c/2758262/3227798/39854?prodsku=course.6980511&u=https://www.udemy.com/course/golang-programming-course/?couponCode=AGUSTOS2026",
+        "image": "https://img-c.udemycdn.com/course/480x270/6980511_c328_2.jpg",
+        "trainer": "Can Boz",
+        "trainer_slug": "can-boz",
+        "category": [
+            "Go"
+        ],
+        "category_slug": [
+            "go"
+        ],
+        "language": "English",
+        "language_slug": "english",
+        "coupon_code": "14.99",
+        "students": 30,
+        "reviews": 5,
+        "last_updated": "2026-08-18",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 1787,
+        "title": "Master Tailwind CSS v4: Build Modern & Responsive Web Design",
+        "description": "Learn Tailwind CSS v4 step by step with real-world projects. Create modern, fast, and responsive websites",
+        "rating": 4.1,
+        "duration": "7 hours",
+        "affiliate_url": "https://trk.udemy.com/c/2758262/3227798/39854?prodsku=course.6823025&u=https://www.udemy.com/course/master-tailwind-css/?couponCode=AGUSTOS2026",
+        "image": "https://img-c.udemycdn.com/course/480x270/6823025_d6aa.jpg",
+        "trainer": "Can Boz",
+        "trainer_slug": "can-boz",
+        "category": [
+            "CSS"
+        ],
+        "category_slug": [
+            "css"
+        ],
+        "language": "English",
+        "language_slug": "english",
+        "coupon_code": "14.99",
+        "students": 20,
+        "reviews": 5,
+        "last_updated": "2026-08-18",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 1788,
+        "title": "Java Programming Course From Zero To Hero",
+        "description": "Master Java Programming in Detail – Functions, Arrays, OOP, File Handling, and More!",
+        "rating": 4.5,
+        "duration": "18 hours",
+        "affiliate_url": "https://trk.udemy.com/c/2758262/3227798/39854?prodsku=course.6671093&u=https://www.udemy.com/course/java-programming-course-from-zero-to-hero/?couponCode=AGUSTOS2026",
+        "image": "https://img-c.udemycdn.com/course/480x270/6671093_236b_2.jpg",
+        "trainer": "Can Boz",
+        "trainer_slug": "can-boz",
+        "category": [
+            "Java"
+        ],
+        "category_slug": [
+            "java"
+        ],
+        "language": "English",
+        "language_slug": "english",
+        "coupon_code": "14.99",
+        "students": 15,
+        "reviews": 3,
+        "last_updated": "2026-08-18",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 1789,
+        "title": "Python Programming Course From Zero To Hero",
+        "description": "Master Python Programming in Detail – Functions, Lists, OOP, File Handling, and More!",
+        "rating": 4.5,
+        "duration": "15.5 hours",
+        "affiliate_url": "https://trk.udemy.com/c/2758262/3227798/39854?prodsku=course.6569651&u=https://www.udemy.com/course/python-programming-course-/?couponCode=AGUSTOS2026",
+        "image": "https://img-c.udemycdn.com/course/480x270/6569651_a66b_3.jpg",
+        "trainer": "Can Boz",
+        "trainer_slug": "can-boz",
+        "category": [
+            "Python"
+        ],
+        "category_slug": [
+            "python"
+        ],
+        "language": "English",
+        "language_slug": "english",
+        "coupon_code": "14.99",
+        "students": 15,
+        "reviews": 3,
+        "last_updated": "2026-08-18",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 1790,
+        "title": "Flowgorithm İle Algoritma Geliştirme ve Programlamaya Giriş",
+        "description": "Algoritma Gösterim Şekilleri | Flowgoritm İle Akış Diyagramları | Programlama Temelleri | Yazılıma İlk Adım",
+        "rating": 4.7,
+        "duration": "11.5 hours",
+        "affiliate_url": "https://trk.udemy.com/c/2758262/3227798/39854?prodsku=course.6190305&u=https://www.udemy.com/course/draft/6190305/?couponCode=AGUSTOS2026",
+        "image": "https://img-c.udemycdn.com/course/480x270/6190305_158d_2.jpg",
+        "trainer": "Can Boz",
+        "trainer_slug": "can-boz",
+        "category": [
+            "Programming Languages"
+        ],
+        "category_slug": [
+            "programming-languages"
+        ],
+        "language": "Turkish",
+        "language_slug": "turkish",
+        "coupon_code": "14.99",
+        "students": 210,
+        "reviews": 15,
+        "last_updated": "2026-08-18",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 1791,
+        "title": "C | Sıfırdan İleri Seviyeye Komple C Programlama",
+        "description": "C Programlama | C Programlama Fonksiyonlar | C Programlama Diziler | C Programlama Struct| C Programlama Pointer&Dosya..",
+        "rating": 4.6,
+        "duration": "51.5 hours",
+        "affiliate_url": "https://trk.udemy.com/c/2758262/3227798/39854?prodsku=course.1743456&u=https://www.udemy.com/course/sifirdan-ileri-seviyeye-komple-c-programlama-kursu/?couponCode=AGUSTOS2026",
+        "image": "https://img-c.udemycdn.com/course/480x270/1743456_27c7_5.jpg",
+        "trainer": "Can Boz",
+        "trainer_slug": "can-boz",
+        "category": [
+            "Programming Languages"
+        ],
+        "category_slug": [
+            "programming-languages"
+        ],
+        "language": "Turkish",
+        "language_slug": "turkish",
+        "coupon_code": "14.99",
+        "students": 20745,
+        "reviews": 5444,
+        "last_updated": "2026-08-18",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 1792,
+        "title": "C++ | Sıfırdan İleri Seviyeye C++ Programlama",
+        "description": "C++ Programlamayı En İnce Ayrıntılarına Kadar Öğrenin! C++ Fonksiyonlar | C++ Diziler | C++ Pointer - OOP…",
+        "rating": 4.4,
+        "duration": "25 hours",
+        "affiliate_url": "https://trk.udemy.com/c/2758262/3227798/39854?prodsku=course.5957806&u=https://www.udemy.com/course/cpp-programlama-egitimi/?couponCode=AGUSTOS2026",
+        "image": "https://img-c.udemycdn.com/course/480x270/5957806_1a65.jpg",
+        "trainer": "Can Boz",
+        "trainer_slug": "can-boz",
+        "category": [
+            "C++"
+        ],
+        "category_slug": [
+            "c"
+        ],
+        "language": "Turkish",
+        "language_slug": "turkish",
+        "coupon_code": "14.99",
+        "students": 1026,
+        "reviews": 135,
+        "last_updated": "2026-08-18",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 1793,
+        "title": "Python İle Programlamaya Giriş Eğitimi",
+        "description": "Python Programlamayı En İnce Ayrıntılarına Kadar Öğrenin! Python Fonksiyonlar | Python Listeler | Python OOP…",
+        "rating": 4.6,
+        "duration": "16.5 hours",
+        "affiliate_url": "https://trk.udemy.com/c/2758262/3227798/39854?prodsku=course.6255833&u=https://www.udemy.com/course/python-programlama-kursu/?couponCode=AGUSTOS2026",
+        "image": "https://img-c.udemycdn.com/course/480x270/6255833_8b36.jpg",
+        "trainer": "Can Boz",
+        "trainer_slug": "can-boz",
+        "category": [
+            "Python"
+        ],
+        "category_slug": [
+            "python"
+        ],
+        "language": "Turkish",
+        "language_slug": "turkish",
+        "coupon_code": "14.99",
+        "students": 230,
+        "reviews": 25,
+        "last_updated": "2026-08-18",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 1794,
+        "title": "Java İle Programlamaya Giriş Eğitimi",
+        "description": "Java Programlamayı En İnce Ayrıntılarına Kadar Öğrenin! Java Fonksiyonlar | Java Diziler | Java OOP…",
+        "rating": 4.3,
+        "duration": "20.5 hours",
+        "affiliate_url": "https://trk.udemy.com/c/2758262/3227798/39854?prodsku=course.6393659&u=https://www.udemy.com/course/javaprogramlamaegitimi/?couponCode=AGUSTOS2026",
+        "image": "https://img-c.udemycdn.com/course/480x270/6393659_0985.jpg",
+        "trainer": "Can Boz",
+        "trainer_slug": "can-boz",
+        "category": [
+            "Java"
+        ],
+        "category_slug": [
+            "java"
+        ],
+        "language": "Turkish",
+        "language_slug": "turkish",
+        "coupon_code": "14.99",
+        "students": 350,
+        "reviews": 50,
+        "last_updated": "2026-08-18",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 1795,
+        "title": "React JS : Uygulamalı React JS -Redux Eğitimi",
+        "description": "React 18 - React Component - React State - React Hooks - React Router 6 - React Typescript - Redux Toolkit - Context Api",
+        "rating": 4.5,
+        "duration": "32.5 hours",
+        "affiliate_url": "https://trk.udemy.com/c/2758262/3227798/39854?prodsku=course.5044338&u=https://www.udemy.com/course/react-egitimi/?couponCode=AGUSTOS2026",
+        "image": "https://img-c.udemycdn.com/course/480x270/5044338_0008.jpg",
+        "trainer": "Can Boz",
+        "trainer_slug": "can-boz",
+        "category": [
+            "React"
+        ],
+        "category_slug": [
+            "react"
+        ],
+        "language": "Turkish",
+        "language_slug": "turkish",
+        "coupon_code": "14.99",
+        "students": 7015,
+        "reviews": 1150,
+        "last_updated": "2026-08-18",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 1796,
+        "title": "100+ Saatlik C Programlama ve C# ile Yazılımcı Olma Kursu",
+        "description": "C Programlama - Algoritmalar- C# - SQL - LINQ - Entity Framework - Temel Programlama - Algoritmalar - C Programlama | C#",
+        "rating": 4.5,
+        "duration": "109.5 hours",
+        "affiliate_url": "https://trk.udemy.com/c/2758262/3227798/39854?prodsku=course.2336040&u=https://www.udemy.com/course/yazilimci-olma-kursu/?couponCode=AGUSTOS2026",
+        "image": "https://img-c.udemycdn.com/course/480x270/2336040_4db7_6.jpg",
+        "trainer": "Can Boz",
+        "trainer_slug": "can-boz",
+        "category": [
+            "Programming Languages"
+        ],
+        "category_slug": [
+            "programming-languages"
+        ],
+        "language": "Turkish",
+        "language_slug": "turkish",
+        "coupon_code": "14.99",
+        "students": 18808,
+        "reviews": 1750,
+        "last_updated": "2026-08-18",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 1797,
+        "title": "React Native | Uygulamalı React Native Eğitimi",
+        "description": "React Native İle IOS ve ANDROID Platformunda Uygulamalar Geliştirerek Piyasada Fark Yaratın!",
+        "rating": 4.3,
+        "duration": "20 hours",
+        "affiliate_url": "https://trk.udemy.com/c/2758262/3227798/39854?prodsku=course.5380106&u=https://www.udemy.com/course/react-native-egitimi/?couponCode=AGUSTOS2026",
+        "image": "https://img-c.udemycdn.com/course/480x270/5380106_5bc1_2.jpg",
+        "trainer": "Can Boz",
+        "trainer_slug": "can-boz",
+        "category": [
+            "React"
+        ],
+        "category_slug": [
+            "react"
+        ],
+        "language": "Turkish",
+        "language_slug": "turkish",
+        "coupon_code": "14.99",
+        "students": 4711,
+        "reviews": 500,
+        "last_updated": "2026-08-18",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 1798,
+        "title": "95+ Saatlik Komple Frontend Eğitimi | React, Angular, Vue",
+        "description": "HTML | CSS | FLEXBOX | BOOTSTRAP 5 | JAVASCRIPT | TYPESCRIPT | REACT JS | ANGULAR | VUE JS | WEB TASARIM | FRONTEND",
+        "rating": 4.5,
+        "duration": "97 hours",
+        "affiliate_url": "https://trk.udemy.com/c/2758262/3227798/39854?prodsku=course.2508382&u=https://www.udemy.com/course/komple-frontend-egitimi/?couponCode=AGUSTOS2026",
+        "image": "https://img-c.udemycdn.com/course/480x270/2508382_9c5a_10.jpg",
+        "trainer": "Can Boz",
+        "trainer_slug": "can-boz",
+        "category": [
+            "Web Development"
+        ],
+        "category_slug": [
+            "web-development"
+        ],
+        "language": "Turkish",
+        "language_slug": "turkish",
+        "coupon_code": "14.99",
+        "students": 15036,
+        "reviews": 1539,
+        "last_updated": "2026-08-18",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 1799,
+        "title": "(120+Saat)Komple Uygulamalı Web Geliştirme Eğitimi | .NET",
+        "description": "HTML 5 | CSS 3 | BOOTSTRAP 5 | JAVASCRIPT | C# | REACT JS | ANGULAR | SQL | LINQ | .NET | .NET CORE WEB API",
+        "rating": 4.3,
+        "duration": "123 hours",
+        "affiliate_url": "https://trk.udemy.com/c/2758262/3227798/39854?prodsku=course.2507804&u=https://www.udemy.com/course/komple-uygulamali-web-gelistirme-egitimi/?couponCode=AGUSTOS2026",
+        "image": "https://img-c.udemycdn.com/course/480x270/2507804_faa5_8.jpg",
+        "trainer": "Can Boz",
+        "trainer_slug": "can-boz",
+        "category": [
+            "Web Development"
+        ],
+        "category_slug": [
+            "web-development"
+        ],
+        "language": "Turkish",
+        "language_slug": "turkish",
+        "coupon_code": "14.99",
+        "students": 5701,
+        "reviews": 870,
+        "last_updated": "2026-08-18",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 1800,
+        "title": "Python Django İle Komple Web Geliştirme Eğitimi",
+        "description": "Python Django 5 İle Web Geliştirmeyi Öğrenerek Piyasada Fark Yaratın!",
+        "rating": 4.7,
+        "duration": "46.5 hours",
+        "affiliate_url": "https://trk.udemy.com/c/2758262/3227798/39854?prodsku=course.6478071&u=https://www.udemy.com/course/python-django-ile-komple-web-gelistirme/?couponCode=AGUSTOS2026",
+        "image": "https://img-c.udemycdn.com/course/480x270/6478071_1c52_2.jpg",
+        "trainer": "Can Boz",
+        "trainer_slug": "can-boz",
+        "category": [
+            "Django"
+        ],
+        "category_slug": [
+            "django"
+        ],
+        "language": "Turkish",
+        "language_slug": "turkish",
+        "coupon_code": "14.99",
+        "students": 200,
+        "reviews": 20,
+        "last_updated": "2026-08-18",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 1801,
+        "title": "Tailwind CSS v4: Sıfırdan Modern Web Tasarımı",
+        "description": "Tailwind CSS ile projeler geliştirerek modern web tasarımını adım adım öğrenin!",
+        "rating": 4.9,
+        "duration": "8 hours",
+        "affiliate_url": "https://trk.udemy.com/c/2758262/3227798/39854?prodsku=course.6785237&u=https://www.udemy.com/course/tailwind-css-egitimi/?couponCode=AGUSTOS2026",
+        "image": "https://img-c.udemycdn.com/course/480x270/6785237_1493.jpg",
+        "trainer": "Can Boz",
+        "trainer_slug": "can-boz",
+        "category": [
+            "CSS"
+        ],
+        "category_slug": [
+            "css"
+        ],
+        "language": "Turkish",
+        "language_slug": "turkish",
+        "coupon_code": "14.99",
+        "students": 80,
+        "reviews": 8,
+        "last_updated": "2026-08-18",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 1802,
+        "title": "Javascript | Baştan Sona Uygulamalı Javascript Eğitimi",
+        "description": "Javascripti kapsamlı bir şekilde öğrenip frontend alanında fark yaratın!",
+        "rating": 4.6,
+        "duration": "30.5 hours",
+        "affiliate_url": "https://trk.udemy.com/c/2758262/3227798/39854?prodsku=course.5215394&u=https://www.udemy.com/course/javascript-egitimi/?couponCode=AGUSTOS2026",
+        "image": "https://img-c.udemycdn.com/course/480x270/5215394_7c11.jpg",
+        "trainer": "Can Boz",
+        "trainer_slug": "can-boz",
+        "category": [
+            "JavaScript"
+        ],
+        "category_slug": [
+            "javascript"
+        ],
+        "language": "Turkish",
+        "language_slug": "turkish",
+        "coupon_code": "14.99",
+        "students": 2623,
+        "reviews": 380,
+        "last_updated": "2026-08-18",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 1803,
+        "title": "C# |Sıfırdan İleri Seviyeye Komple C# Kursu +SQL",
+        "description": "C# |KOMPLE C# | C# ve SQL | C# Windows Form | C# | C# 2D Oyun Yapımı| LINQ|Entity Framework | C#",
+        "rating": 4.4,
+        "duration": "58 hours",
+        "affiliate_url": "https://trk.udemy.com/c/2758262/3227798/39854?prodsku=course.2059977&u=https://www.udemy.com/course/sfrdan-ileri-seviyeye-komple-c-kursu-sql/?couponCode=AGUSTOS2026",
+        "image": "https://img-c.udemycdn.com/course/480x270/2059977_425d_5.jpg",
+        "trainer": "Can Boz",
+        "trainer_slug": "can-boz",
+        "category": [
+            "C#"
+        ],
+        "category_slug": [
+            "c"
+        ],
+        "language": "Turkish",
+        "language_slug": "turkish",
+        "coupon_code": "14.99",
+        "students": 5026,
+        "reviews": 455,
+        "last_updated": "2026-08-18",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 1804,
+        "title": "Angular | Baştan Sona Uygulamalı Angular Eğitimi",
+        "description": "Angular'a baştan sona hakim olun | Popüler front end frameworkü Angular'ı öğrenerek piyasada fark yaratın",
+        "rating": 4.8,
+        "duration": "40 hours",
+        "affiliate_url": "https://trk.udemy.com/c/2758262/3227798/39854?prodsku=course.4365502&u=https://www.udemy.com/course/angular-egitimi/?couponCode=AGUSTOS2026",
+        "image": "https://img-c.udemycdn.com/course/480x270/4365502_04c2_2.jpg",
+        "trainer": "Can Boz",
+        "trainer_slug": "can-boz",
+        "category": [
+            "Angular"
+        ],
+        "category_slug": [
+            "angular"
+        ],
+        "language": "Turkish",
+        "language_slug": "turkish",
+        "coupon_code": "14.99",
+        "students": 1458,
+        "reviews": 251,
+        "last_updated": "2026-08-18",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 1805,
+        "title": "Typescript",
+        "description": "Hap niteliğindeki bu kurs sayesinde Typescript ' e tam anlamıyla hakim olacaksınız!",
+        "rating": 4.3,
+        "duration": "4 hours",
+        "affiliate_url": "https://trk.udemy.com/c/2758262/3227798/39854?prodsku=course.4847972&u=https://www.udemy.com/course/typescript-egitimi/?couponCode=AGUSTOS2026",
+        "image": "https://img-c.udemycdn.com/course/480x270/4744326_b042.jpg",
+        "trainer": "Can Boz",
+        "trainer_slug": "can-boz",
+        "category": [
+            "TypeScript"
+        ],
+        "category_slug": [
+            "typescript"
+        ],
+        "language": "Turkish",
+        "language_slug": "turkish",
+        "coupon_code": "14.99",
+        "students": 1644,
+        "reviews": 255,
+        "last_updated": "2026-08-18",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 1806,
+        "title": "Uygulamalı Bootstrap 5 Eğitimi | Sass + 7 Farklı Proje",
+        "description": "Bootstrap 5 | Bol Proje İle Bootstrap 5 ' e tam Anlamıyla Hakim Olun!",
+        "rating": 4.7,
+        "duration": "18.5 hours",
+        "affiliate_url": "https://trk.udemy.com/c/2758262/3227798/39854?prodsku=course.4847972&u=https://www.udemy.com/course/bootstrap-egitimi/?couponCode=AGUSTOS2026",
+        "image": "https://img-c.udemycdn.com/course/480x270/4847972_8840.jpg",
+        "trainer": "Can Boz",
+        "trainer_slug": "can-boz",
+        "category": [
+            "Web Development"
+        ],
+        "category_slug": [
+            "web-development"
+        ],
+        "language": "Turkish",
+        "language_slug": "turkish",
+        "coupon_code": "14.99",
+        "students": 790,
+        "reviews": 135,
+        "last_updated": "2026-08-18",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 1807,
+        "title": "Css - Uygulamalı Css - Flexbox - Css Grid Eğitimi",
+        "description": "Css'i en ince ayrıntılarına kadar öğrenip frontend alanında fark yaratın!",
+        "rating": 4.7,
+        "duration": "26 hours",
+        "affiliate_url": "https://trk.udemy.com/c/2758262/3227798/39854?prodsku=course.5575806&u=https://www.udemy.com/course/css-egitimi/?couponCode=AGUSTOS2026",
+        "image": "https://img-c.udemycdn.com/course/480x270/5575806_1074_2.jpg",
+        "trainer": "Can Boz",
+        "trainer_slug": "can-boz",
+        "category": [
+            "CSS"
+        ],
+        "category_slug": [
+            "css"
+        ],
+        "language": "Turkish",
+        "language_slug": "turkish",
+        "coupon_code": "14.99",
+        "students": 455,
+        "reviews": 80,
+        "last_updated": "2026-08-18",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 1808,
+        "title": "Vue 3 - Uygulamalı Vue Js Eğitimi",
+        "description": "Vue Js 'in en güncel halini öğrenip piyasada fark yaratın! Vue 3 Options Api - Vue 3 Composition Api - Bol Bol Proje!",
+        "rating": 4.7,
+        "duration": "28.5 hours",
+        "affiliate_url": "https://trk.udemy.com/c/2758262/3227798/39854?prodsku=course.5767016&u=https://www.udemy.com/course/vue-js-egitimi/?couponCode=AGUSTOS2026",
+        "image": "https://img-c.udemycdn.com/course/480x270/5767016_08cf.jpg",
+        "trainer": "Can Boz",
+        "trainer_slug": "can-boz",
+        "category": [
+            "Vue JS"
+        ],
+        "category_slug": [
+            "vue-js"
+        ],
+        "language": "Turkish",
+        "language_slug": "turkish",
+        "coupon_code": "14.99",
+        "students": 750,
+        "reviews": 145,
+        "last_updated": "2026-08-18",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 1809,
+        "title": "Adım Adım LINQ |LINQ da Uzmanlaşma Eğitimi+SQL",
+        "description": "40 dan fazla LINQ Operatörüyle Çekemeyeciğimiz Sorgu YOK",
+        "rating": 4.3,
+        "duration": "21.5 hours",
+        "affiliate_url": "https://trk.udemy.com/c/2758262/3227798/39854?prodsku=course.2707112&u=https://www.udemy.com/course/adim-adim-linq-linq-da-uzmanlasma-egitimi-sql/?couponCode=AGUSTOS2026",
+        "image": "https://img-c.udemycdn.com/course/480x270/2707112_b079_5.jpg",
+        "trainer": "Can Boz",
+        "trainer_slug": "can-boz",
+        "category": [
+            "Programming Languages"
+        ],
+        "category_slug": [
+            "programming-languages"
+        ],
+        "language": "Turkish",
+        "language_slug": "turkish",
+        "coupon_code": "14.99",
+        "students": 270,
+        "reviews": 45,
+        "last_updated": "2026-08-18",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 1810,
+        "title": "Material UI - Tüm Yönleriyle Material UI Eğitimi",
+        "description": "Material UI | Popüler React Kütüphanesi Material UI ' ı Öğrenerek Profesyonel Projeler Geliştirin",
+        "rating": 4.6,
+        "duration": "6.5 hours",
+        "affiliate_url": "https://trk.udemy.com/c/2758262/3227798/39854?prodsku=course.5007918&u=https://www.udemy.com/course/material-ui-egitimi/?couponCode=AGUSTOS2026",
+        "image": "https://img-c.udemycdn.com/course/480x270/5007918_1de6.jpg",
+        "trainer": "Can Boz",
+        "trainer_slug": "can-boz",
+        "category": [
+            "Web Development"
+        ],
+        "category_slug": [
+            "web-development"
+        ],
+        "language": "Turkish",
+        "language_slug": "turkish",
+        "coupon_code": "14.99",
+        "students": 200,
+        "reviews": 20,
+        "last_updated": "2026-08-18",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 1811,
+        "title": "Rxjs 7 - Baştan Sona Uygulamalı Rxjs Eğitimi",
+        "description": "Rxjs 7- Observables- Operators- Subjects",
+        "rating": 4.1,
+        "duration": "3.5 hours",
+        "affiliate_url": "https://trk.udemy.com/c/2758262/3227798/39854?prodsku=course.4498404&u=https://www.udemy.com/course/rxjs-egitimi/?couponCode=AGUSTOS2026",
+        "image": "https://img-c.udemycdn.com/course/480x270/4498404_17ab_2.jpg",
+        "trainer": "Can Boz",
+        "trainer_slug": "can-boz",
+        "category": [
+            "Web Development"
+        ],
+        "category_slug": [
+            "web-development"
+        ],
+        "language": "Turkish",
+        "language_slug": "turkish",
+        "coupon_code": "14.99",
+        "students": 60,
+        "reviews": 6,
+        "last_updated": "2026-08-18",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 1812,
+        "title": "Microsoft SQL SERVER ||Sıfırdan İleri Seviyeye SQL Server",
+        "description": "Sql Dilini Gerçek Hayat Sorgularıyla Öğreninin|Bu eğitim ile büyük databaselerde SQL Server sorgularını yazabileceksiniz",
+        "rating": 4.2,
+        "duration": "13 hours",
+        "affiliate_url": "https://trk.udemy.com/c/2758262/3227798/39854?prodsku=course.2140928&u=https://www.udemy.com/course/microsoft-sql-server-sifirdan-ileri-seviyeye-sql-server/?couponCode=AGUSTOS2026",
+        "image": "https://img-c.udemycdn.com/course/480x270/2140928_451b_5.jpg",
+        "trainer": "Can Boz",
+        "trainer_slug": "can-boz",
+        "category": [
+            "SQL"
+        ],
+        "category_slug": [
+            "sql"
+        ],
+        "language": "Turkish",
+        "language_slug": "turkish",
+        "coupon_code": "14.99",
+        "students": 1053,
+        "reviews": 151,
+        "last_updated": "2026-08-18",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 1813,
+        "title": "MS EXCEL |Sıfırdan İleri Seviyeye Komple EXCEL",
+        "description": "Profesyonel Olarak Exceli Kullanmayı Öğrenin ! Ana EXCEL Formülleri,Tüm EXCEL İşlevleri,Tablolar,Grafikler ve fazlası…",
+        "rating": 4.4,
+        "duration": "13 hours",
+        "affiliate_url": "https://trk.udemy.com/c/2758262/3227798/39854?prodsku=course.1957852&u=https://www.udemy.com/course/ms-excel-sfrdan-ileri-seviyeye-komple-excel/?couponCode=AGUSTOS2026",
+        "image": "https://img-c.udemycdn.com/course/480x270/1957852_5666_9.jpg",
+        "trainer": "Can Boz",
+        "trainer_slug": "can-boz",
+        "category": [
+            "Microsoft Excel"
+        ],
+        "category_slug": [
+            "microsoft-excel"
+        ],
+        "language": "Turkish",
+        "language_slug": "turkish",
+        "coupon_code": "14.99",
+        "students": 500,
+        "reviews": 85,
+        "last_updated": "2026-08-18",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 1814,
+        "title": "Excel Completo - Desde Principiante Hasta Avanzado",
+        "description": "Aprende Paso a Paso Con Ejercicios Reales Del Mundo Moderno: Gráficos, Dashboards, Macros, VBA, Tablas dinámicas y Más.",
+        "rating": 4.7,
+        "duration": "16 hours",
+        "affiliate_url": "https://trk.udemy.com/c/2758262/3227798/39854?prodsku=course.1341936&u=https://www.udemy.com/course/excel-completo-desde-principiante-hasta-avanzado/?couponCode=CP260817G1",
+        "image": "https://i.udemycdn.com/course/480x270/1341936_2776.jpg",
+        "trainer": "Miguel Maraby",
+        "trainer_slug": "miguel-maraby",
+        "category": [
+            "Microsoft Excel"
+        ],
+        "category_slug": [
+            "microsoft-excel"
+        ],
+        "language": "Spanish",
+        "language_slug": "spanish",
+        "coupon_code": "14.99",
+        "students": 182225,
+        "reviews": 69196,
+        "last_updated": "2026-08-18",
+        "featured": "Yes",
+        "status": "Active"
+    },
+    {
+        "id": 1815,
+        "title": "Excel TOTAL en 30 Días - Excel completo de Cero a Avanzado",
+        "description": "Método Moderno: 30 días, Proyectos reales, Gráficos, Dashboards, Macros, VBA, Tablas dinámicas y ChatGPT en Excel!",
+        "rating": 4.8,
+        "duration": "37 hours",
+        "affiliate_url": "https://trk.udemy.com/c/2758262/3227798/39854?prodsku=course.2181526&u=https://www.udemy.com/course/excel-total-de-nada-a-todo-incluye-bva-y-macros/?couponCode=CP260817G1",
+        "image": "https://i.udemycdn.com/course/480x270/2181526_b93d_8.jpg",
+        "trainer": "Federico Garay",
+        "trainer_slug": "federico-garay",
+        "category": [
+            "Microsoft Excel"
+        ],
+        "category_slug": [
+            "microsoft-excel"
+        ],
+        "language": "Spanish",
+        "language_slug": "spanish",
+        "coupon_code": "14.99",
+        "students": 147908,
+        "reviews": 45887,
+        "last_updated": "2026-08-18",
+        "featured": "Yes",
+        "status": "Active"
+    },
+    {
+        "id": 1816,
+        "title": "Excel y Power BI – Análisis y Visualización de Datos",
+        "description": "Inteligencia de negocios y análisis de datos con enfoque práctico: tablas dinámicas, reportes y dashboards interactivos",
+        "rating": 4.7,
+        "duration": "12.5 hours",
+        "affiliate_url": "https://trk.udemy.com/c/2758262/3227798/39854?prodsku=course.2369118&u=https://www.udemy.com/course/curso-tutorial-aprender-como-usar-power-bi-excel-ejercicios-practicos/",
+        "image": "https://i.udemycdn.com/course/480x270/2369118_fcb4_7.jpg",
+        "trainer": "datdata – Cursos",
+        "trainer_slug": "datdata-cursos",
+        "category": [
+            "Microsoft Excel"
+        ],
+        "category_slug": [
+            "microsoft-excel"
+        ],
+        "language": "Spanish",
+        "language_slug": "spanish",
+        "coupon_code": "14.99",
+        "students": 161754,
+        "reviews": 19805,
+        "last_updated": "2026-08-18",
+        "featured": "Yes",
+        "status": "Active"
+    },
+    {
+        "id": 1817,
+        "title": "Macros y VBA: Programa, automatiza y amplía Microsoft Excel.",
+        "description": "Aprende a crear Macros y programar Microsoft Excel con VBA de forma fácil. Más de 26.000 alumnos inscritos al curso.",
+        "rating": 4.5,
+        "duration": "15.5 hours",
+        "affiliate_url": "https://trk.udemy.com/c/2758262/3227798/39854?prodsku=course.1212882&u=https://www.udemy.com/course/macros-vba-programa-microsoft-excel/?couponCode=CP260817G1",
+        "image": "https://i.udemycdn.com/course/480x270/1212882_279e_13.jpg",
+        "trainer": "David Asurmendi",
+        "trainer_slug": "david-asurmendi",
+        "category": [
+            "Microsoft Excel"
+        ],
+        "category_slug": [
+            "microsoft-excel"
+        ],
+        "language": "Spanish",
+        "language_slug": "spanish",
+        "coupon_code": "14.99",
+        "students": 30643,
+        "reviews": 8034,
+        "last_updated": "2026-08-18",
+        "featured": "Yes",
+        "status": "Active"
+    },
+    {
+        "id": 1818,
+        "title": "Excel Profesional en 30 días + CERTIFICADO",
+        "description": "Domina funciones, tablas dinámicas, gráficos y macros en 30 días. Certifícate rápido y destaca laboralmente.",
+        "rating": 4.7,
+        "duration": "12.5 hours",
+        "affiliate_url": "https://trk.udemy.com/c/2758262/3227798/39854?prodsku=course.195108&u=https://www.udemy.com/course/todoexcelparatuexitolaboral/?couponCode=CP260817G1",
+        "image": "https://i.udemycdn.com/course/480x270/195108_2f5a_9.jpg",
+        "trainer": "Alfonso Rinsche",
+        "trainer_slug": "alfonso-rinsche",
+        "category": [
+            "Microsoft Excel"
+        ],
+        "category_slug": [
+            "microsoft-excel"
+        ],
+        "language": "Spanish",
+        "language_slug": "spanish",
+        "coupon_code": "14.99",
+        "students": 21391,
+        "reviews": 7690,
+        "last_updated": "2026-08-18",
+        "featured": "Yes",
+        "status": "Active"
+    },
+    {
+        "id": 1819,
+        "title": "Curso de Excel Online Completo: De Básico a Profesional",
+        "description": "Aprende TODO para Dominar Microsoft Excel desde Cero a Nivel Avanzado: Fórmulas, Tablas Dinámicas, Macros, VBA",
+        "rating": 4.7,
+        "duration": "7.5 hours",
+        "affiliate_url": "https://trk.udemy.com/c/2758262/3227798/39854?prodsku=course.3268456&u=https://www.udemy.com/course/curso-excel-gratis-online-espanol-basico/?couponCode=CP260817G1",
+        "image": "https://i.udemycdn.com/course/480x270/3268456_4e10_3.jpg",
+        "trainer": "Pablo Naderpour Peñalver",
+        "trainer_slug": "pablo-naderpour-pe-alver",
+        "category": [
+            "Microsoft Excel"
+        ],
+        "category_slug": [
+            "microsoft-excel"
+        ],
+        "language": "Spanish",
+        "language_slug": "spanish",
+        "coupon_code": "14.99",
+        "students": 50556,
+        "reviews": 5041,
+        "last_updated": "2026-08-18",
+        "featured": "Yes",
+        "status": "Active"
+    },
+    {
+        "id": 1820,
+        "title": "Microsoft Excel | Sıfırdan Zirveye",
+        "description": "Excel 'in gizli kalmış özelliklerini keşfedin. Fonksiyonlar, Pivot Tablo, Veri Analizi yöntemlerini ayrıntısıyla öğrenin",
+        "rating": 4.6,
+        "duration": "12.5 hours",
+        "affiliate_url": "https://trk.udemy.com/c/2758262/3227798/39854?prodsku=course.492470&u=https://www.udemy.com/course/microsoft-excel-2013tr/?couponCode=CP260817G1",
+        "image": "https://i.udemycdn.com/course/480x270/492470_9d83_5.jpg",
+        "trainer": "Ahmet Sait Duran",
+        "trainer_slug": "ahmet-sait-duran",
+        "category": [
+            "Microsoft Excel"
+        ],
+        "category_slug": [
+            "microsoft-excel"
+        ],
+        "language": "Turkish",
+        "language_slug": "turkish",
+        "coupon_code": "14.99",
+        "students": 28576,
+        "reviews": 7790,
+        "last_updated": "2026-08-18",
+        "featured": "Yes",
+        "status": "Active"
+    },
+    {
+        "id": 1821,
+        "title": "Microsoft Excel: Sıfırdan Uzmanlığa Eğitim Seti |Sertifikalı",
+        "description": "Sıfırdan Zirveye Yapay Zekâ Destekli Excel Eğitimi: Formüller, Grafikler, Pivot Tablolar ve Gerçek Projeler | Copilot",
+        "rating": 4.8,
+        "duration": "18.5 hours",
+        "affiliate_url": "https://trk.udemy.com/c/2758262/3227798/39854?prodsku=course.6232959&u=https://www.udemy.com/course/excelegitim/?couponCode=SALE82",
+        "image": "https://i.udemycdn.com/course/480x270/6232959_46c3_4.jpg",
+        "trainer": "Emre Akyüz",
+        "trainer_slug": "emre-aky-z",
+        "category": [
+            "Microsoft Excel"
+        ],
+        "category_slug": [
+            "microsoft-excel"
+        ],
+        "language": "Turkish",
+        "language_slug": "turkish",
+        "coupon_code": "14.99",
+        "students": 114473,
+        "reviews": 23457,
+        "last_updated": "2026-08-18",
+        "featured": "Yes",
+        "status": "Active"
+    },
+    {
+        "id": 1822,
+        "title": "MS Excel | Sıfırdan İleri Seviye + Yapay Zeka Copilot 2026",
+        "description": "100.000+ öğrencinin tercihi! Sıfırdan ileri seviyeye Excel + Copilot ile yapay zeka destekli veri analizi. 2026 güncel.",
+        "rating": 4.7,
+        "duration": "19 hours",
+        "affiliate_url": "https://trk.udemy.com/c/2758262/3227798/39854?prodsku=course.1901106&u=https://www.udemy.com/course/bastan-sona-excel-ogren-en-cok-kullanilan-islevler/?couponCode=EXCELAGU26",
+        "image": "https://i.udemycdn.com/course/480x270/1901106_e2a0_12.jpg",
+        "trainer": "Oğuzhan ÇOLAK",
+        "trainer_slug": "o-uzhan-olak",
+        "category": [
+            "Microsoft Excel"
+        ],
+        "category_slug": [
+            "microsoft-excel"
+        ],
+        "language": "Turkish",
+        "language_slug": "turkish",
+        "coupon_code": "14.99",
+        "students": 94782,
+        "reviews": 21045,
+        "last_updated": "2026-08-18",
+        "featured": "Yes",
+        "status": "Active"
+    },
+    {
+        "id": 1823,
+        "title": "Unity | Sıfırdan Profesyonelliğe | 3D | 2D Oyun Yapımı 2026",
+        "description": "Oyun geliştirme dünyasına adım at. Sıfırdan öğren, geleceğini kodla. Unity ve C# ile hemen başla!",
+        "rating": 4.8,
+        "duration": "137.5 hours",
+        "affiliate_url": "https://trk.udemy.com/c/2758262/3227798/39854?prodsku=course.6264133&u=https://www.udemy.com/course/unity-sifirdan-profesyonellige-3d-2d-oyun-yapimi/?couponCode=2026AGS1",
+        "image": "https://img-c.udemycdn.com/course/480x270/6264133_3b21.jpg",
+        "trainer": "Olcay kalyoncuoğlu",
+        "trainer_slug": "olcay-kalyoncuo-lu",
+        "category": [
+            "Game Development"
+        ],
+        "category_slug": [
+            "game-development"
+        ],
+        "language": "Turkish",
+        "language_slug": "turkish",
+        "coupon_code": "14.99",
+        "students": 886,
+        "reviews": 140,
+        "last_updated": "2026-08-18",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 1824,
+        "title": "Unity C# | Sıfırdan Profesyonelliğe | 3D | 2D Oyun Yapımı",
+        "description": "Sıfırdan başlayarak oyun geliştiricisi olmaya Hazır mısın? Hayallerine çok yakınsın, HAYDİ HEMEN BAŞLAYALIM!",
+        "rating": 4.4,
+        "duration": "153 hours",
+        "affiliate_url": "https://trk.udemy.com/c/2758262/3227798/39854?prodsku=course.3212581&u=https://www.udemy.com/course/unity-ile-sifirdan-profesyonellige-3d-2d-oyun-yapimi/?couponCode=2026AGS2",
+        "image": "https://img-c.udemycdn.com/course/480x270/3212581_7d32_3.jpg",
+        "trainer": "Olcay kalyoncuoğlu",
+        "trainer_slug": "olcay-kalyoncuo-lu",
+        "category": [
+            "Game Development"
+        ],
+        "category_slug": [
+            "game-development"
+        ],
+        "language": "Turkish",
+        "language_slug": "turkish",
+        "coupon_code": "14.99",
+        "students": 14008,
+        "reviews": 3486,
+        "last_updated": "2026-08-18",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 1825,
+        "title": "Sıfırdan Unity ile 10 adet HYPER CASUAL oyun yapımı",
+        "description": "Sıfırdan Hyper casual oyunların yapımı | Oyunların tamamlanmış kaynak kodlarını alma fırsatı | Acele edin!",
+        "rating": 4.6,
+        "duration": "61.5 hours",
+        "affiliate_url": "https://trk.udemy.com/c/2758262/3227798/39854?prodsku=course.4599286&u=https://www.udemy.com/course/sifirdan-unity-ile-10-adet-hyper-casual-oyun-yapimi/?couponCode=2026AGS3",
+        "image": "https://img-c.udemycdn.com/course/480x270/4599286_8255_2.jpg",
+        "trainer": "Olcay kalyoncuoğlu",
+        "trainer_slug": "olcay-kalyoncuo-lu",
+        "category": [
+            "Game Development"
+        ],
+        "category_slug": [
+            "game-development"
+        ],
+        "language": "Turkish",
+        "language_slug": "turkish",
+        "coupon_code": "14.99",
+        "students": 1220,
+        "reviews": 230,
+        "last_updated": "2026-08-18",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 1826,
+        "title": "Unity ile Sıfırdan 3D Defence Oyunu Yapımı",
+        "description": "2026 | Sıfırdan 3D defence oyunu geliştiriyoruz. Farklı işlevleri ve tüm detayları görüyor olacaksınız. Acele edin!",
+        "rating": 4.8,
+        "duration": "23.5 hours",
+        "affiliate_url": "https://trk.udemy.com/c/2758262/3227798/39854?prodsku=course.5039280&u=https://www.udemy.com/course/unity-ile-sifirdan-3d-defence-oyunu-yapimi/?couponCode=2026AGS4",
+        "image": "https://img-c.udemycdn.com/course/480x270/5039280_4b46_4.jpg",
+        "trainer": "Olcay kalyoncuoğlu",
+        "trainer_slug": "olcay-kalyoncuo-lu",
+        "category": [
+            "Game Development"
+        ],
+        "category_slug": [
+            "game-development"
+        ],
+        "language": "Turkish",
+        "language_slug": "turkish",
+        "coupon_code": "14.99",
+        "students": 80,
+        "reviews": 8,
+        "last_updated": "2026-08-18",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 1827,
+        "title": "Unity ile sıfırdan 10 adet Oyun Yapımı",
+        "description": "Birbirinden güzel 10 oyunu sıfırdan beraber yapıyoruz. Yaptığımız mekanikler ile istediğiniz kadar oyun üretebilirsiniz.",
+        "rating": 4.6,
+        "duration": "42 hours",
+        "affiliate_url": "https://trk.udemy.com/c/2758262/3227798/39854?prodsku=course.5889862&u=https://www.udemy.com/course/unity-ile-sifirdan-10-adet-oyun-yapimi/?couponCode=2026AGS5",
+        "image": "https://img-c.udemycdn.com/course/480x270/5889862_f16e_2.jpg",
+        "trainer": "Olcay kalyoncuoğlu",
+        "trainer_slug": "olcay-kalyoncuo-lu",
+        "category": [
+            "Game Development"
+        ],
+        "category_slug": [
+            "game-development"
+        ],
+        "language": "Turkish",
+        "language_slug": "turkish",
+        "coupon_code": "14.99",
+        "students": 240,
+        "reviews": 40,
+        "last_updated": "2026-08-18",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 1828,
+        "title": "Unity | Draw Line Mekaniği | Sıfırdan 3 adet oyun yapımı",
+        "description": "Unity ile sıfırdan 3 adet oyunun yapımını öğreneceksiniz. Yaptığımız mekanik ile istediğiniz kadar oyun üretebilirsiniz.",
+        "rating": 4.4,
+        "duration": "11.5 hours",
+        "affiliate_url": "https://trk.udemy.com/c/2758262/3227798/39854?prodsku=course.4988744&u=https://www.udemy.com/course/unity-draw-line-mekanigi-sifirdan-3-adet-oyun-yapimi/?couponCode=2026AGS6",
+        "image": "https://img-c.udemycdn.com/course/480x270/4988744_bf66_2.jpg",
+        "trainer": "Olcay kalyoncuoğlu",
+        "trainer_slug": "olcay-kalyoncuo-lu",
+        "category": [
+            "Game Development"
+        ],
+        "category_slug": [
+            "game-development"
+        ],
+        "language": "Turkish",
+        "language_slug": "turkish",
+        "coupon_code": "14.99",
+        "students": 105,
+        "reviews": 10,
+        "last_updated": "2026-08-18",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 1829,
+        "title": "Unity ile sıfırdan çeşitli oyun sistemlerini öğrenin!",
+        "description": "Craft, Envanter, Çoklu Dil, Building, Input sistemleri ve daha fazlasının yapımını sıfırdan öğreneceksiniz.",
+        "rating": 4.8,
+        "duration": "21.5 hours",
+        "affiliate_url": "https://trk.udemy.com/c/2758262/3227798/39854?prodsku=course.4217514&u=https://www.udemy.com/course/unity-ile-sifirdan-cesitli-oyun-sistemlerini-ogrenin/?couponCode=2026AGS7",
+        "image": "https://img-c.udemycdn.com/course/480x270/4217514_7dc3_2.jpg",
+        "trainer": "Olcay kalyoncuoğlu",
+        "trainer_slug": "olcay-kalyoncuo-lu",
+        "category": [
+            "Game Development"
+        ],
+        "category_slug": [
+            "game-development"
+        ],
+        "language": "Turkish",
+        "language_slug": "turkish",
+        "coupon_code": "14.99",
+        "students": 340,
+        "reviews": 60,
+        "last_updated": "2026-08-18",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 1830,
+        "title": "Unity & Photon Network ile Online Multiplayer Oyun Sistemi",
+        "description": "2026 | Photon ile Online oyun | Chat | Voice | Özel Server Kurma konularını ÖĞREN. Dünyaya açılmaya Hazır mısın ?",
+        "rating": 4.7,
+        "duration": "20 hours",
+        "affiliate_url": "https://trk.udemy.com/c/2758262/3227798/39854?prodsku=course.3952470&u=https://www.udemy.com/course/unity-photon-network-ile-online-multiplayer-oyun-sistemi/?couponCode=2026AGS8",
+        "image": "https://img-c.udemycdn.com/course/480x270/3952470_b7e9_9.jpg",
+        "trainer": "Olcay kalyoncuoğlu",
+        "trainer_slug": "olcay-kalyoncuo-lu",
+        "category": [
+            "Game Development"
+        ],
+        "category_slug": [
+            "game-development"
+        ],
+        "language": "Turkish",
+        "language_slug": "turkish",
+        "coupon_code": "14.99",
+        "students": 485,
+        "reviews": 90,
+        "last_updated": "2026-08-18",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 1831,
+        "title": "Sıfırdan İleri Düzey Etik Hacker Kursu (Uygulamalı)",
+        "description": "Etik Hacker , Python ve Cisco Eğitimi Kapsamaktadır.",
+        "rating": 4.5,
+        "duration": "57.5 hours",
+        "affiliate_url": "https://trk.udemy.com/c/2758262/3227798/39854?prodsku=course.1601020&u=https://www.udemy.com/course/sfrdan-ileri-duzey-etik-hacker-kursu-uygulamal/?couponCode=2026AGUSTOS",
+        "image": "https://img-c.udemycdn.com/course/480x270/1601020_bff9_4.jpg",
+        "trainer": "Battal Koç",
+        "trainer_slug": "battal-ko",
+        "category": [
+            "Ethical Hacking"
+        ],
+        "category_slug": [
+            "ethical-hacking"
+        ],
+        "language": "Turkish",
+        "language_slug": "turkish",
+        "coupon_code": "14.99",
+        "students": 30727,
+        "reviews": 6828,
+        "last_updated": "2026-08-18",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 1832,
+        "title": "Etik Hacker 2 ( CTF Çözümleri )",
+        "description": "Kendi VPN sunucunu ve Deeb Web'de siteni Oluştur! Öğrendiklerinlerini CTF ile pekiştir!",
+        "rating": 4.7,
+        "duration": "12.5 hours",
+        "affiliate_url": "https://trk.udemy.com/c/2758262/3227798/39854?prodsku=course.4485158&u=https://www.udemy.com/course/etik-hacker-2/?couponCode=2026AGUSTOS",
+        "image": "https://img-c.udemycdn.com/course/480x270/4485158_750f_2.jpg",
+        "trainer": "Battal Koç",
+        "trainer_slug": "battal-ko",
+        "category": [
+            "Ethical Hacking"
+        ],
+        "category_slug": [
+            "ethical-hacking"
+        ],
+        "language": "Turkish",
+        "language_slug": "turkish",
+        "coupon_code": "14.99",
+        "students": 1392,
+        "reviews": 85,
+        "last_updated": "2026-08-18",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 1833,
+        "title": "Kendi CTF Makinenizi Oluşturun",
+        "description": "CTF Makineleri Yaparak Para Kazanın",
+        "rating": 4.8,
+        "duration": "1.5 hours",
+        "affiliate_url": "https://trk.udemy.com/c/2758262/3227798/39854?prodsku=course.5948596&u=https://www.udemy.com/course/kendi-ctf-makinenizi-olusturun/?couponCode=2026AGUSTOS",
+        "image": "https://img-c.udemycdn.com/course/480x270/5948596_a48a.jpg",
+        "trainer": "Battal Koç",
+        "trainer_slug": "battal-ko",
+        "category": [
+            "Network & Security"
+        ],
+        "category_slug": [
+            "network-and-security"
+        ],
+        "language": "Turkish",
+        "language_slug": "turkish",
+        "coupon_code": "14.99",
+        "students": 60,
+        "reviews": 5,
+        "last_updated": "2026-08-18",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 1834,
+        "title": "Python ve React ile Kendi Yapay Zeka Sitenizi Oluşturun",
+        "description": "Python ve React kullanarak yapay zeka tabanlı web uygulamaları geliştirin!",
+        "rating": 4.2,
+        "duration": "11 hours",
+        "affiliate_url": "https://trk.udemy.com/c/2758262/3227798/39854?prodsku=course.6686269&u=https://www.udemy.com/course/python-ve-react-ile-kendi-yapay-zeka-sitenizi-olusturun/?couponCode=2026AGUSTOS",
+        "image": "https://img-c.udemycdn.com/course/480x270/6686269_568f_3.jpg",
+        "trainer": "Battal Koç",
+        "trainer_slug": "battal-ko",
+        "category": [
+            "AI"
+        ],
+        "category_slug": [
+            "ai"
+        ],
+        "language": "Turkish",
+        "language_slug": "turkish",
+        "coupon_code": "14.99",
+        "students": 107,
+        "reviews": 10,
+        "last_updated": "2026-08-18",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 1835,
+        "title": "Sıfırdan Yapay Zeka Mühendisi Olma Kursu",
+        "description": "Hayallerinize Yapay Zeka ile ulaşın…",
+        "rating": 4.2,
+        "duration": "40.5 hours",
+        "affiliate_url": "https://trk.udemy.com/c/2758262/3227798/39854?prodsku=course.2451018&u=https://www.udemy.com/course/yapay-zeka/?couponCode=2026AGUSTOS",
+        "image": "https://img-c.udemycdn.com/course/480x270/2451018_087e_2.jpg",
+        "trainer": "Battal Koç",
+        "trainer_slug": "battal-ko",
+        "category": [
+            "AI"
+        ],
+        "category_slug": [
+            "ai"
+        ],
+        "language": "Turkish",
+        "language_slug": "turkish",
+        "coupon_code": "14.99",
+        "students": 6741,
+        "reviews": 680,
+        "last_updated": "2026-08-18",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 1836,
+        "title": "Sıfırdan Yazılım Mühendisi Olma Kursu",
+        "description": "Python -- C -- C++ -- C# -- Yapay Zeka",
+        "rating": 4.4,
+        "duration": "36.5 hours",
+        "affiliate_url": "https://trk.udemy.com/c/2758262/3227798/39854?prodsku=course.1896896&u=https://www.udemy.com/course/sfrdan-yazlm-muhendisi-olma-kursu/?couponCode=2026AGUSTOS",
+        "image": "https://img-c.udemycdn.com/course/480x270/1896896_e08d.jpg",
+        "trainer": "Battal Koç",
+        "trainer_slug": "battal-ko",
+        "category": [
+            "AI"
+        ],
+        "category_slug": [
+            "ai"
+        ],
+        "language": "Turkish",
+        "language_slug": "turkish",
+        "coupon_code": "14.99",
+        "students": 11606,
+        "reviews": 1882,
+        "last_updated": "2026-08-18",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 1837,
+        "title": "Üretken Yapay Zeka (GenAI) : Görsel",
+        "description": "Sıfırdan Kendi Üretken Yapay Zeka Modellerinizi Oluşturun!",
+        "rating": 4.5,
+        "duration": "11 hours",
+        "affiliate_url": "https://trk.udemy.com/c/2758262/3227798/39854?prodsku=course.5987922&u=https://www.udemy.com/course/genai-gorsel/?couponCode=2026AGUSTOS",
+        "image": "https://img-c.udemycdn.com/course/480x270/5987922_7567.jpg",
+        "trainer": "Battal Koç",
+        "trainer_slug": "battal-ko",
+        "category": [
+            "AI"
+        ],
+        "category_slug": [
+            "ai"
+        ],
+        "language": "Turkish",
+        "language_slug": "turkish",
+        "coupon_code": "14.99",
+        "students": 210,
+        "reviews": 10,
+        "last_updated": "2026-08-18",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 1838,
+        "title": "Assembly Dili",
+        "description": "Assembly Diline Hakim Olun! Diğer Programcılara Fark Atın!",
+        "rating": 4.2,
+        "duration": "14 hours",
+        "affiliate_url": "https://trk.udemy.com/c/2758262/3227798/39854?prodsku=course.2451010&u=https://www.udemy.com/course/assembly-dili/?couponCode=2026AGUSTOS",
+        "image": "https://img-c.udemycdn.com/course/480x270/2451010_ff20.jpg",
+        "trainer": "Battal Koç",
+        "trainer_slug": "battal-ko",
+        "category": [
+            "Programming Languages"
+        ],
+        "category_slug": [
+            "programming-languages"
+        ],
+        "language": "Turkish",
+        "language_slug": "turkish",
+        "coupon_code": "14.99",
+        "students": 2966,
+        "reviews": 220,
+        "last_updated": "2026-08-18",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 1839,
+        "title": "Curso De Francés Básico Para Hispanohablantes | Paso A Paso",
+        "description": "Aprende las bases del francés actual con lecciones cortas y un método simple que ya ha ayudado a miles de estudiantes.",
+        "rating": 4.8,
+        "duration": "5.5 hours",
+        "affiliate_url": "https://trk.udemy.com/c/2758262/3227798/39854?prodsku=course.1930746&u=https://www.udemy.com/course/cursodefrancesbasico/?couponCode=PROMOAOUT26",
+        "image": "https://img-c.udemycdn.com/course/480x270/1930746_9566_6.jpg",
+        "trainer": "Academia De Francés Online",
+        "trainer_slug": "academia-de-franc-s-online",
+        "category": [
+            "French"
+        ],
+        "category_slug": [
+            "french"
+        ],
+        "language": "Spanish",
+        "language_slug": "spanish",
+        "coupon_code": "14.99",
+        "students": 12943,
+        "reviews": 2963,
+        "last_updated": "2026-08-18",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 1840,
+        "title": "Curso Completo De Pronunciación En Francés | Paso A Paso",
+        "description": "Descubre las \"fórmulas\" para entender, leer y pronunciar correctamente los diferentes sonidos del idioma francés.",
+        "rating": 4.8,
+        "duration": "5 hours",
+        "affiliate_url": "https://trk.udemy.com/c/2758262/3227798/39854?prodsku=course.2975218&u=https://www.udemy.com/course/curso-de-frances-online-pronunciacion/?couponCode=PROMOAOUT26",
+        "image": "https://img-c.udemycdn.com/course/480x270/2975218_8a87_6.jpg",
+        "trainer": "Academia De Francés Online",
+        "trainer_slug": "academia-de-franc-s-online",
+        "category": [
+            "French"
+        ],
+        "category_slug": [
+            "french"
+        ],
+        "language": "Spanish",
+        "language_slug": "spanish",
+        "coupon_code": "14.99",
+        "students": 2156,
+        "reviews": 340,
+        "last_updated": "2026-08-18",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 1841,
+        "title": "Curso De Francés Nivel Intermedio: Verbos & Conjugaciones",
+        "description": "Domina los patrones para comunicarte con más fluidez en todos los tiempos verbales del francés actual.",
+        "rating": 4.6,
+        "duration": "5.5 hours",
+        "affiliate_url": "https://trk.udemy.com/c/2758262/3227798/39854?prodsku=course.2522098&u=https://www.udemy.com/course/curso-de-frances-conjugaciones-en-frances/?couponCode=PROMOAOUT26",
+        "image": "https://img-c.udemycdn.com/course/480x270/2522098_5176_4.jpg",
+        "trainer": "Academia De Francés Online",
+        "trainer_slug": "academia-de-franc-s-online",
+        "category": [
+            "French"
+        ],
+        "category_slug": [
+            "french"
+        ],
+        "language": "Spanish",
+        "language_slug": "spanish",
+        "coupon_code": "14.99",
+        "students": 3036,
+        "reviews": 380,
+        "last_updated": "2026-08-18",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 1842,
+        "title": "Javascript: El Curso Completo, Práctico y desde Cero",
+        "description": "Aprende a programar en Javascript desde cero con el curso mas completo de todos.",
+        "rating": 4.7,
+        "duration": "34 hours",
+        "affiliate_url": "https://trk.udemy.com/c/2758262/3227798/39854?prodsku=course.5100716&u=https://www.udemy.com/course/curso-javascript-desde-cero/?couponCode=JS-AGO-2026-2",
+        "image": "https://img-c.udemycdn.com/course/480x270/5100716_97ab.jpg",
+        "trainer": "Carlos Arturo Esparza",
+        "trainer_slug": "carlos-arturo-esparza",
+        "category": [
+            "JavaScript"
+        ],
+        "category_slug": [
+            "javascript"
+        ],
+        "language": "Spanish",
+        "language_slug": "spanish",
+        "coupon_code": "14.99",
+        "students": 3480,
+        "reviews": 1128,
+        "last_updated": "2026-08-18",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 1843,
+        "title": "React y Firebase: El Curso Completo, Práctico y desde Cero",
+        "description": "Aprende a crear sitios y aplicaciones web Full Stack utilizando React y Firebase. Todo desde cero y desde lo mas básico.",
+        "rating": 4.7,
+        "duration": "26 hours",
+        "affiliate_url": "https://trk.udemy.com/c/2758262/3227798/39854?prodsku=course.3142596&u=https://www.udemy.com/course/react-desde-cero/?couponCode=REACT-AGO-2026-2",
+        "image": "https://img-c.udemycdn.com/course/480x270/3142596_259b_16.jpg",
+        "trainer": "Carlos Arturo Esparza",
+        "trainer_slug": "carlos-arturo-esparza",
+        "category": [
+            "React"
+        ],
+        "category_slug": [
+            "react"
+        ],
+        "language": "Spanish",
+        "language_slug": "spanish",
+        "coupon_code": "14.99",
+        "students": 4261,
+        "reviews": 1079,
+        "last_updated": "2026-08-18",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 1844,
+        "title": "Bootstrap 5: El Curso Completo, Práctico y Desde Cero",
+        "description": "Aprende a crear cualquier sitio web adaptable a dispositivos móviles con Boostrap 5, el mejor framework de diseño web",
+        "rating": 4.6,
+        "duration": "34 hours",
+        "affiliate_url": "https://trk.udemy.com/c/2758262/3227798/39854?prodsku=course.1245130&u=https://www.udemy.com/course/curso-bootstrap/?couponCode=BTS-AGO-2026-2",
+        "image": "https://img-c.udemycdn.com/course/480x270/1245130_efdb_10.jpg",
+        "trainer": "Carlos Arturo Esparza",
+        "trainer_slug": "carlos-arturo-esparza",
+        "category": [
+            "Bootstrap"
+        ],
+        "category_slug": [
+            "bootstrap"
+        ],
+        "language": "Spanish",
+        "language_slug": "spanish",
+        "coupon_code": "14.99",
+        "students": 14918,
+        "reviews": 4263,
+        "last_updated": "2026-08-18",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 1845,
+        "title": "PHP 8 y MYSQL: El Curso Completo, Práctico y Desde Cero !",
+        "description": "El curso que te enseña a crear aplicaciones y sitios web desde cero con PHP y MYSQL",
+        "rating": 4.8,
+        "duration": "20 hours",
+        "affiliate_url": "https://trk.udemy.com/c/2758262/3227798/39854?prodsku=course.672600&u=https://www.udemy.com/course/php-y-mysql/?couponCode=PHP-AGO-2026-2",
+        "image": "https://img-c.udemycdn.com/course/480x270/672600_1def_7.jpg",
+        "trainer": "Carlos Arturo Esparza",
+        "trainer_slug": "carlos-arturo-esparza",
+        "category": [
+            "Web Development"
+        ],
+        "category_slug": [
+            "web-development"
+        ],
+        "language": "Spanish",
+        "language_slug": "spanish",
+        "coupon_code": "14.99",
+        "students": 34736,
+        "reviews": 12488,
+        "last_updated": "2026-08-18",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 1846,
+        "title": "Diseño Web Profesional: Curso Completo, Práctico y desde 0",
+        "description": "HTML, CSS, Flexbox, Grid, Javascript, Responsive Design, Figma, React, Tailwind, WordPress, Git, GitHub, Deploy",
+        "rating": 4.7,
+        "duration": "97 hours",
+        "affiliate_url": "https://trk.udemy.com/c/2758262/3227798/39854?prodsku=course.782428&u=https://www.udemy.com/course/diseno-web/?couponCode=DW-ENE-AGO-2",
+        "image": "https://img-c.udemycdn.com/course/480x270/782428_b5cf_6.jpg",
+        "trainer": "Carlos Arturo Esparza",
+        "trainer_slug": "carlos-arturo-esparza",
+        "category": [
+            "Web Development"
+        ],
+        "category_slug": [
+            "web-development"
+        ],
+        "language": "Spanish",
+        "language_slug": "spanish",
+        "coupon_code": "14.99",
+        "students": 50671,
+        "reviews": 18968,
+        "last_updated": "2026-08-18",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 1847,
+        "title": "Creación de Tiendas Online: Fácil, Completo y desde Cero",
+        "description": "Aprende a crear tu propia tienda online y empieza a ganar dinero vendiendo tus productos por internet.",
+        "rating": 4.7,
+        "duration": "14 hours",
+        "affiliate_url": "https://trk.udemy.com/c/2758262/3227798/39854?prodsku=course.2201832&u=https://www.udemy.com/course/curso-tienda-online/?couponCode=WOO-AGO-2026-2",
+        "image": "https://img-c.udemycdn.com/course/480x270/2201832_c1f7_6.jpg",
+        "trainer": "Carlos Arturo Esparza",
+        "trainer_slug": "carlos-arturo-esparza",
+        "category": [
+            "eCommerce"
+        ],
+        "category_slug": [
+            "ecommerce"
+        ],
+        "language": "Spanish",
+        "language_slug": "spanish",
+        "coupon_code": "14.99",
+        "students": 5492,
+        "reviews": 1231,
+        "last_updated": "2026-08-18",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 1848,
+        "title": "Curso de Vim y Neovim para principiantes",
+        "description": "Aprende Vim y Neovim desde cero, con cientos de ejercicios",
+        "rating": 4.9,
+        "duration": "12.5 hours",
+        "affiliate_url": "https://trk.udemy.com/c/2758262/3227798/39854?prodsku=course.6710671&u=https://www.udemy.com/course/curso-vim-neovim/?couponCode=VIM-AGO-2026-2",
+        "image": "https://img-c.udemycdn.com/course/480x270/6710671_b1fc_2.jpg",
+        "trainer": "Carlos Arturo Esparza",
+        "trainer_slug": "carlos-arturo-esparza",
+        "category": [
+            "Software Development"
+        ],
+        "category_slug": [
+            "software-development"
+        ],
+        "language": "Spanish",
+        "language_slug": "spanish",
+        "coupon_code": "14.99",
+        "students": 278,
+        "reviews": 60,
+        "last_updated": "2026-08-18",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 1849,
+        "title": "Maîtrisez Laravel– Formation la plus complète [2026]",
+        "description": "Apprenez Laravel en profondeur en suivant la documentation officielle, à travers un projet concret et progressif.",
+        "rating": 4.6,
+        "duration": "22.5 hours",
+        "affiliate_url": "https://trk.udemy.com/c/2758262/3227798/39854?prodsku=course.6472029&u=https://www.udemy.com/course/laravel-fr/?couponCode=THIBAULT-2026-08",
+        "image": "https://img-c.udemycdn.com/course/480x270/6472029_3650_2.jpg",
+        "trainer": "Thibault Chazottes",
+        "trainer_slug": "thibault-chazottes",
+        "category": [
+            "Laravel"
+        ],
+        "category_slug": [
+            "laravel"
+        ],
+        "language": "French",
+        "language_slug": "french",
+        "coupon_code": "14.99",
+        "students": 230,
+        "reviews": 71,
+        "last_updated": "2026-08-18",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 1850,
+        "title": "Maîtrisez Vue.js 3 – Formation la plus complète [2026]",
+        "description": "Je couvre avec vous 100% de la documentation Vue.js (Composition & Option API) via des cours suivi de projets concrets !",
+        "rating": 4.7,
+        "duration": "15.5 hours",
+        "affiliate_url": "https://trk.udemy.com/c/2758262/3227798/39854?prodsku=course.5882570&u=https://www.udemy.com/course/maitrisez-les-fondations-de-vue-js-3-theorie-et-pratique/?couponCode=THIBAULT-2026-08",
+        "image": "https://img-c.udemycdn.com/course/480x270/5882570_9808_18.jpg",
+        "trainer": "Thibault Chazottes",
+        "trainer_slug": "thibault-chazottes",
+        "category": [
+            "Vue JS"
+        ],
+        "category_slug": [
+            "vue-js"
+        ],
+        "language": "French",
+        "language_slug": "french",
+        "coupon_code": "14.99",
+        "students": 656,
+        "reviews": 125,
+        "last_updated": "2026-08-18",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 1851,
+        "title": "Maîtrisez Vue.js Router & Pinia – Formation complète [2026]",
+        "description": "Allez plus loin sur Vue.js en utilisant vue-router et et Pinia. 100% de la documentation parcouru !",
+        "rating": 4.8,
+        "duration": "10 hours",
+        "affiliate_url": "https://trk.udemy.com/c/2758262/3227798/39854?prodsku=course.6064599&u=https://www.udemy.com/course/maitrisez-vue-router-et-pinia/?couponCode=THIBAULT-2026-08",
+        "image": "https://img-c.udemycdn.com/course/480x270/6064599_e068_10.jpg",
+        "trainer": "Thibault Chazottes",
+        "trainer_slug": "thibault-chazottes",
+        "category": [
+            "Vue JS"
+        ],
+        "category_slug": [
+            "vue-js"
+        ],
+        "language": "French",
+        "language_slug": "french",
+        "coupon_code": "14.99",
+        "students": 120,
+        "reviews": 20,
+        "last_updated": "2026-08-18",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 1852,
+        "title": "Développeur Web & Web Mobile: Réussir la soutenance",
+        "description": "Formateur expérimenté et développeur senior, je vous explique tout pour réussir avec brio votre jury du titre DWWM !",
+        "rating": 4.8,
+        "duration": "3 hours",
+        "affiliate_url": "https://trk.udemy.com/c/2758262/3227798/39854?prodsku=course.6446713&u=https://www.udemy.com/course/dwwm-reussir-la-soutenance/?couponCode=THIBAULT-2026-08",
+        "image": "https://img-c.udemycdn.com/course/480x270/6446713_6fad_3.jpg",
+        "trainer": "Thibault Chazottes",
+        "trainer_slug": "thibault-chazottes",
+        "category": [
+            "Teaching & Academics"
+        ],
+        "category_slug": [
+            "teaching-and-academics"
+        ],
+        "language": "French",
+        "language_slug": "french",
+        "coupon_code": "14.99",
+        "students": 10,
+        "reviews": 5,
+        "last_updated": "2026-08-18",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 1853,
+        "title": "Concepteur Développeur d'Applications: Réussir la soutenance",
+        "description": "Formateur expérimenté et développeur senior, je vous explique tout pour réussir avec brio votre jury du titre CDA !",
+        "rating": 4.9,
+        "duration": "4 hours",
+        "affiliate_url": "https://trk.udemy.com/c/2758262/3227798/39854?prodsku=course.5402026&u=https://www.udemy.com/course/cda-reussir-le-jury-final/?couponCode=THIBAULT-2026-08",
+        "image": "https://img-c.udemycdn.com/course/480x270/5402026_f3c4_4.jpg",
+        "trainer": "Thibault Chazottes",
+        "trainer_slug": "thibault-chazottes",
+        "category": [
+            "Teaching & Academics"
+        ],
+        "category_slug": [
+            "teaching-and-academics"
+        ],
+        "language": "French",
+        "language_slug": "french",
+        "coupon_code": "14.99",
+        "students": 180,
+        "reviews": 45,
+        "last_updated": "2026-08-18",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 1854,
+        "title": "Python : La Formation Complète 2026",
+        "description": "De 0 à expert Python : la formation la plus complète avec 15 projets (Web, Data, Scripting, Bots), exercices, quiz…",
+        "rating": 4.6,
+        "duration": "74 hours",
+        "affiliate_url": "https://trk.udemy.com/c/2758262/3227798/39854?prodsku=course.2281794&u=https://www.udemy.com/course/formation-complete-python/?couponCode=AUG2026",
+        "image": "https://img-c.udemycdn.com/course/480x270/2281794_46a6_45.jpg",
+        "trainer": "Thibault Houdon",
+        "trainer_slug": "thibault-houdon",
+        "category": [
+            "Python"
+        ],
+        "category_slug": [
+            "python"
+        ],
+        "language": "French",
+        "language_slug": "french",
+        "coupon_code": "14.99",
+        "students": 50034,
+        "reviews": 11500,
+        "last_updated": "2026-08-18",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 1855,
+        "title": "La Formation Complète Django",
+        "description": "Dans cette formation complète, apprenez à développer des sites web avec le framework Django et le langage Python.",
+        "rating": 4.6,
+        "duration": "14.5 hours",
+        "affiliate_url": "https://trk.udemy.com/c/2758262/3227798/39854?prodsku=course.3893422&u=https://www.udemy.com/course/creez-des-sites-web-avec-python-et-django/?couponCode=AUG2026",
+        "image": "https://img-c.udemycdn.com/course/480x270/3893422_0a5b_3.jpg",
+        "trainer": "Thibault Houdon",
+        "trainer_slug": "thibault-houdon",
+        "category": [
+            "Django"
+        ],
+        "category_slug": [
+            "django"
+        ],
+        "language": "French",
+        "language_slug": "french",
+        "coupon_code": "14.99",
+        "students": 5532,
+        "reviews": 1188,
+        "last_updated": "2026-08-18",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 1856,
+        "title": "101 Exercices et Algorithmes Python Corrigés",
+        "description": "Montez en compétence sur des dizaines de notions d'algorithmique avec ces 101 exercices Python concrets.",
+        "rating": 4.3,
+        "duration": "2.5 hours",
+        "affiliate_url": "https://trk.udemy.com/c/2758262/3227798/39854?prodsku=course.1740038&u=https://www.udemy.com/course/python-exercices/?couponCode=AUG2026",
+        "image": "https://img-c.udemycdn.com/course/480x270/1740038_cde5_11.jpg",
+        "trainer": "Thibault Houdon",
+        "trainer_slug": "thibault-houdon",
+        "category": [
+            "Python"
+        ],
+        "category_slug": [
+            "python"
+        ],
+        "language": "French",
+        "language_slug": "french",
+        "coupon_code": "14.99",
+        "students": 14882,
+        "reviews": 1035,
+        "last_updated": "2026-08-18",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 1857,
+        "title": "Python avancé : aller plus loin",
+        "description": "Apprenez des techniques de programmation avancées pour coder plus efficacement à l'aide de nombreux exercices pratiques.",
+        "rating": 4.6,
+        "duration": "4.5 hours",
+        "affiliate_url": "https://trk.udemy.com/c/2758262/3227798/39854?prodsku=course.1548226&u=https://www.udemy.com/course/cours-python-avance/?couponCode=AUG2026",
+        "image": "https://img-c.udemycdn.com/course/480x270/1548226_2446_13.jpg",
+        "trainer": "Thibault Houdon",
+        "trainer_slug": "thibault-houdon",
+        "category": [
+            "Python"
+        ],
+        "category_slug": [
+            "python"
+        ],
+        "language": "French",
+        "language_slug": "french",
+        "coupon_code": "14.99",
+        "students": 6995,
+        "reviews": 810,
+        "last_updated": "2026-08-18",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 1858,
+        "title": "30 Exercices Orientés Objets avec Python",
+        "description": "Améliorez votre maîtrise de la programmation orientée objet avec ces 30 exercices Python corrigés.",
+        "rating": 4.5,
+        "duration": "28 mins",
+        "affiliate_url": "https://trk.udemy.com/c/2758262/3227798/39854?prodsku=course.2963914&u=https://www.udemy.com/course/30-exercices-orientes-objets-avec-python/?couponCode=AUG2026",
+        "image": "https://img-c.udemycdn.com/course/480x270/2963914_65af_4.jpg",
+        "trainer": "Thibault Houdon",
+        "trainer_slug": "thibault-houdon",
+        "category": [
+            "Python"
+        ],
+        "category_slug": [
+            "python"
+        ],
+        "language": "French",
+        "language_slug": "french",
+        "coupon_code": "14.99",
+        "students": 2547,
+        "reviews": 330,
+        "last_updated": "2026-08-18",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 1859,
+        "title": "Créez des applications de bureau avec Python",
+        "description": "Créez des applications de bureau avec des cas pratiques: un explorateur de fichiers, un lecteur vidéo et plus !",
+        "rating": 4.4,
+        "duration": "13 hours",
+        "affiliate_url": "https://trk.udemy.com/c/2758262/3227798/39854?prodsku=course.4364566&u=https://www.udemy.com/course/creez-des-applications-de-bureau-avec-python-et-pyside/?couponCode=AUG2026",
+        "image": "https://img-c.udemycdn.com/course/480x270/4364566_5371.jpg",
+        "trainer": "Thibault Houdon",
+        "trainer_slug": "thibault-houdon",
+        "category": [
+            "Python"
+        ],
+        "category_slug": [
+            "python"
+        ],
+        "language": "French",
+        "language_slug": "french",
+        "coupon_code": "14.99",
+        "students": 2803,
+        "reviews": 340,
+        "last_updated": "2026-08-18",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 1860,
+        "title": "JavaScript par la pratique : 50 Exercices Corrigés",
+        "description": "Testez votre maîtrise du langage JavaScript et de l'algorithmie avec ces 50 exercices de code corrigés.",
+        "rating": 4.6,
+        "duration": "18 mins",
+        "affiliate_url": "https://trk.udemy.com/c/2758262/3227798/39854?prodsku=course.3725426&u=https://www.udemy.com/course/javascript-par-la-pratique-50-exercices-corriges/?couponCode=AUG2026",
+        "image": "https://img-c.udemycdn.com/course/480x270/3725426_52d0.jpg",
+        "trainer": "Thibault Houdon",
+        "trainer_slug": "thibault-houdon",
+        "category": [
+            "JavaScript"
+        ],
+        "category_slug": [
+            "javascript"
+        ],
+        "language": "French",
+        "language_slug": "french",
+        "coupon_code": "14.99",
+        "students": 667,
+        "reviews": 60,
+        "last_updated": "2026-08-18",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 1861,
+        "title": "The Complete JavaScript Course 2025: From Zero to Expert!",
+        "description": "The modern JavaScript course for everyone! Master JavaScript with projects, challenges and theory. Many courses in one!",
+        "rating": 4.7,
+        "duration": "71 hours",
+        "affiliate_url": "https://trk.udemy.com/c/2758262/3227798/39854?prodsku=course.851712&u=https://www.udemy.com/course/the-complete-javascript-course/?couponCode=WEBSITE-C03-AUG-26",
+        "image": "https://img-c.udemycdn.com/course/480x270/851712_fc61_6.jpg",
+        "trainer": "Jonas Schmedtmann",
+        "trainer_slug": "jonas-schmedtmann",
+        "category": [
+            "JavaScript"
+        ],
+        "category_slug": [
+            "javascript"
+        ],
+        "language": "English",
+        "language_slug": "english",
+        "coupon_code": "12.99",
+        "students": 1041329,
+        "reviews": 233711,
+        "last_updated": "2026-08-18",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 1862,
+        "title": "Build Responsive Real-World Websites with HTML and CSS",
+        "description": "Learn modern HTML5, CSS3 and web design by building a stunning website for your portfolio! Includes flexbox and CSS Grid",
+        "rating": 4.7,
+        "duration": "37.5 hours",
+        "affiliate_url": "https://trk.udemy.com/c/2758262/3227798/39854?prodsku=course.437398&u=https://www.udemy.com/course/design-and-develop-a-killer-website-with-html5-and-css3/?couponCode=WEBSITE-C01-AUG-26",
+        "image": "https://img-c.udemycdn.com/course/480x270/437398_46c3_10.jpg",
+        "trainer": "Jonas Schmedtmann",
+        "trainer_slug": "jonas-schmedtmann",
+        "category": [
+            "Web Design"
+        ],
+        "category_slug": [
+            "web-design"
+        ],
+        "language": "English",
+        "language_slug": "english",
+        "coupon_code": "12.99",
+        "students": 468366,
+        "reviews": 118755,
+        "last_updated": "2026-08-18",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 1863,
+        "title": "The Ultimate React Course 2025: React, Next.js, Redux & More",
+        "description": "Master modern React from beginner to advanced! Next.js, Context API, React Query, Redux, Tailwind, advanced patterns",
+        "rating": 4.7,
+        "duration": "84 hours",
+        "affiliate_url": "https://trk.udemy.com/c/2758262/3227798/39854?prodsku=course.4471614&u=https://www.udemy.com/course/the-ultimate-react-course/?couponCode=WEBSITE-C07-AUG-26",
+        "image": "https://img-c.udemycdn.com/course/480x270/4471614_361e_8.jpg",
+        "trainer": "Jonas Schmedtmann",
+        "trainer_slug": "jonas-schmedtmann",
+        "category": [
+            "React"
+        ],
+        "category_slug": [
+            "react"
+        ],
+        "language": "English",
+        "language_slug": "english",
+        "coupon_code": "12.99",
+        "students": 172811,
+        "reviews": 23852,
+        "last_updated": "2026-08-18",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 1864,
+        "title": "Crash Course: Build a Full-Stack Web App in a Weekend!",
+        "description": "A quick, fun, and hands-on introduction to web development. Build a complete app with HTML, CSS, JavaScript, and React!",
+        "rating": 4.8,
+        "duration": "12 hours",
+        "affiliate_url": "https://trk.udemy.com/c/2758262/3227798/39854?prodsku=course.4993934&u=https://www.udemy.com/course/full-stack-crash-course/?couponCode=WEBSITE-C06-AUG-26",
+        "image": "https://img-c.udemycdn.com/course/480x270/4993934_0107_4.jpg",
+        "trainer": "Jonas Schmedtmann",
+        "trainer_slug": "jonas-schmedtmann",
+        "category": [
+            "Full Stack Web Development"
+        ],
+        "category_slug": [
+            "full-stack-web-development"
+        ],
+        "language": "English",
+        "language_slug": "english",
+        "coupon_code": "12.99",
+        "students": 30766,
+        "reviews": 3965,
+        "last_updated": "2026-08-18",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 1865,
+        "title": "Node.js, Express, MongoDB & More: The Complete Bootcamp",
+        "description": "Master Node by building a real-world RESTful API and web app (with authentication, Node.js security, payments & more)",
+        "rating": 4.7,
+        "duration": "42 hours",
+        "affiliate_url": "https://trk.udemy.com/c/2758262/3227798/39854?prodsku=course.1672410&u=https://www.udemy.com/course/nodejs-express-mongodb-bootcamp/?couponCode=WEBSITE-C05-AUG-26",
+        "image": "https://img-c.udemycdn.com/course/480x270/1672410_9ff1_5.jpg",
+        "trainer": "Jonas Schmedtmann",
+        "trainer_slug": "jonas-schmedtmann",
+        "category": [
+            "Node JS"
+        ],
+        "category_slug": [
+            "node-js"
+        ],
+        "language": "English",
+        "language_slug": "english",
+        "coupon_code": "12.99",
+        "students": 183174,
+        "reviews": 30273,
+        "last_updated": "2026-08-18",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 1866,
+        "title": "Advanced CSS and Sass: Flexbox, Grid, Animations and More!",
+        "description": "The most advanced and modern CSS course on the internet: master flexbox, CSS Grid, responsive design, and so much more.",
+        "rating": 4.8,
+        "duration": "28 hours",
+        "affiliate_url": "https://trk.udemy.com/c/2758262/3227798/39854?prodsku=course.1026604&u=https://www.udemy.com/course/advanced-css-and-sass/?couponCode=WEBSITE-C04-AUG-26",
+        "image": "https://img-c.udemycdn.com/course/480x270/1026604_790b_2.jpg",
+        "trainer": "Jonas Schmedtmann",
+        "trainer_slug": "jonas-schmedtmann",
+        "category": [
+            "CSS"
+        ],
+        "category_slug": [
+            "css"
+        ],
+        "language": "English",
+        "language_slug": "english",
+        "coupon_code": "12.99",
+        "students": 225568,
+        "reviews": 46305,
+        "last_updated": "2026-08-18",
         "featured": "",
         "status": "Active"
     }
