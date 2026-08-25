@@ -1653,5 +1653,50 @@
         "id": 331,
         "name": "eCommerce",
         "slug": "ecommerce"
+    },
+    {
+        "id": 332,
+        "name": "Fortinet",
+        "slug": "fortinet"
+    },
+    {
+        "id": 333,
+        "name": "Mikrotik",
+        "slug": "mikrotik"
+    },
+    {
+        "id": 334,
+        "name": "Drawing",
+        "slug": "drawing"
+    },
+    {
+        "id": 335,
+        "name": "Graphic Design",
+        "slug": "graphic-design"
+    },
+    {
+        "id": 336,
+        "name": "Unity",
+        "slug": "unity"
+    },
+    {
+        "id": 337,
+        "name": "Data Engineering",
+        "slug": "data-engineering"
+    },
+    {
+        "id": 338,
+        "name": "Music Production",
+        "slug": "music-production"
+    },
+    {
+        "id": 339,
+        "name": "Music",
+        "slug": "music"
+    },
+    {
+        "id": 340,
+        "name": "FL Studio",
+        "slug": "fl-studio"
     }
 ]

@@ -1032,5 +1032,148 @@
         "bio": "",
         "website": "",
         "linkedin": ""
+    },
+    {
+        "id": 95,
+        "name": "Daniel Tapias Morales",
+        "slug": "daniel-tapias-morales",
+        "photo": "https://img-c.udemycdn.com/user/200_H/33058682_f124_2.jpg",
+        "banner": "",
+        "designation": "",
+        "bio": "",
+        "website": "",
+        "linkedin": "https://linkedin.com/in/daniel-tapias-morales-87145621"
+    },
+    {
+        "id": 96,
+        "name": "Antonio Sánchez Corbalán",
+        "slug": "antonio-s-nchez-corbal-n",
+        "photo": "https://img-c.udemycdn.com/user/200_H/22937892_7506_4.jpg",
+        "banner": "",
+        "designation": "",
+        "bio": "",
+        "website": "",
+        "linkedin": "https://linkedin.com/in/antonio-s%C3%A1nchez-corbal%C3%A1n/"
+    },
+    {
+        "id": 97,
+        "name": "Alam Mancera",
+        "slug": "alam-mancera",
+        "photo": "https://img-c.udemycdn.com/user/200_H/21192680_e995_10.jpg",
+        "banner": "",
+        "designation": "",
+        "bio": "",
+        "website": "",
+        "linkedin": "https://linkedin.com/in/alammancera/"
+    },
+    {
+        "id": 98,
+        "name": "Eduardo Nazareno Anselmi",
+        "slug": "eduardo-nazareno-anselmi",
+        "photo": "https://img-c.udemycdn.com/user/200_H/37465748_0153_6.jpg",
+        "banner": "",
+        "designation": "",
+        "bio": "",
+        "website": "",
+        "linkedin": "https://linkedin.com/in/nazareno-anselmi"
+    },
+    {
+        "id": 99,
+        "name": "Karan Gupta",
+        "slug": "karan-gupta",
+        "photo": "https://img-c.udemycdn.com/user/200_H/50117550_548e.jpg",
+        "banner": "",
+        "designation": "",
+        "bio": "",
+        "website": "",
+        "linkedin": "https://linkedin.com/in/reachguptakaran/"
+    },
+    {
+        "id": 100,
+        "name": "Guilherme Gusmão de Freitas",
+        "slug": "guilherme-gusm-o-de-freitas",
+        "photo": "https://img-c.udemycdn.com/user/200_H/33138574_cba7_5.jpg",
+        "banner": "",
+        "designation": "",
+        "bio": "",
+        "website": "",
+        "linkedin": ""
+    },
+    {
+        "id": 101,
+        "name": "Alex Dev",
+        "slug": "alex-dev",
+        "photo": "https://img-c.udemycdn.com/user/200_H/99693024_06fa_2.jpg",
+        "banner": "",
+        "designation": "",
+        "bio": "",
+        "website": "",
+        "linkedin": ""
+    },
+    {
+        "id": 102,
+        "name": "César Cancino Zapata",
+        "slug": "c-sar-cancino-zapata",
+        "photo": "https://img-c.udemycdn.com/user/200_H/206554328_8d9a.jpg",
+        "banner": "",
+        "designation": "",
+        "bio": "",
+        "website": "",
+        "linkedin": "https://linkedin.com/in/c%C3%A9sar-hans-cancino-zapata-33487118/"
+    },
+    {
+        "id": 103,
+        "name": "Derar Alhussein",
+        "slug": "derar-alhussein",
+        "photo": "https://img-c.udemycdn.com/user/200_H/103087611_3d14_2.jpg",
+        "banner": "",
+        "designation": "",
+        "bio": "",
+        "website": "",
+        "linkedin": "https://linkedin.com/in/deraralhussein"
+    },
+    {
+        "id": 104,
+        "name": "Tomas George",
+        "slug": "tomas-george",
+        "photo": "https://img-c.udemycdn.com/user/200_H/23566298_e66f_4.jpg",
+        "banner": "",
+        "designation": "",
+        "bio": "",
+        "website": "",
+        "linkedin": ""
+    },
+    {
+        "id": 105,
+        "name": "Ramesh Retnasamy",
+        "slug": "ramesh-retnasamy",
+        "photo": "https://img-c.udemycdn.com/user/200_H/136006439_26d5_8.jpg",
+        "banner": "",
+        "designation": "",
+        "bio": "",
+        "website": "",
+        "linkedin": ""
+    },
+    {
+        "id": 106,
+        "name": "Ignacio bluuweb",
+        "slug": "ignacio-bluuweb",
+        "photo": "https://img-c.udemycdn.com/user/200_H/23487134_dde9_2.jpg",
+        "banner": "",
+        "designation": "",
+        "bio": "",
+        "website": "",
+        "linkedin": ""
+    },
+    {
+        "id": 107,
+        "name": "Carlos Adrian Soto Botero",
+        "slug": "carlos-adrian-soto-botero",
+        "photo": "https://img-c.udemycdn.com/user/200_H/114222728_f2e8_10.jpg",
+        "banner": "",
+        "designation": "",
+        "bio": "",
+        "website": "",
+        "linkedin": "https://linkedin.com/in/casotobotero"
     }
 ]
