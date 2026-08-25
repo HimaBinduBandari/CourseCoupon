@@ -1175,5 +1175,38 @@
         "bio": "",
         "website": "",
         "linkedin": "https://linkedin.com/in/casotobotero"
+    },
+    {
+        "id": 108,
+        "name": "Frank Liu",
+        "slug": "frank-liu",
+        "photo": "https://img-c.udemycdn.com/user/200_H/38531438_f2ed_2.jpg",
+        "banner": "",
+        "designation": "",
+        "bio": "",
+        "website": "",
+        "linkedin": ""
+    },
+    {
+        "id": 109,
+        "name": "Ansh Lamba JSR",
+        "slug": "ansh-lamba-jsr",
+        "photo": "https://img-c.udemycdn.com/user/200_H/297244759_04b2.jpg",
+        "banner": "",
+        "designation": "",
+        "bio": "",
+        "website": "",
+        "linkedin": "https://linkedin.com/in/ansh-lamba-793681184/"
+    },
+    {
+        "id": 110,
+        "name": "Deepak Dubey",
+        "slug": "deepak-dubey",
+        "photo": "https://img-c.udemycdn.com/user/200_H/28030590_93f7_3.jpg",
+        "banner": "",
+        "designation": "",
+        "bio": "",
+        "website": "",
+        "linkedin": "https://linkedin.com/in/deepakdubey-pro/"
     }
 ]

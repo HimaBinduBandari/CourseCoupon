@@ -50223,5 +50223,1005 @@
         "last_updated": "2026-08-24",
         "featured": "",
         "status": "Active"
+    },
+    {
+        "id": 2012,
+        "title": "Blazor Deep Dive in .NET 10 - From Beginner to Advanced",
+        "description": "Ultimate ASP.NET Core Blazor Course with projects",
+        "rating": 4.6,
+        "duration": "16 hours",
+        "affiliate_url": "https://trk.udemy.com/c/2758262/3227798/39854?prodsku=course.5836692&u=https://www.udemy.com/course/blazor-deep-dive-from-beginner-to-advanced/?couponCode=AUG_2026",
+        "image": "https://i.udemycdn.com/course/480x270/5836692_9ff2_2.jpg",
+        "trainer": "Frank Liu",
+        "trainer_slug": "frank-liu",
+        "category": [
+            "Blazor"
+        ],
+        "category_slug": [
+            "blazor"
+        ],
+        "language": "English",
+        "language_slug": "english",
+        "coupon_code": "12.99",
+        "students": 12169,
+        "reviews": 2130,
+        "last_updated": "2026-08-25",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 2013,
+        "title": "ASP.NET Core Web API [.NET 10]: The Complete Guide",
+        "description": "Master RESTful API Development in ASP.NET Core 10: Build and Consume APIs in Real-World Applications",
+        "rating": 4.6,
+        "duration": "24 hours",
+        "affiliate_url": "https://trk.udemy.com/c/2758262/3227798/39854?prodsku=course.3702120&u=https://www.udemy.com/course/complete-web-api-course/?couponCode=AUG_2026",
+        "image": "https://i.udemycdn.com/course/480x270/3702120_dcb8_7.jpg",
+        "trainer": "Frank Liu",
+        "trainer_slug": "frank-liu",
+        "category": [
+            "Dot Net"
+        ],
+        "category_slug": [
+            "dot-net"
+        ],
+        "language": "English",
+        "language_slug": "english",
+        "coupon_code": "12.99",
+        "students": 10586,
+        "reviews": 1274,
+        "last_updated": "2026-08-25",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 2014,
+        "title": "ASP.NET Core Deep-Dive In .NET 11",
+        "description": "Ultimate ASP.NET Core course with assignments and projects",
+        "rating": 4.6,
+        "duration": "32 hours",
+        "affiliate_url": "https://trk.udemy.com/c/2758262/3227798/39854?prodsku=course.6230473&u=https://www.udemy.com/course/aspnet-core-deep-dive/?couponCode=AUG_2026",
+        "image": "https://i.udemycdn.com/course/480x270/6230473_a7f4.jpg",
+        "trainer": "Frank Liu",
+        "trainer_slug": "frank-liu",
+        "category": [
+            "Dot Net"
+        ],
+        "category_slug": [
+            "dot-net"
+        ],
+        "language": "English",
+        "language_slug": "english",
+        "coupon_code": "12.99",
+        "students": 2286,
+        "reviews": 280,
+        "last_updated": "2026-08-25",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 2015,
+        "title": "Master Multithreading & Asynchronous Programming in C#/.NET",
+        "description": "Multithreading, task based asynchronous programming, async/await, thread synchronization, P-Loops, PLINQ in .NET 8",
+        "rating": 4.7,
+        "duration": "8.5 hours",
+        "affiliate_url": "https://trk.udemy.com/c/2758262/3227798/39854?prodsku=course.6103403&u=https://www.udemy.com/course/master-multithreading-asynchronous-programming-in-csharp-dotnet/?couponCode=AUG_2026",
+        "image": "https://i.udemycdn.com/course/480x270/6103403_2124_6.jpg",
+        "trainer": "Frank Liu",
+        "trainer_slug": "frank-liu",
+        "category": [
+            "Dot Net"
+        ],
+        "category_slug": [
+            "dot-net"
+        ],
+        "language": "English",
+        "language_slug": "english",
+        "coupon_code": "12.99",
+        "students": 5830,
+        "reviews": 750,
+        "last_updated": "2026-08-25",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 2016,
+        "title": "Master ASP.NET Core Identity in .NET10: Auth & Authorization",
+        "description": "(Updated to use .NET 10) Authentication and Authorization with ASP.NET Core Identity Inside Out",
+        "rating": 4.8,
+        "duration": "7 hours",
+        "affiliate_url": "https://trk.udemy.com/c/2758262/3227798/39854?prodsku=course.3998348&u=https://www.udemy.com/course/complete-guide-to-aspnet-core-identity/?couponCode=AUG_2026",
+        "image": "https://i.udemycdn.com/course/480x270/3998348_931f_7.jpg",
+        "trainer": "Frank Liu",
+        "trainer_slug": "frank-liu",
+        "category": [
+            "Dot Net"
+        ],
+        "category_slug": [
+            "dot-net"
+        ],
+        "language": "English",
+        "language_slug": "english",
+        "coupon_code": "12.99",
+        "students": 15462,
+        "reviews": 2111,
+        "last_updated": "2026-08-25",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 2017,
+        "title": "Master Blazor in .NET 10: Build Inventory Management System",
+        "description": "Learn Blazor, Entity Framework Core, and ASP.NET Core Identity, Clean Architecture for Full Stack Web Dev(.NET 10)",
+        "rating": 4.5,
+        "duration": "14 hours",
+        "affiliate_url": "https://trk.udemy.com/c/2758262/3227798/39854?prodsku=course.4562950&u=https://www.udemy.com/course/learn-blazor-while-creating-an-inventory-management-system/?couponCode=AUG_2026",
+        "image": "https://i.udemycdn.com/course/480x270/4562950_d778_3.jpg",
+        "trainer": "Frank Liu",
+        "trainer_slug": "frank-liu",
+        "category": [
+            "Blazor"
+        ],
+        "category_slug": [
+            "blazor"
+        ],
+        "language": "English",
+        "language_slug": "english",
+        "coupon_code": "12.99",
+        "students": 8182,
+        "reviews": 1306,
+        "last_updated": "2026-08-25",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 2018,
+        "title": "Clean Architecture for Beginners: A Practical Guide",
+        "description": "Architecting Software Systems with Clean Architecture Principles with Code Examples",
+        "rating": 4.5,
+        "duration": "1.5 hours",
+        "affiliate_url": "https://trk.udemy.com/c/2758262/3227798/39854?prodsku=course.3951580&u=https://www.udemy.com/course/software-architecture-essentials-for-business-applications/?couponCode=AUG_2026",
+        "image": "https://i.udemycdn.com/course/480x270/3951580_c984.jpg",
+        "trainer": "Frank Liu",
+        "trainer_slug": "frank-liu",
+        "category": [
+            "Software Architecture"
+        ],
+        "category_slug": [
+            "software-architecture"
+        ],
+        "language": "English",
+        "language_slug": "english",
+        "coupon_code": "12.99",
+        "students": 15628,
+        "reviews": 2315,
+        "last_updated": "2026-08-25",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 2019,
+        "title": "Master .NET 10 MVC: Build Market Management System",
+        "description": "Learn ASP.NET Core MVC, Entity Framework Core, SQL Server, ASP.NET Core Identity, Clean Architecture in .NET 10",
+        "rating": 4.7,
+        "duration": "8 hours",
+        "affiliate_url": "https://trk.udemy.com/c/2758262/3227798/39854?prodsku=course.5666230&u=https://www.udemy.com/course/master-net-core-mvc/?couponCode=AUG_2026",
+        "image": "https://i.udemycdn.com/course/480x270/5666230_f0ce_3.jpg",
+        "trainer": "Frank Liu",
+        "trainer_slug": "frank-liu",
+        "category": [
+            "Dot Net"
+        ],
+        "category_slug": [
+            "dot-net"
+        ],
+        "language": "English",
+        "language_slug": "english",
+        "coupon_code": "12.99",
+        "students": 2085,
+        "reviews": 295,
+        "last_updated": "2026-08-25",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 2020,
+        "title": "Learn .NET MAUI while creating a Contacts App in .NET 7",
+        "description": "Learn .Net MAUI, Events Driven, MVVM, SQLite, Clean Architecture, Creating and Consuming ASP.NET Core minimal API",
+        "rating": 4.6,
+        "duration": "8.5 hours",
+        "affiliate_url": "https://trk.udemy.com/c/2758262/3227798/39854?prodsku=course.5223450&u=https://www.udemy.com/course/learn-net-maui-by-creating-a-contacts-application/?couponCode=AUG_2026",
+        "image": "https://i.udemycdn.com/course/480x270/5223450_1268_5.jpg",
+        "trainer": "Frank Liu",
+        "trainer_slug": "frank-liu",
+        "category": [
+            "Dot Net"
+        ],
+        "category_slug": [
+            "dot-net"
+        ],
+        "language": "English",
+        "language_slug": "english",
+        "coupon_code": "12.99",
+        "students": 3087,
+        "reviews": 455,
+        "last_updated": "2026-08-25",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 2021,
+        "title": "SQL Masterclass: From Zero to Hero with SQL Server (2024)",
+        "description": "The ultimate guide to SQL fundamentals, advanced techniques, and best practices",
+        "rating": 4.5,
+        "duration": "7 hours",
+        "affiliate_url": "https://trk.udemy.com/c/2758262/3227798/39854?prodsku=course.5739260&u=https://www.udemy.com/course/sql-masterclass-from-zero-to-hero-with-sql-server/?couponCode=AUG_2026",
+        "image": "https://i.udemycdn.com/course/480x270/5739260_c1fb_4.jpg",
+        "trainer": "Frank Liu",
+        "trainer_slug": "frank-liu",
+        "category": [
+            "SQL"
+        ],
+        "category_slug": [
+            "sql"
+        ],
+        "language": "English",
+        "language_slug": "english",
+        "coupon_code": "12.99",
+        "students": 410,
+        "reviews": 55,
+        "last_updated": "2026-08-25",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 2022,
+        "title": "DP-750: Microsoft Azure Databricks Data Engineer Associate",
+        "description": "Pass the DP-750 Azure Databricks Data Engineer Associate Exam | PySpark, Lakeflow Pipelines, CI/CD, Lakehouse, ABAC, Job",
+        "rating": 4.7,
+        "duration": "25.5 hours",
+        "affiliate_url": "https://trk.udemy.com/c/2758262/3227798/39854?prodsku=course.7276773&u=https://www.udemy.com/course/dp-750-microsoft-azure-databricks-data-engineer-associate/?couponCode=DATAFAMAUG2026",
+        "image": "https://img-c.udemycdn.com/course/480x270/7276773_36e3.jpg",
+        "trainer": "Ansh Lamba JSR",
+        "trainer_slug": "ansh-lamba-jsr",
+        "category": [
+            "IT Certifications"
+        ],
+        "category_slug": [
+            "it-certifications"
+        ],
+        "language": "English",
+        "language_slug": "english",
+        "coupon_code": "12.99",
+        "students": 657,
+        "reviews": 75,
+        "last_updated": "2026-08-25",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 2023,
+        "title": "Apache Airflow 3 - The Complete Bootcamp [With Projects]",
+        "description": "[2026] Master Apache Airflow 3 and learn orchestrating Spark Job, AWS, Delta Lake, Lakehouse via ETL/ELT Data Pipelines",
+        "rating": 4.7,
+        "duration": "14 hours",
+        "affiliate_url": "https://trk.udemy.com/c/2758262/3227798/39854?prodsku=course.7183515&u=https://www.udemy.com/course/apache-airflow-3-the-complete-bootcamp-with-projects/?couponCode=DATAFAMAUG2026",
+        "image": "https://img-c.udemycdn.com/course/480x270/7183515_bb6c.jpg",
+        "trainer": "Ansh Lamba JSR",
+        "trainer_slug": "ansh-lamba-jsr",
+        "category": [
+            "IT Certifications"
+        ],
+        "category_slug": [
+            "it-certifications"
+        ],
+        "language": "English",
+        "language_slug": "english",
+        "coupon_code": "12.99",
+        "students": 1082,
+        "reviews": 75,
+        "last_updated": "2026-08-25",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 2024,
+        "title": "Databricks Certified Associate Developer for Apache Spark 4",
+        "description": "[2026] The COMPLETE Apache Spark 4.0 Hands-On Guide - Master PySpark, Spark SQL, Structured Streaming, and Optimization",
+        "rating": 4.5,
+        "duration": "28 hours",
+        "affiliate_url": "https://trk.udemy.com/c/2758262/3227798/39854?prodsku=course.7148865&u=https://www.udemy.com/course/databricks-certified-associate-developer-for-apache-spark-4/?couponCode=DATAFAMAUG2026",
+        "image": "https://i.udemycdn.com/course/480x270/7148865_5699_3.jpg",
+        "trainer": "Ansh Lamba JSR",
+        "trainer_slug": "ansh-lamba-jsr",
+        "category": [
+            "Databricks"
+        ],
+        "category_slug": [
+            "databricks"
+        ],
+        "language": "English",
+        "language_slug": "english",
+        "coupon_code": "12.99",
+        "students": 7284,
+        "reviews": 850,
+        "last_updated": "2026-08-25",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 2025,
+        "title": "Databricks Certified Data Engineer Associate - Bootcamp",
+        "description": "Databricks Data Engineer | Databricks Certified Data Engineer Associate Certification Exam Prep",
+        "rating": 4.6,
+        "duration": "22 hours",
+        "affiliate_url": "https://trk.udemy.com/c/2758262/3227798/39854?prodsku=course.6707199&u=https://www.udemy.com/course/databricks-certified-data-engineer-associate-bootcamp/?couponCode=DATAFAMAUG2026",
+        "image": "https://i.udemycdn.com/course/480x270/6707199_e9a5.jpg",
+        "trainer": "Ansh Lamba JSR",
+        "trainer_slug": "ansh-lamba-jsr",
+        "category": [
+            "Data Engineering"
+        ],
+        "category_slug": [
+            "data-engineering"
+        ],
+        "language": "English",
+        "language_slug": "english",
+        "coupon_code": "12.99",
+        "students": 17803,
+        "reviews": 2394,
+        "last_updated": "2026-08-25",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 2026,
+        "title": "Microsoft DP-700 Exam Prep : Fabric Data Engineer Associate",
+        "description": "Pass the Fabric Data Engineer Associate Certification DP-700 | PySpark, T-SQL, KQL",
+        "rating": 4.6,
+        "duration": "23.5 hours",
+        "affiliate_url": "https://trk.udemy.com/c/2758262/3227798/39854?prodsku=course.6559115&u=https://www.udemy.com/course/dp-700-exam-prep-fabric-data-engineer-associate/?couponCode=DATAFAMAUG2026",
+        "image": "https://i.udemycdn.com/course/480x270/6559115_4ab1_2.jpg",
+        "trainer": "Ansh Lamba JSR",
+        "trainer_slug": "ansh-lamba-jsr",
+        "category": [
+            "Microsoft Fabric"
+        ],
+        "category_slug": [
+            "microsoft-fabric"
+        ],
+        "language": "English",
+        "language_slug": "english",
+        "coupon_code": "12.99",
+        "students": 10807,
+        "reviews": 1715,
+        "last_updated": "2026-08-25",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 2027,
+        "title": "3 Kubernetes Certifications - CKA, CKAD & CKS Crash Course",
+        "description": "Certified Kubernetes Administrator/Application Developer/Security Specialist Exam | Hands-on | Scenario Based Questions",
+        "rating": 4.3,
+        "duration": "18 hours",
+        "affiliate_url": "https://trk.udemy.com/c/2758262/3227798/39854?prodsku=course.4764892&u=https://www.udemy.com/course/cka-ckad-crash-course/?couponCode=2026-AUG-01",
+        "image": "https://i.udemycdn.com/course/480x270/4764892_44e7_13.jpg",
+        "trainer": "Deepak Dubey",
+        "trainer_slug": "deepak-dubey",
+        "category": [
+            "Kubernetes"
+        ],
+        "category_slug": [
+            "kubernetes"
+        ],
+        "language": "English",
+        "language_slug": "english",
+        "coupon_code": "100%OFF",
+        "students": 45681,
+        "reviews": 175,
+        "last_updated": "2026-08-25",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 2028,
+        "title": "Google Certified Professional Machine Learning Engineer",
+        "description": "Master ML Algorithms, Data Modeling, TensorFlow & Google Cloud AI/ML Services. 137 Questions, Answers with Explanations",
+        "rating": 4.4,
+        "duration": "16.5 hours",
+        "affiliate_url": "https://trk.udemy.com/c/2758262/3227798/39854?prodsku=course.5211228&u=https://www.udemy.com/course/google-certified-professional-machine-learning-engineer/?couponCode=2026-AUG-01",
+        "image": "https://i.udemycdn.com/course/480x270/5211228_899a_5.jpg",
+        "trainer": "Deepak Dubey",
+        "trainer_slug": "deepak-dubey",
+        "category": [
+            "Google Cloud"
+        ],
+        "category_slug": [
+            "google-cloud"
+        ],
+        "language": "English",
+        "language_slug": "english",
+        "coupon_code": "100%OFF",
+        "students": 43827,
+        "reviews": 384,
+        "last_updated": "2026-08-25",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 2029,
+        "title": "AWS Certified Developer Associate - Theory + Hands-On + Exam",
+        "description": "Theory | Hands-On Labs | Full Practice Exam with Explanations | Downloadable PDF Slides | Pass the certification exam",
+        "rating": 4.2,
+        "duration": "32 hours",
+        "affiliate_url": "https://trk.udemy.com/c/2758262/3227798/39854?prodsku=course.6121691&u=https://www.udemy.com/course/aws-certified-develop-associate/?couponCode=2026-AUG-01",
+        "image": "https://i.udemycdn.com/course/480x270/6121691_eb56_4.jpg",
+        "trainer": "Deepak Dubey",
+        "trainer_slug": "deepak-dubey",
+        "category": [
+            "AWS Certified Developer"
+        ],
+        "category_slug": [
+            "aws-certified-developer"
+        ],
+        "language": "English",
+        "language_slug": "english",
+        "coupon_code": "100%OFF",
+        "students": 35576,
+        "reviews": 145,
+        "last_updated": "2026-08-25",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 2030,
+        "title": "Data Engineer & Data Architect Interview Prep Masterclass",
+        "description": "Crack Data Engineer interviews with 240+ questions on Spark, Kafka, Airflow, Databricks, Snowflake, Iceberg & more",
+        "rating": 4.2,
+        "duration": "18 hours",
+        "affiliate_url": "https://trk.udemy.com/c/2758262/3227798/39854?prodsku=course.7182751&u=https://www.udemy.com/course/data-engineer-data-architect-interview-prep-masterclass/?couponCode=2026-AUG-01",
+        "image": "https://img-c.udemycdn.com/course/480x270/7182751_eac1_3.jpg",
+        "trainer": "Deepak Dubey",
+        "trainer_slug": "deepak-dubey",
+        "category": [
+            "Data Engineering"
+        ],
+        "category_slug": [
+            "data-engineering"
+        ],
+        "language": "English",
+        "language_slug": "english",
+        "coupon_code": "100%OFF",
+        "students": 500,
+        "reviews": 15,
+        "last_updated": "2026-08-25",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 2031,
+        "title": "AWS Certified SysOps Administrator Associate Hands-On + Exam",
+        "description": "Theory | Hands-On Labs | Full Practice Exam with Explanations | Downloadable PDF Slides | Pass the certification exam",
+        "rating": 4.3,
+        "duration": "28.5 hours",
+        "affiliate_url": "https://trk.udemy.com/c/2758262/3227798/39854?prodsku=course.6405821&u=https://www.udemy.com/course/aws-certified-sysops-administrator-associate-complete-guide/?couponCode=2026-AUG-01",
+        "image": "https://i.udemycdn.com/course/480x270/6405821_5613_2.jpg",
+        "trainer": "Deepak Dubey",
+        "trainer_slug": "deepak-dubey",
+        "category": [
+            "AWS Certified Developer"
+        ],
+        "category_slug": [
+            "aws-certified-developer"
+        ],
+        "language": "English",
+        "language_slug": "english",
+        "coupon_code": "100%OFF",
+        "students": 20608,
+        "reviews": 80,
+        "last_updated": "2026-08-25",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 2032,
+        "title": "AWS Services Selection / Decision Guides",
+        "description": "Choose the right AWS service every time. Master decision guides for Compute, Storage, Databases, ML, and Security.",
+        "rating": 4.4,
+        "duration": "6 hours",
+        "affiliate_url": "https://trk.udemy.com/c/2758262/3227798/39854?prodsku=course.6895557&u=https://www.udemy.com/course/aws-services-selection-decision-guides/?couponCode=2026-AUG-01",
+        "image": "https://i.udemycdn.com/course/480x270/6895557_5511.jpg",
+        "trainer": "Deepak Dubey",
+        "trainer_slug": "deepak-dubey",
+        "category": [
+            "IT & Software"
+        ],
+        "category_slug": [
+            "it-and-software"
+        ],
+        "language": "English",
+        "language_slug": "english",
+        "coupon_code": "100%OFF",
+        "students": 4498,
+        "reviews": 10,
+        "last_updated": "2026-08-25",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 2033,
+        "title": "AWS Certified Solutions Architect Professional Hands-On+Exam",
+        "description": "Theory | Hands-On Labs | Full Practice Exam with Explanations | Downloadable PDF Slides | Pass the certification exam",
+        "rating": 4.2,
+        "duration": "62.5 hours",
+        "affiliate_url": "https://trk.udemy.com/c/2758262/3227798/39854?prodsku=course.6213109&u=https://www.udemy.com/course/aws-certified-solutions-architect-professional-1/?couponCode=2026-AUG-01",
+        "image": "https://i.udemycdn.com/course/480x270/6213109_155b_3.jpg",
+        "trainer": "Deepak Dubey",
+        "trainer_slug": "deepak-dubey",
+        "category": [
+            "AWS Certified Solutions Architect"
+        ],
+        "category_slug": [
+            "aws-certified-solutions-architect"
+        ],
+        "language": "English",
+        "language_slug": "english",
+        "coupon_code": "100%OFF",
+        "students": 33334,
+        "reviews": 100,
+        "last_updated": "2026-08-25",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 2034,
+        "title": "AWS Management and Governance Services - Hands-On Lab Demos",
+        "description": "Learn AWS management & governance with hands-on demos of CloudFormation, CloudWatch, CloudTrail, and Organizations.",
+        "rating": 4.8,
+        "duration": "3 hours",
+        "affiliate_url": "https://trk.udemy.com/c/2758262/3227798/39854?prodsku=course.6916717&u=https://www.udemy.com/course/aws-management-and-governance-services-hands-on-lab-demos/?couponCode=2026-AUG-01",
+        "image": "https://i.udemycdn.com/course/480x270/6916717_4c9e.jpg",
+        "trainer": "Deepak Dubey",
+        "trainer_slug": "deepak-dubey",
+        "category": [
+            "AWS"
+        ],
+        "category_slug": [
+            "aws"
+        ],
+        "language": "English",
+        "language_slug": "english",
+        "coupon_code": "100%OFF",
+        "students": 3671,
+        "reviews": 10,
+        "last_updated": "2026-08-25",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 2035,
+        "title": "Certified Kubernetes Application Developer Masterclass",
+        "description": "Certified Kubernetes Application Developer Strategy | Theory | Hands-on | Scenario Based Questions | Tips | Tricks",
+        "rating": 4.5,
+        "duration": "18.5 hours",
+        "affiliate_url": "https://trk.udemy.com/c/2758262/3227798/39854?prodsku=course.5229288&u=https://www.udemy.com/course/certified-kubernetes-application-developer-masterclass/?couponCode=2026-AUG-01",
+        "image": "https://i.udemycdn.com/course/480x270/5229288_eaea_8.jpg",
+        "trainer": "Deepak Dubey",
+        "trainer_slug": "deepak-dubey",
+        "category": [
+            "Kubernetes"
+        ],
+        "category_slug": [
+            "kubernetes"
+        ],
+        "language": "English",
+        "language_slug": "english",
+        "coupon_code": "100%OFF",
+        "students": 42459,
+        "reviews": 70,
+        "last_updated": "2026-08-25",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 2036,
+        "title": "Certified Kubernetes Administrator Ultimate Masterclass",
+        "description": "Certified Kubernetes Administrator | Hands-on | Scenario Based Questions",
+        "rating": 4.4,
+        "duration": "18 hours",
+        "affiliate_url": "https://trk.udemy.com/c/2758262/3227798/39854?prodsku=course.5226676&u=https://www.udemy.com/course/certified-kubernetes-administrator-ultimate-masterclass/?couponCode=2026-AUG-01",
+        "image": "https://i.udemycdn.com/course/480x270/5226676_a80d_4.jpg",
+        "trainer": "Deepak Dubey",
+        "trainer_slug": "deepak-dubey",
+        "category": [
+            "Kubernetes"
+        ],
+        "category_slug": [
+            "kubernetes"
+        ],
+        "language": "English",
+        "language_slug": "english",
+        "coupon_code": "100%OFF",
+        "students": 42552,
+        "reviews": 100,
+        "last_updated": "2026-08-25",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 2037,
+        "title": "AWS Certified Cloud Practitioner - Theory + Hands-On + Exam",
+        "description": "2026 | CLF-C02 | Theory | Hands-On Labs | 2 Full Practice Exams | Downloadable PDF Slides | Pass the certification exam",
+        "rating": 4.2,
+        "duration": "39 hours",
+        "affiliate_url": "https://trk.udemy.com/c/2758262/3227798/39854?prodsku=course.5834546&u=https://www.udemy.com/course/awscertified/?couponCode=2026-AUG-01",
+        "image": "https://i.udemycdn.com/course/480x270/5834546_7fb3_3.jpg",
+        "trainer": "Deepak Dubey",
+        "trainer_slug": "deepak-dubey",
+        "category": [
+            "AWS Certified Cloud Practitioner"
+        ],
+        "category_slug": [
+            "aws-certified-cloud-practitioner"
+        ],
+        "language": "English",
+        "language_slug": "english",
+        "coupon_code": "100%OFF",
+        "students": 52950,
+        "reviews": 590,
+        "last_updated": "2026-08-25",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 2038,
+        "title": "AWS Certified Generative AI Developer Professional Exam Prep",
+        "description": "Your complete guide to the AWS GenAI Developer exam. Master Bedrock, SageMaker, and AI Services.",
+        "rating": 4.1,
+        "duration": "42 hours",
+        "affiliate_url": "https://trk.udemy.com/c/2758262/3227798/39854?prodsku=course.6936279&u=https://www.udemy.com/course/aws-certified-generative-ai-developer-professional-exam/?couponCode=2026-AUG-01",
+        "image": "https://i.udemycdn.com/course/480x270/6936279_9b50.jpg",
+        "trainer": "Deepak Dubey",
+        "trainer_slug": "deepak-dubey",
+        "category": [
+            "AWS Certified Generative AI"
+        ],
+        "category_slug": [
+            "aws-certified-generative-ai"
+        ],
+        "language": "English",
+        "language_slug": "english",
+        "coupon_code": "100%OFF",
+        "students": 2482,
+        "reviews": 50,
+        "last_updated": "2026-08-25",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 2039,
+        "title": "AWS Certified ML Engineer Associate - Theory,Hands-On, Exams",
+        "description": "Theory | Hands-On Labs | Full Practice Exam with Explanations | Downloadable PDF Slides | Pass the certification exam",
+        "rating": 4.3,
+        "duration": "46.5 hours",
+        "affiliate_url": "https://trk.udemy.com/c/2758262/3227798/39854?prodsku=course.6515123&u=https://www.udemy.com/course/aws-certified-machine-learning-engineer-associate-complete/?couponCode=2026-AUG-01",
+        "image": "https://i.udemycdn.com/course/480x270/6515123_b2b6_3.jpg",
+        "trainer": "Deepak Dubey",
+        "trainer_slug": "deepak-dubey",
+        "category": [
+            "AWS Certified Machine Learning"
+        ],
+        "category_slug": [
+            "aws-certified-machine-learning"
+        ],
+        "language": "English",
+        "language_slug": "english",
+        "coupon_code": "100%OFF",
+        "students": 13327,
+        "reviews": 55,
+        "last_updated": "2026-08-25",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 2040,
+        "title": "AWS Certified DevOps Engineer Professional - Practice Exams",
+        "description": "Super High Quality Practice Questions for AWS Certified DevOps Engineer Professional DOP-C02 with Great Explanations",
+        "rating": 4.5,
+        "duration": "2 Tests",
+        "affiliate_url": "https://trk.udemy.com/c/2758262/3227798/39854?prodsku=course.5459120&u=https://www.udemy.com/course/aws-certified-devops-engineer-professional-practice-exams-all/?couponCode=2026-AUG-01",
+        "image": "https://i.udemycdn.com/course/480x270/5459120_ce32_5.jpg",
+        "trainer": "Deepak Dubey",
+        "trainer_slug": "deepak-dubey",
+        "category": [
+            "AWS Certified DevOps Engineer"
+        ],
+        "category_slug": [
+            "aws-certified-devops-engineer"
+        ],
+        "language": "English",
+        "language_slug": "english",
+        "coupon_code": "100%OFF",
+        "students": 20269,
+        "reviews": 20,
+        "last_updated": "2026-08-25",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 2041,
+        "title": "Google Cloud Certified Professional Data Engineer (2026)",
+        "description": "Theory, Hand-ons and 252 Questions | Answers with Explanations | All Hands-Ons | 2 FULL PRACTICE EXAMS | PDF Downloads",
+        "rating": 4.1,
+        "duration": "23 hours",
+        "affiliate_url": "https://trk.udemy.com/c/2758262/3227798/39854?prodsku=course.4855678&u=https://www.udemy.com/course/google-cloud-certified-professional-data-engineer-exam/?couponCode=2026-AUG-01",
+        "image": "https://i.udemycdn.com/course/480x270/4855678_d4f0_4.jpg",
+        "trainer": "Deepak Dubey",
+        "trainer_slug": "deepak-dubey",
+        "category": [
+            "Google Cloud"
+        ],
+        "category_slug": [
+            "google-cloud"
+        ],
+        "language": "English",
+        "language_slug": "english",
+        "coupon_code": "100%OFF",
+        "students": 50653,
+        "reviews": 350,
+        "last_updated": "2026-08-25",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 2042,
+        "title": "Certified Kubernetes Security Specialist Masterclass",
+        "description": "Certified Kubernetes Security Specialist Ultimate Preparation Guide Masterclass | Theory | Hands-on | Labs | Complete",
+        "rating": 4.2,
+        "duration": "16.5 hours",
+        "affiliate_url": "https://trk.udemy.com/c/2758262/3227798/39854?prodsku=course.5273814&u=https://www.udemy.com/course/certified-kubernetes-security-specialist-masterclass/?couponCode=2026-AUG-01",
+        "image": "https://i.udemycdn.com/course/480x270/5273814_07b4_8.jpg",
+        "trainer": "Deepak Dubey",
+        "trainer_slug": "deepak-dubey",
+        "category": [
+            "Kubernetes"
+        ],
+        "category_slug": [
+            "kubernetes"
+        ],
+        "language": "English",
+        "language_slug": "english",
+        "coupon_code": "100%OFF",
+        "students": 42604,
+        "reviews": 60,
+        "last_updated": "2026-08-25",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 2043,
+        "title": "AWS Certified Data Engineer - Associate - Hands-On + Exams",
+        "description": "Theory | Hands-On Labs | Practice Questions | Downloadable PDF Slides | Pass the certification exam | Latest Syllabus",
+        "rating": 4.2,
+        "duration": "45 hours",
+        "affiliate_url": "https://trk.udemy.com/c/2758262/3227798/39854?prodsku=course.5416332&u=https://www.udemy.com/course/amazon-certified-data-analytics-specialty-exam/?couponCode=2026-AUG-01",
+        "image": "https://i.udemycdn.com/course/480x270/5416332_54b8_4.jpg",
+        "trainer": "Deepak Dubey",
+        "trainer_slug": "deepak-dubey",
+        "category": [
+            "AWS Certified Data Engineer"
+        ],
+        "category_slug": [
+            "aws-certified-data-engineer"
+        ],
+        "language": "English",
+        "language_slug": "english",
+        "coupon_code": "100%OFF",
+        "students": 50321,
+        "reviews": 295,
+        "last_updated": "2026-08-25",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 2044,
+        "title": "AZ-900: Microsoft Certified Azure Fundamentals (2026)",
+        "description": "AZ-900 | Theory | Hands-On Labs | 2 Full Practice Exams | Downloadable PDF Slides | Pass the certification exam",
+        "rating": 4.3,
+        "duration": "3 Hours",
+        "affiliate_url": "https://trk.udemy.com/c/2758262/3227798/39854?prodsku=course.6977251&u=https://www.udemy.com/course/az-900-microsoft-certified-azure-fundamentals/?couponCode=2026-AUG-01",
+        "image": "https://i.udemycdn.com/course/480x270/6977251_bcb1.jpg",
+        "trainer": "Deepak Dubey",
+        "trainer_slug": "deepak-dubey",
+        "category": [
+            "AZ-900"
+        ],
+        "category_slug": [
+            "az-900"
+        ],
+        "language": "English",
+        "language_slug": "english",
+        "coupon_code": "100%OFF",
+        "students": 500,
+        "reviews": 20,
+        "last_updated": "2026-08-25",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 2045,
+        "title": "AWS Developer/DevOps Services - Hands-On Lab Demos",
+        "description": "Master AWS DevOps! Hands-on labs for Cloud9, CodeBuild, CodeDeploy, GitHub, and CodeArtifact.",
+        "rating": 4.1,
+        "duration": "3.5 hours",
+        "affiliate_url": "https://trk.udemy.com/c/2758262/3227798/39854?prodsku=course.6927249&u=https://www.udemy.com/course/aws-developerdevops-services-hands-on-lab-demos/?couponCode=2026-AUG-01",
+        "image": "https://i.udemycdn.com/course/480x270/6927249_235a.jpg",
+        "trainer": "Deepak Dubey",
+        "trainer_slug": "deepak-dubey",
+        "category": [
+            "AWS"
+        ],
+        "category_slug": [
+            "aws"
+        ],
+        "language": "English",
+        "language_slug": "english",
+        "coupon_code": "100%OFF",
+        "students": 5174,
+        "reviews": 20,
+        "last_updated": "2026-08-25",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 2046,
+        "title": "AWS Compute Services - Hands-On Lab Demos",
+        "description": "Master AWS Compute! Get hands-on demos of EC2, Lambda (Serverless), and Containers (ECS/EKS).",
+        "rating": 4.4,
+        "duration": "2 hours",
+        "affiliate_url": "https://trk.udemy.com/c/2758262/3227798/39854?prodsku=course.6923609&u=https://www.udemy.com/course/aws-compute-services-hands-on-lab-demos/?couponCode=2026-AUG-01",
+        "image": "https://i.udemycdn.com/course/480x270/6923609_0b02.jpg",
+        "trainer": "Deepak Dubey",
+        "trainer_slug": "deepak-dubey",
+        "category": [
+            "AWS"
+        ],
+        "category_slug": [
+            "aws"
+        ],
+        "language": "English",
+        "language_slug": "english",
+        "coupon_code": "100%OFF",
+        "students": 4120,
+        "reviews": 8,
+        "last_updated": "2026-08-25",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 2047,
+        "title": "AWS Database Services - Hands-On Lab Demos",
+        "description": "Master AWS Databases. Watch hands-on labs for RDS, DynamoDB, Aurora, and Neptune.",
+        "rating": 4.1,
+        "duration": "3.5 hours",
+        "affiliate_url": "https://trk.udemy.com/c/2758262/3227798/39854?prodsku=course.6909821&u=https://www.udemy.com/course/aws-database-services-hands-on-lab-demos/?couponCode=2026-AUG-01",
+        "image": "https://i.udemycdn.com/course/480x270/6909821_80b2.jpg",
+        "trainer": "Deepak Dubey",
+        "trainer_slug": "deepak-dubey",
+        "category": [
+            "Databases"
+        ],
+        "category_slug": [
+            "databases"
+        ],
+        "language": "English",
+        "language_slug": "english",
+        "coupon_code": "100%OFF",
+        "students": 3583,
+        "reviews": 10,
+        "last_updated": "2026-08-25",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 2048,
+        "title": "AWS Analytics Services - Hands-On Lab Demos",
+        "description": "Learn AWS Analytics with hands-on demos of Athena, Glue, EMR, Redshift, OpenSearch, and QuickSight.",
+        "rating": 4.5,
+        "duration": "3 hours",
+        "affiliate_url": "https://trk.udemy.com/c/2758262/3227798/39854?prodsku=course.6898225&u=https://www.udemy.com/course/aws-analytics-services-hands-on-lab-demos/?couponCode=2026-AUG-01",
+        "image": "https://i.udemycdn.com/course/480x270/6898225_80a8.jpg",
+        "trainer": "Deepak Dubey",
+        "trainer_slug": "deepak-dubey",
+        "category": [
+            "AWS"
+        ],
+        "category_slug": [
+            "aws"
+        ],
+        "language": "English",
+        "language_slug": "english",
+        "coupon_code": "100%OFF",
+        "students": 4798,
+        "reviews": 10,
+        "last_updated": "2026-08-25",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 2049,
+        "title": "AWS Certified Machine Learning Specialty - Hands-On + Exams",
+        "description": "Theory | Hands-On Labs | Practice Questions | Downloadable PDF Slides | Pass the certification exam | Latest Syllabus",
+        "rating": 4.3,
+        "duration": "22 hours",
+        "affiliate_url": "https://trk.udemy.com/c/2758262/3227798/39854?prodsku=course.6716567&u=https://www.udemy.com/course/aws-certified-machine-learning-specialty-hands-on-exams/?couponCode=2026-AUG-01",
+        "image": "https://i.udemycdn.com/course/480x270/6716567_59f4_2.jpg",
+        "trainer": "Deepak Dubey",
+        "trainer_slug": "deepak-dubey",
+        "category": [
+            "AWS Certified Machine Learning"
+        ],
+        "category_slug": [
+            "aws-certified-machine-learning"
+        ],
+        "language": "English",
+        "language_slug": "english",
+        "coupon_code": "100%OFF",
+        "students": 8125,
+        "reviews": 25,
+        "last_updated": "2026-08-25",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 2050,
+        "title": "AWS Certified DevOps Engineer Professional - Hands-On + Exam",
+        "description": "Theory | Hands-On Labs | Full Practice Exam with Explanations | Downloadable PDF Slides | Pass the certification exam",
+        "rating": 4.1,
+        "duration": "44.5 hours",
+        "affiliate_url": "https://trk.udemy.com/c/2758262/3227798/39854?prodsku=course.6303665&u=https://www.udemy.com/course/aws-certified-devops-engineer-professional-complete-guide/?couponCode=2026-AUG-01",
+        "image": "https://i.udemycdn.com/course/480x270/6303665_f861_2.jpg",
+        "trainer": "Deepak Dubey",
+        "trainer_slug": "deepak-dubey",
+        "category": [
+            "AWS Certified DevOps Engineer"
+        ],
+        "category_slug": [
+            "aws-certified-devops-engineer"
+        ],
+        "language": "English",
+        "language_slug": "english",
+        "coupon_code": "100%OFF",
+        "students": 28717,
+        "reviews": 120,
+        "last_updated": "2026-08-25",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 2051,
+        "title": "AWS Certified Solutions Architect Associate - Hands-On+Exam",
+        "description": "SAA-C03 | Theory | Hands-On Labs | 2 Full Practice Exams | Downloadable PDF Slides | Pass the certification exam",
+        "rating": 4.3,
+        "duration": "48.5 hours",
+        "affiliate_url": "https://trk.udemy.com/c/2758262/3227798/39854?prodsku=course.5914092&u=https://www.udemy.com/course/aws-certified-sa/?couponCode=2026-AUG-01",
+        "image": "https://i.udemycdn.com/course/480x270/5914092_588d_4.jpg",
+        "trainer": "Deepak Dubey",
+        "trainer_slug": "deepak-dubey",
+        "category": [
+            "AWS Certified Solutions Architect"
+        ],
+        "category_slug": [
+            "aws-certified-solutions-architect"
+        ],
+        "language": "English",
+        "language_slug": "english",
+        "coupon_code": "100%OFF",
+        "students": 41070,
+        "reviews": 330,
+        "last_updated": "2026-08-25",
+        "featured": "",
+        "status": "Active"
     }
 ]
