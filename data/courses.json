@@ -51223,5 +51223,605 @@
         "last_updated": "2026-08-25",
         "featured": "",
         "status": "Active"
+    },
+    {
+        "id": 2052,
+        "title": "How To Design for Accessibility: for UX Designers (WCAG 2.2)",
+        "description": "This course is based on the latest WCAG 2.1 and 2.2 Guidelines, so you’re getting the freshest information. Whenever new guidelines are released this course is promptly updated.",
+        "rating": 4.7,
+        "duration": "7.5 hours",
+        "affiliate_url": "https://trk.udemy.com/c/2758262/3227798/39854?prodsku=course.3012636&u=https://www.udemy.com/course/the-ux-designers-accessibility-guide/?couponCode=BREEZE",
+        "image": "https://i.udemycdn.com/course/480x270/3012636_97a0_6.jpg",
+        "trainer": "Liz Brown",
+        "trainer_slug": "liz-brown",
+        "category": [
+            "Web Design"
+        ],
+        "category_slug": [
+            "web-design"
+        ],
+        "language": "English",
+        "language_slug": "english",
+        "coupon_code": "12.99",
+        "students": 29841,
+        "reviews": 7834,
+        "last_updated": "",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 2053,
+        "title": "Mastering System Design: From Basics to Cracking Interviews",
+        "description": "Build Scalable Systems, Master Architectural Patterns, and Ace System Design Interviews",
+        "rating": 4.5,
+        "duration": "21 hours",
+        "affiliate_url": "https://trk.udemy.com/c/2758262/3227798/39854?prodsku=course.6515691&u=https://www.udemy.com/course/mastering-system-design-from-basics-to-cracking-interviews/?couponCode=RAKHI_2026",
+        "image": "https://i.udemycdn.com/course/480x270/6515691_a3ae.jpg",
+        "trainer": "Rahul Rajat Singh",
+        "trainer_slug": "rahul-rajat-singh",
+        "category": [
+            "Software Engineering"
+        ],
+        "category_slug": [
+            "software-engineering"
+        ],
+        "language": "English",
+        "language_slug": "english",
+        "coupon_code": "9.99",
+        "students": 40088,
+        "reviews": 2937,
+        "last_updated": "",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 2054,
+        "title": "Build Web APIs with ASP.NET Core (.NET 10) in the Age of AI",
+        "description": "From working APIs to production-ready systems using ASP.NET Core, real-world design, and AI done right",
+        "rating": 4.8,
+        "duration": "13.5 hours",
+        "affiliate_url": "https://trk.udemy.com/c/2758262/3227798/39854?prodsku=course.6688753&u=https://www.udemy.com/course/build-web-apis-with-aspnet-core-net-10-in-the-age-of-ai/?couponCode=RAKHI_2026",
+        "image": "https://i.udemycdn.com/course/480x270/6688753_e349_2.jpg",
+        "trainer": "Rahul Rajat Singh",
+        "trainer_slug": "rahul-rajat-singh",
+        "category": [
+            "Dot Net"
+        ],
+        "category_slug": [
+            "dot-net"
+        ],
+        "language": "English",
+        "language_slug": "english",
+        "coupon_code": "9.99",
+        "students": 200,
+        "reviews": 25,
+        "last_updated": "",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 2055,
+        "title": "Mastering Software Architecture Patterns and System Design",
+        "description": "Learn to design scalable, maintainable software systems using proven architecture patterns and real-world system design",
+        "rating": 4.6,
+        "duration": "13.5 hours",
+        "affiliate_url": "https://trk.udemy.com/c/2758262/3227798/39854?prodsku=course.6605075&u=https://www.udemy.com/course/mastering-software-architecture-patterns-for-system-design/?couponCode=RAKHI_2026",
+        "image": "https://i.udemycdn.com/course/480x270/6605075_30cf_2.jpg",
+        "trainer": "Rahul Rajat Singh",
+        "trainer_slug": "rahul-rajat-singh",
+        "category": [
+            "Software Architecture"
+        ],
+        "category_slug": [
+            "software-architecture"
+        ],
+        "language": "English",
+        "language_slug": "english",
+        "coupon_code": "9.99",
+        "students": 4669,
+        "reviews": 312,
+        "last_updated": "",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 2056,
+        "title": "API Design Mastery: Architecting Production-Ready APIs",
+        "description": "Design production-ready APIs with architect-level patterns, tradeoffs, governance, scalability, security, and resilience",
+        "rating": 4.2,
+        "duration": "6.5 hours",
+        "affiliate_url": "https://trk.udemy.com/c/2758262/3227798/39854?prodsku=course.6605075&u=https://www.udemy.com/course/api-design-mastery-architecting-production-ready-apis/?couponCode=RAKHI_2026",
+        "image": "https://img-c.udemycdn.com/course/480x270/6840391_200c.jpg",
+        "trainer": "Rahul Rajat Singh",
+        "trainer_slug": "rahul-rajat-singh",
+        "category": [
+            "System Design"
+        ],
+        "category_slug": [
+            "system-design"
+        ],
+        "language": "English",
+        "language_slug": "english",
+        "coupon_code": "9.99",
+        "students": 105,
+        "reviews": 10,
+        "last_updated": "",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 2057,
+        "title": "Mastering Microservices Architecture and Design Patterns",
+        "description": "Master microservices architecture with scalable design, essential patterns, deployment, and best practices",
+        "rating": 4.5,
+        "duration": "11 hours",
+        "affiliate_url": "https://trk.udemy.com/c/2758262/3227798/39854?prodsku=course.6605089&u=https://www.udemy.com/course/mastering-microservices-architecture-and-design-patterns/?couponCode=RAKHI_2026",
+        "image": "https://i.udemycdn.com/course/480x270/6605089_3e13.jpg",
+        "trainer": "Rahul Rajat Singh",
+        "trainer_slug": "rahul-rajat-singh",
+        "category": [
+            "Microservices"
+        ],
+        "category_slug": [
+            "microservices"
+        ],
+        "language": "English",
+        "language_slug": "english",
+        "coupon_code": "9.99",
+        "students": 4610,
+        "reviews": 260,
+        "last_updated": "",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 2058,
+        "title": "System Design Crash Course: Quick Revision Before Interviews",
+        "description": "Quick system design interview revision covering core concepts, trade-offs, and proven frameworks",
+        "rating": 4.8,
+        "duration": "3.5 hours",
+        "affiliate_url": "https://trk.udemy.com/c/2758262/3227798/39854?prodsku=course.6932511&u=https://www.udemy.com/course/system-design-crash-course-quick-revision-before-interviews/?couponCode=RAKHI_2026",
+        "image": "https://i.udemycdn.com/course/480x270/6932511_c158.jpg",
+        "trainer": "Rahul Rajat Singh",
+        "trainer_slug": "rahul-rajat-singh",
+        "category": [
+            "System Design"
+        ],
+        "category_slug": [
+            "system-design"
+        ],
+        "language": "English",
+        "language_slug": "english",
+        "coupon_code": "9.99",
+        "students": 452,
+        "reviews": 38,
+        "last_updated": "",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 2059,
+        "title": "Ace Behavioral Interviews for Software & Tech Professionals",
+        "description": "Master Judgment, Ownership, and Leadership Signals in Technical Behavioral Interviews",
+        "rating": 4.8,
+        "duration": "6 hours",
+        "affiliate_url": "https://trk.udemy.com/c/2758262/3227798/39854?prodsku=course.7053749&u=https://www.udemy.com/course/ace-behavioral-interviews-for-software-tech-professionals/?couponCode=RAKHI_2026",
+        "image": "https://i.udemycdn.com/course/480x270/7053749_a150.jpg",
+        "trainer": "Rahul Rajat Singh",
+        "trainer_slug": "rahul-rajat-singh",
+        "category": [
+            "IT & Software"
+        ],
+        "category_slug": [
+            "it-and-software"
+        ],
+        "language": "English",
+        "language_slug": "english",
+        "coupon_code": "9.99",
+        "students": 95,
+        "reviews": 20,
+        "last_updated": "",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 2060,
+        "title": "Mastering Low-Level System Design & Design Patterns with AI",
+        "description": "Practical guide to using design patterns and low-level design in AI-driven development.",
+        "rating": 4.5,
+        "duration": "8 hours",
+        "affiliate_url": "https://trk.udemy.com/c/2758262/3227798/39854?prodsku=course.6688761&u=https://www.udemy.com/course/mastering-low-level-system-design-design-patterns-with-ai/?couponCode=RAKHI_2026",
+        "image": "https://i.udemycdn.com/course/480x270/6688761_4ebc.jpg",
+        "trainer": "Rahul Rajat Singh",
+        "trainer_slug": "rahul-rajat-singh",
+        "category": [
+            "System Design"
+        ],
+        "category_slug": [
+            "system-design"
+        ],
+        "language": "English",
+        "language_slug": "english",
+        "coupon_code": "9.99",
+        "students": 550,
+        "reviews": 35,
+        "last_updated": "",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 2061,
+        "title": "Artificial Intelligence (AI) Foundations for Developers",
+        "description": "AI Foundations: Core theories and paradigms for developers to build intelligent systems.",
+        "rating": 4.8,
+        "duration": "12 hours",
+        "affiliate_url": "https://trk.udemy.com/c/2758262/3227798/39854?prodsku=course.6688773&u=https://www.udemy.com/course/artificial-intelligence-ai-foundations-for-developers/?couponCode=RAKHI_2026",
+        "image": "https://i.udemycdn.com/course/480x270/6688773_f22f_3.jpg",
+        "trainer": "Rahul Rajat Singh",
+        "trainer_slug": "rahul-rajat-singh",
+        "category": [
+            "AI"
+        ],
+        "category_slug": [
+            "ai"
+        ],
+        "language": "English",
+        "language_slug": "english",
+        "coupon_code": "9.99",
+        "students": 350,
+        "reviews": 45,
+        "last_updated": "",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 2062,
+        "title": "Engineering Management and Leadership in the Age of AI",
+        "description": "Master leadership, technical, and people skills as an Engineering Manager with 40+ ready-to-use templates and prompts.",
+        "rating": 4.3,
+        "duration": "8 hours",
+        "affiliate_url": "https://trk.udemy.com/c/2758262/3227798/39854?prodsku=course.6594333&u=https://www.udemy.com/course/engineering-management-and-leadership-in-the-age-of-ai/?couponCode=RAKHI_2026",
+        "image": "https://i.udemycdn.com/course/480x270/6594333_367c.jpg",
+        "trainer": "Rahul Rajat Singh",
+        "trainer_slug": "rahul-rajat-singh",
+        "category": [
+            "AI"
+        ],
+        "category_slug": [
+            "ai"
+        ],
+        "language": "English",
+        "language_slug": "english",
+        "coupon_code": "9.99",
+        "students": 290,
+        "reviews": 40,
+        "last_updated": "",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 2063,
+        "title": "Mastering SOLID Principles of Object Oriented Design (C#)",
+        "description": "Master SOLID principles using C#. Learn to write maintainable, scalable, and robust code through practical examples.",
+        "rating": 4.8,
+        "duration": "2 hours",
+        "affiliate_url": "https://trk.udemy.com/c/2758262/3227798/39854?prodsku=course.6087527&u=https://www.udemy.com/course/mastering-solid-principles-of-object-oriented-design-c/?couponCode=RAKHI_2026",
+        "image": "https://i.udemycdn.com/course/480x270/6087527_1fd0_2.jpg",
+        "trainer": "Rahul Rajat Singh",
+        "trainer_slug": "rahul-rajat-singh",
+        "category": [
+            "Software Engineering"
+        ],
+        "category_slug": [
+            "software-engineering"
+        ],
+        "language": "English",
+        "language_slug": "english",
+        "coupon_code": "9.99",
+        "students": 2062,
+        "reviews": 40,
+        "last_updated": "",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 2064,
+        "title": "IC to Tech Lead: How to Transition and Succeed as a Leader",
+        "description": "A practical roadmap for senior engineers to become confident, effective Tech Leads",
+        "rating": 4.1,
+        "duration": "5 hours",
+        "affiliate_url": "https://trk.udemy.com/c/2758262/3227798/39854?prodsku=course.6991753&u=https://www.udemy.com/course/ic-to-tech-lead-how-to-transition-and-succeed-as-a-leader/?couponCode=RAKHI_2026",
+        "image": "https://i.udemycdn.com/course/480x270/6991753_a9fd.jpg",
+        "trainer": "Rahul Rajat Singh",
+        "trainer_slug": "rahul-rajat-singh",
+        "category": [
+            "Leadership"
+        ],
+        "category_slug": [
+            "leadership"
+        ],
+        "language": "English",
+        "language_slug": "english",
+        "coupon_code": "9.99",
+        "students": 55,
+        "reviews": 6,
+        "last_updated": "",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 2065,
+        "title": "Software Developer to Architect: What It Really Takes",
+        "description": "Discover the skills, mindset, and perspective shift every developer needs to grow into a true software architect.",
+        "rating": 4.5,
+        "duration": "3.5 hours",
+        "affiliate_url": "https://trk.udemy.com/c/2758262/3227798/39854?prodsku=course.6863325&u=https://www.udemy.com/course/software-developer-to-architect-what-it-really-takes/?couponCode=RAKHI_2026",
+        "image": "https://i.udemycdn.com/course/480x270/6863325_dee1_2.jpg",
+        "trainer": "Rahul Rajat Singh",
+        "trainer_slug": "rahul-rajat-singh",
+        "category": [
+            "Software Architecture"
+        ],
+        "category_slug": [
+            "software-architecture"
+        ],
+        "language": "English",
+        "language_slug": "english",
+        "coupon_code": "9.99",
+        "students": 74,
+        "reviews": 12,
+        "last_updated": "",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 2066,
+        "title": "Essential Generative AI for Engineering Managers & Leads",
+        "description": "A theory-driven approach to understanding Generative AI for engineering managers and leads.",
+        "rating": 4.3,
+        "duration": "5 hours",
+        "affiliate_url": "https://trk.udemy.com/c/2758262/3227798/39854?prodsku=course.6805429&u=https://www.udemy.com/course/essential-generative-ai-for-engineering-managers-leads/?couponCode=RAKHI_2026",
+        "image": "https://i.udemycdn.com/course/480x270/6805429_47a9.jpg",
+        "trainer": "Rahul Rajat Singh",
+        "trainer_slug": "rahul-rajat-singh",
+        "category": [
+            "Generative AI"
+        ],
+        "category_slug": [
+            "generative-ai"
+        ],
+        "language": "English",
+        "language_slug": "english",
+        "coupon_code": "9.99",
+        "students": 75,
+        "reviews": 10,
+        "last_updated": "",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 2067,
+        "title": "Mastering Object Oriented Programming Fundamentals using C#",
+        "description": "Mastering the Core Principles and Techniques of Object Oriented Programming for Scalable and Maintainable Software",
+        "rating": 4.8,
+        "duration": "4 hours",
+        "affiliate_url": "https://trk.udemy.com/c/2758262/3227798/39854?prodsku=course.5981590&u=https://www.udemy.com/course/object-oriented-programming-fundamentals-using-c/?couponCode=RAKHI_2026",
+        "image": "https://i.udemycdn.com/course/480x270/5981590_c017_3.jpg",
+        "trainer": "Rahul Rajat Singh",
+        "trainer_slug": "rahul-rajat-singh",
+        "category": [
+            "Object Oriented Programming"
+        ],
+        "category_slug": [
+            "object-oriented-programming"
+        ],
+        "language": "English",
+        "language_slug": "english",
+        "coupon_code": "9.99",
+        "students": 2085,
+        "reviews": 40,
+        "last_updated": "",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 2068,
+        "title": "Claude Certified Associate (CCAO-F) - 2026 Exam Prep",
+        "description": "Complete CCAO-F certification prep: all 7 domains - prompting and task execution, and more",
+        "rating": 4.9,
+        "duration": "7 hours",
+        "affiliate_url": "https://trk.udemy.com/c/2758262/3227798/39854?prodsku=course.7269381&u=https://www.udemy.com/course/ccao-f-exam-prep/?couponCode=CURRENT_STUDENT",
+        "image": "https://img-c.udemycdn.com/course/480x270/7269381_5b99.jpg",
+        "trainer": "Jacob Bushong",
+        "trainer_slug": "jacob-bushong",
+        "category": [
+            "Claude Certification"
+        ],
+        "category_slug": [
+            "claude-certification"
+        ],
+        "language": "English",
+        "language_slug": "english",
+        "coupon_code": "12.99",
+        "students": 595,
+        "reviews": 70,
+        "last_updated": "",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 2069,
+        "title": "Claude Certified Architect (CCA-F, CCAR-F) - 2026 Exam Prep",
+        "description": "Complete CCAR-F (Previously CCA-F) certification prep: all 5 domains - agentic architecture & orchestration, and more",
+        "rating": 4.4,
+        "duration": "15.5 hours",
+        "affiliate_url": "https://trk.udemy.com/c/2758262/3939309/39854?prodsku=course.7150101&u=https://www.udemy.com/course/certified-claude-architect-masterclass-2026/?couponCode=CURRENT_STUDENT",
+        "image": "https://img-c.udemycdn.com/course/480x270/7150101_2585_5.jpg",
+        "trainer": "Jacob Bushong",
+        "trainer_slug": "jacob-bushong",
+        "category": [
+            "Claude Certification"
+        ],
+        "category_slug": [
+            "claude-certification"
+        ],
+        "language": "English",
+        "language_slug": "english",
+        "coupon_code": "12.99",
+        "students": 21769,
+        "reviews": 2030,
+        "last_updated": "",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 2070,
+        "title": "Claude Certified Architect - Professional (CCAR-P) Exam Prep",
+        "description": "Complete CCAR-P certification prep: all 7 domains - solution design & architecture, and more",
+        "rating": 4.6,
+        "duration": "12.5 hours",
+        "affiliate_url": "https://trk.udemy.com/c/2758262/3227798/39854?prodsku=course.7269361&u=https://www.udemy.com/course/ccar-p-exam-prep/?couponCode=CURRENT_STUDENT",
+        "image": "https://img-c.udemycdn.com/course/480x270/7269361_fd39_3.jpg",
+        "trainer": "Jacob Bushong",
+        "trainer_slug": "jacob-bushong",
+        "category": [
+            "Claude Certification"
+        ],
+        "category_slug": [
+            "claude-certification"
+        ],
+        "language": "English",
+        "language_slug": "english",
+        "coupon_code": "12.99",
+        "students": 1080,
+        "reviews": 92,
+        "last_updated": "",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 2071,
+        "title": "Claude Certified Developer - Foundations (CCDV-F)-Exam Prep",
+        "description": "Complete CCDV-F certification prep: all 8 domains - agents and workflows, applications and integration, and more",
+        "rating": 4.5,
+        "duration": "14 hours",
+        "affiliate_url": "https://trk.udemy.com/c/2758262/3227798/39854?prodsku=course.7269367&u=https://www.udemy.com/course/ccdv-f-exam-prep/?couponCode=CURRENT_STUDENT",
+        "image": "https://img-c.udemycdn.com/course/480x270/7269367_3442.jpg",
+        "trainer": "Jacob Bushong",
+        "trainer_slug": "jacob-bushong",
+        "category": [
+            "Claude Certification"
+        ],
+        "category_slug": [
+            "claude-certification"
+        ],
+        "language": "English",
+        "language_slug": "english",
+        "coupon_code": "12.99",
+        "students": 364,
+        "reviews": 60,
+        "last_updated": "",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 2072,
+        "title": "Claude Certified Developer-Foundations (CCDV-F) - 6 Exams",
+        "description": "318 CCDV-F practice questions with detailed explanations covering all 8 domains at exam difficulty",
+        "rating": 4.5,
+        "duration": "6 tests",
+        "affiliate_url": "https://trk.udemy.com/c/2758262/3227798/39854?prodsku=course.7256319&u=https://www.udemy.com/course/ccdv-f-6-exams/?couponCode=CURRENT_STUDENT",
+        "image": "https://img-c.udemycdn.com/course/480x270/7256319_50b4_4.jpg",
+        "trainer": "Jacob Bushong",
+        "trainer_slug": "jacob-bushong",
+        "category": [
+            "Claude Certification"
+        ],
+        "category_slug": [
+            "claude-certification"
+        ],
+        "language": "English",
+        "language_slug": "english",
+        "coupon_code": "12.99",
+        "students": 530,
+        "reviews": 18,
+        "last_updated": "",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 2073,
+        "title": "Claude Certified Architect-Professional (CCAR-P) -6 Exams",
+        "description": "378 CCAR-P practice questions with detailed explanations covering all 7 domains at exam difficulty",
+        "rating": 4.7,
+        "duration": "6 tests",
+        "affiliate_url": "https://trk.udemy.com/c/2758262/3227798/39854?prodsku=course.7256325&u=https://www.udemy.com/course/ccar-p-6-exams/?couponCode=CURRENT_STUDENT",
+        "image": "https://img-c.udemycdn.com/course/480x270/7256325_3af3_2.jpg",
+        "trainer": "Jacob Bushong",
+        "trainer_slug": "jacob-bushong",
+        "category": [
+            "Claude Certification"
+        ],
+        "category_slug": [
+            "claude-certification"
+        ],
+        "language": "English",
+        "language_slug": "english",
+        "coupon_code": "12.99",
+        "students": 642,
+        "reviews": 45,
+        "last_updated": "",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 2074,
+        "title": "Claude Certified Architect (CCA-F, CCAR-F) - 6 Exams",
+        "description": "6 CCA-F (Claude) practice questions with detailed explanations covering all 5 domains at exam difficulty",
+        "rating": 4.3,
+        "duration": "6 tests",
+        "affiliate_url": "https://trk.udemy.com/c/2758262/3939309/39854?prodsku=course.7150105&u=https://www.udemy.com/course/certified-claude-architect-6-anthropic-style-exams/?couponCode=CURRENT_STUDENT",
+        "image": "https://img-c.udemycdn.com/course/480x270/7150105_d066_5.jpg",
+        "trainer": "Jacob Bushong",
+        "trainer_slug": "jacob-bushong",
+        "category": [
+            "Claude Certification"
+        ],
+        "category_slug": [
+            "claude-certification"
+        ],
+        "language": "English",
+        "language_slug": "english",
+        "coupon_code": "12.99",
+        "students": 930,
+        "reviews": 55,
+        "last_updated": "",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 2075,
+        "title": "Claude Certified Associate-Foundations (CCAO-F) - 6 Exams",
+        "description": "360 CCAO-F practice questions with detailed explanations covering all 7 domains at exam difficulty",
+        "rating": 4.5,
+        "duration": "6 tests",
+        "affiliate_url": "https://trk.udemy.com/c/2758262/3227798/39854?prodsku=course.7256327&u=https://www.udemy.com/course/ccao-f-6-exams/?couponCode=CURRENT_STUDENT",
+        "image": "https://img-c.udemycdn.com/course/480x270/7256327_2fea_2.jpg",
+        "trainer": "Jacob Bushong",
+        "trainer_slug": "jacob-bushong",
+        "category": [
+            "Claude Certification"
+        ],
+        "category_slug": [
+            "claude-certification"
+        ],
+        "language": "English",
+        "language_slug": "english",
+        "coupon_code": "12.99",
+        "students": 270,
+        "reviews": 35,
+        "last_updated": "",
+        "featured": "",
+        "status": "Active"
     }
 ]

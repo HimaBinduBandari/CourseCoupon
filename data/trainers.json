@@ -1208,5 +1208,38 @@
         "bio": "",
         "website": "",
         "linkedin": "https://linkedin.com/in/deepakdubey-pro/"
+    },
+    {
+        "id": 111,
+        "name": "Liz Brown",
+        "slug": "liz-brown",
+        "photo": "https://img-c.udemycdn.com/user/200_H/7074758_97db_4.jpg",
+        "banner": "",
+        "designation": "",
+        "bio": "",
+        "website": "",
+        "linkedin": "https://linkedin.com/in/lizbrownux"
+    },
+    {
+        "id": 112,
+        "name": "Rahul Rajat Singh",
+        "slug": "rahul-rajat-singh",
+        "photo": "https://img-c.udemycdn.com/user/200_H/48716324_419f_2.jpg",
+        "banner": "",
+        "designation": "",
+        "bio": "",
+        "website": "",
+        "linkedin": "https://linkedin.com/in/rahulrajatsingh/"
+    },
+    {
+        "id": 113,
+        "name": "Jacob Bushong",
+        "slug": "jacob-bushong",
+        "photo": "https://img-c.udemycdn.com/user/200_H/164759774_4222.jpg",
+        "banner": "",
+        "designation": "",
+        "bio": "",
+        "website": "",
+        "linkedin": "https://linkedin.com/in/jacob-bushong"
     }
 ]
