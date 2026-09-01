@@ -7,8 +7,6 @@ on:
       - "data/**"
       - "tools/generate-sitemap.js"
   schedule:
-    # Also run weekly, in case lastmod dates should refresh even
-    # without a data change.
     - cron: "0 3 * * 1"
   workflow_dispatch: {}
 
@@ -18,6 +16,7 @@ permissions:
 jobs:
   sitemap:
     runs-on: ubuntu-latest
+
     steps:
       - name: Checkout repo
         uses: actions/checkout@v4
@@ -27,17 +26,19 @@ jobs:
         with:
           node-version: "20"
 
-      - name: Generate sitemap.xml
+      - name: Generate sitemap.xml and sitemap.html
         run: node tools/generate-sitemap.js
 
       - name: Commit sitemap if changed
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add sitemap.xml
+
+          git add sitemap.xml sitemap.html
+
           if git diff --cached --quiet; then
-            echo "No changes to sitemap.xml"
+            echo "No changes to sitemap files"
           else
-            git commit -m "chore: regenerate sitemap.xml [automated]"
+            git commit -m "chore: regenerate sitemaps [automated]"
             git push
           fi
