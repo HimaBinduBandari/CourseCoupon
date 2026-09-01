@@ -182,6 +182,7 @@ function buildHTMLSitemap({
 
   for (const page of STATIC_PAGES) {
     mainPagesHTML += htmlLink(
+      `${SITE_URL}${page.url}`,
       page.url,
       page.name,
       page.description
@@ -207,7 +208,7 @@ function buildHTMLSitemap({
       slugToName(category.slug);
 
     const url =
-      `/category.html?category=${encodeURIComponent(category.slug)}`;
+      `${SITE_URL}/category.html?category=${encodeURIComponent(category.slug)}`;
 
     categoriesHTML += htmlLink(
       url,
@@ -235,7 +236,7 @@ function buildHTMLSitemap({
       slugToName(language.slug);
 
     const url =
-      `/language.html?language=${encodeURIComponent(language.slug)}`;
+      `${SITE_URL}/language.html?language=${encodeURIComponent(language.slug)}`;
 
     languagesHTML += htmlLink(
       url,
@@ -264,7 +265,7 @@ function buildHTMLSitemap({
       slugToName(trainer.slug);
 
     const url =
-      `/trainer.html?trainer=${encodeURIComponent(trainer.slug)}`;
+      `${SITE_URL}/trainer.html?trainer=${encodeURIComponent(trainer.slug)}`;
 
     trainersHTML += htmlLink(
       url,
