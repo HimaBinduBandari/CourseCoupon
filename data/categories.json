@@ -1703,5 +1703,15 @@
         "id": 341,
         "name": "Claude Certification",
         "slug": "claude-certification"
+    },
+    {
+        "id": 342,
+        "name": "Maven",
+        "slug": "maven"
+    },
+    {
+        "id": 343,
+        "name": "OpenTelemetry",
+        "slug": "opentelemetry"
     }
 ]
