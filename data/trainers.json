@@ -1263,5 +1263,16 @@
         "bio": "",
         "website": "",
         "linkedin": "https://linkedin.com/in/lauromueller"
+    },
+    {
+        "id": 116,
+        "name": "Scott Duffy",
+        "slug": "scott-duffy",
+        "photo": "https://img-c.udemycdn.com/user/200_H/58935_f800_5.jpg",
+        "banner": "",
+        "designation": "",
+        "bio": "",
+        "website": "",
+        "linkedin": "https://linkedin.com/in/scottjduffy"
     }
 ]
