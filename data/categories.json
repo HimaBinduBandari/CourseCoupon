@@ -1551,43 +1551,43 @@
     },
     {
         "id": 311,
-        "name": "Engineering",
-        "slug": "engineering"
-    },
-    {
-        "id": 312,
         "name": "Finance & Accounting",
         "slug": "finance-and-accounting"
     },
     {
-        "id": 313,
+        "id": 312,
         "name": "Google Looker",
         "slug": "google-looker"
     },
     {
-        "id": 314,
+        "id": 313,
         "name": "dbt",
         "slug": "dbt"
     },
     {
-        "id": 315,
+        "id": 314,
         "name": "Databricks",
         "slug": "databricks"
     },
     {
-        "id": 316,
+        "id": 315,
         "name": "Digital Marketing",
         "slug": "digital-marketing"
     },
     {
-        "id": 317,
+        "id": 316,
         "name": "Hibernate",
         "slug": "hibernate"
     },
     {
-        "id": 318,
+        "id": 317,
         "name": "Real Estate",
         "slug": "real-estate"
+    },
+    {
+        "id": 318,
+        "name": "Engineering",
+        "slug": "engineering"
     },
     {
         "id": 319,

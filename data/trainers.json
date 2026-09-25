@@ -595,17 +595,6 @@
     },
     {
         "id": 55,
-        "name": "Kamil KAVCAR",
-        "slug": "kamil-kavcar",
-        "photo": "https://img-c.udemycdn.com/user/200_H/194938934_1c82_3.jpg",
-        "banner": "",
-        "designation": "",
-        "bio": "",
-        "website": "",
-        "linkedin": ""
-    },
-    {
-        "id": 56,
         "name": "Yazılım Teknolojileri",
         "slug": "yaz-l-m-teknolojileri",
         "photo": "https://img-c.udemycdn.com/user/200_H/160071586_bdbb_14.jpg",
@@ -616,7 +605,7 @@
         "linkedin": ""
     },
     {
-        "id": 57,
+        "id": 56,
         "name": "Enes Bayram",
         "slug": "enes-bayram",
         "photo": "https://img-c.udemycdn.com/user/200_H/65789628_bf62_13.jpg",
@@ -627,7 +616,7 @@
         "linkedin": "https://linkedin.com/in/enes-bayram-6a31021a4/"
     },
     {
-        "id": 58,
+        "id": 57,
         "name": "Bilişim Dünyası",
         "slug": "bili-im-d-nyas",
         "photo": "https://img-c.udemycdn.com/user/200_H/22598360_fe87_2.jpg",
@@ -638,7 +627,7 @@
         "linkedin": ""
     },
     {
-        "id": 59,
+        "id": 58,
         "name": "Emre Yilmaz",
         "slug": "emre-yilmaz",
         "photo": "https://img-c.udemycdn.com/user/200_H/27736868_7d6c_75.jpg",
@@ -649,7 +638,7 @@
         "linkedin": "https://linkedin.com/in/emre-yilmaz-shikisoft/"
     },
     {
-        "id": 60,
+        "id": 59,
         "name": "Mohsen Hassan",
         "slug": "mohsen-hassan",
         "photo": "https://img-c.udemycdn.com/user/200_H/33900490_19da_2.jpg",
@@ -660,7 +649,7 @@
         "linkedin": ""
     },
     {
-        "id": 61,
+        "id": 60,
         "name": "Henry Habib",
         "slug": "henry-habib",
         "photo": "https://img-c.udemycdn.com/user/200_H/114871766_7010_3.jpg",
@@ -671,7 +660,7 @@
         "linkedin": "https://linkedin.com/hasanainhn"
     },
     {
-        "id": 62,
+        "id": 61,
         "name": "Ramesh Fadatare",
         "slug": "ramesh-fadatare",
         "photo": "https://img-c.udemycdn.com/user/200_H/52467702_5352_4.jpg",
@@ -682,7 +671,7 @@
         "linkedin": "https://linkedin.com/in/ramesh-fadatare"
     },
     {
-        "id": 63,
+        "id": 62,
         "name": "Justin Kivel",
         "slug": "justin-kivel",
         "photo": "https://img-c.udemycdn.com/user/200_H/5020122_7a96_4.jpg",
@@ -693,7 +682,7 @@
         "linkedin": "https://linkedin.com/in/justin-kivel-aa06361a"
     },
     {
-        "id": 64,
+        "id": 63,
         "name": "Memi Lavi",
         "slug": "memi-lavi",
         "photo": "https://img-c.udemycdn.com/user/200_H/29720180_6882.jpg",
@@ -704,7 +693,7 @@
         "linkedin": "https://linkedin.com/in/memilavi/"
     },
     {
-        "id": 65,
+        "id": 64,
         "name": "Phillip Burton",
         "slug": "phillip-burton",
         "photo": "https://img-c.udemycdn.com/user/200_H/12861544_ccc3_4.jpg",
@@ -715,7 +704,7 @@
         "linkedin": "https://linkedin.com/company/i-do-data"
     },
     {
-        "id": 66,
+        "id": 65,
         "name": "Ardit Sulce",
         "slug": "ardit-sulce",
         "photo": "https://img-c.udemycdn.com/user/200_H/717783_3157_9.jpg",
@@ -726,7 +715,7 @@
         "linkedin": "https://linkedin.com/in/arditsulce"
     },
     {
-        "id": 67,
+        "id": 66,
         "name": "Akshay Kamath",
         "slug": "akshay-kamath",
         "photo": "https://img-c.udemycdn.com/user/200_H/99991568_4aa3_5.jpg",
@@ -737,7 +726,7 @@
         "linkedin": "https://linkedin.com/in/akshay-kamath-263397a3/"
     },
     {
-        "id": 68,
+        "id": 67,
         "name": "Sufani Garza",
         "slug": "sufani-garza",
         "photo": "https://img-c.udemycdn.com/user/200_H/127795328_5cc8_6.jpg",
@@ -748,7 +737,7 @@
         "linkedin": "https://linkedin.com/in/place-of-bliss-academy/"
     },
     {
-        "id": 69,
+        "id": 68,
         "name": "TCW Marketing",
         "slug": "tcw-marketing",
         "photo": "https://img-c.udemycdn.com/user/200_H/21934006_36ef_3.jpg",
@@ -759,7 +748,7 @@
         "linkedin": "https://www.linkedin.com/company/tcwmarketing/"
     },
     {
-        "id": 70,
+        "id": 69,
         "name": "Neal Davis",
         "slug": "neal-davis",
         "photo": "https://img-c.udemycdn.com/user/200_H/23565832_b988_5.jpg",
@@ -770,7 +759,7 @@
         "linkedin": "https://linkedin.com/in/nealkdavis"
     },
     {
-        "id": 71,
+        "id": 70,
         "name": "Kuljot Singh Bakshi",
         "slug": "kuljot-singh-bakshi",
         "photo": "https://img-c.udemycdn.com/user/200_H/247079500_9b0f_13.jpg",
@@ -781,7 +770,7 @@
         "linkedin": "https://linkedin.com/in/kuljot-bakshi-69101826b"
     },
     {
-        "id": 72,
+        "id": 71,
         "name": "Zeal Vora",
         "slug": "zeal-vora",
         "photo": "https://img-c.udemycdn.com/user/200_H/2025260_e5f5_2.jpg",
@@ -792,7 +781,7 @@
         "linkedin": ""
     },
     {
-        "id": 73,
+        "id": 72,
         "name": "Scott Barrett",
         "slug": "scott-barrett",
         "photo": "https://img-c.udemycdn.com/user/200_H/84263376_7b7d_36.jpg",
@@ -803,7 +792,7 @@
         "linkedin": "https://linkedin.com/in/IAmScottBarrett"
     },
     {
-        "id": 74,
+        "id": 73,
         "name": "Andrew Ramdayal",
         "slug": "andrew-ramdayal",
         "photo": "https://img-c.udemycdn.com/user/200_H/4897424_a25c_13.jpg",
@@ -814,7 +803,7 @@
         "linkedin": "https://linkedin.com/in/andrewramdayal/"
     },
     {
-        "id": 75,
+        "id": 74,
         "name": "世界のアオキ (Akihiro Aoki)",
         "slug": "akihiro-aoki",
         "photo": "https://img-c.udemycdn.com/user/200_H/30363618_1714.jpg",
@@ -825,7 +814,7 @@
         "linkedin": ""
     },
     {
-        "id": 76,
+        "id": 75,
         "name": "Kasım Adalan",
         "slug": "kas-m-adalan",
         "photo": "https://img-c.udemycdn.com/user/200_H/48669216_4aff_4.jpg",
@@ -836,7 +825,7 @@
         "linkedin": "https://linkedin.com/in/kas%C4%B1m-adalan/"
     },
     {
-        "id": 77,
+        "id": 76,
         "name": "Levent Ertunalılar",
         "slug": "levent-ertunal-lar",
         "photo": "https://img-c.udemycdn.com/user/200_H/117958594_a225_5.jpg",
@@ -847,7 +836,7 @@
         "linkedin": ""
     },
     {
-        "id": 78,
+        "id": 77,
         "name": "Can Boz",
         "slug": "can-boz",
         "photo": "https://img-c.udemycdn.com/user/200_H/38392006_fd0a_6.jpg",
@@ -858,7 +847,7 @@
         "linkedin": "https://linkedin.com/in/can-boz-18582bb4/"
     },
     {
-        "id": 79,
+        "id": 78,
         "name": "Miguel Maraby",
         "slug": "miguel-maraby",
         "photo": "https://img-c.udemycdn.com/user/200_H/32673184_9659_4.jpg",
@@ -869,7 +858,7 @@
         "linkedin": ""
     },
     {
-        "id": 80,
+        "id": 79,
         "name": "Federico Garay",
         "slug": "federico-garay",
         "photo": "https://img-c.udemycdn.com/user/200_H/11005030_e724_9.jpg",
@@ -880,7 +869,7 @@
         "linkedin": "https://linkedin.com/in/fedegaray/"
     },
     {
-        "id": 81,
+        "id": 80,
         "name": "datdata – Cursos",
         "slug": "datdata-cursos",
         "photo": "https://img-c.udemycdn.com/user/200_H/72390038_aefc_3.jpg",
@@ -891,7 +880,7 @@
         "linkedin": ""
     },
     {
-        "id": 82,
+        "id": 81,
         "name": "David Asurmendi",
         "slug": "david-asurmendi",
         "photo": "https://img-c.udemycdn.com/user/200_H/31992590_1583_3.jpg",
@@ -902,7 +891,7 @@
         "linkedin": ""
     },
     {
-        "id": 83,
+        "id": 82,
         "name": "Alfonso Rinsche",
         "slug": "alfonso-rinsche",
         "photo": "https://img-c.udemycdn.com/user/200_H/144854_5e27_4.jpg",
@@ -913,7 +902,7 @@
         "linkedin": ""
     },
     {
-        "id": 84,
+        "id": 83,
         "name": "Pablo Naderpour Peñalver",
         "slug": "pablo-naderpour-pe-alver",
         "photo": "https://img-c.udemycdn.com/user/200_H/66262972_efc5.jpg",
@@ -924,7 +913,7 @@
         "linkedin": ""
     },
     {
-        "id": 85,
+        "id": 84,
         "name": "Ahmet Sait Duran",
         "slug": "ahmet-sait-duran",
         "photo": "https://img-c.udemycdn.com/user/200_H/12644314_f522_2.jpg",
@@ -935,7 +924,7 @@
         "linkedin": ""
     },
     {
-        "id": 86,
+        "id": 85,
         "name": "Emre Akyüz",
         "slug": "emre-aky-z",
         "photo": "https://img-c.udemycdn.com/user/200_H/42913061_a6a9_9.jpg",
@@ -946,7 +935,7 @@
         "linkedin": "https://linkedin.com/in/emre-aky%C3%BCz-16952a109/"
     },
     {
-        "id": 87,
+        "id": 86,
         "name": "Oğuzhan ÇOLAK",
         "slug": "o-uzhan-olak",
         "photo": "https://img-c.udemycdn.com/user/200_H/50252454_f82b_5.jpg",
@@ -957,7 +946,7 @@
         "linkedin": "https://linkedin.com/in/oguzhancolak/"
     },
     {
-        "id": 88,
+        "id": 87,
         "name": "Olcay kalyoncuoğlu",
         "slug": "olcay-kalyoncuo-lu",
         "photo": "https://img-c.udemycdn.com/user/200_H/56556150_7626.jpg",
@@ -968,7 +957,7 @@
         "linkedin": "https://linkedin.com/in/olcay-kalyoncuo%C4%9Flu/"
     },
     {
-        "id": 89,
+        "id": 88,
         "name": "Battal Koç",
         "slug": "battal-ko",
         "photo": "https://img-c.udemycdn.com/user/200_H/41257230_6d37_3.jpg",
@@ -979,7 +968,7 @@
         "linkedin": "https://linkedin.com/in/battalkoc/"
     },
     {
-        "id": 90,
+        "id": 89,
         "name": "Academia De Francés Online",
         "slug": "academia-de-franc-s-online",
         "photo": "https://img-c.udemycdn.com/user/200_H/81691613_62d8_2.jpg",
@@ -990,7 +979,7 @@
         "linkedin": ""
     },
     {
-        "id": 91,
+        "id": 90,
         "name": "Carlos Arturo Esparza",
         "slug": "carlos-arturo-esparza",
         "photo": "https://img-c.udemycdn.com/user/200_H/2904600_950b_9.jpg",
@@ -1001,7 +990,7 @@
         "linkedin": ""
     },
     {
-        "id": 92,
+        "id": 91,
         "name": "Thibault Chazottes",
         "slug": "thibault-chazottes",
         "photo": "https://img-c.udemycdn.com/user/200_H/228783732_f1fc_2.jpg",
@@ -1012,7 +1001,7 @@
         "linkedin": "https://linkedin.com//thibault-chazottes-31913583/"
     },
     {
-        "id": 93,
+        "id": 92,
         "name": "Thibault Houdon",
         "slug": "thibault-houdon",
         "photo": "https://img-c.udemycdn.com/user/200_H/9804122_9d87_7.jpg",
@@ -1023,7 +1012,7 @@
         "linkedin": "https://linkedin.com/in/thibaulthoudon"
     },
     {
-        "id": 94,
+        "id": 93,
         "name": "Jonas Schmedtmann",
         "slug": "jonas-schmedtmann",
         "photo": "https://img-c.udemycdn.com/user/200_H/7799204_2091_5.jpg",
@@ -1034,7 +1023,7 @@
         "linkedin": ""
     },
     {
-        "id": 95,
+        "id": 94,
         "name": "Daniel Tapias Morales",
         "slug": "daniel-tapias-morales",
         "photo": "https://img-c.udemycdn.com/user/200_H/33058682_f124_2.jpg",
@@ -1045,7 +1034,7 @@
         "linkedin": "https://linkedin.com/in/daniel-tapias-morales-87145621"
     },
     {
-        "id": 96,
+        "id": 95,
         "name": "Antonio Sánchez Corbalán",
         "slug": "antonio-s-nchez-corbal-n",
         "photo": "https://img-c.udemycdn.com/user/200_H/22937892_7506_4.jpg",
@@ -1056,7 +1045,7 @@
         "linkedin": "https://linkedin.com/in/antonio-s%C3%A1nchez-corbal%C3%A1n/"
     },
     {
-        "id": 97,
+        "id": 96,
         "name": "Alam Mancera",
         "slug": "alam-mancera",
         "photo": "https://img-c.udemycdn.com/user/200_H/21192680_e995_10.jpg",
@@ -1067,7 +1056,7 @@
         "linkedin": "https://linkedin.com/in/alammancera/"
     },
     {
-        "id": 98,
+        "id": 97,
         "name": "Eduardo Nazareno Anselmi",
         "slug": "eduardo-nazareno-anselmi",
         "photo": "https://img-c.udemycdn.com/user/200_H/37465748_0153_6.jpg",
@@ -1078,7 +1067,7 @@
         "linkedin": "https://linkedin.com/in/nazareno-anselmi"
     },
     {
-        "id": 99,
+        "id": 98,
         "name": "Karan Gupta",
         "slug": "karan-gupta",
         "photo": "https://img-c.udemycdn.com/user/200_H/50117550_548e.jpg",
@@ -1089,7 +1078,7 @@
         "linkedin": "https://linkedin.com/in/reachguptakaran/"
     },
     {
-        "id": 100,
+        "id": 99,
         "name": "Guilherme Gusmão de Freitas",
         "slug": "guilherme-gusm-o-de-freitas",
         "photo": "https://img-c.udemycdn.com/user/200_H/33138574_cba7_5.jpg",
@@ -1100,7 +1089,7 @@
         "linkedin": ""
     },
     {
-        "id": 101,
+        "id": 100,
         "name": "Alex Dev",
         "slug": "alex-dev",
         "photo": "https://img-c.udemycdn.com/user/200_H/99693024_06fa_2.jpg",
@@ -1111,7 +1100,7 @@
         "linkedin": ""
     },
     {
-        "id": 102,
+        "id": 101,
         "name": "César Cancino Zapata",
         "slug": "c-sar-cancino-zapata",
         "photo": "https://img-c.udemycdn.com/user/200_H/206554328_8d9a.jpg",
@@ -1122,7 +1111,7 @@
         "linkedin": "https://linkedin.com/in/c%C3%A9sar-hans-cancino-zapata-33487118/"
     },
     {
-        "id": 103,
+        "id": 102,
         "name": "Derar Alhussein",
         "slug": "derar-alhussein",
         "photo": "https://img-c.udemycdn.com/user/200_H/103087611_3d14_2.jpg",
@@ -1133,7 +1122,7 @@
         "linkedin": "https://linkedin.com/in/deraralhussein"
     },
     {
-        "id": 104,
+        "id": 103,
         "name": "Tomas George",
         "slug": "tomas-george",
         "photo": "https://img-c.udemycdn.com/user/200_H/23566298_e66f_4.jpg",
@@ -1144,7 +1133,7 @@
         "linkedin": ""
     },
     {
-        "id": 105,
+        "id": 104,
         "name": "Ramesh Retnasamy",
         "slug": "ramesh-retnasamy",
         "photo": "https://img-c.udemycdn.com/user/200_H/136006439_26d5_8.jpg",
@@ -1155,7 +1144,7 @@
         "linkedin": ""
     },
     {
-        "id": 106,
+        "id": 105,
         "name": "Ignacio bluuweb",
         "slug": "ignacio-bluuweb",
         "photo": "https://img-c.udemycdn.com/user/200_H/23487134_dde9_2.jpg",
@@ -1166,7 +1155,7 @@
         "linkedin": ""
     },
     {
-        "id": 107,
+        "id": 106,
         "name": "Carlos Adrian Soto Botero",
         "slug": "carlos-adrian-soto-botero",
         "photo": "https://img-c.udemycdn.com/user/200_H/114222728_f2e8_10.jpg",
@@ -1177,7 +1166,7 @@
         "linkedin": "https://linkedin.com/in/casotobotero"
     },
     {
-        "id": 108,
+        "id": 107,
         "name": "Frank Liu",
         "slug": "frank-liu",
         "photo": "https://img-c.udemycdn.com/user/200_H/38531438_f2ed_2.jpg",
@@ -1188,7 +1177,7 @@
         "linkedin": ""
     },
     {
-        "id": 109,
+        "id": 108,
         "name": "Ansh Lamba JSR",
         "slug": "ansh-lamba-jsr",
         "photo": "https://img-c.udemycdn.com/user/200_H/297244759_04b2.jpg",
@@ -1199,7 +1188,7 @@
         "linkedin": "https://linkedin.com/in/ansh-lamba-793681184/"
     },
     {
-        "id": 110,
+        "id": 109,
         "name": "Deepak Dubey",
         "slug": "deepak-dubey",
         "photo": "https://img-c.udemycdn.com/user/200_H/28030590_93f7_3.jpg",
@@ -1210,7 +1199,7 @@
         "linkedin": "https://linkedin.com/in/deepakdubey-pro/"
     },
     {
-        "id": 111,
+        "id": 110,
         "name": "Liz Brown",
         "slug": "liz-brown",
         "photo": "https://img-c.udemycdn.com/user/200_H/7074758_97db_4.jpg",
@@ -1221,7 +1210,7 @@
         "linkedin": "https://linkedin.com/in/lizbrownux"
     },
     {
-        "id": 112,
+        "id": 111,
         "name": "Rahul Rajat Singh",
         "slug": "rahul-rajat-singh",
         "photo": "https://img-c.udemycdn.com/user/200_H/48716324_419f_2.jpg",
@@ -1232,7 +1221,7 @@
         "linkedin": "https://linkedin.com/in/rahulrajatsingh/"
     },
     {
-        "id": 113,
+        "id": 112,
         "name": "Jacob Bushong",
         "slug": "jacob-bushong",
         "photo": "https://img-c.udemycdn.com/user/200_H/164759774_4222.jpg",
@@ -1243,7 +1232,7 @@
         "linkedin": "https://linkedin.com/in/jacob-bushong"
     },
     {
-        "id": 114,
+        "id": 113,
         "name": "Bharath Thippireddy",
         "slug": "bharath-thippireddy",
         "photo": "https://img-c.udemycdn.com/user/200_H/8735380_e11b_5.jpg",
@@ -1254,7 +1243,7 @@
         "linkedin": "https://www.linkedin.com/in/thippireddybharath/"
     },
     {
-        "id": 115,
+        "id": 114,
         "name": "Lauro Fialho Müller",
         "slug": "lauro-fialho-m-ller",
         "photo": "https://img-c.udemycdn.com/user/200_H/12092014_d319.jpg",
@@ -1265,7 +1254,7 @@
         "linkedin": "https://linkedin.com/in/lauromueller"
     },
     {
-        "id": 116,
+        "id": 115,
         "name": "Scott Duffy",
         "slug": "scott-duffy",
         "photo": "https://img-c.udemycdn.com/user/200_H/58935_f800_5.jpg",
