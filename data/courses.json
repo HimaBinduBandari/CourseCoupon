@@ -23630,7 +23630,7 @@
         "description": "Domina Claude AI y delega trabajo real a la IA con Claude Cowork, Claude Design, Claude en Excel, Skills, Plugins y más!",
         "rating": 4.7,
         "duration": "12.5 hours",
-        "affiliate_url": "https://www.udemy.com/course/curso-completo-de-claude-ai-cowork-design-projects/?couponCode=JUNIO26",
+        "affiliate_url": "https://trk.udemy.com/c/3288150/3227798/39854?prodsku=course.7157829&u=https://www.udemy.com/course/curso-completo-de-claude-ai-cowork-design-projects/?couponCode=JUNIO26",
         "image": "https://img-c.udemycdn.com/course/480x270/7157829_700e_3.jpg",
         "trainer": "Santiago Hernández",
         "trainer_slug": "santiago-hern-ndez",
@@ -25776,11 +25776,11 @@
     },
     {
         "id": 1032,
-        "title": "Deep Dive iOS 26 & SwiftUI 6: 90-Hour Project-Based Course",
+        "title": "Deep Dive iOS 27 & SwiftUI 6: 90-Hour Project-Based Course",
         "description": "Swift, API Integration, Localization, SwiftData, Charts, MapKit, Mac Apps, Push Notifications, Machine Learning and More",
         "rating": 4.8,
         "duration": "88 hours",
-        "affiliate_url": "https://trk.udemy.com/c/3288150/3227798/39854?prodsku=course.4344032&u=https://www.udemy.com/course/deep-dive-ios-16-swiftui-programming/?couponCode=FRESHSTART26",
+        "affiliate_url": "https://trk.udemy.com/c/3288150/3227798/39854?prodsku=course.4344032&u=https://www.udemy.com/course/deep-dive-ios-16-swiftui-programming/?couponCode=PREBLACKFRIDAY2026",
         "image": "https://i.udemycdn.com/course/480x270/4344032_3c53_13.jpg",
         "trainer": "Dr. Ron Erez",
         "trainer_slug": "dr-ron-erez",
@@ -25795,8 +25795,8 @@
         "coupon_code": "9.99",
         "students": 9152,
         "reviews": 957,
-        "last_updated": "2026-08-29",
-        "featured": "",
+        "last_updated": "2026-10-01",
+        "featured": "Yes",
         "status": "Active"
     },
     {
@@ -25805,7 +25805,7 @@
         "description": "Jetpack Compose Android Tutorial: Build Practical Apps from Scratch",
         "rating": 4.9,
         "duration": "28.5 hours",
-        "affiliate_url": "https://trk.udemy.com/c/3288150/3227798/39854?prodsku=course.5789500&u=https://www.udemy.com/course/deep-dive-android-development-using-jetpack-compose/?couponCode=FRESHSTART26",
+        "affiliate_url": "https://trk.udemy.com/c/3288150/3227798/39854?prodsku=course.5789500&u=https://www.udemy.com/course/deep-dive-android-development-using-jetpack-compose/?couponCode=PREBLACKFRIDAY2026",
         "image": "https://i.udemycdn.com/course/480x270/5789500_8c58_2.jpg",
         "trainer": "Dr. Ron Erez",
         "trainer_slug": "dr-ron-erez",
@@ -25820,7 +25820,7 @@
         "coupon_code": "9.99",
         "students": 258,
         "reviews": 30,
-        "last_updated": "2026-08-29",
+        "last_updated": "2026-10-01",
         "featured": "",
         "status": "Active"
     },
@@ -25830,7 +25830,7 @@
         "description": "Master Python for Data Manipulation, Visualization, and Introductory Machine Learning",
         "rating": 4.6,
         "duration": "23.5 hours",
-        "affiliate_url": "https://trk.udemy.com/c/3288150/3227798/39854?prodsku=course.6090501&u=https://www.udemy.com/course/python-foundations-for-data-science-from-zero-to-data-analy/?couponCode=FRESHSTART26",
+        "affiliate_url": "https://trk.udemy.com/c/3288150/3227798/39854?prodsku=course.6090501&u=https://www.udemy.com/course/python-foundations-for-data-science-from-zero-to-data-analy/?couponCode=PREBLACKFRIDAY2026",
         "image": "https://i.udemycdn.com/course/480x270/6090501_3226_5.jpg",
         "trainer": "Dr. Ron Erez",
         "trainer_slug": "dr-ron-erez",
@@ -25845,7 +25845,7 @@
         "coupon_code": "9.99",
         "students": 506,
         "reviews": 61,
-        "last_updated": "2026-08-29",
+        "last_updated": "2026-10-01",
         "featured": "",
         "status": "Active"
     },
@@ -25855,7 +25855,7 @@
         "description": "Build Python, iOS, Android, and Web Apps Step-by-Step with Cursor AI and Google Stitch",
         "rating": 4.8,
         "duration": "6 hours",
-        "affiliate_url": "https://trk.udemy.com/c/3288150/3227798/39854?prodsku=course.7025943&u=https://www.udemy.com/course/gentle-cursor-ai/?couponCode=FRESHSTART26",
+        "affiliate_url": "https://trk.udemy.com/c/3288150/3227798/39854?prodsku=course.7025943&u=https://www.udemy.com/course/gentle-cursor-ai/?couponCode=PREBLACKFRIDAY2026",
         "image": "https://i.udemycdn.com/course/480x270/7025943_ad74.jpg",
         "trainer": "Dr. Ron Erez",
         "trainer_slug": "dr-ron-erez",
@@ -25870,7 +25870,7 @@
         "coupon_code": "9.99",
         "students": 40,
         "reviews": 5,
-        "last_updated": "2026-08-29",
+        "last_updated": "2026-10-01",
         "featured": "",
         "status": "Active"
     },
@@ -25880,7 +25880,7 @@
         "description": "Create interactive 2D games using Swift, physics bodies, and SKActions",
         "rating": 4.8,
         "duration": "8.5 hours",
-        "affiliate_url": "https://trk.udemy.com/c/3288150/3227798/39854?prodsku=course.6276607&u=https://www.udemy.com/course/spritekit-essentials-for-ios-game-development-beta/?couponCode=FRESHSTART26",
+        "affiliate_url": "https://trk.udemy.com/c/3288150/3227798/39854?prodsku=course.6276607&u=https://www.udemy.com/course/spritekit-essentials-for-ios-game-development-beta/?couponCode=PREBLACKFRIDAY2026",
         "image": "https://i.udemycdn.com/course/480x270/6276607_b48c_2.jpg",
         "trainer": "Dr. Ron Erez",
         "trainer_slug": "dr-ron-erez",
@@ -25895,7 +25895,7 @@
         "coupon_code": "9.99",
         "students": 102,
         "reviews": 8,
-        "last_updated": "2026-08-29",
+        "last_updated": "2026-10-01",
         "featured": "",
         "status": "Active"
     },
@@ -25905,7 +25905,7 @@
         "description": "Harness the Power of SwiftData, Swift, and SwiftUI for Efficient iOS Data Management",
         "rating": 4.5,
         "duration": "16.5 hours",
-        "affiliate_url": "https://trk.udemy.com/c/3288150/3227798/39854?prodsku=course.6397007&u=https://www.udemy.com/course/mastering-swift-data-for-ios/?couponCode=FRESHSTART26",
+        "affiliate_url": "https://trk.udemy.com/c/3288150/3227798/39854?prodsku=course.6397007&u=https://www.udemy.com/course/mastering-swift-data-for-ios/?couponCode=PREBLACKFRIDAY2026",
         "image": "https://i.udemycdn.com/course/480x270/6397007_a0cd_2.jpg",
         "trainer": "Dr. Ron Erez",
         "trainer_slug": "dr-ron-erez",
@@ -25920,7 +25920,7 @@
         "coupon_code": "9.99",
         "students": 346,
         "reviews": 30,
-        "last_updated": "2026-08-29",
+        "last_updated": "2026-10-01",
         "featured": "",
         "status": "Active"
     },
@@ -25930,7 +25930,7 @@
         "description": "Solving Cool Linear Algebra Problems like there is no tomorrow",
         "rating": 4.7,
         "duration": "24.5 hours",
-        "affiliate_url": "https://trk.udemy.com/c/3288150/3227798/39854?prodsku=course.4988658&u=https://www.udemy.com/course/linear-algebra-problem-based/?couponCode=FRESHSTART26",
+        "affiliate_url": "https://trk.udemy.com/c/3288150/3227798/39854?prodsku=course.4988658&u=https://www.udemy.com/course/linear-algebra-problem-based/?couponCode=PREBLACKFRIDAY2026",
         "image": "https://i.udemycdn.com/course/480x270/4988658_ac76_2.jpg",
         "trainer": "Dr. Ron Erez",
         "trainer_slug": "dr-ron-erez",
@@ -25945,7 +25945,7 @@
         "coupon_code": "9.99",
         "students": 275,
         "reviews": 15,
-        "last_updated": "2026-08-29",
+        "last_updated": "2026-10-01",
         "featured": "",
         "status": "Active"
     },
@@ -25955,7 +25955,7 @@
         "description": "Solving Ordinary Differential Equations like there is no tomorrow",
         "rating": 4.8,
         "duration": "4 hours",
-        "affiliate_url": "https://trk.udemy.com/c/3288150/3227798/39854?prodsku=course.3042918&u=https://www.udemy.com/course/differential-equations-a-problem-based-approach/?couponCode=FRESHSTART26",
+        "affiliate_url": "https://trk.udemy.com/c/3288150/3227798/39854?prodsku=course.3042918&u=https://www.udemy.com/course/differential-equations-a-problem-based-approach/?couponCode=PREBLACKFRIDAY2026",
         "image": "https://i.udemycdn.com/course/480x270/3042918_f8eb_2.jpg",
         "trainer": "Dr. Ron Erez",
         "trainer_slug": "dr-ron-erez",
@@ -25970,7 +25970,7 @@
         "coupon_code": "9.99",
         "students": 37,
         "reviews": 5,
-        "last_updated": "2026-08-29",
+        "last_updated": "2026-10-01",
         "featured": "",
         "status": "Active"
     },
@@ -25980,7 +25980,7 @@
         "description": "SwiftUI Basic and Custom Animations, Phase and KeyFrame animations, Transitions, Metal, Spritekit Emitters and more",
         "rating": 4.5,
         "duration": "12.5 hours",
-        "affiliate_url": "https://trk.udemy.com/c/3288150/3227798/39854?prodsku=course.6287611&u=https://www.udemy.com/course/swiftui-ios-animations/?couponCode=FRESHSTART26",
+        "affiliate_url": "https://trk.udemy.com/c/3288150/3227798/39854?prodsku=course.6287611&u=https://www.udemy.com/course/swiftui-ios-animations/?couponCode=PREBLACKFRIDAY2026",
         "image": "https://i.udemycdn.com/course/480x270/6287611_2eb3_3.jpg",
         "trainer": "Dr. Ron Erez",
         "trainer_slug": "dr-ron-erez",
@@ -25995,7 +25995,7 @@
         "coupon_code": "9.99",
         "students": 222,
         "reviews": 30,
-        "last_updated": "2026-08-29",
+        "last_updated": "2026-10-01",
         "featured": "",
         "status": "Active"
     },
@@ -26005,7 +26005,7 @@
         "description": "Build Intuition for Math, Linear Algebra, Statistics, Probability and Python Behind Modern Machine Learning",
         "rating": 4.1,
         "duration": "4.5 hours",
-        "affiliate_url": "https://trk.udemy.com/c/3288150/3227798/39854?prodsku=course.6966467&u=https://www.udemy.com/course/a-gentle-introduction-to-mathematics-for-machine-learning/?couponCode=FRESHSTART26",
+        "affiliate_url": "https://trk.udemy.com/c/3288150/3227798/39854?prodsku=course.6966467&u=https://www.udemy.com/course/a-gentle-introduction-to-mathematics-for-machine-learning/?couponCode=PREBLACKFRIDAY2026",
         "image": "https://i.udemycdn.com/course/480x270/6966467_9ead.jpg",
         "trainer": "Dr. Ron Erez",
         "trainer_slug": "dr-ron-erez",
@@ -26020,7 +26020,7 @@
         "coupon_code": "9.99",
         "students": 50,
         "reviews": 5,
-        "last_updated": "2026-08-29",
+        "last_updated": "2026-10-01",
         "featured": "",
         "status": "Active"
     },
@@ -26030,7 +26030,7 @@
         "description": "From simple vibes to fully functional iOS apps",
         "rating": 4.9,
         "duration": "8.5 hours",
-        "affiliate_url": "https://trk.udemy.com/c/3288150/3227798/39854?prodsku=course.6794057&u=https://www.udemy.com/course/from-vibing-with-base44-to-swift-ios-development/?couponCode=FRESHSTART26",
+        "affiliate_url": "https://trk.udemy.com/c/3288150/3227798/39854?prodsku=course.6794057&u=https://www.udemy.com/course/from-vibing-with-base44-to-swift-ios-development/?couponCode=PREBLACKFRIDAY2026",
         "image": "https://i.udemycdn.com/course/480x270/6794057_2af4.jpg",
         "trainer": "Dr. Ron Erez",
         "trainer_slug": "dr-ron-erez",
@@ -26045,7 +26045,7 @@
         "coupon_code": "9.99",
         "students": 80,
         "reviews": 10,
-        "last_updated": "2026-08-29",
+        "last_updated": "2026-10-01",
         "featured": "",
         "status": "Active"
     },
@@ -26055,7 +26055,7 @@
         "description": "Explore the Art of Shaders and UI Design for Stunning App Development",
         "rating": 4.5,
         "duration": "8 hours",
-        "affiliate_url": "https://trk.udemy.com/c/3288150/3227798/39854?prodsku=course.5971678&u=https://www.udemy.com/course/swiftui-metal-elevating-apps-with-shader-techniques/?couponCode=FRESHSTART26",
+        "affiliate_url": "https://trk.udemy.com/c/3288150/3227798/39854?prodsku=course.5971678&u=https://www.udemy.com/course/swiftui-metal-elevating-apps-with-shader-techniques/?couponCode=PREBLACKFRIDAY2026",
         "image": "https://i.udemycdn.com/course/480x270/5971678_ae09_6.jpg",
         "trainer": "Dr. Ron Erez",
         "trainer_slug": "dr-ron-erez",
@@ -26070,7 +26070,7 @@
         "coupon_code": "9.99",
         "students": 335,
         "reviews": 30,
-        "last_updated": "2026-08-29",
+        "last_updated": "2026-10-01",
         "featured": "",
         "status": "Active"
     },
@@ -26080,7 +26080,7 @@
         "description": "Build a solid calculus foundation with Python to power your machine learning journey",
         "rating": 4.8,
         "duration": "7.5 hours",
-        "affiliate_url": "https://trk.udemy.com/c/3288150/3227798/39854?prodsku=course.6769967&u=https://www.udemy.com/course/python-calculus-for-data-science-and-machine-learning/?couponCode=FRESHSTART26",
+        "affiliate_url": "https://trk.udemy.com/c/3288150/3227798/39854?prodsku=course.6769967&u=https://www.udemy.com/course/python-calculus-for-data-science-and-machine-learning/?couponCode=PREBLACKFRIDAY2026",
         "image": "https://i.udemycdn.com/course/480x270/6769967_eeff.jpg",
         "trainer": "Dr. Ron Erez",
         "trainer_slug": "dr-ron-erez",
@@ -26095,7 +26095,7 @@
         "coupon_code": "9.99",
         "students": 50,
         "reviews": 2,
-        "last_updated": "2026-08-29",
+        "last_updated": "2026-10-01",
         "featured": "",
         "status": "Active"
     },
@@ -26105,7 +26105,7 @@
         "description": "Turn Ideas into Android Apps: Build, Code, and Publish with Base44, Kotlin, and Jetpack Compose",
         "rating": 4.8,
         "duration": "10 hours",
-        "affiliate_url": "https://trk.udemy.com/c/3288150/3227798/39854?prodsku=course.6842255&u=https://www.udemy.com/course/vibing-with-base44-to-android/?couponCode=FRESHSTART26",
+        "affiliate_url": "https://trk.udemy.com/c/3288150/3227798/39854?prodsku=course.6842255&u=https://www.udemy.com/course/vibing-with-base44-to-android/?couponCode=PREBLACKFRIDAY2026",
         "image": "https://i.udemycdn.com/course/480x270/6842255_3e15.jpg",
         "trainer": "Dr. Ron Erez",
         "trainer_slug": "dr-ron-erez",
@@ -26120,7 +26120,7 @@
         "coupon_code": "9.99",
         "students": 35,
         "reviews": 5,
-        "last_updated": "2026-08-29",
+        "last_updated": "2026-10-01",
         "featured": "",
         "status": "Active"
     },
@@ -26130,7 +26130,7 @@
         "description": "Master Essential Concepts in Calculus Quickly",
         "rating": 4.5,
         "duration": "8.5 hours",
-        "affiliate_url": "https://trk.udemy.com/c/3288150/3227798/39854?prodsku=course.5646094&u=https://www.udemy.com/course/rapid-calculus/?couponCode=FRESHSTART26",
+        "affiliate_url": "https://trk.udemy.com/c/3288150/3227798/39854?prodsku=course.5646094&u=https://www.udemy.com/course/rapid-calculus/?couponCode=PREBLACKFRIDAY2026",
         "image": "https://i.udemycdn.com/course/480x270/5646094_c4a6_4.jpg",
         "trainer": "Dr. Ron Erez",
         "trainer_slug": "dr-ron-erez",
@@ -26145,7 +26145,7 @@
         "coupon_code": "9.99",
         "students": 60,
         "reviews": 5,
-        "last_updated": "2026-08-29",
+        "last_updated": "2026-10-01",
         "featured": "",
         "status": "Active"
     },
@@ -26155,7 +26155,7 @@
         "description": "Mastering Algorithms in SwiftUI: An Expert Guide to Swift Programming",
         "rating": 4.1,
         "duration": "18.5 hours",
-        "affiliate_url": "https://trk.udemy.com/c/3288150/3227798/39854?prodsku=course.5479714&u=https://www.udemy.com/course/an-algorithmic-approach-to-swift-programming/?couponCode=FRESHSTART26",
+        "affiliate_url": "https://trk.udemy.com/c/3288150/3227798/39854?prodsku=course.5479714&u=https://www.udemy.com/course/an-algorithmic-approach-to-swift-programming/?couponCode=PREBLACKFRIDAY2026",
         "image": "https://i.udemycdn.com/course/480x270/5479714_e3f7_2.jpg",
         "trainer": "Dr. Ron Erez",
         "trainer_slug": "dr-ron-erez",
@@ -26170,7 +26170,7 @@
         "coupon_code": "9.99",
         "students": 144,
         "reviews": 10,
-        "last_updated": "2026-08-29",
+        "last_updated": "2026-10-01",
         "featured": "",
         "status": "Active"
     },
@@ -26180,7 +26180,7 @@
         "description": "Master Python Data Science by Creating Interactive Apps with Shiny, PyTorch, Pandas, Seaborn & Matplotlib",
         "rating": 4.1,
         "duration": "4 hours",
-        "affiliate_url": "https://trk.udemy.com/c/3288150/3227798/39854?prodsku=course.6010868&u=https://www.udemy.com/course/interactive-data-science-in-python/?couponCode=FRESHSTART26",
+        "affiliate_url": "https://trk.udemy.com/c/3288150/3227798/39854?prodsku=course.6010868&u=https://www.udemy.com/course/interactive-data-science-in-python/?couponCode=PREBLACKFRIDAY2026",
         "image": "https://i.udemycdn.com/course/480x270/6010868_1bc1_2.jpg",
         "trainer": "Dr. Ron Erez",
         "trainer_slug": "dr-ron-erez",
@@ -26195,7 +26195,7 @@
         "coupon_code": "9.99",
         "students": 20,
         "reviews": 3,
-        "last_updated": "2026-08-29",
+        "last_updated": "2026-10-01",
         "featured": "",
         "status": "Active"
     },
@@ -29005,7 +29005,7 @@
         "description": "Your third course in DM: sequences, recurrence relations, a brief introduction to Graph Theory, some applications of DM",
         "rating": 4.3,
         "duration": "53.5 hours",
-        "affiliate_url": "https://www.udemy.com/course/discrete-mathematics-3/?couponCode=TPOT_SEP26",
+        "affiliate_url": "https://trk.udemy.com/c/3288150/3227798/39854?prodsku=course.7068761&u=https://www.udemy.com/course/discrete-mathematics-3/?couponCode=TPOT_SEP26",
         "image": "https://img-c.udemycdn.com/course/480x270/7068761_7b8b.jpg",
         "trainer": "Hania Uscka-Wehlou",
         "trainer_slug": "hania-uscka-wehlou",
@@ -29030,7 +29030,7 @@
         "description": "Coding with AI agents from the CLI, using Anthropic's Claude Code. Build an online radio station, ready for production!",
         "rating": 4.4,
         "duration": "37829",
-        "affiliate_url": "https://www.udemy.com/course/anthropic-claude-code/?couponCode=8004D95BCD2534C6D971",
+        "affiliate_url": "https://trk.udemy.com/c/3288150/3227798/39854?prodsku=course.6720528&u=https://www.udemy.com/course/anthropic-claude-code/?couponCode=8004D95BCD2534C6D971",
         "image": "https://img-c.udemycdn.com/course/480x270/6720528_ec68_4.jpg",
         "trainer": "Frank Kane",
         "trainer_slug": "frank-kane",
@@ -41580,7 +41580,7 @@
         "description": "Prepare for the Claude Developer Exam with Instructor-led labs and videos",
         "rating": 4.6,
         "duration": "9.5 hours",
-        "affiliate_url": "https://www.udemy.com/course/claude-certified-developer-foundations-exam-prep/?couponCode=CCDV-F-LAUNCH",
+        "affiliate_url": "https://trk.udemy.com/c/3288150/3227798/39854?prodsku=course.7269367&u=https://www.udemy.com/course/claude-certified-developer-foundations-exam-prep/?couponCode=CCDV-F-LAUNCH",
         "image": "https://img-c.udemycdn.com/course/480x270/7271373_01c9_3.jpg",
         "trainer": "Kuljot Singh Bakshi",
         "trainer_slug": "kuljot-singh-bakshi",
@@ -54805,7 +54805,7 @@
         "description": "Pass the AWS Certified AI Business Strategist AIB-C01 exam | AI Strategy, Business Value, Governance | No coding needed",
         "rating": 4.5,
         "duration": "3.5 hours",
-        "affiliate_url": "https://www.udemy.com/course/aws-certified-ai-business-strategist-aib/?couponCode=AWS_CERTIFIED",
+        "affiliate_url": "https://trk.udemy.com/c/3288150/3227798/39854?prodsku=course.7345093&u=https://www.udemy.com/course/aws-certified-ai-business-strategist-aib/?couponCode=AWS_CERTIFIED",
         "image": "https://img-c.udemycdn.com/course/480x270/7345093_1752.jpg",
         "trainer": "Stephane Maarek",
         "trainer_slug": "stephane-maarek",
@@ -54830,7 +54830,7 @@
         "description": "Pass the AWS Certified AI Business Strategist (AIB-C01) exam. 340 unique high-quality test questions.",
         "rating": 4.8,
         "duration": "4 tests",
-        "affiliate_url": "https://www.udemy.com/course/aws-certified-ai-business-strategist-practice-exams/?couponCode=AWS_CERTIFIED",
+        "affiliate_url": "https://trk.udemy.com/c/3288150/3227798/39854?prodsku=course.7331909&u=https://www.udemy.com/course/aws-certified-ai-business-strategist-practice-exams/?couponCode=AWS_CERTIFIED",
         "image": "https://img-c.udemycdn.com/course/480x270/7331909_58bf.jpg",
         "trainer": "Stephane Maarek",
         "trainer_slug": "stephane-maarek",
@@ -54855,7 +54855,7 @@
         "description": "CCAR-F prep with Claude Code, Agent SDK, MCP, orchestration, structured output, and 2 mock exams",
         "rating": 4.7,
         "duration": "8.5 hours",
-        "affiliate_url": "https://www.udemy.com/course/ultimate-anthropic-claude-certified-architect-foundations-ccar-f/?couponCode=CCAR-F-LAUNCH",
+        "affiliate_url": "https://trk.udemy.com/c/3288150/3939309/39854?prodsku=course.7321529&u=https://www.udemy.com/course/ultimate-anthropic-claude-certified-architect-foundations-ccar-f/?couponCode=CCAR-F-LAUNCH",
         "image": "https://img-c.udemycdn.com/course/480x270/7321529_6b28.jpg",
         "trainer": "Frank Kane",
         "trainer_slug": "frank-kane",
@@ -54871,6 +54871,1131 @@
         "students": 300,
         "reviews": 30,
         "last_updated": "2026-09-08",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 2196,
+        "title": "Build AI-Driven Apps with Java: Spring AI, RAG & Agents",
+        "description": "Production-ready LLM apps in Java with Spring AI: Spring Boot, RAG, agents, MCP, tool calling, streaming & vector search",
+        "rating": 4.6,
+        "duration": "8 hours",
+        "affiliate_url": "https://trk.udemy.com/c/3288150/3227798/39854?prodsku=course.7351787&u=https://www.udemy.com/course/build-ai-driven-apps-with-java-spring-ai-rag-agents/?couponCode=SPRINGAI_26",
+        "image": "https://img-c.udemycdn.com/course/480x270/7351787_f8d7_3.jpg",
+        "trainer": "Faisal Memon",
+        "trainer_slug": "faisal-memon",
+        "category": [
+            "Spring Boot"
+        ],
+        "category_slug": [
+            "spring-boot"
+        ],
+        "language": "English",
+        "language_slug": "english",
+        "coupon_code": "9.99",
+        "students": 500,
+        "reviews": 50,
+        "last_updated": "2026-09-04",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 2197,
+        "title": "ChatGPT Ads do Zero: Anuncie no ChatGPT em 1 Hora",
+        "description": "Tráfego pago com IA para iniciantes: use o ChatGPT Ads Manager e apareça onde o seu cliente já está decidindo no ChatGPT",
+        "rating": 4.8,
+        "duration": "1 hour",
+        "affiliate_url": "https://trk.udemy.com/c/3288150/3227798/39854?prodsku=course.7298387&u=https://www.udemy.com/course/chatgpt-ads-pt/?couponCode=CHATGPTADS-PT-0926",
+        "image": "https://img-c.udemycdn.com/course/480x270/7298387_07d2_6.jpg",
+        "trainer": "Diego Davila",
+        "trainer_slug": "diego-davila",
+        "category": [
+            "ChatGPT"
+        ],
+        "category_slug": [
+            "chatgpt"
+        ],
+        "language": "Portuguese",
+        "language_slug": "portuguese",
+        "coupon_code": "12.99",
+        "students": 500,
+        "reviews": 50,
+        "last_updated": "2026-10-01",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 2198,
+        "title": "SAP ECC & S/4 HANA MM Organization Structure & Master Data",
+        "description": "SAP MM Master Data topics like Material, Vendor, Service, Info record, Source List and Quota Arrangement",
+        "rating": 4.4,
+        "duration": "17.5 hours",
+        "affiliate_url": "https://trk.udemy.com/c/3288150/3227798/39854?prodsku=course.3098900&u=https://www.udemy.com/course/sap-mm-master-data-course/?couponCode=GP-OCT",
+        "image": "https://i.udemycdn.com/course/480x270/3098900_1bcc.jpg",
+        "trainer": "Ganesh Padala",
+        "trainer_slug": "ganesh-padala",
+        "category": [
+            "SAP"
+        ],
+        "category_slug": [
+            "sap"
+        ],
+        "language": "English",
+        "language_slug": "english",
+        "coupon_code": "12.99",
+        "students": 5697,
+        "reviews": 998,
+        "last_updated": "2026-10-01",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 2199,
+        "title": "SAP ECC and S/4 HANA SAP MM Procurement Process",
+        "description": "Business Process Explanation along with SAP Configuration and Testing of Purchasing Processes",
+        "rating": 4.7,
+        "duration": "29 hours",
+        "affiliate_url": "https://trk.udemy.com/c/3288150/3227798/39854?prodsku=course.3297318&u=https://www.udemy.com/course/sap-mm-purchasing-procurement-process/?couponCode=GP-OCT",
+        "image": "https://i.udemycdn.com/course/480x270/3297318_d9cb_3.jpg",
+        "trainer": "Ganesh Padala",
+        "trainer_slug": "ganesh-padala",
+        "category": [
+            "SAP"
+        ],
+        "category_slug": [
+            "sap"
+        ],
+        "language": "English",
+        "language_slug": "english",
+        "coupon_code": "12.99",
+        "students": 7419,
+        "reviews": 1227,
+        "last_updated": "2026-10-01",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 2200,
+        "title": "SAP MM PR and PO Release Procedure",
+        "description": "Purchase Requisition and Purchase Order Release Procedure with classification",
+        "rating": 4.4,
+        "duration": "5.5 hours",
+        "affiliate_url": "https://trk.udemy.com/c/3288150/3227798/39854?prodsku=course.2340798&u=https://www.udemy.com/course/sap-mm-pr-and-po-release-procedure/?couponCode=GP-OCT",
+        "image": "https://i.udemycdn.com/course/480x270/2340798_b348_2.jpg",
+        "trainer": "Ganesh Padala",
+        "trainer_slug": "ganesh-padala",
+        "category": [
+            "SAP"
+        ],
+        "category_slug": [
+            "sap"
+        ],
+        "language": "English",
+        "language_slug": "english",
+        "coupon_code": "12.99",
+        "students": 3303,
+        "reviews": 495,
+        "last_updated": "2026-10-01",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 2201,
+        "title": "SAP ECC and S/4 HANA MM Pricing Procedure",
+        "description": "SAP MM Pricing Procedure step by step configuration and testing with business examples",
+        "rating": 4.7,
+        "duration": "6.5 hours",
+        "affiliate_url": "https://trk.udemy.com/c/3288150/3227798/39854?prodsku=course.2347694&u=https://www.udemy.com/course/sap-mm-pricing-procedure/?couponCode=GP-OCT",
+        "image": "https://i.udemycdn.com/course/480x270/2347694_44cd.jpg",
+        "trainer": "Ganesh Padala",
+        "trainer_slug": "ganesh-padala",
+        "category": [
+            "SAP"
+        ],
+        "category_slug": [
+            "sap"
+        ],
+        "language": "English",
+        "language_slug": "english",
+        "coupon_code": "12.99",
+        "students": 6051,
+        "reviews": 1296,
+        "last_updated": "2026-10-01",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 2202,
+        "title": "SAP S/4 HANA MM Inventory Management Course",
+        "description": "Sub Topics of Inventory Management",
+        "rating": 4.3,
+        "duration": "30.5 hours",
+        "affiliate_url": "https://trk.udemy.com/c/3288150/3227798/39854?prodsku=course.3301130&u=https://www.udemy.com/course/sap-mm-inventory-management-course/?couponCode=GP-OCT",
+        "image": "https://i.udemycdn.com/course/480x270/3301130_385f.jpg",
+        "trainer": "Ganesh Padala",
+        "trainer_slug": "ganesh-padala",
+        "category": [
+            "SAP"
+        ],
+        "category_slug": [
+            "sap"
+        ],
+        "language": "English",
+        "language_slug": "english",
+        "coupon_code": "12.99",
+        "students": 4097,
+        "reviews": 500,
+        "last_updated": "2026-10-01",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 2203,
+        "title": "SAP ECC and S/4 HANA MM Logistics Invoice Verification",
+        "description": "Invoice Receipt, Credit Memo, Subsequent Debit, Subsequent Credit, ERS, Invoice Print and Tax Code Creation",
+        "rating": 4.5,
+        "duration": "7.5 hours",
+        "affiliate_url": "https://trk.udemy.com/c/3288150/3227798/39854?prodsku=course.3299354&u=https://www.udemy.com/course/sap-mm-logistics-invoice-verification-process/?couponCode=GP-OCT",
+        "image": "https://i.udemycdn.com/course/480x270/3299354_c89b.jpg",
+        "trainer": "Ganesh Padala",
+        "trainer_slug": "ganesh-padala",
+        "category": [
+            "SAP"
+        ],
+        "category_slug": [
+            "sap"
+        ],
+        "language": "English",
+        "language_slug": "english",
+        "coupon_code": "12.99",
+        "students": 2220,
+        "reviews": 230,
+        "last_updated": "2026-10-01",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 2204,
+        "title": "SAP S/4 HANA and ECC MM Special Procurement Processes",
+        "description": "Multiple Special Procurement Processes in SAP S/4 HANA Material Management related Special Procurement processes",
+        "rating": 4.4,
+        "duration": "15 hours",
+        "affiliate_url": "https://trk.udemy.com/c/3288150/3227798/39854?prodsku=course.2347328&u=https://www.udemy.com/course/sap-intra-company-sto-process/?couponCode=GP-OCT",
+        "image": "https://i.udemycdn.com/course/480x270/2347328_e72b_4.jpg",
+        "trainer": "Ganesh Padala",
+        "trainer_slug": "ganesh-padala",
+        "category": [
+            "SAP"
+        ],
+        "category_slug": [
+            "sap"
+        ],
+        "language": "English",
+        "language_slug": "english",
+        "coupon_code": "12.99",
+        "students": 3038,
+        "reviews": 460,
+        "last_updated": "2026-10-01",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 2205,
+        "title": "SAP MM Consignment and Pipeline Procurement",
+        "description": "Consignment and Pipeline Procurement Cycle",
+        "rating": 4.7,
+        "duration": "3.5 hours",
+        "affiliate_url": "https://trk.udemy.com/c/3288150/3227798/39854?prodsku=course.2347294&u=https://www.udemy.com/course/sap-mm-consignment-and-pipeline-procurement/?couponCode=GP-OCT",
+        "image": "https://i.udemycdn.com/course/480x270/2347294_f197_2.jpg",
+        "trainer": "Ganesh Padala",
+        "trainer_slug": "ganesh-padala",
+        "category": [
+            "SAP"
+        ],
+        "category_slug": [
+            "sap"
+        ],
+        "language": "English",
+        "language_slug": "english",
+        "coupon_code": "12.99",
+        "students": 2379,
+        "reviews": 603,
+        "last_updated": "2026-10-01",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 2206,
+        "title": "SAP MM Subcontracting and SAP Batch Management Process",
+        "description": "Over and Under consumption of Components and Generation of By product",
+        "rating": 4.6,
+        "duration": "9.5 hours",
+        "affiliate_url": "https://trk.udemy.com/c/3288150/3227798/39854?prodsku=course.2339350&u=https://www.udemy.com/course/sapmm-subcontracting/?couponCode=GP-OCT",
+        "image": "https://i.udemycdn.com/course/480x270/2339350_b70a_5.jpg",
+        "trainer": "Ganesh Padala",
+        "trainer_slug": "ganesh-padala",
+        "category": [
+            "SAP"
+        ],
+        "category_slug": [
+            "sap"
+        ],
+        "language": "English",
+        "language_slug": "english",
+        "coupon_code": "12.99",
+        "students": 5882,
+        "reviews": 1100,
+        "last_updated": "2026-10-01",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 2207,
+        "title": "SAP ECC and S/4 HANA WM-MM and WM-SD Integration Course",
+        "description": "Integration of other Modules with SAP ECC WM or S/4 HANA Stock Room Management",
+        "rating": 4.6,
+        "duration": "7.5 hours",
+        "affiliate_url": "https://trk.udemy.com/c/3288150/3227798/39854?prodsku=course.3098554&u=https://www.udemy.com/course/sap-mm-wm-integration-course-by-ganesh-padala/?couponCode=GP-OCT",
+        "image": "https://i.udemycdn.com/course/480x270/3098554_17b7.jpg",
+        "trainer": "Ganesh Padala",
+        "trainer_slug": "ganesh-padala",
+        "category": [
+            "SAP"
+        ],
+        "category_slug": [
+            "sap"
+        ],
+        "language": "English",
+        "language_slug": "english",
+        "coupon_code": "12.99",
+        "students": 4099,
+        "reviews": 385,
+        "last_updated": "2026-10-01",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 2208,
+        "title": "SAP Important Topics for all Functional Consultants",
+        "description": "Common SAP Concepts for all Functional Consultants",
+        "rating": 4.7,
+        "duration": "22.5 hours",
+        "affiliate_url": "https://trk.udemy.com/c/3288150/3227798/39854?prodsku=course.3318530&u=https://www.udemy.com/course/sap-generic-course-for-all-functional-consultants/?couponCode=GP-OCT",
+        "image": "https://i.udemycdn.com/course/480x270/3318530_36b6.jpg",
+        "trainer": "Ganesh Padala",
+        "trainer_slug": "ganesh-padala",
+        "category": [
+            "SAP"
+        ],
+        "category_slug": [
+            "sap"
+        ],
+        "language": "English",
+        "language_slug": "english",
+        "coupon_code": "12.99",
+        "students": 5911,
+        "reviews": 625,
+        "last_updated": "2026-10-01",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 2209,
+        "title": "50 SAP ECC & S/4 HANA MM Support Tickets with Solutions",
+        "description": "50 SAP ECC & S/4 HANA MM Support Tickets with Solutions",
+        "rating": 4.7,
+        "duration": "4.5 hours",
+        "affiliate_url": "https://trk.udemy.com/c/3288150/3227798/39854?prodsku=course.6365805&u=https://www.udemy.com/course/100-points-must-know-about-sap-ecc-and-s4-hana-mm-part-1/?couponCode=GP-OCT",
+        "image": "https://i.udemycdn.com/course/480x270/6365805_2102_2.jpg",
+        "trainer": "Ganesh Padala",
+        "trainer_slug": "ganesh-padala",
+        "category": [
+            "SAP"
+        ],
+        "category_slug": [
+            "sap"
+        ],
+        "language": "English",
+        "language_slug": "english",
+        "coupon_code": "12.99",
+        "students": 843,
+        "reviews": 80,
+        "last_updated": "2026-10-01",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 2210,
+        "title": "SAP ECC and S/4 HANA Differences",
+        "description": "SAP S/4 HANA Latest Projects and other information",
+        "rating": 4.4,
+        "duration": "12 hours",
+        "affiliate_url": "https://trk.udemy.com/c/3288150/3227798/39854?prodsku=course.5897318&u=https://www.udemy.com/course/sap-ecc-and-s4-hana-differences/?couponCode=GP-OCT",
+        "image": "https://i.udemycdn.com/course/480x270/5897318_ca47_2.jpg",
+        "trainer": "Ganesh Padala",
+        "trainer_slug": "ganesh-padala",
+        "category": [
+            "SAP"
+        ],
+        "category_slug": [
+            "sap"
+        ],
+        "language": "English",
+        "language_slug": "english",
+        "coupon_code": "12.99",
+        "students": 3977,
+        "reviews": 400,
+        "last_updated": "2026-10-01",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 2211,
+        "title": "SAP MM Mock Interview Videos Part 1",
+        "description": "SAP MM Interview Questions and Answers",
+        "rating": 4.5,
+        "duration": "14.5 hours",
+        "affiliate_url": "https://trk.udemy.com/c/3288150/3227798/39854?prodsku=course.4189444&u=https://www.udemy.com/course/sap-mm-mock-interview-videos-part-1/?couponCode=GP-OCT",
+        "image": "https://i.udemycdn.com/course/480x270/4189444_bf7d_4.jpg",
+        "trainer": "Ganesh Padala",
+        "trainer_slug": "ganesh-padala",
+        "category": [
+            "SAP"
+        ],
+        "category_slug": [
+            "sap"
+        ],
+        "language": "English",
+        "language_slug": "english",
+        "coupon_code": "12.99",
+        "students": 2122,
+        "reviews": 201,
+        "last_updated": "2026-10-01",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 2212,
+        "title": "SAP MM Mock Interview Videos Part 2",
+        "description": "SAP MM Sample Mock Interview Questions and Answers",
+        "rating": 4.8,
+        "duration": "9.5 hours",
+        "affiliate_url": "https://trk.udemy.com/c/3288150/3227798/39854?prodsku=course.4582672&u=https://www.udemy.com/course/sap-mm-mock-interview-videos-part-2/?couponCode=GP-OCT",
+        "image": "https://i.udemycdn.com/course/480x270/4582672_a7ac.jpg",
+        "trainer": "Ganesh Padala",
+        "trainer_slug": "ganesh-padala",
+        "category": [
+            "SAP"
+        ],
+        "category_slug": [
+            "sap"
+        ],
+        "language": "English",
+        "language_slug": "english",
+        "coupon_code": "12.99",
+        "students": 1016,
+        "reviews": 85,
+        "last_updated": "2026-10-01",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 2213,
+        "title": "SAP S/4 HANA Implementation Process with Sample Documents",
+        "description": "SAP Functional Implementation and Roles and Responsibilities",
+        "rating": 4.8,
+        "duration": "16.5 hours",
+        "affiliate_url": "https://trk.udemy.com/c/3288150/3227798/39854?prodsku=course.4248808&u=https://www.udemy.com/course/sap-implementation-process-training-with-sample-documents/?couponCode=GP-OCT",
+        "image": "https://i.udemycdn.com/course/480x270/4248808_29d8.jpg",
+        "trainer": "Ganesh Padala",
+        "trainer_slug": "ganesh-padala",
+        "category": [
+            "SAP"
+        ],
+        "category_slug": [
+            "sap"
+        ],
+        "language": "English",
+        "language_slug": "english",
+        "coupon_code": "12.99",
+        "students": 7987,
+        "reviews": 1253,
+        "last_updated": "2026-10-01",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 2214,
+        "title": "ECC & S/4 SAP Support Activities & MM sample Support Tickets",
+        "description": "Roles of Support Consultant and sample Incidents, Service Requests and Change Requests",
+        "rating": 4.6,
+        "duration": "16 hours",
+        "affiliate_url": "https://trk.udemy.com/c/3288150/3227798/39854?prodsku=course.4239604&u=https://www.udemy.com/course/sap-mm-change-requests-and-support-activities/?couponCode=GP-OCT",
+        "image": "https://i.udemycdn.com/course/480x270/4239604_041a.jpg",
+        "trainer": "Ganesh Padala",
+        "trainer_slug": "ganesh-padala",
+        "category": [
+            "SAP"
+        ],
+        "category_slug": [
+            "sap"
+        ],
+        "language": "English",
+        "language_slug": "english",
+        "coupon_code": "12.99",
+        "students": 3507,
+        "reviews": 490,
+        "last_updated": "2026-10-01",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 2215,
+        "title": "Spec Driven Development con .NET y Github Copilot",
+        "description": "Construye aplicaciones .NET con Inteligencia Artificial usando Vertical Slice Architecture, PostgreSQL, EF Core",
+        "rating": 4.6,
+        "duration": "14 hours",
+        "affiliate_url": "https://trk.udemy.com/c/3288150/3227798/39854?prodsku=course.7175918&u=https://www.udemy.com/course/spec-driven-development-con-net/?couponCode=092026",
+        "image": "https://img-c.udemycdn.com/course/480x270/7253801_6e07.jpg",
+        "trainer": "Nico Madero",
+        "trainer_slug": "nico-madero",
+        "category": [
+            "Github Copilot"
+        ],
+        "category_slug": [
+            "github-copilot"
+        ],
+        "language": "Spanish",
+        "language_slug": "spanish",
+        "coupon_code": "12.99",
+        "students": 241,
+        "reviews": 25,
+        "last_updated": "2026-10-01",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 2216,
+        "title": "Spec-Driven Development con Python usando GitHub Copilot",
+        "description": "Domina la nueva forma de construir software con IA usando Spec-Driven Development, GitHub Copilot, FastAPI y Python",
+        "rating": 4.8,
+        "duration": "12 hours",
+        "affiliate_url": "https://trk.udemy.com/c/3288150/3227798/39854?prodsku=course.7253801&u=https://www.udemy.com/course/spec-driven-development-python/?couponCode=092026",
+        "image": "https://img-c.udemycdn.com/course/480x270/7175918_172c.jpg",
+        "trainer": "Nico Madero",
+        "trainer_slug": "nico-madero",
+        "category": [
+            "Software Engineering"
+        ],
+        "category_slug": [
+            "software-engineering"
+        ],
+        "language": "Spanish",
+        "language_slug": "spanish",
+        "coupon_code": "12.99",
+        "students": 331,
+        "reviews": 50,
+        "last_updated": "2026-10-01",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 2217,
+        "title": "Ruta Completa C# : Fundamentos, Programación Avanzada y MVC",
+        "description": "Domina C#, .NET y el patrón MVC desde cero, crea aplicaciones profesionales paso a paso | SQL Server | ASP.NET Core",
+        "rating": 4.7,
+        "duration": "23.5 hours",
+        "affiliate_url": "https://trk.udemy.com/c/3288150/3227798/39854?prodsku=course.4421032&u=https://www.udemy.com/course/curso-net/?couponCode=092026",
+        "image": "https://i.udemycdn.com/course/480x270/4421032_acfd_13.jpg",
+        "trainer": "Nico Madero",
+        "trainer_slug": "nico-madero",
+        "category": [
+            "Dot Net"
+        ],
+        "category_slug": [
+            "dot-net"
+        ],
+        "language": "Spanish",
+        "language_slug": "spanish",
+        "coupon_code": "12.99",
+        "students": 16715,
+        "reviews": 790,
+        "last_updated": "2026-10-01",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 2218,
+        "title": "ASP.NET Core y Clean Architecture con Domain Driven Design",
+        "description": "Desarrolla aplicaciones ASP.NET Core con Clean Architecture, Dapper, Entity Framework, SOLID y Domain Driven Design",
+        "rating": 4.5,
+        "duration": "11 hours",
+        "affiliate_url": "https://trk.udemy.com/c/3288150/3227798/39854?prodsku=course.5631018&u=https://www.udemy.com/course/clean-architecture/?couponCode=092026",
+        "image": "https://i.udemycdn.com/course/480x270/5631018_34c7_7.jpg",
+        "trainer": "Nico Madero",
+        "trainer_slug": "nico-madero",
+        "category": [
+            "Dot Net"
+        ],
+        "category_slug": [
+            "dot-net"
+        ],
+        "language": "Spanish",
+        "language_slug": "spanish",
+        "coupon_code": "12.99",
+        "students": 3340,
+        "reviews": 760,
+        "last_updated": "2026-10-01",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 2219,
+        "title": "Github Copilot para Programadores .NET - ASP.NET Core",
+        "description": "Aprende como utilizar la Inteligencia Artificial para ser mas productivo como Programador .NET y ASP.NET Core -Unit Test",
+        "rating": 4.5,
+        "duration": "6.5 hours",
+        "affiliate_url": "https://trk.udemy.com/c/3288150/3227798/39854?prodsku=course.6482615&u=https://www.udemy.com/course/github-copilot-net/?couponCode=092026",
+        "image": "https://i.udemycdn.com/course/480x270/6482615_1d38_3.jpg",
+        "trainer": "Nico Madero",
+        "trainer_slug": "nico-madero",
+        "category": [
+            "Github Copilot"
+        ],
+        "category_slug": [
+            "github-copilot"
+        ],
+        "language": "Spanish",
+        "language_slug": "spanish",
+        "coupon_code": "12.99",
+        "students": 600,
+        "reviews": 115,
+        "last_updated": "2026-10-01",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 2220,
+        "title": "Microservices con ASP.NET Core y Event Driven Architecture",
+        "description": "Construye Microservicios con arquitecturas avanzadas usando Event Sourcing Postgres MongoDB y Apache Kafka",
+        "rating": 4.7,
+        "duration": "14 hours",
+        "affiliate_url": "https://trk.udemy.com/c/3288150/3227798/39854?prodsku=course.6447605&u=https://www.udemy.com/course/event-driven/?couponCode=092026",
+        "image": "https://i.udemycdn.com/course/480x270/6447605_d22a_11.jpg",
+        "trainer": "Nico Madero",
+        "trainer_slug": "nico-madero",
+        "category": [
+            "Dot Net"
+        ],
+        "category_slug": [
+            "dot-net"
+        ],
+        "language": "Spanish",
+        "language_slug": "spanish",
+        "coupon_code": "12.99",
+        "students": 736,
+        "reviews": 60,
+        "last_updated": "2026-10-01",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 2221,
+        "title": "Master Web Api ASP NET Core usando Clean Architecture",
+        "description": "Web Apis con ASP NET Core usando SQL, Entity Framework, Linq, Authentication, Authorization, Clean Architecture",
+        "rating": 4.3,
+        "duration": "20.5 hours",
+        "affiliate_url": "https://trk.udemy.com/c/3288150/3227798/39854?prodsku=course.5896836&u=https://www.udemy.com/course/webapi-net/?couponCode=092026",
+        "image": "https://i.udemycdn.com/course/480x270/5896836_0b45_8.jpg",
+        "trainer": "Nico Madero",
+        "trainer_slug": "nico-madero",
+        "category": [
+            "Dot Net"
+        ],
+        "category_slug": [
+            "dot-net"
+        ],
+        "language": "Spanish",
+        "language_slug": "spanish",
+        "coupon_code": "12.99",
+        "students": 1027,
+        "reviews": 150,
+        "last_updated": "2026-10-01",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 2222,
+        "title": "Vertical Slice Architecture y Clean Architecture en NET Core",
+        "description": "Aprende arquitecturas avanzadas con Clean Architecture y Vertical Slice Architecture - Entity Framework - ASP.NET Core",
+        "rating": 4.7,
+        "duration": "17.5 hours",
+        "affiliate_url": "https://trk.udemy.com/c/3288150/3227798/39854?prodsku=course.6123805&u=https://www.udemy.com/course/vertical-slice-architecture/?couponCode=092026",
+        "image": "https://i.udemycdn.com/course/480x270/6123805_eadb_9.jpg",
+        "trainer": "Nico Madero",
+        "trainer_slug": "nico-madero",
+        "category": [
+            "Dot Net"
+        ],
+        "category_slug": [
+            "dot-net"
+        ],
+        "language": "Spanish",
+        "language_slug": "spanish",
+        "coupon_code": "12.99",
+        "students": 531,
+        "reviews": 55,
+        "last_updated": "2026-10-01",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 2223,
+        "title": ".NET 10 : Modular Monolith - Architecture y Fundamentos",
+        "description": "Domina Modular Monolith con .NET 10 integrando Postgres, Docker Compose y Visual Studio 2026 paso a paso",
+        "rating": 4.7,
+        "duration": "12.5 hours",
+        "affiliate_url": "https://trk.udemy.com/c/3288150/3227798/39854?prodsku=course.6926895&u=https://www.udemy.com/course/modular-monolith/?couponCode=092026",
+        "image": "https://i.udemycdn.com/course/480x270/6926895_efad_2.jpg",
+        "trainer": "Nico Madero",
+        "trainer_slug": "nico-madero",
+        "category": [
+            "Dot Net"
+        ],
+        "category_slug": [
+            "dot-net"
+        ],
+        "language": "Spanish",
+        "language_slug": "spanish",
+        "coupon_code": "12.99",
+        "students": 295,
+        "reviews": 45,
+        "last_updated": "2026-10-01",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 2224,
+        "title": "ASP NET Core Unit Test | NUnit y XUnit | Visual Studio 2022",
+        "description": "Aprende Unit Test en NET Core usando NUnit, Moq, XUnit desde cero hasta un nivel avanzado en NET Core, EF y SQL Server",
+        "rating": 4.5,
+        "duration": "8 hours",
+        "affiliate_url": "https://trk.udemy.com/c/3288150/3227798/39854?prodsku=course.4263496&u=https://www.udemy.com/course/net-core-unit-test/?couponCode=092026",
+        "image": "https://i.udemycdn.com/course/480x270/4263496_ea27_3.jpg",
+        "trainer": "Nico Madero",
+        "trainer_slug": "nico-madero",
+        "category": [
+            "Dot Net"
+        ],
+        "category_slug": [
+            "dot-net"
+        ],
+        "language": "Spanish",
+        "language_slug": "spanish",
+        "coupon_code": "12.99",
+        "students": 1580,
+        "reviews": 397,
+        "last_updated": "2026-10-01",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 2225,
+        "title": ".NET MAUI desde las bases hasta Profesional | Android | IOS",
+        "description": "Construye Aplicaciones Moviles con .NET MAUI | Integrando bases de datos| Entity Framework | Rest Services | Security",
+        "rating": 4.3,
+        "duration": "17.5 hours",
+        "affiliate_url": "https://trk.udemy.com/c/3288150/3227798/39854?prodsku=course.5114910&u=https://www.udemy.com/course/maui-net/?couponCode=092026",
+        "image": "https://i.udemycdn.com/course/480x270/5114910_1802_3.jpg",
+        "trainer": "Nico Madero",
+        "trainer_slug": "nico-madero",
+        "category": [
+            "Dot Net"
+        ],
+        "category_slug": [
+            "dot-net"
+        ],
+        "language": "Spanish",
+        "language_slug": "spanish",
+        "coupon_code": "12.99",
+        "students": 2688,
+        "reviews": 335,
+        "last_updated": "2026-10-01",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 2226,
+        "title": "Microsoft Azure para ASP.NET Core Developers : Avanzado",
+        "description": "Aprende a integrar servicios clave de Azure en proyectos reales usando ASP.NET, Web API, Debug Remoto",
+        "rating": 4.2,
+        "duration": "11 hours",
+        "affiliate_url": "https://trk.udemy.com/c/3288150/3227798/39854?prodsku=course.6655551&u=https://www.udemy.com/course/azure-avanzado/?couponCode=092026",
+        "image": "https://i.udemycdn.com/course/480x270/6655551_22c4_8.jpg",
+        "trainer": "Nico Madero",
+        "trainer_slug": "nico-madero",
+        "category": [
+            "Dot Net"
+        ],
+        "category_slug": [
+            "dot-net"
+        ],
+        "language": "Spanish",
+        "language_slug": "spanish",
+        "coupon_code": "12.99",
+        "students": 100,
+        "reviews": 10,
+        "last_updated": "2026-10-01",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 2227,
+        "title": "ASP.NET Core Web Api con Clean Architecture y Azure Services",
+        "description": "Construye ASP.NET Core Apps | Clean Architecture | Domina la nube con Microsoft Azure y Despliege de Web Apis oncloud",
+        "rating": 4.6,
+        "duration": "16 hours",
+        "affiliate_url": "https://trk.udemy.com/c/3288150/3227798/39854?prodsku=course.6631551&u=https://www.udemy.com/course/azure-net/?couponCode=092026",
+        "image": "https://i.udemycdn.com/course/480x270/6631551_d4f6_4.jpg",
+        "trainer": "Nico Madero",
+        "trainer_slug": "nico-madero",
+        "category": [
+            "Dot Net"
+        ],
+        "category_slug": [
+            "dot-net"
+        ],
+        "language": "Spanish",
+        "language_slug": "spanish",
+        "coupon_code": "12.99",
+        "students": 324,
+        "reviews": 50,
+        "last_updated": "2026-10-01",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 2228,
+        "title": "Microservicios con ASP.NET Core | Angular | MongoDB | Docker",
+        "description": "Domina ASP.NET Core implementando Microservicios con Angular | Docker | MongoDB | SQL Server",
+        "rating": 4.6,
+        "duration": "19.5 hours",
+        "affiliate_url": "https://trk.udemy.com/c/3288150/3227798/39854?prodsku=course.3582569&u=https://www.udemy.com/course/microservicios-aspnet-core-5-angular-mongodb/?couponCode=092026",
+        "image": "https://i.udemycdn.com/course/480x270/3582569_f5a6_6.jpg",
+        "trainer": "Nico Madero",
+        "trainer_slug": "nico-madero",
+        "category": [
+            "Microservices"
+        ],
+        "category_slug": [
+            "microservices"
+        ],
+        "language": "Spanish",
+        "language_slug": "spanish",
+        "coupon_code": "12.99",
+        "students": 4600,
+        "reviews": 750,
+        "last_updated": "2026-10-01",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 2229,
+        "title": "Microservicios con ASP.NET Core,Docker y RabbitMQ",
+        "description": "Microservicios con ASP.NET Core, RabbitMQ, Postgresql, MySql, Sql Server y Docker en Azure",
+        "rating": 4.4,
+        "duration": "14 hours",
+        "affiliate_url": "https://trk.udemy.com/c/3288150/3227798/39854?prodsku=course.3264424&u=https://www.udemy.com/course/microservices-con-aspnet-core-y-docker-en-azure/?couponCode=092026",
+        "image": "https://i.udemycdn.com/course/480x270/3264424_1633.jpg",
+        "trainer": "Nico Madero",
+        "trainer_slug": "nico-madero",
+        "category": [
+            "Dot Net"
+        ],
+        "category_slug": [
+            "dot-net"
+        ],
+        "language": "Spanish",
+        "language_slug": "spanish",
+        "coupon_code": "12.99",
+        "students": 5617,
+        "reviews": 1088,
+        "last_updated": "2026-10-01",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 2230,
+        "title": "CI/CD para .NET Developers con Terraform y Azure",
+        "description": "Aprende a automatizar el despliegue de Web APIs ASP NET en Azure, integraciones continuas, y bases de datos SQL Server",
+        "rating": 4.8,
+        "duration": "7.5 hours",
+        "affiliate_url": "https://trk.udemy.com/c/3288150/3227798/39854?prodsku=course.6871077&u=https://www.udemy.com/course/ci-cd-dotnet/?couponCode=092026",
+        "image": "https://i.udemycdn.com/course/480x270/6871077_2785_6.jpg",
+        "trainer": "Nico Madero",
+        "trainer_slug": "nico-madero",
+        "category": [
+            "Terraform"
+        ],
+        "category_slug": [
+            "terraform"
+        ],
+        "language": "Spanish",
+        "language_slug": "spanish",
+        "coupon_code": "12.99",
+        "students": 242,
+        "reviews": 25,
+        "last_updated": "2026-10-01",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 2231,
+        "title": "Microservices ASP.NET Core y Kafka | MySql | MongoDB",
+        "description": "Microservices con ASP.NET Core | Apache Kafka | Event Sourcing | MySql | MongoDb | Docker Compose",
+        "rating": 4.5,
+        "duration": "7.5 hours",
+        "affiliate_url": "https://trk.udemy.com/c/3288150/3227798/39854?prodsku=course.4549260&u=https://www.udemy.com/course/microservices-net-kafka/?couponCode=092026",
+        "image": "https://i.udemycdn.com/course/480x270/4549260_fd7e.jpg",
+        "trainer": "Nico Madero",
+        "trainer_slug": "nico-madero",
+        "category": [
+            "Microservices"
+        ],
+        "category_slug": [
+            "microservices"
+        ],
+        "language": "Spanish",
+        "language_slug": "spanish",
+        "coupon_code": "12.99",
+        "students": 1729,
+        "reviews": 135,
+        "last_updated": "2026-10-01",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 2232,
+        "title": "Design Patterns y Arquitectura en NET C#",
+        "description": "Patrones de Diseno con NET | Strategy | Builder | Factory",
+        "rating": 4.1,
+        "duration": "6.5 hours",
+        "affiliate_url": "https://trk.udemy.com/c/3288150/3227798/39854?prodsku=course.4689822&u=https://www.udemy.com/course/patrones/?couponCode=092026",
+        "image": "https://i.udemycdn.com/course/480x270/4689822_4650_3.jpg",
+        "trainer": "Nico Madero",
+        "trainer_slug": "nico-madero",
+        "category": [
+            "Dot Net"
+        ],
+        "category_slug": [
+            "dot-net"
+        ],
+        "language": "Spanish",
+        "language_slug": "spanish",
+        "coupon_code": "12.99",
+        "students": 5588,
+        "reviews": 99,
+        "last_updated": "2026-10-01",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 2233,
+        "title": "Kubernetes y Docker | NET | en Azure y Google Cloud Platform",
+        "description": "Docker desde las Bases | Conecta Docker en Kubernetes | Despliega NET Core App en Kubernetes y Microsoft Azure y GCP",
+        "rating": 4.4,
+        "duration": "5.5 hours",
+        "affiliate_url": "https://trk.udemy.com/c/3288150/3227798/39854?prodsku=course.3632482&u=https://www.udemy.com/course/kubernetes-dockers/?couponCode=092026",
+        "image": "https://i.udemycdn.com/course/480x270/3632482_2cd1_4.jpg",
+        "trainer": "Nico Madero",
+        "trainer_slug": "nico-madero",
+        "category": [
+            "DevOps"
+        ],
+        "category_slug": [
+            "devops"
+        ],
+        "language": "Spanish",
+        "language_slug": "spanish",
+        "coupon_code": "12.99",
+        "students": 4656,
+        "reviews": 155,
+        "last_updated": "2026-10-01",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 2234,
+        "title": "ASP.NET Core y Clean Architecture con DDD : Parte 2",
+        "description": "ASP NET Core y Clean Architecture Authorization avanzado | Unit Testing | Docker Compose | Background Task | Pagination",
+        "rating": 4.5,
+        "duration": "25 hours",
+        "affiliate_url": "https://trk.udemy.com/c/3288150/3227798/39854?prodsku=course.5768032&u=https://www.udemy.com/course/clean-architecture-authentication/?couponCode=092026",
+        "image": "https://i.udemycdn.com/course/480x270/5768032_e15a_6.jpg",
+        "trainer": "Nico Madero",
+        "trainer_slug": "nico-madero",
+        "category": [
+            "Dot Net"
+        ],
+        "category_slug": [
+            "dot-net"
+        ],
+        "language": "Spanish",
+        "language_slug": "spanish",
+        "coupon_code": "12.99",
+        "students": 1595,
+        "reviews": 165,
+        "last_updated": "2026-10-01",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 2235,
+        "title": "Angular para Programadores ASP NET Core",
+        "description": "Angular para Programadores NET, usaremos Kubernetes, Docker, SQL Server y MySql. Despliege en Servidores OnCloud",
+        "rating": 4.1,
+        "duration": "21 hours",
+        "affiliate_url": "https://trk.udemy.com/c/3288150/3227798/39854?prodsku=course.4830794&u=https://www.udemy.com/course/aspnet-angular-kubernetes/?couponCode=092026",
+        "image": "https://i.udemycdn.com/course/480x270/4830794_ee0c_8.jpg",
+        "trainer": "Nico Madero",
+        "trainer_slug": "nico-madero",
+        "category": [
+            "Dot Net"
+        ],
+        "category_slug": [
+            "dot-net"
+        ],
+        "language": "Spanish",
+        "language_slug": "spanish",
+        "coupon_code": "12.99",
+        "students": 9063,
+        "reviews": 230,
+        "last_updated": "2026-10-01",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 2236,
+        "title": "DevOps y Docker Kubernetes Microservice Azure - ASP.NET Core",
+        "description": "Domina devOps con Cluster Kubernetes, Docker Containers y pipelines en Azure, Microservicios ASP.NET Core",
+        "rating": 4.4,
+        "duration": "5.5 hours",
+        "affiliate_url": "https://trk.udemy.com/c/3288150/3227798/39854?prodsku=course.3821008&u=https://www.udemy.com/course/devops-docker-kubernetes-microservice-azure-net-core-5/?couponCode=092026",
+        "image": "https://i.udemycdn.com/course/480x270/3821008_3f84_8.jpg",
+        "trainer": "Nico Madero",
+        "trainer_slug": "nico-madero",
+        "category": [
+            "DevOps"
+        ],
+        "category_slug": [
+            "devops"
+        ],
+        "language": "Spanish",
+        "language_slug": "spanish",
+        "coupon_code": "12.99",
+        "students": 1676,
+        "reviews": 355,
+        "last_updated": "2026-10-01",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 2237,
+        "title": "ASP.NET Core Clean Architecture y Domain Driven Design (DDD)",
+        "description": "Clean Architecture | Domain Driven Design | Unit Test | CQRS | Authentication | Entity Framework 6 | ASP.NET Core",
+        "rating": 4.4,
+        "duration": "13.5 hours",
+        "affiliate_url": "https://trk.udemy.com/c/3288150/3227798/39854?prodsku=course.4411520&u=https://www.udemy.com/course/aspnet-clean-architecture/?couponCode=092026",
+        "image": "https://i.udemycdn.com/course/480x270/4411520_db92_2.jpg",
+        "trainer": "Nico Madero",
+        "trainer_slug": "nico-madero",
+        "category": [
+            "Dot Net"
+        ],
+        "category_slug": [
+            "dot-net"
+        ],
+        "language": "Spanish",
+        "language_slug": "spanish",
+        "coupon_code": "12.99",
+        "students": 3185,
+        "reviews": 800,
+        "last_updated": "2026-10-01",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 2238,
+        "title": "ASP.NET Core Web API Bootcamp | Construye REST APIs | SQL",
+        "description": "ASP.NET Core React Hooks Entity Framework, JWT, SQL Server, WebAPI, Export PDF | Desarrollo profesional de proyectos",
+        "rating": 4.4,
+        "duration": "36 hours",
+        "affiliate_url": "https://trk.udemy.com/c/3288150/3227798/39854?prodsku=course.2921370&u=https://www.udemy.com/course/aspnet-core-react-hooks/?couponCode=092026",
+        "image": "https://i.udemycdn.com/course/480x270/2921370_725e_10.jpg",
+        "trainer": "Nico Madero",
+        "trainer_slug": "nico-madero",
+        "category": [
+            "Dot Net"
+        ],
+        "category_slug": [
+            "dot-net"
+        ],
+        "language": "Spanish",
+        "language_slug": "spanish",
+        "coupon_code": "12.99",
+        "students": 11153,
+        "reviews": 930,
+        "last_updated": "2026-10-01",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 2239,
+        "title": "ASP.NET 8 Web Apis con Blazor y Postgres -Security-SignalR",
+        "description": "ASP.NET Core 8 | Blazor - SignalR con Postgres Oncloud y Firebase Authentication - Store Procedures y Entity Framework",
+        "rating": 4.5,
+        "duration": "13 hours",
+        "affiliate_url": "https://trk.udemy.com/c/3288150/3227798/39854?prodsku=course.5574690&u=https://www.udemy.com/course/aspnet-blazor-postgres/?couponCode=092026",
+        "image": "https://i.udemycdn.com/course/480x270/5574690_6321.jpg",
+        "trainer": "Nico Madero",
+        "trainer_slug": "nico-madero",
+        "category": [
+            "Dot Net"
+        ],
+        "category_slug": [
+            "dot-net"
+        ],
+        "language": "Spanish",
+        "language_slug": "spanish",
+        "coupon_code": "12.99",
+        "students": 544,
+        "reviews": 55,
+        "last_updated": "2026-10-01",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 2240,
+        "title": "ASP.NET Core 8 en Arquitectura gRPC - Taller Sistemas",
+        "description": "ASP.NET Core 8 y gRPC - Comunicación con protocolo Http2 - Entity Framework en proyectos de ASP.NET y Bases de Datos",
+        "rating": 4.7,
+        "duration": "4 hours",
+        "affiliate_url": "https://trk.udemy.com/c/3288150/3227798/39854?prodsku=course.5551224&u=https://www.udemy.com/course/aspnet-grpc/?couponCode=092026",
+        "image": "https://i.udemycdn.com/course/480x270/5551224_79a8_5.jpg",
+        "trainer": "Nico Madero",
+        "trainer_slug": "nico-madero",
+        "category": [
+            "Dot Net"
+        ],
+        "category_slug": [
+            "dot-net"
+        ],
+        "language": "Spanish",
+        "language_slug": "spanish",
+        "coupon_code": "12.99",
+        "students": 1549,
+        "reviews": 540,
+        "last_updated": "2026-10-01",
         "featured": "",
         "status": "Active"
     }

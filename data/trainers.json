@@ -1263,5 +1263,38 @@
         "bio": "",
         "website": "",
         "linkedin": "https://linkedin.com/in/scottjduffy"
+    },
+    {
+        "id": 116,
+        "name": "Diego Davila",
+        "slug": "diego-davila",
+        "photo": "https://img-c.udemycdn.com/user/200_H/801404_1ceb_20.jpg",
+        "banner": "",
+        "designation": "",
+        "bio": "",
+        "website": "",
+        "linkedin": ""
+    },
+    {
+        "id": 117,
+        "name": "Ganesh Padala",
+        "slug": "ganesh-padala",
+        "photo": "https://img-c.udemycdn.com/user/200_H/68817574_5c7a_8.jpg",
+        "banner": "",
+        "designation": "",
+        "bio": "",
+        "website": "",
+        "linkedin": "https://linkedin.com//in/ganesh-padala-52b34658"
+    },
+    {
+        "id": 118,
+        "name": "Nico Madero",
+        "slug": "nico-madero",
+        "photo": "https://img-c.udemycdn.com/user/200_H/315417635_2b7f_2.jpg",
+        "banner": "",
+        "designation": "",
+        "bio": "",
+        "website": "",
+        "linkedin": ""
     }
 ]
