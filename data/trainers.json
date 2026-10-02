@@ -1307,5 +1307,27 @@
         "bio": "",
         "website": "",
         "linkedin": ""
+    },
+    {
+        "id": 120,
+        "name": "Alex Dan",
+        "slug": "alex-dan",
+        "photo": "https://img-c.udemycdn.com/user/200_H/11107920_ad02_2.jpg",
+        "banner": "",
+        "designation": "",
+        "bio": "",
+        "website": "",
+        "linkedin": "https://linkedin.com/in/alex-dan-02598a137/"
+    },
+    {
+        "id": 121,
+        "name": "Hitesh Choudhary",
+        "slug": "hitesh-choudhary",
+        "photo": "https://img-c.udemycdn.com/user/200_H/272686492_6b9b.jpg",
+        "banner": "",
+        "designation": "",
+        "bio": "",
+        "website": "",
+        "linkedin": ""
     }
 ]
