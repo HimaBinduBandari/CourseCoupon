@@ -1,3 +1,4 @@
+
 /*
 ====================================================
     COURSECOUPON HOME PAGE
@@ -14,6 +15,17 @@ let categories = [];
 let languages = [];
 
 
+/*
+====================================================
+    PAGINATION SETTINGS
+====================================================
+*/
+
+const COURSES_PER_PAGE = 16;
+
+let latestCoursesData = [];
+
+let currentCoursePage = 1;
 
 
 /*
@@ -56,8 +68,6 @@ async function loadHomeData(){
 
 
 
-
-
         if(
 
             !courseResponse.ok ||
@@ -80,21 +90,16 @@ async function loadHomeData(){
 
 
 
-
-
         courses =
         await courseResponse.json();
-
 
 
         trainers =
         await trainerResponse.json();
 
 
-
         categories =
         await categoryResponse.json();
-
 
 
         languages =
@@ -102,13 +107,11 @@ async function loadHomeData(){
 
 
 
-
-
         initializeHome();
 
 
-
     }
+
 
     catch(error){
 
@@ -125,8 +128,14 @@ async function loadHomeData(){
         `
 
         <div class="load-error">
+
             <h3>Couldn't load the coupons</h3>
-            <p>The course data didn't come through. Check that the JSON files exist and try again.</p>
+
+            <p>
+                The course data didn't come through.
+                Check that the JSON files exist and try again.
+            </p>
+
         </div>
 
         `;
@@ -139,10 +148,6 @@ async function loadHomeData(){
 }
 
 
-
-
-
-
 /*
 ====================================================
     INITIALIZE PAGE
@@ -151,7 +156,6 @@ async function loadHomeData(){
 
 
 function initializeHome(){
-
 
 
     displayStatistics();
@@ -172,10 +176,6 @@ function initializeHome(){
 }
 
 
-
-
-
-
 /*
 ====================================================
     STATISTICS
@@ -186,12 +186,10 @@ function initializeHome(){
 function displayStatistics(){
 
 
-
     document.getElementById(
         "courseCount"
     ).innerText =
     courses.length;
-
 
 
     document.getElementById(
@@ -200,12 +198,10 @@ function displayStatistics(){
     trainers.length;
 
 
-
     document.getElementById(
         "categoryCount"
     ).innerText =
     categories.length;
-
 
 
     document.getElementById(
@@ -214,12 +210,7 @@ function displayStatistics(){
     languages.length;
 
 
-
 }
-
-
-
-
 
 
 /*
@@ -231,16 +222,37 @@ function displayStatistics(){
 
 function displayLatestCourses() {
 
-    let container =
+
+    const container =
         document.getElementById("latestCourses");
 
+    const pagination =
+        document.getElementById("latestCoursesPagination");
+
+
+    if (!container) return;
+
+
     container.innerHTML = "";
+
+
+    if (pagination) {
+        pagination.innerHTML = "";
+    }
+
 
     if (!courses.length) {
         return;
     }
 
-    // Find the latest update date
+
+    /*
+    -----------------------------------------------
+        FIND LATEST UPDATE DATE
+    -----------------------------------------------
+    */
+
+
     const latestDate = courses.reduce((latest, course) => {
 
         return new Date(course.last_updated) > new Date(latest)
@@ -250,34 +262,119 @@ function displayLatestCourses() {
     }, courses[0].last_updated);
 
 
-    // Get ONLY courses updated on the latest date
-    let latestCourses = courses.filter(course => {
+    /*
+    -----------------------------------------------
+        GET ALL COURSES FROM LATEST DATE
+    -----------------------------------------------
+    */
+
+
+    latestCoursesData = courses.filter(course => {
 
         return course.last_updated === latestDate;
 
     });
 
 
-    // Randomize courses
-    latestCourses.sort(() => Math.random() - 0.5);
+    /*
+    -----------------------------------------------
+        RANDOMIZE COURSES ONCE
+    -----------------------------------------------
+    */
+
+    latestCoursesData.sort(() => Math.random() - 0.5);
 
 
-    // Display maximum 16 random courses
-    latestCourses
-        .slice(0, 16)
-        .forEach(course => {
+    /*
+    -----------------------------------------------
+        RESET PAGE
+    -----------------------------------------------
+    */
 
-            container.innerHTML += `
+    currentCoursePage = 1;
+
+
+    /*
+    -----------------------------------------------
+        DISPLAY FIRST PAGE
+    -----------------------------------------------
+    */
+
+    renderLatestCoursesPage();
+
+
+}
+
+
+/*
+====================================================
+    RENDER LATEST COURSES PAGE
+====================================================
+*/
+
+
+function renderLatestCoursesPage() {
+
+
+    const container =
+        document.getElementById("latestCourses");
+
+
+    if (!container) return;
+
+
+    container.innerHTML = "";
+
+
+    /*
+    -----------------------------------------------
+        CALCULATE START / END
+    -----------------------------------------------
+    */
+
+
+    const startIndex =
+        (currentCoursePage - 1) *
+        COURSES_PER_PAGE;
+
+
+    const endIndex =
+        startIndex +
+        COURSES_PER_PAGE;
+
+
+    const pageCourses =
+        latestCoursesData.slice(
+            startIndex,
+            endIndex
+        );
+
+
+    /*
+    -----------------------------------------------
+        DISPLAY COURSES
+    -----------------------------------------------
+    */
+
+
+    pageCourses.forEach(course => {
+
+
+        container.innerHTML += `
 
             <div class="course-card">
 
                 <img
                     src="${course.image}"
-                    alt="${course.title}">
+                    alt="${course.title}"
+                >
 
                 <div class="course-card-content">
 
-                    <h3>${course.title}</h3>
+                    <h3>
+                        ${course.title}
+                    </h3>
+
 
                     <p>
                         📂
@@ -286,9 +383,16 @@ function displayLatestCourses() {
                         </a>
                     </p>
 
-                    <p>⏱ ${course.duration}</p>
 
-                    <p>⭐ ${course.rating}</p>
+                    <p>
+                        ⏱ ${course.duration}
+                    </p>
+
+
+                    <p>
+                        ⭐ ${course.rating}
+                    </p>
+
 
                     <p>
                         👨‍🏫
@@ -297,23 +401,286 @@ function displayLatestCourses() {
                         </a>
                     </p>
 
+
                     <a
                         class="coupon-btn"
                         href="${course.affiliate_url}"
                         target="_blank"
-                        rel="noopener">
-
+                        rel="noopener"
+                    >
                         Get Coupon
-
                     </a>
 
                 </div>
 
             </div>
 
-            `;
+        `;
 
-        });
+
+    });
+
+
+    /*
+    -----------------------------------------------
+        CREATE PAGINATION
+    -----------------------------------------------
+    */
+
+
+    renderLatestCoursesPagination();
+
+
+}
+
+
+/*
+====================================================
+    LATEST COURSES PAGINATION
+====================================================
+*/
+
+
+function renderLatestCoursesPagination() {
+
+
+    const pagination =
+        document.getElementById(
+            "latestCoursesPagination"
+        );
+
+
+    if (!pagination) return;
+
+
+    pagination.innerHTML = "";
+
+
+    const totalPages =
+        Math.ceil(
+            latestCoursesData.length /
+            COURSES_PER_PAGE
+        );
+
+
+    /*
+    -----------------------------------------------
+        DON'T SHOW PAGINATION IF ONLY ONE PAGE
+    -----------------------------------------------
+    */
+
+
+    if (totalPages <= 1) {
+        return;
+    }
+
+
+    /*
+    -----------------------------------------------
+        PAGINATION WRAPPER
+    -----------------------------------------------
+    */
+
+
+    const wrapper =
+        document.createElement("div");
+
+
+    wrapper.className =
+        "pagination-inner";
+
+
+    /*
+    -----------------------------------------------
+        PREVIOUS BUTTON
+    -----------------------------------------------
+    */
+
+
+    const previousButton =
+        document.createElement("button");
+
+
+    previousButton.className =
+        "pagination-btn";
+
+
+    previousButton.innerHTML =
+        "← Previous";
+
+
+    previousButton.disabled =
+        currentCoursePage === 1;
+
+
+    previousButton.addEventListener(
+        "click",
+        () => {
+
+            if (currentCoursePage > 1) {
+
+                currentCoursePage--;
+
+                renderLatestCoursesPage();
+
+                scrollToLatestCourses();
+
+            }
+
+        }
+    );
+
+
+    wrapper.appendChild(previousButton);
+
+
+    /*
+    -----------------------------------------------
+        PAGE NUMBERS
+    -----------------------------------------------
+    */
+
+
+    for (
+        let page = 1;
+        page <= totalPages;
+        page++
+    ) {
+
+
+        const pageButton =
+            document.createElement("button");
+
+
+        pageButton.className =
+            "pagination-btn";
+
+
+        pageButton.innerText =
+            page;
+
+
+        if (
+            page === currentCoursePage
+        ) {
+
+            pageButton.classList.add(
+                "active"
+            );
+
+        }
+
+
+        pageButton.addEventListener(
+            "click",
+            () => {
+
+                currentCoursePage =
+                    page;
+
+                renderLatestCoursesPage();
+
+                scrollToLatestCourses();
+
+            }
+        );
+
+
+        wrapper.appendChild(pageButton);
+
+
+    }
+
+
+    /*
+    -----------------------------------------------
+        NEXT BUTTON
+    -----------------------------------------------
+    */
+
+
+    const nextButton =
+        document.createElement("button");
+
+
+    nextButton.className =
+        "pagination-btn";
+
+
+    nextButton.innerHTML =
+        "Next →";
+
+
+    nextButton.disabled =
+        currentCoursePage === totalPages;
+
+
+    nextButton.addEventListener(
+        "click",
+        () => {
+
+            if (
+                currentCoursePage <
+                totalPages
+            ) {
+
+                currentCoursePage++;
+
+                renderLatestCoursesPage();
+
+                scrollToLatestCourses();
+
+            }
+
+        }
+    );
+
+
+    wrapper.appendChild(nextButton);
+
+
+    pagination.appendChild(wrapper);
+
+
+}
+
+
+/*
+====================================================
+    SCROLL TO LATEST COURSES
+====================================================
+*/
+
+
+function scrollToLatestCourses() {
+
+
+    const section =
+        document.querySelector(
+            ".courses-section"
+        );
+
+
+    if (!section) return;
+
+
+    const headerOffset = 90;
+
+
+    const position =
+        section.getBoundingClientRect().top +
+        window.pageYOffset -
+        headerOffset;
+
+
+    window.scrollTo({
+
+        top: position,
+
+        behavior: "smooth"
+
+    });
+
 
 }
 
@@ -328,16 +695,13 @@ function displayLatestCourses() {
 function displayCategories(){
 
 
-
     let container =
-    document.getElementById(
-        "popularCategories"
-    );
-
+        document.getElementById(
+            "popularCategories"
+        );
 
 
     container.innerHTML="";
-
 
 
     categories
@@ -355,14 +719,14 @@ function displayCategories(){
 
             <h3>
 
-            ${category.name}
+                ${category.name}
 
             </h3>
 
 
             <a href="category.html?category=${category.slug}">
 
-            View Courses
+                View Courses
 
             </a>
 
@@ -375,12 +739,7 @@ function displayCategories(){
     });
 
 
-
 }
-
-
-
-
 
 
 /*
@@ -393,16 +752,13 @@ function displayCategories(){
 function displayTrainers(){
 
 
-
     let container =
-    document.getElementById(
-        "popularTrainers"
-    );
-
+        document.getElementById(
+            "popularTrainers"
+        );
 
 
     container.innerHTML="";
-
 
 
     trainers
@@ -420,15 +776,14 @@ function displayTrainers(){
 
             <h3>
 
-            ${trainer.name}
+                ${trainer.name}
 
             </h3>
 
 
-
             <a href="trainer.html?trainer=${trainer.slug}">
 
-            View Courses
+                View Courses
 
             </a>
 
@@ -441,12 +796,7 @@ function displayTrainers(){
     });
 
 
-
 }
-
-
-
-
 
 
 /*
@@ -459,16 +809,13 @@ function displayTrainers(){
 function displayLanguages(){
 
 
-
     let container =
-    document.getElementById(
-        "popularLanguages"
-    );
-
+        document.getElementById(
+            "popularLanguages"
+        );
 
 
     container.innerHTML="";
-
 
 
     languages
@@ -486,23 +833,23 @@ function displayLanguages(){
 
             <img
 
-            src="${language.image}"
+                src="${language.image}"
 
-            alt="${language.name}">
+                alt="${language.name}"
 
+            >
 
 
             <h3>
 
-            ${language.name}
+                ${language.name}
 
             </h3>
 
 
-
             <a href="language.html?language=${language.slug}">
 
-            Explore
+                Explore
 
             </a>
 
@@ -515,13 +862,7 @@ function displayLanguages(){
     });
 
 
-
 }
-
-
-
-
-
 
 
 /*
@@ -529,32 +870,43 @@ function displayLanguages(){
     SEARCH COURSES
 ====================================================
 */
+
+
 function goToSearch(){
 
+
     const keyword =
-    document
-    .getElementById("searchInput")
-    .value
-    .trim();
+        document
+        .getElementById("searchInput")
+        .value
+        .trim();
+
 
     const type =
-    document
-    .getElementById("homeSearchType")
-    .value;
+        document
+        .getElementById("homeSearchType")
+        .value;
+
 
     if(keyword===""){
 
-        alert("Please enter a search keyword.");
+
+        alert(
+            "Please enter a search keyword."
+        );
+
 
         return;
 
     }
 
+
     window.location.href =
-    "search.html?q=" +
-    encodeURIComponent(keyword) +
-    "&type=" +
-    type;
+        "search.html?q=" +
+        encodeURIComponent(keyword) +
+        "&type=" +
+        type;
+
 
 }
 
@@ -565,20 +917,45 @@ function goToSearch(){
 ====================================================
 */
 
+
 function initNavToggle(){
 
-    const toggle = document.getElementById("navToggle");
-    const nav = document.getElementById("mainNav");
+
+    const toggle =
+        document.getElementById(
+            "navToggle"
+        );
+
+
+    const nav =
+        document.getElementById(
+            "mainNav"
+        );
+
 
     if(!toggle || !nav) return;
 
-    toggle.addEventListener("click", () => {
 
-        const isOpen = nav.classList.toggle("nav-open");
+    toggle.addEventListener(
+        "click",
+        () => {
 
-        toggle.setAttribute("aria-expanded", isOpen);
 
-    });
+            const isOpen =
+                nav.classList.toggle(
+                    "nav-open"
+                );
+
+
+            toggle.setAttribute(
+                "aria-expanded",
+                isOpen
+            );
+
+
+        }
+    );
+
 
 }
 
@@ -591,5 +968,6 @@ function initNavToggle(){
 
 
 initNavToggle();
+
 
 loadHomeData();
