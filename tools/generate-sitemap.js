@@ -23,7 +23,7 @@ const path = require("path");
 // CONFIG
 // -------------------------------------------------------------------------
 
-const SITE_URL = "https://himabindubandari.github.io/CourseCoupon";
+const SITE_URL = "http://coupon.interviewgig.com";
 
 const ROOT = process.cwd();
 const DATA_DIR = path.join(ROOT, "data");
