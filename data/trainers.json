@@ -1329,5 +1329,16 @@
         "bio": "",
         "website": "",
         "linkedin": ""
+    },
+    {
+        "id": 122,
+        "name": "Tom Bailey",
+        "slug": "tom-bailey",
+        "photo": "https://img-c.udemycdn.com/user/200_H/212586704_6974_3.jpg",
+        "banner": "",
+        "designation": "",
+        "bio": "",
+        "website": "",
+        "linkedin": "https://linkedin.com/in/thomas-bailey-bd/"
     }
 ]
