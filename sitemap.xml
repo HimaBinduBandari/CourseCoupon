@@ -757,6 +757,12 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>http://coupon.interviewgig.com/trainer.html?trainer=tom-bailey</loc>
+    <lastmod>2026-10-03</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>http://coupon.interviewgig.com/category.html?category=ai</loc>
     <lastmod>2026-10-03</lastmod>
     <changefreq>weekly</changefreq>
@@ -2816,6 +2822,12 @@
   </url>
   <url>
     <loc>http://coupon.interviewgig.com/category.html?category=togaf</loc>
+    <lastmod>2026-10-03</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>http://coupon.interviewgig.com/category.html?category=snowflake</loc>
     <lastmod>2026-10-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
