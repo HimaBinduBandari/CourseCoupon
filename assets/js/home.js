@@ -806,39 +806,68 @@ function displayTrainers(){
 */
 
 
-function displayLanguages(){
+/*
+====================================================
+    LANGUAGE IMAGES (flags via CDN)
+====================================================
+*/
 
+const countryCodes = {
+    english: "gb",
+    turkish: "tr",
+    spanish: "es",
+    italian: "it",
+    hindi: "in",
+    portuguese: "pt",
+    korean: "kr",
+    russian: "ru",
+    japanese: "jp",
+    french: "fr"
+};
+
+function getLanguageImage(slug){
+
+    const code = countryCodes[slug];
+
+    return code
+        ? `https://flagcdn.com/w320/${code}.png`
+        : "images/default.jpg"; // fallback if slug is not in the map
+
+}
+
+
+/*
+====================================================
+    DISPLAY LANGUAGES
+====================================================
+*/
+
+function displayLanguages(){
 
     let container =
         document.getElementById(
             "popularLanguages"
         );
 
-
-    container.innerHTML="";
-
+    container.innerHTML = "";
 
     languages
     .slice(0,10)
     .forEach(language=>{
 
-
         container.innerHTML +=
-
 
         `
 
         <div class="language-card">
 
-
             <img
 
-                src="${language.image}"
+                src="${getLanguageImage(language.slug)}"
 
                 alt="${language.name}"
 
             >
-
 
             <h3>
 
@@ -846,21 +875,17 @@ function displayLanguages(){
 
             </h3>
 
-
             <a href="language.html?language=${language.slug}">
 
                 Explore
 
             </a>
 
-
         </div>
 
         `;
 
-
     });
-
 
 }
 
