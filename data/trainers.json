@@ -1340,5 +1340,16 @@
         "bio": "",
         "website": "",
         "linkedin": "https://linkedin.com/in/thomas-bailey-bd/"
+    },
+    {
+        "id": 123,
+        "name": "Michael James",
+        "slug": "michael-james",
+        "photo": "https://img-c.udemycdn.com/user/200_H/22594000_70f6_4.jpg",
+        "banner": "",
+        "designation": "",
+        "bio": "",
+        "website": "",
+        "linkedin": ""
     }
 ]
