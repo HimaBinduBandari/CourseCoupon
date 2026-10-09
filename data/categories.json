@@ -1723,5 +1723,45 @@
         "id": 345,
         "name": "Snowflake",
         "slug": "snowflake"
+    },
+    {
+        "id": 346,
+        "name": "CGRC",
+        "slug": "cgrc"
+    },
+    {
+        "id": 347,
+        "name": "CISA",
+        "slug": "cisa"
+    },
+    {
+        "id": 348,
+        "name": "SSCP",
+        "slug": "sscp"
+    },
+    {
+        "id": 349,
+        "name": "CCSP",
+        "slug": "ccsp"
+    },
+    {
+        "id": 350,
+        "name": "NIST",
+        "slug": "nist"
+    },
+    {
+        "id": 351,
+        "name": "COBIT",
+        "slug": "cobit"
+    },
+    {
+        "id": 352,
+        "name": "CDPSE",
+        "slug": "cdpse"
+    },
+    {
+        "id": 353,
+        "name": "AIGP",
+        "slug": "aigp"
     }
 ]

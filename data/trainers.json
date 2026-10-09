@@ -1351,5 +1351,16 @@
         "bio": "",
         "website": "",
         "linkedin": ""
+    },
+    {
+        "id": 124,
+        "name": "Cyvitrix Learning",
+        "slug": "cyvitrix-learning",
+        "photo": "https://img-c.udemycdn.com/user/200_H/231862686_9990_15.jpg",
+        "banner": "",
+        "designation": "",
+        "bio": "",
+        "website": "",
+        "linkedin": "https://linkedin.com/company/company/cyvitrix"
     }
 ]
