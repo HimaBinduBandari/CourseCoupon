@@ -1763,5 +1763,20 @@
         "id": 353,
         "name": "AIGP",
         "slug": "aigp"
+    },
+    {
+        "id": 354,
+        "name": "CCNA",
+        "slug": "ccna"
+    },
+    {
+        "id": 355,
+        "name": "Entrepreneurship",
+        "slug": "entrepreneurship"
+    },
+    {
+        "id": 356,
+        "name": "CIPS",
+        "slug": "cips"
     }
 ]

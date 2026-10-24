@@ -1362,5 +1362,38 @@
         "bio": "",
         "website": "",
         "linkedin": "https://linkedin.com/company/company/cyvitrix"
+    },
+    {
+        "id": 125,
+        "name": "Alvaro Chirou",
+        "slug": "alvaro-chirou",
+        "photo": "https://img-c.udemycdn.com/user/200_H/24645730_b501_5.jpg",
+        "banner": "",
+        "designation": "",
+        "bio": "",
+        "website": "",
+        "linkedin": ""
+    },
+    {
+        "id": 126,
+        "name": "Elizabeth Evans",
+        "slug": "elizabeth-evans",
+        "photo": "https://img-c.udemycdn.com/user/200_H/125800516_767e_2.jpg",
+        "banner": "",
+        "designation": "",
+        "bio": "",
+        "website": "",
+        "linkedin": "https://www.linkedin.com/in/elizabeth-evans-cips/"
+    },
+    {
+        "id": 127,
+        "name": "Cristian Donayre",
+        "slug": "cristian-donayre",
+        "photo": "https://img-c.udemycdn.com/user/200_H/46183100_e82e_3.jpg",
+        "banner": "",
+        "designation": "",
+        "bio": "",
+        "website": "",
+        "linkedin": ""
     }
 ]
