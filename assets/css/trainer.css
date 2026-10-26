@@ -545,3 +545,57 @@
 }
 
 }
+
+/*====================================================
+    AFFILIATE DISCLOSURE
+====================================================*/
+
+.affiliate-disclosure{
+    max-width:850px;
+    margin:25px auto 0;
+    padding:16px 20px;
+    display:flex;
+    align-items:flex-start;
+    gap:12px;
+    text-align:left;
+    background:#f8fafc;
+    border:1px solid #e2e8f0;
+    border-radius:12px;
+}
+
+.affiliate-disclosure-icon{
+    flex-shrink:0;
+    width:28px;
+    height:28px;
+    display:flex;
+    align-items:center;
+    justify-content:center;
+    border-radius:50%;
+    background:#eff6ff;
+    color:#2563eb;
+    font-size:15px;
+    font-weight:700;
+}
+
+.affiliate-disclosure-text strong{
+    display:block;
+    margin-bottom:4px;
+    color:#374151;
+    font-size:14px;
+}
+
+.affiliate-disclosure-text p{
+    margin:0;
+    color:#6b7280;
+    font-size:13px;
+    line-height:1.6;
+}
+
+.affiliate-disclosure{
+    padding:14px 15px;
+    gap:10px;
+}
+
+.affiliate-disclosure-text p{
+    font-size:12px;
+}
