@@ -65589,8 +65589,12 @@
         "image": "https://img-c.udemycdn.com/course/240x135/7346977_3073_3.jpg",
         "trainer": "Cristian Donayre",
         "trainer_slug": "cristian-donayre",
-        "category": [],
-        "category_slug": [],
+        "category": [
+            "Databricks"
+        ],
+        "category_slug": [
+            "databricks"
+        ],
         "language": "Spanish",
         "language_slug": "spanish",
         "coupon_code": "12.99",
@@ -65672,6 +65676,1581 @@
         "students": 136,
         "reviews": 24,
         "last_updated": "2026-10-24",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 2629,
+        "title": "Learn Cucumber BDD From Scratch+ Automation Framework Design",
+        "description": "Highest Rated Course on Cucumber BDD! Learn Cucumber with Java, Maven, JUnit, Selenium WebDriver, Page Object Model.",
+        "rating": 4.5,
+        "duration": "4 hours",
+        "affiliate_url": "https://trk.udemy.com/c/3288150/3227798/39854?prodsku=course.3026130&u=https://www.udemy.com/course/cucumber-from-scratch/?couponCode=OCTOBER2026",
+        "image": "https://img-c.udemycdn.com/course/240x135/3026130_8ef2_15.jpg",
+        "trainer": "Dezlearn Education",
+        "trainer_slug": "dezlearn-education",
+        "category": [
+            "Software Testing"
+        ],
+        "category_slug": [
+            "software-testing"
+        ],
+        "language": "English",
+        "language_slug": "english",
+        "coupon_code": "12.99",
+        "students": 25896,
+        "reviews": 6593,
+        "last_updated": "2026-10-26",
+        "featured": "Yes",
+        "status": "Active"
+    },
+    {
+        "id": 2630,
+        "title": "Master XPath and CSS Selectors for Selenium WebDriver",
+        "description": "Master XPath & CSS Selectors â€“ The Ultimate Guide to Locating Elements in Selenium WebDriver.",
+        "rating": 4.5,
+        "duration": "3.5 hours",
+        "affiliate_url": "https://trk.udemy.com/c/3288150/3227798/39854?prodsku=course.2450174&u=https://www.udemy.com/course/xpath-and-css-selectors/?couponCode=OCTOBER2026",
+        "image": "https://img-c.udemycdn.com/course/240x135/2450174_4cd4_15.jpg",
+        "trainer": "Dezlearn Education",
+        "trainer_slug": "dezlearn-education",
+        "category": [
+            "Software Testing"
+        ],
+        "category_slug": [
+            "software-testing"
+        ],
+        "language": "English",
+        "language_slug": "english",
+        "coupon_code": "12.99",
+        "students": 37359,
+        "reviews": 6826,
+        "last_updated": "2026-10-26",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 2631,
+        "title": "The Complete Selenium WebDriver with Java Course",
+        "description": "Learn Selenium WebDriver with Java, TestNG Framework, Page Object Model, Page Factory Design. Learn Coding From Scratch.",
+        "rating": 4.6,
+        "duration": "21.5 hours",
+        "affiliate_url": "https://trk.udemy.com/c/3288150/3227798/39854?prodsku=course.2455362&u=https://www.udemy.com/course/master-selenium-webdriver-with-java/?couponCode=OCTOBER2026",
+        "image": "https://img-c.udemycdn.com/course/240x135/2455362_4c68_12.jpg",
+        "trainer": "Dezlearn Education",
+        "trainer_slug": "dezlearn-education",
+        "category": [
+            "Software Testing"
+        ],
+        "category_slug": [
+            "software-testing"
+        ],
+        "language": "English",
+        "language_slug": "english",
+        "coupon_code": "12.99",
+        "students": 34721,
+        "reviews": 717,
+        "last_updated": "2026-10-26",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 2632,
+        "title": "Learn Rest API Automation Using Rest Assured",
+        "description": "Master Rest Assured for End-to-End API Automation Testing â€“ From Basics to Framework Design",
+        "rating": 4.4,
+        "duration": "5.5 hours",
+        "affiliate_url": "https://trk.udemy.com/c/3288150/3227798/39854?prodsku=course.3385042&u=https://www.udemy.com/course/learn-rest-api-automation-using-rest-assured/?couponCode=OCTOBER2026",
+        "image": "https://img-c.udemycdn.com/course/240x135/3385042_20fe_17.jpg",
+        "trainer": "Dezlearn Education",
+        "trainer_slug": "dezlearn-education",
+        "category": [
+            "Software Testing"
+        ],
+        "category_slug": [
+            "software-testing"
+        ],
+        "language": "English",
+        "language_slug": "english",
+        "coupon_code": "12.99",
+        "students": 27025,
+        "reviews": 284,
+        "last_updated": "2026-10-26",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 2633,
+        "title": "The Complete Core Java Course : Learn to Code",
+        "description": "Master Java for Selenium, Automation, and DevOps â€“ No Prior Coding Required.",
+        "rating": 4.2,
+        "duration": "10.5 hours",
+        "affiliate_url": "https://trk.udemy.com/c/3288150/3227798/39854?prodsku=course.1875420&u=https://www.udemy.com/course/core-java-from-scratch/?couponCode=OCTOBER2026",
+        "image": "https://img-c.udemycdn.com/course/240x135/1875420_6f64_14.jpg",
+        "trainer": "Dezlearn Education",
+        "trainer_slug": "dezlearn-education",
+        "category": [
+            "Java"
+        ],
+        "category_slug": [
+            "java"
+        ],
+        "language": "English",
+        "language_slug": "english",
+        "coupon_code": "12.99",
+        "students": 20581,
+        "reviews": 929,
+        "last_updated": "2026-10-26",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 2634,
+        "title": "The Complete TestNG & Automation Framework Design Course",
+        "description": "Master Framework Design with Selenium, Java & TestNG â€“ Build Real-World Projects Using Page Object Model.",
+        "rating": 4.5,
+        "duration": "3.5 hours",
+        "affiliate_url": "https://trk.udemy.com/c/3288150/3227798/39854?prodsku=course.3140388&u=https://www.udemy.com/course/the-complete-testng-automation-framework-design-course/?couponCode=OCTOBER2026",
+        "image": "https://img-c.udemycdn.com/course/240x135/3140388_f320_15.jpg",
+        "trainer": "Dezlearn Education",
+        "trainer_slug": "dezlearn-education",
+        "category": [
+            "Software Testing"
+        ],
+        "category_slug": [
+            "software-testing"
+        ],
+        "language": "English",
+        "language_slug": "english",
+        "coupon_code": "12.99",
+        "students": 18702,
+        "reviews": 221,
+        "last_updated": "2026-10-26",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 2635,
+        "title": "Master JavaScript with Node.js",
+        "description": "Learn JavaScript from Scratch â€“ Build Skills for Cypress, WebDriverIO & Automation Frameworks",
+        "rating": 4.4,
+        "duration": "10 hours",
+        "affiliate_url": "https://trk.udemy.com/c/3288150/3227798/39854?prodsku=course.4979200&u=https://www.udemy.com/course/master-javascript-with-nodejs/?couponCode=OCTOBER2026",
+        "image": "https://img-c.udemycdn.com/course/240x135/4979200_cb0e_9.jpg",
+        "trainer": "Dezlearn Education",
+        "trainer_slug": "dezlearn-education",
+        "category": [
+            "JavaScript"
+        ],
+        "category_slug": [
+            "javascript"
+        ],
+        "language": "English",
+        "language_slug": "english",
+        "coupon_code": "12.99",
+        "students": 4922,
+        "reviews": 66,
+        "last_updated": "2026-10-26",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 2636,
+        "title": "GitHub Copilot Complete Course in Hindi",
+        "description": "Master GitHub Copilot in Hindi â€” from setup to advanced AI coding, chat commands, and real-world projects.",
+        "rating": 4.2,
+        "duration": "2.5 hours",
+        "affiliate_url": "https://trk.udemy.com/c/3288150/3227798/39854?prodsku=course.6874047&u=https://www.udemy.com/course/github-copilot-complete-course-in-hindi/?couponCode=OCTOBER2026",
+        "image": "https://img-c.udemycdn.com/course/240x135/6874047_0c95_6.jpg",
+        "trainer": "Dezlearn Education",
+        "trainer_slug": "dezlearn-education",
+        "category": [
+            "Github Copilot"
+        ],
+        "category_slug": [
+            "github-copilot"
+        ],
+        "language": "English",
+        "language_slug": "english",
+        "coupon_code": "12.99",
+        "students": 393,
+        "reviews": 7,
+        "last_updated": "2026-10-26",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 2637,
+        "title": "Learn Unity Shaders from Scratch",
+        "description": "A complete guide to Unity ShaderLab, URP Shaders, Shader Graph and the HLSL Shading Language using Unity 6",
+        "rating": 4.5,
+        "duration": "6 hours",
+        "affiliate_url": "https://trk.udemy.com/c/3288150/3227798/39854?prodsku=course.2719674&u=https://www.udemy.com/course/learn-unity-shaders-from-scratch/?couponCode=OCT26_SALE",
+        "image": "https://img-c.udemycdn.com/course/240x135/2719674_f8fc_5.jpg",
+        "trainer": "Nicholas Lever",
+        "trainer_slug": "nicholas-lever",
+        "category": [
+            "Unity"
+        ],
+        "category_slug": [
+            "unity"
+        ],
+        "language": "English",
+        "language_slug": "english",
+        "coupon_code": "12.99",
+        "students": 13228,
+        "reviews": 570,
+        "last_updated": "2026-10-26",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 2638,
+        "title": "Learn to Write Unity Compute Shaders",
+        "description": "Harness the power of the GPU",
+        "rating": 4.4,
+        "duration": "6 hours",
+        "affiliate_url": "https://trk.udemy.com/c/3288150/3227798/39854?prodsku=course.3564811&u=https://www.udemy.com/course/compute-shaders/?couponCode=OCT26_SALE",
+        "image": "https://img-c.udemycdn.com/course/240x135/3564811_9406.jpg",
+        "trainer": "Nicholas Lever",
+        "trainer_slug": "nicholas-lever",
+        "category": [
+            "Unity"
+        ],
+        "category_slug": [
+            "unity"
+        ],
+        "language": "English",
+        "language_slug": "english",
+        "coupon_code": "12.99",
+        "students": 5828,
+        "reviews": 490,
+        "last_updated": "2026-10-26",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 2639,
+        "title": "Learn GLSL Shaders from Scratch",
+        "description": "Bring your WebGL alive with custom shaders",
+        "rating": 4.2,
+        "duration": "4.5 hours",
+        "affiliate_url": "https://trk.udemy.com/c/3288150/3227798/39854?prodsku=course.2230522&u=https://www.udemy.com/course/learn-glsl-shaders-from-scratch/?couponCode=OCT26_SALE",
+        "image": "https://img-c.udemycdn.com/course/240x135/2230522_1b16_3.jpg",
+        "trainer": "Nicholas Lever",
+        "trainer_slug": "nicholas-lever",
+        "category": [
+            "Web Development"
+        ],
+        "category_slug": [
+            "web-development"
+        ],
+        "language": "English",
+        "language_slug": "english",
+        "coupon_code": "12.99",
+        "students": 5155,
+        "reviews": 871,
+        "last_updated": "2026-10-26",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 2640,
+        "title": "Learn to create WebXR, VR and AR, experiences using Three.JS",
+        "description": "Harness the WebXR API and Three.JS to bring immersive experiences, VR and AR, to the browser, including Oculus Quest",
+        "rating": 4.5,
+        "duration": "5.5 hours",
+        "affiliate_url": "https://trk.udemy.com/c/3288150/3227798/39854?prodsku=course.3228865&u=https://www.udemy.com/course/learn-webxr/?couponCode=OCT26_SALE",
+        "image": "https://img-c.udemycdn.com/course/240x135/3228865_ef4b_3.jpg",
+        "trainer": "Nicholas Lever",
+        "trainer_slug": "nicholas-lever",
+        "category": [
+            "Web Development"
+        ],
+        "category_slug": [
+            "web-development"
+        ],
+        "language": "English",
+        "language_slug": "english",
+        "coupon_code": "12.99",
+        "students": 6516,
+        "reviews": 591,
+        "last_updated": "2026-10-26",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 2641,
+        "title": "The Beginners Guide to 3D Web Game Development with Three.JS",
+        "description": "Learn how to write JavaScript code while having fun creating games using the WebGL library, Three JS",
+        "rating": 4.3,
+        "duration": "7.5 hours",
+        "affiliate_url": "https://trk.udemy.com/c/3288150/3227798/39854?prodsku=course.3839650&u=https://www.udemy.com/course/beginners-3d-web-game-development-with-threejs/?couponCode=OCT26_SALE",
+        "image": "https://img-c.udemycdn.com/course/240x135/3839650_cc74_3.jpg",
+        "trainer": "Nicholas Lever",
+        "trainer_slug": "nicholas-lever",
+        "category": [
+            "Game Development"
+        ],
+        "category_slug": [
+            "game-development"
+        ],
+        "language": "English",
+        "language_slug": "english",
+        "coupon_code": "12.99",
+        "students": 3270,
+        "reviews": 347,
+        "last_updated": "2026-10-26",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 2642,
+        "title": "Create a 3D multi-player game using THREE.js and Socket IO",
+        "description": "Learn to use the WebGL library THREE js, NODE.Js and Socket IO to create a 3D multi-player game.",
+        "rating": 4.3,
+        "duration": "3 hours",
+        "affiliate_url": "https://trk.udemy.com/c/3288150/3227798/39854?prodsku=course.2068719&u=https://www.udemy.com/course/create-a-3d-multi-player-game-using-threejs-and-socketio/?couponCode=OCT26_SALE",
+        "image": "https://img-c.udemycdn.com/course/240x135/2068719_a45f_2.jpg",
+        "trainer": "Nicholas Lever",
+        "trainer_slug": "nicholas-lever",
+        "category": [
+            "Game Development"
+        ],
+        "category_slug": [
+            "game-development"
+        ],
+        "language": "English",
+        "language_slug": "english",
+        "coupon_code": "12.99",
+        "students": 3482,
+        "reviews": 446,
+        "last_updated": "2026-10-26",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 2643,
+        "title": "HTML5 Game Development : Beginner to Pro",
+        "description": "Learn to use the HTML5 Canvas to create HTML5 games that will run in all modern desktop and mobile browsers.",
+        "rating": 3.9,
+        "duration": "6 hours",
+        "affiliate_url": "https://trk.udemy.com/c/3288150/3227798/39854?prodsku=course.1504838&u=https://www.udemy.com/course/html5-game-development-beginner-to-pro/?couponCode=OCT26_SALE",
+        "image": "https://img-c.udemycdn.com/course/240x135/1504838_37ff_2.jpg",
+        "trainer": "Nicholas Lever",
+        "trainer_slug": "nicholas-lever",
+        "category": [
+            "Game Development"
+        ],
+        "category_slug": [
+            "game-development"
+        ],
+        "language": "English",
+        "language_slug": "english",
+        "coupon_code": "12.99",
+        "students": 1833,
+        "reviews": 175,
+        "last_updated": "2026-10-26",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 2644,
+        "title": "Create a 3D Car Racing Game with THREE.js and CANNON.js",
+        "description": "Use the CANNON.js physics library and the WebGL library, THREE.js, to easily create a car racing game.",
+        "rating": 3.9,
+        "duration": "2.5 hours",
+        "affiliate_url": "https://trk.udemy.com/c/3288150/3227798/39854?prodsku=course.1906208&u=https://www.udemy.com/course/create-a-3d-car-racing-game-with-threejs-and-cannonjs/?couponCode=OCT26_SALE",
+        "image": "https://img-c.udemycdn.com/course/240x135/1906208_667b_2.jpg",
+        "trainer": "Nicholas Lever",
+        "trainer_slug": "nicholas-lever",
+        "category": [
+            "Game Development"
+        ],
+        "category_slug": [
+            "game-development"
+        ],
+        "language": "English",
+        "language_slug": "english",
+        "coupon_code": "12.99",
+        "students": 1571,
+        "reviews": 176,
+        "last_updated": "2026-10-26",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 2645,
+        "title": "Create WebXR, VR and AR apps, using the Wonderland Engine",
+        "description": "Use the Wonderland Editor to bring immersive experiences, VR and AR, to the browser, including Meta/Oculus Quest",
+        "rating": 4.5,
+        "duration": "3 hours",
+        "affiliate_url": "https://trk.udemy.com/c/3288150/3227798/39854?prodsku=course.4965904&u=https://www.udemy.com/course/webxr-wle/?couponCode=OCT26_SALE",
+        "image": "https://img-c.udemycdn.com/course/240x135/4965904_f16d_2.jpg",
+        "trainer": "Nicholas Lever",
+        "trainer_slug": "nicholas-lever",
+        "category": [
+            "Game Development"
+        ],
+        "category_slug": [
+            "game-development"
+        ],
+        "language": "English",
+        "language_slug": "english",
+        "coupon_code": "12.99",
+        "students": 341,
+        "reviews": 25,
+        "last_updated": "2026-10-26",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 2646,
+        "title": "Model-viewer: Web 3D made easy",
+        "description": "Display interactive 3D models in a browser with augmented reality, AR, using no or minimal code",
+        "rating": 4.7,
+        "duration": "2 hours",
+        "affiliate_url": "https://trk.udemy.com/c/3288150/3227798/39854?prodsku=course.4527678&u=https://www.udemy.com/course/model-viewer/?couponCode=OCT26_SALE",
+        "image": "https://img-c.udemycdn.com/course/240x135/4527678_1b22_3.jpg",
+        "trainer": "Nicholas Lever",
+        "trainer_slug": "nicholas-lever",
+        "category": [
+            "3D & Animation"
+        ],
+        "category_slug": [
+            "3d-and-animation"
+        ],
+        "language": "English",
+        "language_slug": "english",
+        "coupon_code": "12.99",
+        "students": 650,
+        "reviews": 92,
+        "last_updated": "2026-10-26",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 2647,
+        "title": "A Complete Guide to Unity's Universal Render Pipeline, URP",
+        "description": "Learn how to get the best from URP",
+        "rating": 4.2,
+        "duration": "3 hours",
+        "affiliate_url": "https://trk.udemy.com/c/3288150/3227798/39854?prodsku=course.4912452&u=https://www.udemy.com/course/unity-urp/?couponCode=OCT26_SALE",
+        "image": "https://img-c.udemycdn.com/course/240x135/4912452_1e3e.jpg",
+        "trainer": "Nicholas Lever",
+        "trainer_slug": "nicholas-lever",
+        "category": [
+            "Unity"
+        ],
+        "category_slug": [
+            "unity"
+        ],
+        "language": "English",
+        "language_slug": "english",
+        "coupon_code": "12.99",
+        "students": 1842,
+        "reviews": 80,
+        "last_updated": "2026-10-26",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 2648,
+        "title": "Create a 3D RPG Game With THREE.js",
+        "description": "Use THREE.js to create a stunning WebGL 3D game that will run in all modern browsers, including mobile devices.",
+        "rating": 3.7,
+        "duration": "2.5 hours",
+        "affiliate_url": "https://trk.udemy.com/c/3288150/3227798/39854?prodsku=course.1737428&u=https://www.udemy.com/course/create-a-3d-rpg-game-with-threejs/?couponCode=OCT26_SALE",
+        "image": "https://img-c.udemycdn.com/course/240x135/1737428_fa7f.jpg",
+        "trainer": "Nicholas Lever",
+        "trainer_slug": "nicholas-lever",
+        "category": [
+            "Game Development"
+        ],
+        "category_slug": [
+            "game-development"
+        ],
+        "language": "English",
+        "language_slug": "english",
+        "coupon_code": "12.99",
+        "students": 2495,
+        "reviews": 353,
+        "last_updated": "2026-10-26",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 2649,
+        "title": "Create HTML5 Games Using Adobe Animate",
+        "description": "Make resolution independent HTML5 games using Adobe Animate CC",
+        "rating": 4.1,
+        "duration": "3.5 hours",
+        "affiliate_url": "https://trk.udemy.com/c/3288150/3227798/39854?prodsku=course.1995444&u=https://www.udemy.com/course/create-html5-games-using-adobe-animate/?couponCode=OCT26_SALE",
+        "image": "https://img-c.udemycdn.com/course/240x135/1995444_5c1f_2.jpg",
+        "trainer": "Nicholas Lever",
+        "trainer_slug": "nicholas-lever",
+        "category": [
+            "Game Development"
+        ],
+        "category_slug": [
+            "game-development"
+        ],
+        "language": "English",
+        "language_slug": "english",
+        "coupon_code": "12.99",
+        "students": 812,
+        "reviews": 136,
+        "last_updated": "2026-10-26",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 2650,
+        "title": "Fundamentals of Database Engineering",
+        "description": "Learn ACID, Indexing, Partitioning, Sharding, Concurrency control, Replication, DB Engines, Best Practices and More!",
+        "rating": 4.7,
+        "duration": "31 hours",
+        "affiliate_url": "https://trk.udemy.com/c/3288150/3227798/39854?prodsku=course.2722880&u=https://www.udemy.com/course/database-engines-crash-course/?couponCode=DB-OCT2026-L",
+        "image": "https://img-c.udemycdn.com/course/240x135/2722880_af31_7.jpg",
+        "trainer": "Hussein Nasser",
+        "trainer_slug": "hussein-nasser",
+        "category": [
+            "Databases"
+        ],
+        "category_slug": [
+            "databases"
+        ],
+        "language": "English",
+        "language_slug": "english",
+        "coupon_code": "12.99",
+        "students": 126071,
+        "reviews": 12464,
+        "last_updated": "2026-10-26",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 2651,
+        "title": "Fundamentals of Backend Engineering",
+        "description": "Understand backend communication design patterns, protocols, execution and proxying",
+        "rating": 4.7,
+        "duration": "20 hours",
+        "affiliate_url": "https://trk.udemy.com/c/3288150/3227798/39854?prodsku=course.4953660&u=https://www.udemy.com/course/fundamentals-of-backend-communications-and-protocols/?couponCode=BACK-OCT2026-L",
+        "image": "https://img-c.udemycdn.com/course/240x135/4953660_3133_3.jpg",
+        "trainer": "Hussein Nasser",
+        "trainer_slug": "hussein-nasser",
+        "category": [
+            "Software Engineering"
+        ],
+        "category_slug": [
+            "software-engineering"
+        ],
+        "language": "English",
+        "language_slug": "english",
+        "coupon_code": "12.99",
+        "students": 66972,
+        "reviews": 7827,
+        "last_updated": "2026-10-26",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 2652,
+        "title": "Fundamentals of Network Engineering",
+        "description": "Understanding the first principles of networking to build low latency and high throughput backends",
+        "rating": 4.7,
+        "duration": "18.5 hours",
+        "affiliate_url": "https://trk.udemy.com/c/3288150/3227798/39854?prodsku=course.4574556&u=https://www.udemy.com/course/fundamentals-of-networking-for-effective-backend-design/?couponCode=NET-OCT2026-L",
+        "image": "https://img-c.udemycdn.com/course/240x135/4574556_9059_17.jpg",
+        "trainer": "Hussein Nasser",
+        "trainer_slug": "hussein-nasser",
+        "category": [
+            "Network & Security"
+        ],
+        "category_slug": [
+            "network-and-security"
+        ],
+        "language": "English",
+        "language_slug": "english",
+        "coupon_code": "12.99",
+        "students": 59958,
+        "reviews": 7073,
+        "last_updated": "2026-10-26",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 2653,
+        "title": "Fundamentals of Operating Systems",
+        "description": "Build efficient software by understanding how the OS kernel works",
+        "rating": 4.7,
+        "duration": "21 hours",
+        "affiliate_url": "https://trk.udemy.com/c/3288150/3227798/39854?prodsku=course.5666148&u=https://www.udemy.com/course/fundamentals-of-operating-systems/?couponCode=OS-OCT2026-L",
+        "image": "https://img-c.udemycdn.com/course/240x135/5666148_d14d.jpg",
+        "trainer": "Hussein Nasser",
+        "trainer_slug": "hussein-nasser",
+        "category": [
+            "Operating Systems & Servers"
+        ],
+        "category_slug": [
+            "operating-systems-and-servers"
+        ],
+        "language": "English",
+        "language_slug": "english",
+        "coupon_code": "12.99",
+        "students": 29808,
+        "reviews": 3118,
+        "last_updated": "2026-10-26",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 2654,
+        "title": "NodeJS Internals and Architecture",
+        "description": "Understand how Node works inside out to improve performance, efficiency and consistency of your backend applications",
+        "rating": 4.9,
+        "duration": "21 hours",
+        "affiliate_url": "https://trk.udemy.com/c/3288150/3227798/39854?prodsku=course.6244687&u=https://www.udemy.com/course/nodejs-internals-and-architecture/?couponCode=ND-OCT2026-L",
+        "image": "https://img-c.udemycdn.com/course/240x135/6244687_efa1_11.jpg",
+        "trainer": "Hussein Nasser",
+        "trainer_slug": "hussein-nasser",
+        "category": [
+            "Node JS"
+        ],
+        "category_slug": [
+            "node-js"
+        ],
+        "language": "English",
+        "language_slug": "english",
+        "coupon_code": "12.99",
+        "students": 9721,
+        "reviews": 832,
+        "last_updated": "2026-10-26",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 2655,
+        "title": "Troubleshooting Backend Systems",
+        "description": "Unlocking Peak Backend Performance with Chrome DevTools, MITM Proxy, and Wireshark",
+        "rating": 4.8,
+        "duration": "10.5 hours",
+        "affiliate_url": "https://trk.udemy.com/c/3288150/3227798/39854?prodsku=course.5180026&u=https://www.udemy.com/course/discovering-backend-bottlenecks-unlocking-peak-performance/?couponCode=PF-OCT2026-L",
+        "image": "https://img-c.udemycdn.com/course/240x135/5180026_bf74_2.jpg",
+        "trainer": "Hussein Nasser",
+        "trainer_slug": "hussein-nasser",
+        "category": [
+            "Software Development"
+        ],
+        "category_slug": [
+            "software-development"
+        ],
+        "language": "English",
+        "language_slug": "english",
+        "coupon_code": "12.99",
+        "students": 16581,
+        "reviews": 820,
+        "last_updated": "2026-10-26",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 2656,
+        "title": "Realtime Backend System Design with WebSockets",
+        "description": "Advanced WebSockets internals for Building scalable Real-Time bidirectional gaming and chatting backends",
+        "rating": 4.2,
+        "duration": "11.5 hours",
+        "affiliate_url": "https://trk.udemy.com/c/3288150/3227798/39854?prodsku=course.6752077&u=https://www.udemy.com/course/scalable-real-time-backends-with-websockets/?couponCode=WS-OCT2026-L",
+        "image": "https://img-c.udemycdn.com/course/240x135/6752077_7d39_4.jpg",
+        "trainer": "Hussein Nasser",
+        "trainer_slug": "hussein-nasser",
+        "category": [
+            "Web Development"
+        ],
+        "category_slug": [
+            "web-development"
+        ],
+        "language": "English",
+        "language_slug": "english",
+        "coupon_code": "12.99",
+        "students": 5285,
+        "reviews": 195,
+        "last_updated": "2026-10-26",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 2657,
+        "title": "Introduction to NGINX",
+        "description": "Understand and Deploy Layer 4/Layer 7 Load Balancing, WebSockets, HTTPS, HTTP/2, TLS 1.3 with NGINX (With Docker)",
+        "rating": 4.6,
+        "duration": "7.5 hours",
+        "affiliate_url": "https://trk.udemy.com/c/3288150/3227798/39854?prodsku=course.2773328&u=https://www.udemy.com/course/nginx-crash-course/?couponCode=NGINX-OCT2026-L",
+        "image": "https://img-c.udemycdn.com/course/240x135/2773328_a906_6.jpg",
+        "trainer": "Hussein Nasser",
+        "trainer_slug": "hussein-nasser",
+        "category": [
+            "Network & Security"
+        ],
+        "category_slug": [
+            "network-and-security"
+        ],
+        "language": "English",
+        "language_slug": "english",
+        "coupon_code": "12.99",
+        "students": 28954,
+        "reviews": 2303,
+        "last_updated": "2026-10-26",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 2658,
+        "title": "Python on the Backend",
+        "description": "Learn python back end development, build a website or APIs in Python, designed for students with Mac or Windows",
+        "rating": 4.3,
+        "duration": "4.5 hours",
+        "affiliate_url": "https://trk.udemy.com/c/3288150/3227798/39854?prodsku=course.2034070&u=https://www.udemy.com/course/python-on-the-back-end-for-beginners-http-server/?couponCode=PY-OCT2026-L",
+        "image": "https://img-c.udemycdn.com/course/240x135/2034070_f820_13.jpg",
+        "trainer": "Hussein Nasser",
+        "trainer_slug": "hussein-nasser",
+        "category": [
+            "Python"
+        ],
+        "category_slug": [
+            "python"
+        ],
+        "language": "English",
+        "language_slug": "english",
+        "coupon_code": "12.99",
+        "students": 34924,
+        "reviews": 1263,
+        "last_updated": "2026-10-26",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 2659,
+        "title": "Computer Vision Bootcamp: Real-World YOLO26 Projects",
+        "description": "Annotate data, train custom YOLO26 models, count objects in real time, track poses, and connect vision to AI with MCP",
+        "rating": 0,
+        "duration": "5.5 hours",
+        "affiliate_url": "https://www.udemy.com/course/computer-vision-with-yolo26-annotation-to-real-time-apps/?couponCode=OCTOBER13USD",
+        "image": "https://img-c.udemycdn.com/course/240x135/7375327_94b8.jpg",
+        "trainer": "Muhammad Moin",
+        "trainer_slug": "muhammad-moin",
+        "category": [
+            "Computer Vision"
+        ],
+        "category_slug": [
+            "computer-vision"
+        ],
+        "language": "English",
+        "language_slug": "english",
+        "coupon_code": "12.99",
+        "students": 80,
+        "reviews": 5,
+        "last_updated": "2026-10-26",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 2660,
+        "title": "YOLO11 & YOLOv12: Object Detection & Web Apps in Python 2026",
+        "description": "Learn Custom Object Detection, Tracking, and Pose Estimation with YOLO11 & YOLOv12, and Build Web Apps",
+        "rating": 4.6,
+        "duration": "10.5 hours",
+        "affiliate_url": "https://trk.udemy.com/c/3288150/3227798/39854?prodsku=course.6227993&u=https://www.udemy.com/course/yolo11-custom-object-detection-web-apps-in-python-2024/?couponCode=OCTOBER13USD",
+        "image": "https://img-c.udemycdn.com/course/240x135/6227993_5256.jpg",
+        "trainer": "Muhammad Moin",
+        "trainer_slug": "muhammad-moin",
+        "category": [
+            "Computer Vision"
+        ],
+        "category_slug": [
+            "computer-vision"
+        ],
+        "language": "English",
+        "language_slug": "english",
+        "coupon_code": "12.99",
+        "students": 437,
+        "reviews": 43,
+        "last_updated": "2026-10-26",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 2661,
+        "title": "YOLO26 & AI Vision Agents: Computer Vision with GenAI",
+        "description": "Build vision agents with YOLO26, Gemini & Python for detection, segmentation, pose, OCR, document AI and real-world apps",
+        "rating": 5,
+        "duration": "5.5 hours",
+        "affiliate_url": "https://www.udemy.com/course/yolo26-ai-vision-agents-computer-vision-with-genai/?couponCode=OCTOBER13USD",
+        "image": "https://img-c.udemycdn.com/course/240x135/7296399_666e_2.jpg",
+        "trainer": "Muhammad Moin",
+        "trainer_slug": "muhammad-moin",
+        "category": [
+            "Computer Vision"
+        ],
+        "category_slug": [
+            "computer-vision"
+        ],
+        "language": "English",
+        "language_slug": "english",
+        "coupon_code": "12.99",
+        "students": 90,
+        "reviews": 2,
+        "last_updated": "2026-10-26",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 2662,
+        "title": "YOLOv5-YOLO26 & Vision AI Agents: Object Detection Bootcamp",
+        "description": "YOLOv5, YOLOv8, YOLO11, YOLOv12 & YOLO26: Object Detection, Segmentation, Tracking, Pose Estimation & Vision AI Agents",
+        "rating": 4,
+        "duration": "26 hours",
+        "affiliate_url": "https://trk.udemy.com/c/3288150/3227798/39854?prodsku=course.5134858&u=https://www.udemy.com/course/yolov8-the-ultimate-course-for-object-detection-tracking/?couponCode=OCTOBER13USD",
+        "image": "https://img-c.udemycdn.com/course/240x135/5134858_bd37_5.jpg",
+        "trainer": "Muhammad Moin",
+        "trainer_slug": "muhammad-moin",
+        "category": [
+            "Data Science"
+        ],
+        "category_slug": [
+            "data-science"
+        ],
+        "language": "English",
+        "language_slug": "english",
+        "coupon_code": "12.99",
+        "students": 6649,
+        "reviews": 704,
+        "last_updated": "2026-10-26",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 2663,
+        "title": "Modern Computer Vision with OpenCV 2026",
+        "description": "OpenCV, Learn Custom Object Detection and Tracking with YOLO11 & YOLOv5, and Build Web Apps with OpenCV and Streamlit",
+        "rating": 4.4,
+        "duration": "13 hours",
+        "affiliate_url": "https://trk.udemy.com/c/3288150/3227798/39854?prodsku=course.6342927&u=https://www.udemy.com/course/modern-computer-vision-with-opencv/?couponCode=OCTOBER13USD",
+        "image": "https://img-c.udemycdn.com/course/240x135/6342927_520a_3.jpg",
+        "trainer": "Muhammad Moin",
+        "trainer_slug": "muhammad-moin",
+        "category": [
+            "Computer Vision"
+        ],
+        "category_slug": [
+            "computer-vision"
+        ],
+        "language": "English",
+        "language_slug": "english",
+        "coupon_code": "12.99",
+        "students": 459,
+        "reviews": 35,
+        "last_updated": "2026-10-26",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 2664,
+        "title": "YOLOv12 & YOLO26: Custom Object Detection & Web Apps 2026",
+        "description": "Build Custom Detection, Segmentation, Pose Estimation, Classification, Tracking, OBB & 8+ Projects with Web Apps",
+        "rating": 4.3,
+        "duration": "11.5 hours",
+        "affiliate_url": "https://trk.udemy.com/c/3288150/3227798/39854?prodsku=course.6499509&u=https://www.udemy.com/course/yolov12-custom-object-detection-tracking-webapps/?couponCode=OCTOBER13USD",
+        "image": "https://img-c.udemycdn.com/course/240x135/6499509_5fed_3.jpg",
+        "trainer": "Muhammad Moin",
+        "trainer_slug": "muhammad-moin",
+        "category": [
+            "Data Science"
+        ],
+        "category_slug": [
+            "data-science"
+        ],
+        "language": "English",
+        "language_slug": "english",
+        "coupon_code": "12.99",
+        "students": 1154,
+        "reviews": 64,
+        "last_updated": "2026-10-26",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 2665,
+        "title": "Computer Vision Bootcamp with Python: YOLO, SAM & RF-DETR",
+        "description": "Learn Object Detection & Segmentation â€” Master YOLO, SAM & RF-DETR with Hands-On Projects",
+        "rating": 4.4,
+        "duration": "19 hours",
+        "affiliate_url": "https://trk.udemy.com/c/3288150/3227798/39854?prodsku=course.5353532&u=https://www.udemy.com/course/yolo-nas-object-detection-tracking-web-app-in-python-2023/?couponCode=OCTOBER13USD",
+        "image": "https://img-c.udemycdn.com/course/240x135/5353532_beae_2.jpg",
+        "trainer": "Muhammad Moin",
+        "trainer_slug": "muhammad-moin",
+        "category": [
+            "Computer Vision"
+        ],
+        "category_slug": [
+            "computer-vision"
+        ],
+        "language": "English",
+        "language_slug": "english",
+        "coupon_code": "12.99",
+        "students": 869,
+        "reviews": 62,
+        "last_updated": "2026-10-26",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 2666,
+        "title": "YOLOv9, YOLOv10 & YOLO11: Learn Object Detection & Web Apps",
+        "description": "Object Detection, Object Tracking, WebApps using Flask, Object Detection on Custom Dataset, YOLO-World Object Detection",
+        "rating": 4.3,
+        "duration": "13.5 hours",
+        "affiliate_url": "https://trk.udemy.com/c/3288150/3227798/39854?prodsku=course.5892576&u=https://www.udemy.com/course/yolov9-learn-object-detection-tracking-with-webapps/?couponCode=OCTOBER13USD",
+        "image": "https://img-c.udemycdn.com/course/240x135/5892576_401c.jpg",
+        "trainer": "Muhammad Moin",
+        "trainer_slug": "muhammad-moin",
+        "category": [
+            "Data Science"
+        ],
+        "category_slug": [
+            "data-science"
+        ],
+        "language": "English",
+        "language_slug": "english",
+        "coupon_code": "12.99",
+        "students": 463,
+        "reviews": 76,
+        "last_updated": "2026-10-26",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 2667,
+        "title": "Learn OpenCV: Build # 30 Apps with OpenCV, YOLOv8 & YOLO-NAS",
+        "description": "OpenCV, Object Detection, Object Tracking, Object Segmentation, YOLOv8, YOLO-NAS, Train Custom Dataset, Pose Estimation",
+        "rating": 4.1,
+        "duration": "24.5 hours",
+        "affiliate_url": "https://trk.udemy.com/c/3288150/3227798/39854?prodsku=course.5550794&u=https://www.udemy.com/course/learn-opencv-build-30-apps-with-opencv-yolov8-yolo-nas/?couponCode=OCTOBER13USD",
+        "image": "https://img-c.udemycdn.com/course/240x135/5550794_4971.jpg",
+        "trainer": "Muhammad Moin",
+        "trainer_slug": "muhammad-moin",
+        "category": [
+            "Computer Vision"
+        ],
+        "category_slug": [
+            "computer-vision"
+        ],
+        "language": "English",
+        "language_slug": "english",
+        "coupon_code": "12.99",
+        "students": 1731,
+        "reviews": 181,
+        "last_updated": "2026-10-26",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 2668,
+        "title": "Generative AI, LLM Apps & AI Agents Masterclass 2026",
+        "description": "Learn to Build LLM-Powered Applications and AI Agents Using LangChain, n8n, OpenAI, DeepSeek, Claude & More",
+        "rating": 4.3,
+        "duration": "10 hours",
+        "affiliate_url": "https://trk.udemy.com/c/3288150/3227798/39854?prodsku=course.6641593&u=https://www.udemy.com/course/ai-agents-with-n8n-automate-anything-with-no-code/?couponCode=OCTOBER13USD",
+        "image": "https://img-c.udemycdn.com/course/240x135/6641593_ce5e_9.jpg",
+        "trainer": "Muhammad Moin",
+        "trainer_slug": "muhammad-moin",
+        "category": [
+            "n8n"
+        ],
+        "category_slug": [
+            "n8n"
+        ],
+        "language": "English",
+        "language_slug": "english",
+        "coupon_code": "12.99",
+        "students": 264,
+        "reviews": 22,
+        "last_updated": "2026-10-26",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 2669,
+        "title": "LangChain: Build 26 LLM Apps with OpenAI, Llama & DeepSeek",
+        "description": "Build Real World LLM powered applications with LangChain, OpenAI, Llama, DeepSeek. Create Web Apps with Streamlit.",
+        "rating": 3.9,
+        "duration": "19.5 hours",
+        "affiliate_url": "https://trk.udemy.com/c/3288150/3227798/39854?prodsku=course.5456432&u=https://www.udemy.com/course/learn-langchain-build-12-llm-apps-using-openai-llama-2/?couponCode=OCTOBER13USD",
+        "image": "https://img-c.udemycdn.com/course/240x135/5456432_f40f.jpg",
+        "trainer": "Muhammad Moin",
+        "trainer_slug": "muhammad-moin",
+        "category": [
+            "LangChain"
+        ],
+        "category_slug": [
+            "langchain"
+        ],
+        "language": "English",
+        "language_slug": "english",
+        "coupon_code": "12.99",
+        "students": 3050,
+        "reviews": 371,
+        "last_updated": "2026-10-26",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 2670,
+        "title": "YOLOv7 YOLOv8 YOLO-NAS: Object Detection, Tracking & WebApp",
+        "description": "Object Detection, Segmentation, Tracking, Pose Estimation, Web App Development, Real World 22 + projects with Web Apps",
+        "rating": 3.9,
+        "duration": "20 hours",
+        "affiliate_url": "https://trk.udemy.com/c/3288150/3227798/39854?prodsku=course.5211926&u=https://www.udemy.com/course/yolov7-object-detection-tracking-with-web-app-development/?couponCode=OCTOBER13USD",
+        "image": "https://img-c.udemycdn.com/course/240x135/5211926_27d7_4.jpg",
+        "trainer": "Muhammad Moin",
+        "trainer_slug": "muhammad-moin",
+        "category": [
+            "Data Science"
+        ],
+        "category_slug": [
+            "data-science"
+        ],
+        "language": "English",
+        "language_slug": "english",
+        "coupon_code": "12.99",
+        "students": 1149,
+        "reviews": 122,
+        "last_updated": "2026-10-26",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 2671,
+        "title": "YOLO-NAS The Ultimate Course for Object Detection & Tracking",
+        "description": "YOLO-NAS, Train Custom Dataset, Object Detection, Segmentation, Tracking, Real World 12+ Projects, Streamlit Apps",
+        "rating": 4.1,
+        "duration": "13.5 hours",
+        "affiliate_url": "https://trk.udemy.com/c/3288150/3227798/39854?prodsku=course.5331490&u=https://www.udemy.com/course/yolo-nas-the-ultimate-course-for-object-detection-tracking/?couponCode=OCTOBER13USD",
+        "image": "https://img-c.udemycdn.com/course/240x135/5331490_2894_4.jpg",
+        "trainer": "Muhammad Moin",
+        "trainer_slug": "muhammad-moin",
+        "category": [
+            "Data Science"
+        ],
+        "category_slug": [
+            "data-science"
+        ],
+        "language": "English",
+        "language_slug": "english",
+        "coupon_code": "12.99",
+        "students": 407,
+        "reviews": 54,
+        "last_updated": "2026-10-26",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 2672,
+        "title": "Build AI Agents with LangChain v1: Deep Agents & Tools 2026",
+        "description": "Build intelligent AI agents using LangChain v1, OpenClaw integration, tool calling, middleware, and deep agents.",
+        "rating": 0,
+        "duration": "4 hours",
+        "affiliate_url": "https://trk.udemy.com/c/3288150/3227798/39854?prodsku=course.7019453&u=https://www.udemy.com/course/build-ai-agents-with-langchain-v1-deep-agents-tools-2026/?couponCode=OCTOBER13USD",
+        "image": "https://img-c.udemycdn.com/course/240x135/7019453_12cd.jpg",
+        "trainer": "Muhammad Moin",
+        "trainer_slug": "muhammad-moin",
+        "category": [
+            "Data Science"
+        ],
+        "category_slug": [
+            "data-science"
+        ],
+        "language": "English",
+        "language_slug": "english",
+        "coupon_code": "12.99",
+        "students": 25,
+        "reviews": 5,
+        "last_updated": "2026-10-26",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 2673,
+        "title": "YOLO26 Bootcamp: Real-Time Detection, Segmentation & Pose",
+        "description": "YOLO26 with Python for real-time detection, segmentation, pose estimation, classification, OBB & model deployment",
+        "rating": 4.9,
+        "duration": "5.5 hours",
+        "affiliate_url": "https://trk.udemy.com/c/3288150/3227798/39854?prodsku=course.7033643&u=https://www.udemy.com/course/yolo26-bootcamp-real-time-detection-segmentation-pose/?couponCode=OCTOBER13USD",
+        "image": "https://img-c.udemycdn.com/course/240x135/7033643_5257.jpg",
+        "trainer": "Muhammad Moin",
+        "trainer_slug": "muhammad-moin",
+        "category": [
+            "Computer Vision"
+        ],
+        "category_slug": [
+            "computer-vision"
+        ],
+        "language": "English",
+        "language_slug": "english",
+        "coupon_code": "12.99",
+        "students": 100,
+        "reviews": 8,
+        "last_updated": "2026-10-26",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 2674,
+        "title": "Hands-On RAG Bootcamp: Build Apps with LangGraph & LangChain",
+        "description": "Build powerful Traditional, Multimodal & Agentic RAG with LangChain and LangGraph",
+        "rating": 4.2,
+        "duration": "5 hours",
+        "affiliate_url": "https://trk.udemy.com/c/3288150/3227798/39854?prodsku=course.6934757&u=https://www.udemy.com/course/hands-on-rag-bootcamp-build-apps-with-langgraph-langchain/?couponCode=OCTOBER13USD",
+        "image": "https://img-c.udemycdn.com/course/240x135/6934757_e663.jpg",
+        "trainer": "Muhammad Moin",
+        "trainer_slug": "muhammad-moin",
+        "category": [
+            "LangChain"
+        ],
+        "category_slug": [
+            "langchain"
+        ],
+        "language": "English",
+        "language_slug": "english",
+        "coupon_code": "12.99",
+        "students": 85,
+        "reviews": 5,
+        "last_updated": "2026-10-26",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 2675,
+        "title": "Complete Computer Vision Bootcamp: YOLO to Multimodal AI",
+        "description": "Build practical applications with YOLO, DeepSORT, Streamlit, and state-of-the-art vision-language models",
+        "rating": 4.4,
+        "duration": "5 hours",
+        "affiliate_url": "https://trk.udemy.com/c/3288150/3227798/39854?prodsku=course.6686253&u=https://www.udemy.com/course/complete-computer-vision-bootcamp-yolo-to-multimodal-ai/?couponCode=OCTOBER13USD",
+        "image": "https://img-c.udemycdn.com/course/240x135/6686253_9d4c.jpg",
+        "trainer": "Muhammad Moin",
+        "trainer_slug": "muhammad-moin",
+        "category": [
+            "Computer Vision"
+        ],
+        "category_slug": [
+            "computer-vision"
+        ],
+        "language": "English",
+        "language_slug": "english",
+        "coupon_code": "12.99",
+        "students": 90,
+        "reviews": 5,
+        "last_updated": "2026-10-26",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 2676,
+        "title": "AI 4 Everyone: Build Generative AI & Computer Vision Apps",
+        "description": "Create Generative AI & Computer Vision Apps: Automate tasks, build LLM apps, and explore practical AI solutions.",
+        "rating": 5,
+        "duration": "11 hours",
+        "affiliate_url": "https://trk.udemy.com/c/3288150/3227798/39854?prodsku=course.6149787&u=https://www.udemy.com/course/ai-4-everyone-dive-into-modern-ai-with-llama-31-and-gemini/?couponCode=OCTOBER13USD",
+        "image": "https://img-c.udemycdn.com/course/240x135/6149787_9d03.jpg",
+        "trainer": "Muhammad Moin",
+        "trainer_slug": "muhammad-moin",
+        "category": [
+            "LLM"
+        ],
+        "category_slug": [
+            "llm"
+        ],
+        "language": "English",
+        "language_slug": "english",
+        "coupon_code": "12.99",
+        "students": 159,
+        "reviews": 7,
+        "last_updated": "2026-10-26",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 2677,
+        "title": "Computer Vision Web Development: YOLOv8 and TensorFlow.js",
+        "description": "OpenCV.js, TensorFlow.js, YOLOv8, Object Detection, Custom Object Detection, Computer Vision and Web Integration",
+        "rating": 4.4,
+        "duration": "16.5 hours",
+        "affiliate_url": "https://trk.udemy.com/c/3288150/3227798/39854?prodsku=course.5684026&u=https://www.udemy.com/course/computer-vision-web-development/?couponCode=OCTOBER13USD",
+        "image": "https://img-c.udemycdn.com/course/240x135/5684026_7c37.jpg",
+        "trainer": "Muhammad Moin",
+        "trainer_slug": "muhammad-moin",
+        "category": [
+            "Computer Vision"
+        ],
+        "category_slug": [
+            "computer-vision"
+        ],
+        "language": "English",
+        "language_slug": "english",
+        "coupon_code": "12.99",
+        "students": 272,
+        "reviews": 24,
+        "last_updated": "2026-10-26",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 2678,
+        "title": "Learn Azure DevOps CI/CD pipelines",
+        "description": "Create CI/CD pipelines for Java, .NET, NodeJs, Docker, Terraform, Nuget, Kubernetes, SQL Server, Bicep and ARM templates",
+        "rating": 4.3,
+        "duration": "14 hours",
+        "affiliate_url": "https://trk.udemy.com/c/3288150/3227798/39854?prodsku=course.2327618&u=https://www.udemy.com/course/azure-devops-ci-cd-pipelines/?couponCode=FREE-OPEN-261026",
+        "image": "https://img-c.udemycdn.com/course/240x135/2327618_60d3.jpg",
+        "trainer": "Houssem Dellai",
+        "trainer_slug": "houssem-dellai",
+        "category": [
+            "Azure DevOps"
+        ],
+        "category_slug": [
+            "azure-devops"
+        ],
+        "language": "English",
+        "language_slug": "english",
+        "coupon_code": "100% Off",
+        "students": 133002,
+        "reviews": 4449,
+        "last_updated": "2026-10-26",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 2679,
+        "title": "Azure Container Apps: intro and deep dive",
+        "description": "Master Azure Container Apps: Build, Deploy, and Scale Your Applications with Confidence",
+        "rating": 4.6,
+        "duration": "8 hours",
+        "affiliate_url": "https://trk.udemy.com/c/3288150/3227798/39854?prodsku=course.5349256&u=https://www.udemy.com/course/azure-container-apps/?couponCode=FREE-OPEN-261026",
+        "image": "https://img-c.udemycdn.com/course/240x135/5349256_ac7e.jpg",
+        "trainer": "Houssem Dellai",
+        "trainer_slug": "houssem-dellai",
+        "category": [
+            "Microsoft Azure"
+        ],
+        "category_slug": [
+            "microsoft-azure"
+        ],
+        "language": "English",
+        "language_slug": "english",
+        "coupon_code": "100% Off",
+        "students": 38019,
+        "reviews": 573,
+        "last_updated": "2026-10-26",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 2680,
+        "title": "Learn Github Actions for CI/CD DevOps Pipelines",
+        "description": "Learn how to create DevOps CI/CD pipelines for web, database, container and cloud apps with Github Actions",
+        "rating": 4.5,
+        "duration": "4 hours",
+        "affiliate_url": "https://trk.udemy.com/c/3288150/3227798/39854?prodsku=course.4640376&u=https://www.udemy.com/course/learn-github-actions-ci-cd-devops-pipelines/?couponCode=FREE-OPEN-261026",
+        "image": "https://img-c.udemycdn.com/course/240x135/4640376_2e3b.jpg",
+        "trainer": "Houssem Dellai",
+        "trainer_slug": "houssem-dellai",
+        "category": [
+            "Git"
+        ],
+        "category_slug": [
+            "git"
+        ],
+        "language": "English",
+        "language_slug": "english",
+        "coupon_code": "100% Off",
+        "students": 67710,
+        "reviews": 1291,
+        "last_updated": "2026-10-26",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 2681,
+        "title": "Kubernetes for developers",
+        "description": "Learn how to deploy, manage and scale dockerized apps in Kubernetes",
+        "rating": 4.3,
+        "duration": "6.5 hours",
+        "affiliate_url": "https://trk.udemy.com/c/3288150/3227798/39854?prodsku=course.1943926&u=https://www.udemy.com/course/kubernetes-for-developers/?couponCode=FREE-OPEN-261026",
+        "image": "https://img-c.udemycdn.com/course/240x135/1943926_e313.jpg",
+        "trainer": "Houssem Dellai",
+        "trainer_slug": "houssem-dellai",
+        "category": [
+            "Kubernetes"
+        ],
+        "category_slug": [
+            "kubernetes"
+        ],
+        "language": "English",
+        "language_slug": "english",
+        "coupon_code": "100% Off",
+        "students": 114656,
+        "reviews": 1171,
+        "last_updated": "2026-10-26",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 2682,
+        "title": "Building AI Agents with Langchain and Microsoft Azure",
+        "description": "Build production-ready AI agents with LangChain, Azure AI Foundry, MCP servers, tools, memory, and orchestration",
+        "rating": 4.6,
+        "duration": "1.5 hours",
+        "affiliate_url": "https://www.udemy.com/course/ai-agents-langchain-azure/?couponCode=FREE-OPEN-261026",
+        "image": "https://img-c.udemycdn.com/course/240x135/7219299_5350.jpg",
+        "trainer": "Houssem Dellai",
+        "trainer_slug": "houssem-dellai",
+        "category": [
+            "Software Engineering"
+        ],
+        "category_slug": [
+            "software-engineering"
+        ],
+        "language": "English",
+        "language_slug": "english",
+        "coupon_code": "100% Off",
+        "students": 488,
+        "reviews": 17,
+        "last_updated": "2026-10-26",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 2683,
+        "title": "Advanced Kubernetes/AKS Network & Infrastructure",
+        "description": "Learn how to secure network communication in AKS/Kubernetes cluster",
+        "rating": 4.3,
+        "duration": "21.5 hours",
+        "affiliate_url": "https://trk.udemy.com/c/3288150/3227798/39854?prodsku=course.5139294&u=https://www.udemy.com/course/learn-aks-network-security/?couponCode=FREE-OPEN-261026",
+        "image": "https://img-c.udemycdn.com/course/240x135/5139294_27d3.jpg",
+        "trainer": "Houssem Dellai",
+        "trainer_slug": "houssem-dellai",
+        "category": [
+            "Kubernetes"
+        ],
+        "category_slug": [
+            "kubernetes"
+        ],
+        "language": "English",
+        "language_slug": "english",
+        "coupon_code": "100% Off",
+        "students": 41535,
+        "reviews": 509,
+        "last_updated": "2026-10-26",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 2684,
+        "title": "Getting started with Azure Networking services",
+        "description": "Your practical guide to implementing and securing network services",
+        "rating": 4.2,
+        "duration": "13.5 hours",
+        "affiliate_url": "https://trk.udemy.com/c/3288150/3227798/39854?prodsku=course.5680220&u=https://www.udemy.com/course/azure-networking-services/?couponCode=FREE-OPEN-261026",
+        "image": "https://img-c.udemycdn.com/course/240x135/5680220_2cb5.jpg",
+        "trainer": "Houssem Dellai",
+        "trainer_slug": "houssem-dellai",
+        "category": [
+            "Microsoft Azure"
+        ],
+        "category_slug": [
+            "microsoft-azure"
+        ],
+        "language": "English",
+        "language_slug": "english",
+        "coupon_code": "100% Off",
+        "students": 34674,
+        "reviews": 277,
+        "last_updated": "2026-10-26",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 2685,
+        "title": "Deploy Infra in the Cloud using Terraform",
+        "description": "Learn how to apply Infrastructure as Code (IaC) with Terraform. Covers Web Apps, Database, VM, Kubernetes and Azure.",
+        "rating": 4.5,
+        "duration": "9 hours",
+        "affiliate_url": "https://trk.udemy.com/c/3288150/3227798/39854?prodsku=course.3637254&u=https://www.udemy.com/course/deploy-infra-in-the-cloud-using-terraform/?couponCode=FREE-OPEN-261026",
+        "image": "https://img-c.udemycdn.com/course/240x135/3637254_3d83_2.jpg",
+        "trainer": "Houssem Dellai",
+        "trainer_slug": "houssem-dellai",
+        "category": [
+            "Terraform"
+        ],
+        "category_slug": [
+            "terraform"
+        ],
+        "language": "English",
+        "language_slug": "english",
+        "coupon_code": "100% Off",
+        "students": 84339,
+        "reviews": 1680,
+        "last_updated": "2026-10-26",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 2686,
+        "title": "Practical Kubernetes Guide",
+        "description": "Learn Kubernetes Best Practices related to Security, DevOps, Scalability, Administration, Deployment and Operations.",
+        "rating": 4.5,
+        "duration": "12.5 hours",
+        "affiliate_url": "https://trk.udemy.com/c/3288150/3227798/39854?prodsku=course.3362318&u=https://www.udemy.com/course/kubernetes-best-practices/?couponCode=FREE-OPEN-261026",
+        "image": "https://img-c.udemycdn.com/course/240x135/3362318_7f77_2.jpg",
+        "trainer": "Houssem Dellai",
+        "trainer_slug": "houssem-dellai",
+        "category": [
+            "Kubernetes"
+        ],
+        "category_slug": [
+            "kubernetes"
+        ],
+        "language": "English",
+        "language_slug": "english",
+        "coupon_code": "100% Off",
+        "students": 103239,
+        "reviews": 752,
+        "last_updated": "2026-10-26",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 2687,
+        "title": "RAG in Azure with OpenAI and ChatGPT LLM model",
+        "description": "Extending LLM models using Azure services and tools",
+        "rating": 4.1,
+        "duration": "1 hour",
+        "affiliate_url": "https://trk.udemy.com/c/3288150/3227798/39854?prodsku=course.6122709&u=https://www.udemy.com/course/rag-azure/?couponCode=FREE-OPEN-261026",
+        "image": "https://img-c.udemycdn.com/course/240x135/6122709_1706_3.jpg",
+        "trainer": "Houssem Dellai",
+        "trainer_slug": "houssem-dellai",
+        "category": [
+            "IT & Software"
+        ],
+        "category_slug": [
+            "it-and-software"
+        ],
+        "language": "English",
+        "language_slug": "english",
+        "coupon_code": "100% Off",
+        "students": 23739,
+        "reviews": 640,
+        "last_updated": "2026-10-26",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 2688,
+        "title": "Getting started with Azure Cloud",
+        "description": "Learn how to deploy, automate, secure and architect cloud applications with Microsoft Azure cloud platform.",
+        "rating": 4.5,
+        "duration": "7.5 hours",
+        "affiliate_url": "https://trk.udemy.com/c/3288150/3227798/39854?prodsku=course.4805730&u=https://www.udemy.com/course/microsoft-azure-cloud/?couponCode=FREE-OPEN-261026",
+        "image": "https://img-c.udemycdn.com/course/240x135/4805730_6483_2.jpg",
+        "trainer": "Houssem Dellai",
+        "trainer_slug": "houssem-dellai",
+        "category": [
+            "Microsoft Azure"
+        ],
+        "category_slug": [
+            "microsoft-azure"
+        ],
+        "language": "English",
+        "language_slug": "english",
+        "coupon_code": "100% Off",
+        "students": 64294,
+        "reviews": 419,
+        "last_updated": "2026-10-26",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 2689,
+        "title": "Maîtriser Github Actions et les pipelines DevOps CI/CD",
+        "description": "Apprendre à concevoir, créer et déployer des pipelines CI/CD pour plusieurs types & applications avec Github Actions.",
+        "rating": 4.4,
+        "duration": "2 hours",
+        "affiliate_url": "https://trk.udemy.com/c/3288150/3227798/39854?prodsku=course.5380160&u=https://www.udemy.com/course/github-actions-pipelines-devops-ci-cd/?couponCode=FREE-OPEN-261026",
+        "image": "https://img-c.udemycdn.com/course/240x135/5380160_0035.jpg",
+        "trainer": "Houssem Dellai",
+        "trainer_slug": "houssem-dellai",
+        "category": [
+            "Git"
+        ],
+        "category_slug": [
+            "git"
+        ],
+        "language": "English",
+        "language_slug": "english",
+        "coupon_code": "100% Off",
+        "students": 18421,
+        "reviews": 119,
+        "last_updated": "2026-10-26",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 2690,
+        "title": "Mastering API Management for Generative AI in Azure",
+        "description": "Optimizing and Securing LLM Models with Azure API Management: Load Balancing, Authentication, Semantic Caching, and Priv",
+        "rating": 4.5,
+        "duration": "2.5 hours",
+        "affiliate_url": "https://trk.udemy.com/c/3288150/3227798/39854?prodsku=course.6390417&u=https://www.udemy.com/course/azure-api-management-for-generative-ai/?couponCode=FREE-OPEN-261026",
+        "image": "https://img-c.udemycdn.com/course/240x135/6390417_b8a0.jpg",
+        "trainer": "Houssem Dellai",
+        "trainer_slug": "houssem-dellai",
+        "category": [
+            "IT & Software"
+        ],
+        "category_slug": [
+            "it-and-software"
+        ],
+        "language": "English",
+        "language_slug": "english",
+        "coupon_code": "100% Off",
+        "students": 17119,
+        "reviews": 45,
+        "last_updated": "2026-10-26",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 2691,
+        "title": "Learn Infra as Code with Azure Bicep",
+        "description": "All you need to know to be successful with Cloud Automation and Cloud DevOps.",
+        "rating": 4.2,
+        "duration": "2 hours",
+        "affiliate_url": "https://trk.udemy.com/c/3288150/3227798/39854?prodsku=course.4609994&u=https://www.udemy.com/course/learn-azure-bicep/?couponCode=FREE-OPEN-261026",
+        "image": "https://img-c.udemycdn.com/course/240x135/4609994_38fd_3.jpg",
+        "trainer": "Houssem Dellai",
+        "trainer_slug": "houssem-dellai",
+        "category": [
+            "IT & Software"
+        ],
+        "category_slug": [
+            "it-and-software"
+        ],
+        "language": "English",
+        "language_slug": "english",
+        "coupon_code": "100% Off",
+        "students": 49285,
+        "reviews": 250,
+        "last_updated": "2026-10-26",
         "featured": "",
         "status": "Active"
     }

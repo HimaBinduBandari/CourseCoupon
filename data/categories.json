@@ -1778,5 +1778,15 @@
         "id": 356,
         "name": "CIPS",
         "slug": "cips"
+    },
+    {
+        "id": 357,
+        "name": "3D & Animation",
+        "slug": "3d-and-animation"
+    },
+    {
+        "id": 358,
+        "name": "Computer Vision",
+        "slug": "computer-vision"
     }
 ]

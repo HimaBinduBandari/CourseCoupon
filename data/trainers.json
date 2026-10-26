@@ -1395,5 +1395,60 @@
         "bio": "",
         "website": "",
         "linkedin": ""
+    },
+    {
+        "id": 128,
+        "name": "Dezlearn Education",
+        "slug": "dezlearn-education",
+        "photo": "https://img-c.udemycdn.com/user/200_H/46537132_b0ae_5.jpg",
+        "banner": "",
+        "designation": "",
+        "bio": "",
+        "website": "",
+        "linkedin": "https://linkedin.com/in/learn-easy"
+    },
+    {
+        "id": 129,
+        "name": "Nicholas Lever",
+        "slug": "nicholas-lever",
+        "photo": "https://img-c.udemycdn.com/user/200_H/41309258_f2cb.jpg",
+        "banner": "",
+        "designation": "",
+        "bio": "",
+        "website": "",
+        "linkedin": "https://linkedin.com/in/nicholas-lever-61937b7/"
+    },
+    {
+        "id": 130,
+        "name": "Hussein Nasser",
+        "slug": "hussein-nasser",
+        "photo": "https://img-c.udemycdn.com/user/200_H/58408772_dca4.jpg",
+        "banner": "",
+        "designation": "",
+        "bio": "",
+        "website": "",
+        "linkedin": "https://linkedin.com/in/hnaser"
+    },
+    {
+        "id": 131,
+        "name": "Muhammad Moin",
+        "slug": "muhammad-moin",
+        "photo": "https://img-c.udemycdn.com/user/200_H/222328172_bea6.jpg",
+        "banner": "",
+        "designation": "",
+        "bio": "",
+        "website": "",
+        "linkedin": "https://www.linkedin.com/in/muhammad-moin-7776751a0/"
+    },
+    {
+        "id": 132,
+        "name": "Houssem Dellai",
+        "slug": "houssem-dellai",
+        "photo": "https://img-c.udemycdn.com/user/200_H/23968564_9d36_2.jpg",
+        "banner": "",
+        "designation": "",
+        "bio": "",
+        "website": "",
+        "linkedin": "https://linkedin.com/in/houssemdellai"
     }
 ]
