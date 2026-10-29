@@ -67275,7 +67275,1582 @@
         "coupon_code": "12.99",
         "students": 150,
         "reviews": 7,
-        "last_updated": "",
+        "last_updated": "2026-10-29",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 2693,
+        "title": "Excel Power Query, Power Pivot, DAX, Power BI & Power 3D Map",
+        "description": "Learn Excel Power Query, Power Pivot, DAX, Power BI Tools and 3D Maps. Build Excel Data Analyst Models with Excel 365",
+        "rating": 4.5,
+        "duration": "17 hours",
+        "affiliate_url": "https://trk.udemy.com/c/3288150/3227798/39854?prodsku=course.419404&u=https://www.udemy.com/course/stunning-excel-dashboards-with-powerquery-and-dax/?couponCode=OCT2026-2",
+        "image": "https://img-c.udemycdn.com/course/240x135/419404_543b_6.jpg",
+        "trainer": "Andreas Andreas Exadaktylos",
+        "trainer_slug": "andreas-andreas-exadaktylos",
+        "category": [
+            "Microsoft Excel"
+        ],
+        "category_slug": [
+            "microsoft-excel"
+        ],
+        "language": "English",
+        "language_slug": "english",
+        "coupon_code": "9.99",
+        "students": 22955,
+        "reviews": 4202,
+        "last_updated": "2026-10-29",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 2694,
+        "title": "Excel Financial Modeling and Business Analysis Masterclass",
+        "description": "Excel Financial Modelling from scratch-Learn how to design scalable, flexible, and reusable financial models with Excel",
+        "rating": 4.6,
+        "duration": "15.5 hours",
+        "affiliate_url": "https://trk.udemy.com/c/3288150/3227798/39854?prodsku=course.4985300&u=https://www.udemy.com/course/excel-financial-modeling-and-business-analysis-masterclass/?couponCode=OCT2026-2",
+        "image": "https://img-c.udemycdn.com/course/240x135/4985300_727f_5.jpg",
+        "trainer": "Andreas Andreas Exadaktylos",
+        "trainer_slug": "andreas-andreas-exadaktylos",
+        "category": [
+            "Microsoft Excel"
+        ],
+        "category_slug": [
+            "microsoft-excel"
+        ],
+        "language": "English",
+        "language_slug": "english",
+        "coupon_code": "9.99",
+        "students": 7782,
+        "reviews": 1439,
+        "last_updated": "2026-10-29",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 2695,
+        "title": "Microsoft Excel Statistics & Data Analysis - Zero to Analyst",
+        "description": "Statistics in Excel from scratch. Master t-tests, ANOVA, chi-square and regression â€” no math background required",
+        "rating": 4.9,
+        "duration": "9 hours",
+        "affiliate_url": "https://www.udemy.com/course/microsoft-excel-statistics-data-analysis/?couponCode=OCT2026-2",
+        "image": "https://img-c.udemycdn.com/course/240x135/7048473_7fea.jpg",
+        "trainer": "Andreas Andreas Exadaktylos",
+        "trainer_slug": "andreas-andreas-exadaktylos",
+        "category": [
+            "Microsoft Excel"
+        ],
+        "category_slug": [
+            "microsoft-excel"
+        ],
+        "language": "English",
+        "language_slug": "english",
+        "coupon_code": "9.99",
+        "students": 211,
+        "reviews": 19,
+        "last_updated": "2026-10-29",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 2696,
+        "title": "Microsoft Excel Dashboard & Data Analysis Masterclass",
+        "description": "Create 10 Interactive Microsoft Excel Dashboards from Scratch | 2026 Updated! | with Microsoft Office 365 Excel version",
+        "rating": 4.4,
+        "duration": "20.5 hours",
+        "affiliate_url": "https://trk.udemy.com/c/3288150/3227798/39854?prodsku=course.370474&u=https://www.udemy.com/course/excel-charts-dashboards-masterclass/?couponCode=OCT2026-2",
+        "image": "https://img-c.udemycdn.com/course/240x135/370474_2c34_8.jpg",
+        "trainer": "Andreas Andreas Exadaktylos",
+        "trainer_slug": "andreas-andreas-exadaktylos",
+        "category": [
+            "Microsoft Excel"
+        ],
+        "category_slug": [
+            "microsoft-excel"
+        ],
+        "language": "English",
+        "language_slug": "english",
+        "coupon_code": "9.99",
+        "students": 33915,
+        "reviews": 7559,
+        "last_updated": "2026-10-29",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 2697,
+        "title": "Python for Absolute Beginners: Learn Python in a Week!",
+        "description": "A Python 3 Practical Programming Course for Absolute Beginners - Learn how to Code in Python 3.12 (2024 Edition)",
+        "rating": 4.6,
+        "duration": "13.5 hours",
+        "affiliate_url": "https://trk.udemy.com/c/3288150/3227798/39854?prodsku=course.989224&u=https://www.udemy.com/course/python-programming-for-absolute-beginners/?couponCode=OCT2026-2",
+        "image": "https://img-c.udemycdn.com/course/240x135/989224_9b2a_9.jpg",
+        "trainer": "Andreas Andreas Exadaktylos",
+        "trainer_slug": "andreas-andreas-exadaktylos",
+        "category": [
+            "Python"
+        ],
+        "category_slug": [
+            "python"
+        ],
+        "language": "English",
+        "language_slug": "english",
+        "coupon_code": "9.99",
+        "students": 5968,
+        "reviews": 1843,
+        "last_updated": "2026-10-29",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 2698,
+        "title": "Microsoft Excel VBA Programming & Excel Macros for Beginners",
+        "description": "Become a Proficient Excel Macros and Excel VBA Programmer with Real-World Projects | 2025 UPDATED with Excel 365",
+        "rating": 4.5,
+        "duration": "12 hours",
+        "affiliate_url": "https://trk.udemy.com/c/3288150/3227798/39854?prodsku=course.765106&u=https://www.udemy.com/course/excel-macros-excel-vba-for-non-programmers/?couponCode=OCT2026-2",
+        "image": "https://img-c.udemycdn.com/course/240x135/765106_ee4a_6.jpg",
+        "trainer": "Andreas Andreas Exadaktylos",
+        "trainer_slug": "andreas-andreas-exadaktylos",
+        "category": [
+            "Microsoft Excel"
+        ],
+        "category_slug": [
+            "microsoft-excel"
+        ],
+        "language": "English",
+        "language_slug": "english",
+        "coupon_code": "9.99",
+        "students": 7632,
+        "reviews": 1911,
+        "last_updated": "2026-10-29",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 2699,
+        "title": "Excel Charts, Infographics & Data Visualization Masterclass",
+        "description": "Master 50+ Advanced Dynamic Excel Charts. Create Impressive Graphs, Infographics and Data Visualization (2025 UPDATED)",
+        "rating": 4.8,
+        "duration": "10.5 hours",
+        "affiliate_url": "https://trk.udemy.com/c/3288150/3227798/39854?prodsku=course.575434&u=https://www.udemy.com/course/create-excel-charts-and-graphs-in-2-hours/?couponCode=OCT2026-2",
+        "image": "https://img-c.udemycdn.com/course/240x135/575434_0e4a_7.jpg",
+        "trainer": "Andreas Andreas Exadaktylos",
+        "trainer_slug": "andreas-andreas-exadaktylos",
+        "category": [
+            "Microsoft Excel"
+        ],
+        "category_slug": [
+            "microsoft-excel"
+        ],
+        "language": "English",
+        "language_slug": "english",
+        "coupon_code": "9.99",
+        "students": 6555,
+        "reviews": 1184,
+        "last_updated": "2026-10-29",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 2700,
+        "title": "Excel Tips & Shortcuts: 100+ Hacks for Excel 365, 2019 &2016",
+        "description": "Master PRACTICAL Excel skills for REAL WORK: Clean Data, Build Formulas, Automate Tasks, Create Dashboards, and AI Tools",
+        "rating": 4.6,
+        "duration": "8.5 hours",
+        "affiliate_url": "https://trk.udemy.com/c/3288150/3227798/39854?prodsku=course.520524&u=https://www.udemy.com/course/excel-hacks-and-tips-with-excel/?couponCode=OCT2026-2",
+        "image": "https://img-c.udemycdn.com/course/240x135/520524_6228_6.jpg",
+        "trainer": "Andreas Andreas Exadaktylos",
+        "trainer_slug": "andreas-andreas-exadaktylos",
+        "category": [
+            "Microsoft Excel"
+        ],
+        "category_slug": [
+            "microsoft-excel"
+        ],
+        "language": "English",
+        "language_slug": "english",
+        "coupon_code": "9.99",
+        "students": 5487,
+        "reviews": 1156,
+        "last_updated": "2026-10-29",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 2701,
+        "title": "Microsoft Power BI Desktop Data Analyst Masterclass",
+        "description": "Master Microsoft Power BI Desktop, Interactive Dashboards & Advanced Analytics with DAX and Power Query with Power BI",
+        "rating": 4.6,
+        "duration": "9 hours",
+        "affiliate_url": "https://trk.udemy.com/c/3288150/3227798/39854?prodsku=course.5393992&u=https://www.udemy.com/course/microsoft-power-bi-desktop-masterclass-2023-edition/?couponCode=OCT2026-2",
+        "image": "https://img-c.udemycdn.com/course/240x135/5393992_aeec_2.jpg",
+        "trainer": "Andreas Andreas Exadaktylos",
+        "trainer_slug": "andreas-andreas-exadaktylos",
+        "category": [
+            "Power BI"
+        ],
+        "category_slug": [
+            "power-bi"
+        ],
+        "language": "English",
+        "language_slug": "english",
+        "coupon_code": "9.99",
+        "students": 1013,
+        "reviews": 364,
+        "last_updated": "2026-10-29",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 2702,
+        "title": "Gmail Complete Course: 25+ Google email Techniques",
+        "description": "Boost your Productivity with 25+ Gmail Techniques like Gmail Filters , Security , IFTTT . Master Email Communication",
+        "rating": 4.4,
+        "duration": "2.5 hours",
+        "affiliate_url": "https://trk.udemy.com/c/3288150/3227798/39854?prodsku=course.481776&u=https://www.udemy.com/course/your-gmail-productivity-unleashed-destroy-gmail-timewasters/?couponCode=OCT2026-2",
+        "image": "https://img-c.udemycdn.com/course/240x135/481776_3beb_12.jpg",
+        "trainer": "Andreas Andreas Exadaktylos",
+        "trainer_slug": "andreas-andreas-exadaktylos",
+        "category": [
+            "Office Productivity"
+        ],
+        "category_slug": [
+            "office-productivity"
+        ],
+        "language": "English",
+        "language_slug": "english",
+        "coupon_code": "9.99",
+        "students": 9007,
+        "reviews": 1306,
+        "last_updated": "2026-10-29",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 2703,
+        "title": "Geometric Dimensioning and Tolerancing (GD&T) : Basics",
+        "description": "Learn the essential concepts of GD&T , for mechanical and manufacturing engineers with practice exercises",
+        "rating": 4.5,
+        "duration": "10.5 hours",
+        "affiliate_url": "https://trk.udemy.com/c/3288150/3227798/39854?prodsku=course.2060517&u=https://www.udemy.com/course/geometric-dimensioning-and-tolerancing-basic-concepts/?couponCode=CTODE1026",
+        "image": "https://img-c.udemycdn.com/course/240x135/2060517_8e5d_3.jpg",
+        "trainer": "Mufaddal Rasheed",
+        "trainer_slug": "mufaddal-rasheed",
+        "category": [
+            "Geometric"
+        ],
+        "category_slug": [
+            "geometric"
+        ],
+        "language": "English",
+        "language_slug": "english",
+        "coupon_code": "12.99",
+        "students": 33439,
+        "reviews": 8677,
+        "last_updated": "2026-10-29",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 2704,
+        "title": "Geometric Dimensioning & Tolerancing : Advanced concepts",
+        "description": "Learn to interpret and apply advanced concepts of GD&T on patterns, slots, irregular parts and more",
+        "rating": 4.5,
+        "duration": "8 hours",
+        "affiliate_url": "https://trk.udemy.com/c/3288150/3227798/39854?prodsku=course.2456254&u=https://www.udemy.com/course/geometric-dimensioning-tolerancing-advanced-concepts/?couponCode=CTODE1026",
+        "image": "https://img-c.udemycdn.com/course/240x135/2456254_3578_3.jpg",
+        "trainer": "Mufaddal Rasheed",
+        "trainer_slug": "mufaddal-rasheed",
+        "category": [
+            "Geometric"
+        ],
+        "category_slug": [
+            "geometric"
+        ],
+        "language": "English",
+        "language_slug": "english",
+        "coupon_code": "12.99",
+        "students": 11681,
+        "reviews": 1993,
+        "last_updated": "2026-10-29",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 2705,
+        "title": "Manufacturing process selection and Design for manufacturing",
+        "description": "Learn about the basics of selecting process for a mechanical design and the principles of design for Manufacturing",
+        "rating": 4.5,
+        "duration": "4.5 hours",
+        "affiliate_url": "https://trk.udemy.com/c/3288150/3227798/39854?prodsku=course.3334824&u=https://www.udemy.com/course/manufacturing-process-selection-and-design-for-manufacturing/?couponCode=CTODE1026",
+        "image": "https://img-c.udemycdn.com/course/240x135/3334824_667f_2.jpg",
+        "trainer": "Mufaddal Rasheed",
+        "trainer_slug": "mufaddal-rasheed",
+        "category": [
+            "Engineering"
+        ],
+        "category_slug": [
+            "engineering"
+        ],
+        "language": "English",
+        "language_slug": "english",
+        "coupon_code": "12.99",
+        "students": 12904,
+        "reviews": 4064,
+        "last_updated": "2026-10-29",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 2706,
+        "title": "Basics of Tolerance Stack-up Analysis and Fits with GD&T",
+        "description": "Learn About Tolerances Stack-up Analysis and about fits in engineering with multiple examples with GD&T for mechanical",
+        "rating": 4.5,
+        "duration": "7 hours",
+        "affiliate_url": "https://trk.udemy.com/c/3288150/3227798/39854?prodsku=course.2744286&u=https://www.udemy.com/course/basics-of-tolerance-analyses-stackup-and-fits/?couponCode=CTODE1026",
+        "image": "https://img-c.udemycdn.com/course/240x135/2744286_b8c2.jpg",
+        "trainer": "Mufaddal Rasheed",
+        "trainer_slug": "mufaddal-rasheed",
+        "category": [
+            "Engineering"
+        ],
+        "category_slug": [
+            "engineering"
+        ],
+        "language": "English",
+        "language_slug": "english",
+        "coupon_code": "12.99",
+        "students": 5370,
+        "reviews": 1059,
+        "last_updated": "2026-10-29",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 2707,
+        "title": "Automobile Engineering: Vehicle dynamics for Beginners",
+        "description": "Introductory course on the mechanics which govern vehicle behavior and the Suspension design concepts",
+        "rating": 4.5,
+        "duration": "12 hours",
+        "affiliate_url": "https://trk.udemy.com/c/3288150/3227798/39854?prodsku=course.1961800&u=https://www.udemy.com/course/fundamental-concepts-of-vehicle-dynamics/?couponCode=CTODE1026",
+        "image": "https://img-c.udemycdn.com/course/240x135/1961800_8725_9.jpg",
+        "trainer": "Mufaddal Rasheed",
+        "trainer_slug": "mufaddal-rasheed",
+        "category": [
+            "Engineering"
+        ],
+        "category_slug": [
+            "engineering"
+        ],
+        "language": "English",
+        "language_slug": "english",
+        "coupon_code": "12.99",
+        "students": 9919,
+        "reviews": 2130,
+        "last_updated": "2026-10-29",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 2708,
+        "title": "Mechanical design and Product development process",
+        "description": "Learn the basic ideas and concepts behind developing mechanical products related to mechanical engineering",
+        "rating": 4.4,
+        "duration": "9.5 hours",
+        "affiliate_url": "https://trk.udemy.com/c/3288150/3227798/39854?prodsku=course.2236272&u=https://www.udemy.com/course/introduction-to-mechanical-product-development/?couponCode=CTODE1026",
+        "image": "https://img-c.udemycdn.com/course/240x135/2236272_4346_2.jpg",
+        "trainer": "Mufaddal Rasheed",
+        "trainer_slug": "mufaddal-rasheed",
+        "category": [
+            "Engineering"
+        ],
+        "category_slug": [
+            "engineering"
+        ],
+        "language": "English",
+        "language_slug": "english",
+        "coupon_code": "12.99",
+        "students": 6176,
+        "reviews": 1381,
+        "last_updated": "2026-10-29",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 2709,
+        "title": "Basics of Sheet metal design for Mechanical design engineers",
+        "description": "Learn Sheet metal design, processes and practical design considerations along with Design projects.",
+        "rating": 4.5,
+        "duration": "7 hours",
+        "affiliate_url": "https://trk.udemy.com/c/3288150/3227798/39854?prodsku=course.2014090&u=https://www.udemy.com/course/mechanical-design-basics-of-sheet-metal-design/?couponCode=CTODE1026",
+        "image": "https://img-c.udemycdn.com/course/240x135/2014090_61ee_2.jpg",
+        "trainer": "Mufaddal Rasheed",
+        "trainer_slug": "mufaddal-rasheed",
+        "category": [
+            "Engineering"
+        ],
+        "category_slug": [
+            "engineering"
+        ],
+        "language": "English",
+        "language_slug": "english",
+        "coupon_code": "12.99",
+        "students": 9652,
+        "reviews": 2307,
+        "last_updated": "2026-10-29",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 2710,
+        "title": "Design Failure Mode Effect Analysis - Concepts & Practice",
+        "description": "Learn about the fundamentals of preparing DFMEA for Mechanical design engineers",
+        "rating": 4.6,
+        "duration": "5.5 hours",
+        "affiliate_url": "https://trk.udemy.com/c/3288150/3227798/39854?prodsku=course.3369706&u=https://www.udemy.com/course/design-failure-mode-effect-analysis-concepts-practice/?couponCode=CTODE1026",
+        "image": "https://img-c.udemycdn.com/course/240x135/3369706_047b_2.jpg",
+        "trainer": "Mufaddal Rasheed",
+        "trainer_slug": "mufaddal-rasheed",
+        "category": [
+            "Engineering"
+        ],
+        "category_slug": [
+            "engineering"
+        ],
+        "language": "English",
+        "language_slug": "english",
+        "coupon_code": "12.99",
+        "students": 7490,
+        "reviews": 2101,
+        "last_updated": "2026-10-29",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 2711,
+        "title": "Machine design Basics - I - Shaft, Bearings & Gears",
+        "description": "Learn about the fundamentals of design of common rotating machinery components in mechanical design engineering",
+        "rating": 4.4,
+        "duration": "8 hours",
+        "affiliate_url": "https://trk.udemy.com/c/3288150/3227798/39854?prodsku=course.4345664&u=https://www.udemy.com/course/machine-element-design-basics-i-shaft-bearings-gears/?couponCode=CTODE1026",
+        "image": "https://img-c.udemycdn.com/course/240x135/4345664_812f_3.jpg",
+        "trainer": "Mufaddal Rasheed",
+        "trainer_slug": "mufaddal-rasheed",
+        "category": [
+            "Engineering"
+        ],
+        "category_slug": [
+            "engineering"
+        ],
+        "language": "English",
+        "language_slug": "english",
+        "coupon_code": "12.99",
+        "students": 4377,
+        "reviews": 600,
+        "last_updated": "2026-10-29",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 2712,
+        "title": "Basics of Material selection for mechanical design engineers",
+        "description": "Learn about the fundamentals of materials and their selection for mechanical engineering design for design engineers",
+        "rating": 4.4,
+        "duration": "4 hours",
+        "affiliate_url": "https://trk.udemy.com/c/3288150/3227798/39854?prodsku=course.2808699&u=https://www.udemy.com/course/basics-of-material-selection-in-mechanical-design/?couponCode=CTODE1026",
+        "image": "https://img-c.udemycdn.com/course/240x135/2808699_9833_4.jpg",
+        "trainer": "Mufaddal Rasheed",
+        "trainer_slug": "mufaddal-rasheed",
+        "category": [
+            "Engineering"
+        ],
+        "category_slug": [
+            "engineering"
+        ],
+        "language": "English",
+        "language_slug": "english",
+        "coupon_code": "12.99",
+        "students": 8747,
+        "reviews": 1882,
+        "last_updated": "2026-10-29",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 2713,
+        "title": "Basics of Plastics design for design engineers",
+        "description": "Learn about the fundamentals of mechanical design with plastics in the design process",
+        "rating": 4.4,
+        "duration": "5 hours",
+        "affiliate_url": "https://trk.udemy.com/c/3288150/3227798/39854?prodsku=course.4677706&u=https://www.udemy.com/course/basics-of-plastics-design-for-design-engineers/?couponCode=CTODE1026",
+        "image": "https://img-c.udemycdn.com/course/240x135/4677706_22b3_2.jpg",
+        "trainer": "Mufaddal Rasheed",
+        "trainer_slug": "mufaddal-rasheed",
+        "category": [
+            "Engineering"
+        ],
+        "category_slug": [
+            "engineering"
+        ],
+        "language": "English",
+        "language_slug": "english",
+        "coupon_code": "12.99",
+        "students": 2630,
+        "reviews": 595,
+        "last_updated": "2026-10-29",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 2714,
+        "title": "Introduction to Automotive engineering - Performance",
+        "description": "Learn the Basics of Vehicle Performance and take your Automotive knowledge to next level",
+        "rating": 4.6,
+        "duration": "5 hours",
+        "affiliate_url": "https://trk.udemy.com/c/3288150/3227798/39854?prodsku=course.2258986&u=https://www.udemy.com/course/overview-of-automotive-performance-engineering/?couponCode=CTODE1026",
+        "image": "https://img-c.udemycdn.com/course/240x135/2258986_eca5_3.jpg",
+        "trainer": "Mufaddal Rasheed",
+        "trainer_slug": "mufaddal-rasheed",
+        "category": [
+            "Engineering"
+        ],
+        "category_slug": [
+            "engineering"
+        ],
+        "language": "English",
+        "language_slug": "english",
+        "coupon_code": "12.99",
+        "students": 5954,
+        "reviews": 1411,
+        "last_updated": "2026-10-29",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 2715,
+        "title": "Concept Design of a Double Wishbone Suspension in Fusion 360",
+        "description": "Learn how to design a double wishbone suspension system from scratch with calculations in Fusion 360",
+        "rating": 4.6,
+        "duration": "4 hours",
+        "affiliate_url": "https://trk.udemy.com/c/3288150/3227798/39854?prodsku=course.3950534&u=https://www.udemy.com/course/concept-design-of-a-double-wishbone-suspension-system/?couponCode=CTODE1026",
+        "image": "https://img-c.udemycdn.com/course/240x135/3950534_f4d7.jpg",
+        "trainer": "Mufaddal Rasheed",
+        "trainer_slug": "mufaddal-rasheed",
+        "category": [
+            "Engineering"
+        ],
+        "category_slug": [
+            "engineering"
+        ],
+        "language": "English",
+        "language_slug": "english",
+        "coupon_code": "12.99",
+        "students": 1238,
+        "reviews": 206,
+        "last_updated": "2026-10-29",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 2716,
+        "title": "Machine Design : Theories of failure and Design for fatigue",
+        "description": "Learn about the Theories of mechanical failure and principles of designing for fatigue for mechanical engineering",
+        "rating": 4.5,
+        "duration": "3 hours",
+        "affiliate_url": "https://trk.udemy.com/c/3288150/3227798/39854?prodsku=course.2855482&u=https://www.udemy.com/course/machine-design-theories-of-failure-and-design-for-fatigue/?couponCode=CTODE1026",
+        "image": "https://img-c.udemycdn.com/course/240x135/2855482_62b1.jpg",
+        "trainer": "Mufaddal Rasheed",
+        "trainer_slug": "mufaddal-rasheed",
+        "category": [
+            "Engineering"
+        ],
+        "category_slug": [
+            "engineering"
+        ],
+        "language": "English",
+        "language_slug": "english",
+        "coupon_code": "12.99",
+        "students": 3756,
+        "reviews": 560,
+        "last_updated": "2026-10-29",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 2717,
+        "title": "GD&T applied to components with case studies",
+        "description": "Learn about how to apply Tolerancing schemes to component based on function for design engineers with case studies",
+        "rating": 4.5,
+        "duration": "3.5 hours",
+        "affiliate_url": "https://trk.udemy.com/c/3288150/3227798/39854?prodsku=course.4061532&u=https://www.udemy.com/course/functional-dimensioning-tolerancing-with-case-studies/?couponCode=CTODE1026",
+        "image": "https://img-c.udemycdn.com/course/240x135/4061532_b6e3_2.jpg",
+        "trainer": "Mufaddal Rasheed",
+        "trainer_slug": "mufaddal-rasheed",
+        "category": [
+            "Engineering"
+        ],
+        "category_slug": [
+            "engineering"
+        ],
+        "language": "English",
+        "language_slug": "english",
+        "coupon_code": "12.99",
+        "students": 2927,
+        "reviews": 531,
+        "last_updated": "2026-10-29",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 2718,
+        "title": "Design for Mechanical Assembly and Constraint Based Design",
+        "description": "Learn about the best practices in designing mechanical systems for assembly and design with optimal constraints",
+        "rating": 4.5,
+        "duration": "4.5 hours",
+        "affiliate_url": "https://trk.udemy.com/c/3288150/3227798/39854?prodsku=course.6425899&u=https://www.udemy.com/course/design-for-mechanical-assembly-and-constraint-based-design/?couponCode=CTODE1026",
+        "image": "https://img-c.udemycdn.com/course/240x135/6425899_b736_3.jpg",
+        "trainer": "Mufaddal Rasheed",
+        "trainer_slug": "mufaddal-rasheed",
+        "category": [
+            "Engineering"
+        ],
+        "category_slug": [
+            "engineering"
+        ],
+        "language": "English",
+        "language_slug": "english",
+        "coupon_code": "12.99",
+        "students": 1204,
+        "reviews": 209,
+        "last_updated": "2026-10-29",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 2719,
+        "title": "Machine design Basics II - Screws, Fasteners, Springs, Belt",
+        "description": "Learn about fundamentals of Designing machine components like Power screws, Fasteners, springs and Belt drives",
+        "rating": 4.3,
+        "duration": "5.5 hours",
+        "affiliate_url": "https://trk.udemy.com/c/3288150/3227798/39854?prodsku=course.5495098&u=https://www.udemy.com/course/machine-element-design-ii-screws-fasteners-springs-belt/?couponCode=CTODE1026",
+        "image": "https://img-c.udemycdn.com/course/240x135/5495098_eb5c_2.jpg",
+        "trainer": "Mufaddal Rasheed",
+        "trainer_slug": "mufaddal-rasheed",
+        "category": [
+            "Engineering"
+        ],
+        "category_slug": [
+            "engineering"
+        ],
+        "language": "English",
+        "language_slug": "english",
+        "coupon_code": "12.99",
+        "students": 494,
+        "reviews": 40,
+        "last_updated": "2026-10-29",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 2720,
+        "title": "Basics of Kinematic analysis in Mechanism design",
+        "description": "Learn about how to design and analyze simple planar mechanisms with case studies for mechanical design engineers",
+        "rating": 4.3,
+        "duration": "5 hours",
+        "affiliate_url": "https://trk.udemy.com/c/3288150/3227798/39854?prodsku=course.4159386&u=https://www.udemy.com/course/basics-of-mechanism-design-analysis-for-mechanical-design/?couponCode=CTODE1026",
+        "image": "https://img-c.udemycdn.com/course/240x135/4159386_e7ed.jpg",
+        "trainer": "Mufaddal Rasheed",
+        "trainer_slug": "mufaddal-rasheed",
+        "category": [
+            "Engineering"
+        ],
+        "category_slug": [
+            "engineering"
+        ],
+        "language": "English",
+        "language_slug": "english",
+        "coupon_code": "12.99",
+        "students": 772,
+        "reviews": 73,
+        "last_updated": "2026-10-29",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 2721,
+        "title": "Basic Concepts of Mechanics of Materials for Machine Design",
+        "description": "Learn the Foundation concepts of Strength of materials with Math derivations and theory for mechanical engineering",
+        "rating": 4.3,
+        "duration": "4.5 hours",
+        "affiliate_url": "https://trk.udemy.com/c/3288150/3227798/39854?prodsku=course.2587742&u=https://www.udemy.com/course/basic-concepts-of-mechanics-of-materials-for-machine-design/?couponCode=CTODE1026",
+        "image": "https://img-c.udemycdn.com/course/240x135/2587742_6b39_3.jpg",
+        "trainer": "Mufaddal Rasheed",
+        "trainer_slug": "mufaddal-rasheed",
+        "category": [
+            "Engineering"
+        ],
+        "category_slug": [
+            "engineering"
+        ],
+        "language": "English",
+        "language_slug": "english",
+        "coupon_code": "12.99",
+        "students": 1070,
+        "reviews": 155,
+        "last_updated": "2026-10-29",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 2722,
+        "title": "Introduction to Automotive Product Design & development",
+        "description": "Learn about the process, milestones and activities from idea to complete design of cars for Automotive engineers",
+        "rating": 4.3,
+        "duration": "3.5 hours",
+        "affiliate_url": "https://trk.udemy.com/c/3288150/3227798/39854?prodsku=course.3238689&u=https://www.udemy.com/course/introduction-to-automotive-design-engineering-development/?couponCode=CTODE1026",
+        "image": "https://img-c.udemycdn.com/course/240x135/3238689_26ca_3.jpg",
+        "trainer": "Mufaddal Rasheed",
+        "trainer_slug": "mufaddal-rasheed",
+        "category": [
+            "Engineering"
+        ],
+        "category_slug": [
+            "engineering"
+        ],
+        "language": "English",
+        "language_slug": "english",
+        "coupon_code": "12.99",
+        "students": 10645,
+        "reviews": 3458,
+        "last_updated": "2026-10-29",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 2723,
+        "title": "Mechanical concept design Problem solving with 15 projects",
+        "description": "A project based course showcasing a framework to solve mechanical design engineering problems",
+        "rating": 4.4,
+        "duration": "4.5 hours",
+        "affiliate_url": "https://trk.udemy.com/c/3288150/3227798/39854?prodsku=course.4974174&u=https://www.udemy.com/course/mechanical-concept-design-practical-problem-solving/?couponCode=CTODE1026",
+        "image": "https://img-c.udemycdn.com/course/240x135/4974174_66ac.jpg",
+        "trainer": "Mufaddal Rasheed",
+        "trainer_slug": "mufaddal-rasheed",
+        "category": [
+            "Engineering"
+        ],
+        "category_slug": [
+            "engineering"
+        ],
+        "language": "English",
+        "language_slug": "english",
+        "coupon_code": "12.99",
+        "students": 1934,
+        "reviews": 271,
+        "last_updated": "2026-10-29",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 2724,
+        "title": "Fundamentals of VAVE for Design Engineers- Practical Guide",
+        "description": "Learn about concept of Value in engineering design along with how to Create FAST Diagrams for designs",
+        "rating": 5,
+        "duration": "3 hours",
+        "affiliate_url": "https://www.udemy.com/course/fundamentals-of-vave-for-design-engineers-practical-guide/?couponCode=CTODE1026",
+        "image": "https://img-c.udemycdn.com/course/240x135/7343795_dbc4_2.jpg",
+        "trainer": "Mufaddal Rasheed",
+        "trainer_slug": "mufaddal-rasheed",
+        "category": [
+            "Engineering"
+        ],
+        "category_slug": [
+            "engineering"
+        ],
+        "language": "English",
+        "language_slug": "english",
+        "coupon_code": "12.99",
+        "students": 100,
+        "reviews": 1,
+        "last_updated": "2026-10-29",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 2725,
+        "title": "Basics of TRIZ - Problem Solving For Design Engineers",
+        "description": "Learn about the basics of the TRIZ framework specifically for Mechanical design engineers - Inventive principles",
+        "rating": 4.2,
+        "duration": "5.5 hours",
+        "affiliate_url": "https://trk.udemy.com/c/3288150/3227798/39854?prodsku=course.6425883&u=https://www.udemy.com/course/basics-of-triz-problem-solving-for-design-engineers/?couponCode=CTODE1026",
+        "image": "https://img-c.udemycdn.com/course/240x135/6425883_c641.jpg",
+        "trainer": "Mufaddal Rasheed",
+        "trainer_slug": "mufaddal-rasheed",
+        "category": [
+            "Engineering"
+        ],
+        "category_slug": [
+            "engineering"
+        ],
+        "language": "English",
+        "language_slug": "english",
+        "coupon_code": "12.99",
+        "students": 487,
+        "reviews": 65,
+        "last_updated": "2026-10-29",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 2726,
+        "title": "Mechanical concept design : Stress simulation in Fusion 360",
+        "description": "Learn about basics of Structural analysis in Fusion 360 with Case studies on improving basic structural designs",
+        "rating": 4.3,
+        "duration": "4 hours",
+        "affiliate_url": "https://trk.udemy.com/c/3288150/3227798/39854?prodsku=course.5480554&u=https://www.udemy.com/course/mechanical-concept-design-stress-simulation-in-fusion-360/?couponCode=CTODE1026",
+        "image": "https://img-c.udemycdn.com/course/240x135/5480554_6d8e.jpg",
+        "trainer": "Mufaddal Rasheed",
+        "trainer_slug": "mufaddal-rasheed",
+        "category": [
+            "Engineering"
+        ],
+        "category_slug": [
+            "engineering"
+        ],
+        "language": "English",
+        "language_slug": "english",
+        "coupon_code": "12.99",
+        "students": 208,
+        "reviews": 28,
+        "last_updated": "2026-10-29",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 2727,
+        "title": "Sheet metal Stamping design with Fusion 360 - Chassis frame",
+        "description": "Learn how to design the chassis frame from scratch with methodology and CAD workflows for mechanical engineers",
+        "rating": 4.3,
+        "duration": "6 hours",
+        "affiliate_url": "https://trk.udemy.com/c/3288150/3227798/39854?prodsku=course.3965852&u=https://www.udemy.com/course/concept-design-of-full-chassis-ladder-frame-in-fusion-360/?couponCode=CTODE1026",
+        "image": "https://img-c.udemycdn.com/course/240x135/3965852_df1d_3.jpg",
+        "trainer": "Mufaddal Rasheed",
+        "trainer_slug": "mufaddal-rasheed",
+        "category": [
+            "Engineering"
+        ],
+        "category_slug": [
+            "engineering"
+        ],
+        "language": "English",
+        "language_slug": "english",
+        "coupon_code": "12.99",
+        "students": 416,
+        "reviews": 53,
+        "last_updated": "2026-10-29",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 2728,
+        "title": "Intro to Mechanical Design engineering skillset",
+        "description": "Learn what design engineers do , how they do it and how to become one for Mechanical engineers, students and graduates",
+        "rating": 4.4,
+        "duration": "6.5 hours",
+        "affiliate_url": "https://trk.udemy.com/c/3288150/3227798/39854?prodsku=course.2493180&u=https://www.udemy.com/course/introduction-to-mechanical-design-engineering/?couponCode=CTODE1026",
+        "image": "https://img-c.udemycdn.com/course/240x135/2493180_2b01_3.jpg",
+        "trainer": "Mufaddal Rasheed",
+        "trainer_slug": "mufaddal-rasheed",
+        "category": [
+            "Engineering"
+        ],
+        "category_slug": [
+            "engineering"
+        ],
+        "language": "English",
+        "language_slug": "english",
+        "coupon_code": "12.99",
+        "students": 4358,
+        "reviews": 834,
+        "last_updated": "2026-10-29",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 2729,
+        "title": "Complete Data Analyst Bootcamp From Basics To Advanced",
+        "description": "Master Data Analysis: Python, Stats, Gen AI, EDA, AWS, SQL ,Excel, Power BI, Tableau,ETL,Snowflake & Feature Engineering",
+        "rating": 4.4,
+        "duration": "89 hours",
+        "affiliate_url": "https://trk.udemy.com/c/3288150/3227798/39854?prodsku=course.6074041&u=https://www.udemy.com/course/complete-data-analyst-bootcamp-from-basics-to-advanced/?couponCode=DIWALI",
+        "image": "https://img-c.udemycdn.com/course/240x135/6074041_36f4_3.jpg",
+        "trainer": "Krish Naik",
+        "trainer_slug": "krish-naik",
+        "category": [
+            "Data Analysis"
+        ],
+        "category_slug": [
+            "data-analysis"
+        ],
+        "language": "English",
+        "language_slug": "english",
+        "coupon_code": "9.99",
+        "students": 131340,
+        "reviews": 23351,
+        "last_updated": "2026-10-29",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 2730,
+        "title": "Complete Data Science,Machine Learning,DL,NLP Bootcamp",
+        "description": "Master the theory, practice,and math behind Data Science,Machine Learning,Deep Learning,NLP with end to end projects",
+        "rating": 4.5,
+        "duration": "101.5 hours",
+        "affiliate_url": "https://trk.udemy.com/c/3288150/3227798/39854?prodsku=course.5993822&u=https://www.udemy.com/course/complete-machine-learning-nlp-bootcamp-mlops-deployment/?couponCode=DIWALI",
+        "image": "https://img-c.udemycdn.com/course/240x135/5993822_2c2a_7.jpg",
+        "trainer": "Krish Naik",
+        "trainer_slug": "krish-naik",
+        "category": [
+            "Data Science"
+        ],
+        "category_slug": [
+            "data-science"
+        ],
+        "language": "English",
+        "language_slug": "english",
+        "coupon_code": "9.99",
+        "students": 170698,
+        "reviews": 28416,
+        "last_updated": "2026-10-29",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 2731,
+        "title": "Complete Generative AI Course With Langchain and Huggingface",
+        "description": "Complete Guide to Building, Deploying, and Optimizing Generative AI with Langchain and Huggingface",
+        "rating": 4.5,
+        "duration": "70 hours",
+        "affiliate_url": "https://trk.udemy.com/c/3288150/3227798/39854?prodsku=course.6010764&u=https://www.udemy.com/course/complete-generative-ai-course-with-langchain-and-huggingface/?couponCode=DIWALI",
+        "image": "https://img-c.udemycdn.com/course/240x135/6010764_b4b1_8.jpg",
+        "trainer": "Krish Naik",
+        "trainer_slug": "krish-naik",
+        "category": [
+            "Data Science"
+        ],
+        "category_slug": [
+            "data-science"
+        ],
+        "language": "English",
+        "language_slug": "english",
+        "coupon_code": "9.99",
+        "students": 155896,
+        "reviews": 20686,
+        "last_updated": "2026-10-29",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 2732,
+        "title": "AI Security Bootcamp-Guardrails,LLM Gateways,Observability",
+        "description": "Build secure LLM,AI agents with Guardrails, LLM Gateways, Evals, Observability, Claude Code,Deep Agents",
+        "rating": 4.6,
+        "duration": "83 hours",
+        "affiliate_url": "https://www.udemy.com/course/ai-security-bootcamp-guardrailsllm-gatewaysobservability/?couponCode=DIWALI",
+        "image": "https://img-c.udemycdn.com/course/240x135/7198981_06b2_2.jpg",
+        "trainer": "Krish Naik",
+        "trainer_slug": "krish-naik",
+        "category": [
+            "AI"
+        ],
+        "category_slug": [
+            "ai"
+        ],
+        "language": "English",
+        "language_slug": "english",
+        "coupon_code": "9.99",
+        "students": 6243,
+        "reviews": 361,
+        "last_updated": "2026-10-29",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 2733,
+        "title": "Complete Agentic AI Bootcamp With LangGraph and Langchain",
+        "description": "Learn to build real-world AI agents, multi-agent workflows, and autonomous apps with LangGraph and LangChain",
+        "rating": 4.5,
+        "duration": "45.5 hours",
+        "affiliate_url": "https://trk.udemy.com/c/3288150/3227798/39854?prodsku=course.6487885&u=https://www.udemy.com/course/complete-agentic-ai-bootcamp-with-langgraph-and-langchain/?couponCode=DIWALI",
+        "image": "https://img-c.udemycdn.com/course/240x135/6487885_b576_2.jpg",
+        "trainer": "Krish Naik",
+        "trainer_slug": "krish-naik",
+        "category": [
+            "Generative AI"
+        ],
+        "category_slug": [
+            "generative-ai"
+        ],
+        "language": "English",
+        "language_slug": "english",
+        "coupon_code": "9.99",
+        "students": 71349,
+        "reviews": 6677,
+        "last_updated": "2026-10-29",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 2734,
+        "title": "Ultimate RAG Bootcamp Using Langchain,LangGraph & Langsmith",
+        "description": "Build powerful RAG pipelines: Traditional, Advanced, Multimodal & Agentic AI with LangChain,LangGraph and Langsmith",
+        "rating": 4.6,
+        "duration": "34 hours",
+        "affiliate_url": "https://trk.udemy.com/c/3288150/3227798/39854?prodsku=course.6696573&u=https://www.udemy.com/course/ultimate-rag-bootcamp-using-langchainlanggraph-langsmith/?couponCode=DIWALI",
+        "image": "https://img-c.udemycdn.com/course/240x135/6696573_a079_8.jpg",
+        "trainer": "Krish Naik",
+        "trainer_slug": "krish-naik",
+        "category": [
+            "RAG"
+        ],
+        "category_slug": [
+            "rag"
+        ],
+        "language": "English",
+        "language_slug": "english",
+        "coupon_code": "9.99",
+        "students": 42708,
+        "reviews": 3819,
+        "last_updated": "2026-10-29",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 2735,
+        "title": "Claude Ecosystem - AI, Code, Cowork, M365 & Certification",
+        "description": "Master Claude Chat, Code, Cowork, Skills & MCP - hands-on projects, real workflows, and CCA-F exam prep included.",
+        "rating": 4.5,
+        "duration": "27 hours",
+        "affiliate_url": "https://www.udemy.com/course/claude-ecosystem-ai-code-cowork-m365-certification/?couponCode=DIWALI",
+        "image": "https://img-c.udemycdn.com/course/240x135/7180261_7f83_2.jpg",
+        "trainer": "Krish Naik",
+        "trainer_slug": "krish-naik",
+        "category": [
+            "Claude"
+        ],
+        "category_slug": [
+            "claude"
+        ],
+        "language": "English",
+        "language_slug": "english",
+        "coupon_code": "9.99",
+        "students": 3959,
+        "reviews": 312,
+        "last_updated": "2026-10-29",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 2736,
+        "title": "Complete MLOps Bootcamp With 10+ End To End ML Projects",
+        "description": "End-to-End MLOps Bootcamp: Build, Deploy, and Automate ML with Data Science Projects",
+        "rating": 4.5,
+        "duration": "51 hours",
+        "affiliate_url": "https://trk.udemy.com/c/3288150/3227798/39854?prodsku=course.6185965&u=https://www.udemy.com/course/complete-mlops-bootcamp-with-10-end-to-end-ml-projects/?couponCode=DIWALI",
+        "image": "https://img-c.udemycdn.com/course/240x135/6185965_b662.jpg",
+        "trainer": "Krish Naik",
+        "trainer_slug": "krish-naik",
+        "category": [
+            "Data Science"
+        ],
+        "category_slug": [
+            "data-science"
+        ],
+        "language": "English",
+        "language_slug": "english",
+        "coupon_code": "9.99",
+        "students": 48476,
+        "reviews": 4427,
+        "last_updated": "2026-10-29",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 2737,
+        "title": "Complete Python With DSA Bootcamp + LEETCODE Exercises",
+        "description": "Master Python and Data Structures with Hands-on Projects and Coding Challenges for Tech Interviews and Beyond!",
+        "rating": 4.5,
+        "duration": "61 hours",
+        "affiliate_url": "https://trk.udemy.com/c/3288150/3227798/39854?prodsku=course.6120747&u=https://www.udemy.com/course/complete-python-dsa-bootcamp/?couponCode=DIWALI",
+        "image": "https://img-c.udemycdn.com/course/240x135/6120747_5232_2.jpg",
+        "trainer": "Krish Naik",
+        "trainer_slug": "krish-naik",
+        "category": [
+            "Python"
+        ],
+        "category_slug": [
+            "python"
+        ],
+        "language": "English",
+        "language_slug": "english",
+        "coupon_code": "9.99",
+        "students": 48206,
+        "reviews": 5605,
+        "last_updated": "2026-10-29",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 2738,
+        "title": "Big Data Engineering Bootcamp with GCP, and Azure Cloud",
+        "description": "Master Big Data with Hadoop, Spark, Kafka & Cloud | Build Real-World Projects & Scalable Data Pipelines from Scratch",
+        "rating": 4.6,
+        "duration": "74 hours",
+        "affiliate_url": "https://trk.udemy.com/c/3288150/3227798/39854?prodsku=course.6242299&u=https://www.udemy.com/course/big-data-engineering-bootcamp-with-gcp-and-azure-cloud/?couponCode=DIWALI",
+        "image": "https://img-c.udemycdn.com/course/240x135/6242299_e787.jpg",
+        "trainer": "Krish Naik",
+        "trainer_slug": "krish-naik",
+        "category": [
+            "Big Data"
+        ],
+        "category_slug": [
+            "big-data"
+        ],
+        "language": "English",
+        "language_slug": "english",
+        "coupon_code": "9.99",
+        "students": 26521,
+        "reviews": 2679,
+        "last_updated": "2026-10-29",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 2739,
+        "title": "Mathematics-Basics to Advanced for Data Science And GenAI",
+        "description": "Build Strong math foundation with linear algebra,stats,probability,differential calculus for mastering data science",
+        "rating": 4.6,
+        "duration": "23 hours",
+        "affiliate_url": "https://trk.udemy.com/c/3288150/3227798/39854?prodsku=course.6106647&u=https://www.udemy.com/course/mathematics-basics-to-advanced-for-data-science-and-ml/?couponCode=DIWALI",
+        "image": "https://img-c.udemycdn.com/course/240x135/6106647_5842.jpg",
+        "trainer": "Krish Naik",
+        "trainer_slug": "krish-naik",
+        "category": [
+            "Data Science"
+        ],
+        "category_slug": [
+            "data-science"
+        ],
+        "language": "English",
+        "language_slug": "english",
+        "coupon_code": "9.99",
+        "students": 34869,
+        "reviews": 4315,
+        "last_updated": "2026-10-29",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 2740,
+        "title": "n8n Production Mastery- From Zero to Agency-Ready in 30 days",
+        "description": "Build, deploy & sell n8n automations using Docker & VPS. Launch your own automation agency with real client workflows.",
+        "rating": 4.7,
+        "duration": "39 hours",
+        "affiliate_url": "https://trk.udemy.com/c/3288150/3227798/39854?prodsku=course.6987641&u=https://www.udemy.com/course/n8n-production-mastery-from-zero-to-agency-ready-in-30-days/?couponCode=DIWALI",
+        "image": "https://img-c.udemycdn.com/course/480x270/6987641_7896_3.jpg",
+        "trainer": "Krish Naik",
+        "trainer_slug": "krish-naik",
+        "category": [
+            "n8n"
+        ],
+        "category_slug": [
+            "n8n"
+        ],
+        "language": "English",
+        "language_slug": "english",
+        "coupon_code": "9.99",
+        "students": 4234,
+        "reviews": 617,
+        "last_updated": "2026-10-29",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 2741,
+        "title": "Building AI Agents & Agentic AI System via Microsoft Autogen",
+        "description": "Master Microsoft AutoGen to build powerful AI agents, automate tasks, and create advanced Agentic AI systems.",
+        "rating": 4.6,
+        "duration": "39 hours",
+        "affiliate_url": "https://trk.udemy.com/c/3288150/3227798/39854?prodsku=course.6547301&u=https://www.udemy.com/course/building-ai-agents-agentic-ai-system-via-microsoft-autogen/?couponCode=DIWALI",
+        "image": "https://img-c.udemycdn.com/course/240x135/6547301_b31c_3.jpg",
+        "trainer": "Krish Naik",
+        "trainer_slug": "krish-naik",
+        "category": [
+            "Generative AI"
+        ],
+        "category_slug": [
+            "generative-ai"
+        ],
+        "language": "English",
+        "language_slug": "english",
+        "coupon_code": "9.99",
+        "students": 11938,
+        "reviews": 708,
+        "last_updated": "2026-10-29",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 2742,
+        "title": "Building Gen AI App 12+ Hands-on Projects with Gemini Pro",
+        "description": "Mastering AI Innovation: Building and Fine-tuning Generative AI Applications with Google Gemini Models And Langchain",
+        "rating": 4.5,
+        "duration": "16 hours",
+        "affiliate_url": "https://trk.udemy.com/c/3288150/3227798/39854?prodsku=course.5979624&u=https://www.udemy.com/course/building-gen-ai-app-end-to-end-projects-with-gemini-pro/?couponCode=DIWALI",
+        "image": "https://img-c.udemycdn.com/course/240x135/5979624_0720_4.jpg",
+        "trainer": "Krish Naik",
+        "trainer_slug": "krish-naik",
+        "category": [
+            "Generative AI"
+        ],
+        "category_slug": [
+            "generative-ai"
+        ],
+        "language": "English",
+        "language_slug": "english",
+        "coupon_code": "9.99",
+        "students": 24691,
+        "reviews": 2203,
+        "last_updated": "2026-10-29",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 2743,
+        "title": "Beginner to Advanced MLOps on GCP-CI/CD, Kubernetes Jenkins",
+        "description": "Simply streamline ML pipelines with Kubernetes, GitLab CI, Jenkins, Prometheus, Grafana, Kubeflow & Minikube on GCP.",
+        "rating": 4.4,
+        "duration": "54.5 hours",
+        "affiliate_url": "https://trk.udemy.com/c/3288150/3227798/39854?prodsku=course.6474355&u=https://www.udemy.com/course/mastering-advanced-mlops-on-gcp-cicd-kubernetes-kubeflow/?couponCode=DIWALI",
+        "image": "https://img-c.udemycdn.com/course/240x135/6474355_89e1.jpg",
+        "trainer": "Krish Naik",
+        "trainer_slug": "krish-naik",
+        "category": [
+            "Data Science"
+        ],
+        "category_slug": [
+            "data-science"
+        ],
+        "language": "English",
+        "language_slug": "english",
+        "coupon_code": "9.99",
+        "students": 9733,
+        "reviews": 564,
+        "last_updated": "2026-10-29",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 2744,
+        "title": "AI for Leaders: Master Gen AI & No-Code Solutions",
+        "description": "Master Generative AI, Prompt Engineering, No-Code Automation, AI Agents & Responsible AI to Drive Successful AI Adoption",
+        "rating": 4.5,
+        "duration": "20.5 hours",
+        "affiliate_url": "https://trk.udemy.com/c/3288150/3227798/39854?prodsku=course.6736777&u=https://www.udemy.com/course/ai-for-leaders-master-gen-ai-no-code-solutions/?couponCode=DIWALI",
+        "image": "https://img-c.udemycdn.com/course/240x135/6736777_03d7_2.jpg",
+        "trainer": "Krish Naik",
+        "trainer_slug": "krish-naik",
+        "category": [
+            "AI"
+        ],
+        "category_slug": [
+            "ai"
+        ],
+        "language": "English",
+        "language_slug": "english",
+        "coupon_code": "9.99",
+        "students": 1032,
+        "reviews": 83,
+        "last_updated": "2026-10-29",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 2745,
+        "title": "Power BI 4-in-1 Bundle: Desktop, Service, Fabric & Copilot",
+        "description": "Master Power BI with this comprehensive 4-in-1 bundle covering Desktop, Service, Fabric, and Copilot for data insights.",
+        "rating": 4.4,
+        "duration": "32.5 hours",
+        "affiliate_url": "https://trk.udemy.com/c/3288150/3227798/39854?prodsku=course.6792637&u=https://www.udemy.com/course/power-bi-4-in-1-bundle-desktop-service-fabric-copilot/?couponCode=DIWALI",
+        "image": "https://img-c.udemycdn.com/course/240x135/6792637_8011_3.jpg",
+        "trainer": "Krish Naik",
+        "trainer_slug": "krish-naik",
+        "category": [
+            "Power BI"
+        ],
+        "category_slug": [
+            "power-bi"
+        ],
+        "language": "English",
+        "language_slug": "english",
+        "coupon_code": "9.99",
+        "students": 2205,
+        "reviews": 140,
+        "last_updated": "2026-10-29",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 2746,
+        "title": "Mastering Figma from 0 to 100 (UI/UX Mastery Course)",
+        "description": "\"The Most Comprehensive Figma Course: From Beginner to Advanced\".",
+        "rating": 4.3,
+        "duration": "8.5 hours",
+        "affiliate_url": "https://trk.udemy.com/c/3288150/3227798/39854?prodsku=course.6035144&u=https://www.udemy.com/course/mastering-figma-from-0-to-100/?couponCode=DIWALI",
+        "image": "https://img-c.udemycdn.com/course/240x135/6035144_0b93.jpg",
+        "trainer": "Krish Naik",
+        "trainer_slug": "krish-naik",
+        "category": [
+            "Web Design"
+        ],
+        "category_slug": [
+            "web-design"
+        ],
+        "language": "English",
+        "language_slug": "english",
+        "coupon_code": "9.99",
+        "students": 4111,
+        "reviews": 308,
+        "last_updated": "2026-10-29",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 2747,
+        "title": "CAPM 23 Hours Master Course: CAPM Certification Exam Prep",
+        "description": "Complete Preparation Course for the 2026 CAPM Certification - Get 23 Contact Hours/PDUs",
+        "rating": 4.7,
+        "duration": "23 hours",
+        "affiliate_url": "https://trk.udemy.com/c/3288150/3227798/39854?prodsku=course.6750061&u=https://www.udemy.com/course/capm-certification-master-course/?couponCode=102026",
+        "image": "https://img-c.udemycdn.com/course/240x135/6750061_d6ee_4.jpg",
+        "trainer": "Yassine Tounsi",
+        "trainer_slug": "yassine-tounsi",
+        "category": [
+            "Project Management"
+        ],
+        "category_slug": [
+            "project-management"
+        ],
+        "language": "English",
+        "language_slug": "english",
+        "coupon_code": "12.99",
+        "students": 3157,
+        "reviews": 778,
+        "last_updated": "2026-10-29",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 2748,
+        "title": "PMP 35 Hours Master Course: New PMP Certification Exam Prep",
+        "description": "Complete Preparation Course Aligned with PMBOK 8th Edition and 2026 Exam Content Outline - Get 35 Contact Hours/PDUs",
+        "rating": 4.7,
+        "duration": "35.5 hours",
+        "affiliate_url": "https://trk.udemy.com/c/3288150/3227798/39854?prodsku=course.5996410&u=https://www.udemy.com/course/pmp-35-hours-master-course/?couponCode=102026",
+        "image": "https://img-c.udemycdn.com/course/240x135/5996410_43ea_5.jpg",
+        "trainer": "Yassine Tounsi",
+        "trainer_slug": "yassine-tounsi",
+        "category": [
+            "Project Management"
+        ],
+        "category_slug": [
+            "project-management"
+        ],
+        "language": "English",
+        "language_slug": "english",
+        "coupon_code": "12.99",
+        "students": 14401,
+        "reviews": 3256,
+        "last_updated": "2026-10-29",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 2749,
+        "title": "CAPM Mock Practice Tests Aligned with PMBOK 8th Edition",
+        "description": "CAPM Certification Exam Prep Covering All Domains: PM Fundamentals, Predictive, Agile, and Business Analysis.",
+        "rating": 4.7,
+        "duration": "700 questions",
+        "affiliate_url": "https://trk.udemy.com/c/3288150/3227798/39854?prodsku=course.4170126&u=https://www.udemy.com/course/2023-capm-mock-practice-tests/?couponCode=102026",
+        "image": "https://img-c.udemycdn.com/course/240x135/4170126_0ee2_20.jpg",
+        "trainer": "Yassine Tounsi",
+        "trainer_slug": "yassine-tounsi",
+        "category": [
+            "Project Management"
+        ],
+        "category_slug": [
+            "project-management"
+        ],
+        "language": "English",
+        "language_slug": "english",
+        "coupon_code": "12.99",
+        "students": 5621,
+        "reviews": 488,
+        "last_updated": "2026-10-29",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 2750,
+        "title": "PMP Practice Tests | 720 questions aligned with the New Exam",
+        "description": "PMP Exam Preparation Question Bank Aligned with PMBOK 8th Edition and 2026 Exam Content Outline (ECO)",
+        "rating": 4.5,
+        "duration": "720 questions",
+        "affiliate_url": "https://trk.udemy.com/c/3288150/3227798/39854?prodsku=course.3653046&u=https://www.udemy.com/course/2021-pmp-mock-practice-tests/?couponCode=102026",
+        "image": "https://img-c.udemycdn.com/course/240x135/3653046_4b89_21.jpg",
+        "trainer": "Yassine Tounsi",
+        "trainer_slug": "yassine-tounsi",
+        "category": [
+            "Project Management"
+        ],
+        "category_slug": [
+            "project-management"
+        ],
+        "language": "English",
+        "language_slug": "english",
+        "coupon_code": "12.99",
+        "students": 21621,
+        "reviews": 2046,
+        "last_updated": "2026-10-29",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 2751,
+        "title": "Tests de Préparation à l'Examen PMP 2026",
+        "description": "PrÃ©paration Ã  l'examen PMP avec 720 Questions sur les Approches Agiles, Hybrides et PrÃ©dictives",
+        "rating": 4.5,
+        "duration": "720 questions",
+        "affiliate_url": "https://trk.udemy.com/c/3288150/3227798/39854?prodsku=course.4006256&u=https://www.udemy.com/course/tests-de-preparation-a-lexamen-pmp-2021/?couponCode=102026",
+        "image": "https://img-c.udemycdn.com/course/240x135/4006256_78a7_14.jpg",
+        "trainer": "Yassine Tounsi",
+        "trainer_slug": "yassine-tounsi",
+        "category": [
+            "Project Management"
+        ],
+        "category_slug": [
+            "project-management"
+        ],
+        "language": "French",
+        "language_slug": "french",
+        "coupon_code": "12.99",
+        "students": 3173,
+        "reviews": 263,
+        "last_updated": "2026-10-29",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 2752,
+        "title": "PMI-CP Certification Exam Prep Course",
+        "description": "Complete Preparation Course for the PMI Construction Professional (PMI-CP)",
+        "rating": 4.6,
+        "duration": "7 hours",
+        "affiliate_url": "https://trk.udemy.com/c/3288150/3227798/39854?prodsku=course.6247207&u=https://www.udemy.com/course/pmi-cp-certification-exam-prep-course/?couponCode=102026",
+        "image": "https://img-c.udemycdn.com/course/240x135/6247207_d8e9.jpg",
+        "trainer": "Yassine Tounsi",
+        "trainer_slug": "yassine-tounsi",
+        "category": [
+            "Project Management"
+        ],
+        "category_slug": [
+            "project-management"
+        ],
+        "language": "English",
+        "language_slug": "english",
+        "coupon_code": "12.99",
+        "students": 2519,
+        "reviews": 647,
+        "last_updated": "2026-10-29",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 2753,
+        "title": "Tests de Préparation à l'Examen CAPM 2026",
+        "description": "700 Questions sur tous les Domaines: Gestion de Projet, Approches PrÃ©dictives & Agiles, et Analyse Commerciale",
+        "rating": 4.2,
+        "duration": "700 questions",
+        "affiliate_url": "https://trk.udemy.com/c/3288150/3227798/39854?prodsku=course.6363323&u=https://www.udemy.com/course/tests-de-preparation-a-lexamen-capm/?couponCode=102026",
+        "image": "https://img-c.udemycdn.com/course/240x135/6363323_b7af.jpg",
+        "trainer": "Yassine Tounsi",
+        "trainer_slug": "yassine-tounsi",
+        "category": [
+            "Project Management"
+        ],
+        "category_slug": [
+            "project-management"
+        ],
+        "language": "French",
+        "language_slug": "french",
+        "coupon_code": "12.99",
+        "students": 329,
+        "reviews": 22,
+        "last_updated": "2026-10-29",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 2754,
+        "title": "PMI-CP Practice Tests",
+        "description": "Preparation Questions for the PMI Construction Professional (PMI-CP) Certification Exam",
+        "rating": 4.6,
+        "duration": "300 questions",
+        "affiliate_url": "https://trk.udemy.com/c/3288150/3227798/39854?prodsku=course.5640652&u=https://www.udemy.com/course/pmi-cp-practice-tests/?couponCode=102026",
+        "image": "https://img-c.udemycdn.com/course/240x135/5640652_8b8d_2.jpg",
+        "trainer": "Yassine Tounsi",
+        "trainer_slug": "yassine-tounsi",
+        "category": [
+            "Project Management"
+        ],
+        "category_slug": [
+            "project-management"
+        ],
+        "language": "English",
+        "language_slug": "english",
+        "coupon_code": "12.99",
+        "students": 1459,
+        "reviews": 308,
+        "last_updated": "2026-10-29",
+        "featured": "",
+        "status": "Active"
+    },
+    {
+        "id": 2755,
+        "title": "PMBOK 8th Edition: The Complete Guide",
+        "description": "Everything You Need to Know About the PMBOKÂ® Guide Eighth Edition (3 PDUs)",
+        "rating": 4.5,
+        "duration": "3 hours",
+        "affiliate_url": "https://trk.udemy.com/c/3288150/3227798/39854?prodsku=course.7018767&u=https://www.udemy.com/course/pmbok-8th-edition/?couponCode=102026",
+        "image": "https://img-c.udemycdn.com/course/240x135/7018767_c553_2.jpg",
+        "trainer": "Yassine Tounsi",
+        "trainer_slug": "yassine-tounsi",
+        "category": [
+            "Project Management"
+        ],
+        "category_slug": [
+            "project-management"
+        ],
+        "language": "English",
+        "language_slug": "english",
+        "coupon_code": "12.99",
+        "students": 591,
+        "reviews": 85,
+        "last_updated": "2026-10-29",
         "featured": "",
         "status": "Active"
     }

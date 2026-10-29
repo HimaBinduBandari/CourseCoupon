@@ -1788,5 +1788,10 @@
         "id": 358,
         "name": "Computer Vision",
         "slug": "computer-vision"
+    },
+    {
+        "id": 359,
+        "name": "Geometric",
+        "slug": "geometric"
     }
 ]

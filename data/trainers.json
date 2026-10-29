@@ -1450,5 +1450,49 @@
         "bio": "",
         "website": "",
         "linkedin": "https://linkedin.com/in/houssemdellai"
+    },
+    {
+        "id": 133,
+        "name": "Andreas Andreas Exadaktylos",
+        "slug": "andreas-andreas-exadaktylos",
+        "photo": "https://img-c.udemycdn.com/user/200_H/8297706_1d25_9.jpg",
+        "banner": "",
+        "designation": "",
+        "bio": "",
+        "website": "",
+        "linkedin": "https://linkedin.com/in/AndreasExadaktylos"
+    },
+    {
+        "id": 134,
+        "name": "Mufaddal Rasheed",
+        "slug": "mufaddal-rasheed",
+        "photo": "https://img-c.udemycdn.com/user/200_H/55587414_9279_10.jpg",
+        "banner": "",
+        "designation": "",
+        "bio": "",
+        "website": "",
+        "linkedin": "https://linkedin.com/in/mufaddal-rasheed-162a6b44/"
+    },
+    {
+        "id": 135,
+        "name": "Krish Naik",
+        "slug": "krish-naik",
+        "photo": "https://img-c.udemycdn.com/user/200_H/34123448_bea6.jpg",
+        "banner": "",
+        "designation": "Chief AI Engineer",
+        "bio": "",
+        "website": "",
+        "linkedin": "https://linkedin.com/in/naikkrish/"
+    },
+    {
+        "id": 136,
+        "name": "Yassine Tounsi",
+        "slug": "yassine-tounsi",
+        "photo": "https://img-c.udemycdn.com/user/200_H/53459116_4eeb_3.jpg",
+        "banner": "",
+        "designation": "",
+        "bio": "",
+        "website": "",
+        "linkedin": "https://linkedin.com/in/yassine-tounsi/"
     }
 ]
