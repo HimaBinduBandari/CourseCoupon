@@ -50,6 +50,67 @@ href="assets/css/home.css">
 rel="stylesheet"
 href="assets/css/category.css">
 
+
+<style>
+/* Compact JobQCareer banner - isolated styles to avoid changing existing page components */
+.related-jobs-banner {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 18px;
+    margin: 22px 0 8px;
+    padding: 18px 22px;
+    border: 1px solid #dbe7f5;
+    border-radius: 12px;
+    background: linear-gradient(110deg, #f5f9ff 0%, #ffffff 100%);
+}
+.related-jobs-banner__content { min-width: 0; }
+.related-jobs-banner__eyebrow {
+    margin: 0 0 4px;
+    color: #3566a8;
+    font-size: 12px;
+    font-weight: 700;
+    letter-spacing: .07em;
+    text-transform: uppercase;
+}
+.related-jobs-banner__title {
+    margin: 0 0 4px;
+    color: #172b4d;
+    font-size: 19px;
+    line-height: 1.35;
+}
+.related-jobs-banner__description {
+    margin: 0;
+    color: #52627a;
+    font-size: 14px;
+    line-height: 1.5;
+}
+.related-jobs-banner__button {
+    display: inline-flex;
+    flex: 0 0 auto;
+    align-items: center;
+    justify-content: center;
+    gap: 8px;
+    padding: 10px 16px;
+    border-radius: 8px;
+    background: #245fbd;
+    color: #fff !important;
+    font-size: 14px;
+    font-weight: 700;
+    text-decoration: none !important;
+    white-space: nowrap;
+    transition: background .2s ease, transform .2s ease;
+}
+.related-jobs-banner__button:hover {
+    background: #194b98;
+    transform: translateY(-1px);
+}
+@media (max-width: 600px) {
+    .related-jobs-banner { align-items: flex-start; flex-direction: column; padding: 16px; }
+    .related-jobs-banner__button { width: 100%; box-sizing: border-box; }
+}
+</style>
+
 </head>
 
 <body>
@@ -318,6 +379,27 @@ class="course-grid">
 </section>
 
 
+
+
+<!--====================================
+RELATED JOB OPPORTUNITIES
+=====================================-->
+<section class="container" aria-label="Related job opportunities">
+    <div class="related-jobs-banner">
+        <div class="related-jobs-banner__content">
+            <p class="related-jobs-banner__eyebrow">Career opportunities</p>
+            <h2 class="related-jobs-banner__title" id="relatedJobsTitle">Explore Jobs Related to This Category</h2>
+            <p class="related-jobs-banner__description">Find job opportunities and take the next step in your career.</p>
+        </div>
+        <a
+            class="related-jobs-banner__button"
+            href="https://artha.link/@jobqcareer"
+            target="_blank"
+            rel="noopener noreferrer"
+            aria-label="Explore jobs on JobQCareer (opens in a new tab)"
+        >Explore Jobs <span aria-hidden="true">↗</span></a>
+    </div>
+</section>
 
 
 <!--====================================

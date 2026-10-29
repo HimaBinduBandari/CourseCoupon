@@ -1,329 +1,175 @@
 <!DOCTYPE html>
 <html lang="en">
-
 <head>
-
 <meta charset="UTF-8">
-
-<meta
-name="viewport"
-content="width=device-width, initial-scale=1.0">
-
-<title>
-Instructor Courses | CourseCoupon
-</title>
-
-<meta
-name="description"
-content="">
-
-<meta
-property="og:title"
-content="">
-
-<meta
-property="og:description"
-content="">
-
-<meta
-property="og:image"
-content="">
-
-<meta
-property="og:url"
-content="">
-
-<link
-rel="canonical"
-id="canonicalLink"
-href="">
-
-
-<link
-rel="stylesheet"
-href="assets/css/style.css">
-
-<link
-rel="stylesheet"
-href="assets/css/home.css">
-
-<link
-rel="stylesheet"
-href="assets/css/trainer.css">
-
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Instructor Courses | CourseCoupon</title>
+<meta name="description" content="">
+<meta property="og:title" content="">
+<meta property="og:description" content="">
+<meta property="og:image" content="">
+<meta property="og:url" content="">
+<link rel="canonical" id="canonicalLink" href="">
+<link rel="stylesheet" href="assets/css/style.css">
+<link rel="stylesheet" href="assets/css/home.css">
+<link rel="stylesheet" href="assets/css/trainer.css">
+<style>
+/* Compact JobQCareer banner; scoped to the trainer page only. */
+.trainer-jobs-banner {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 24px;
+    margin: 28px auto;
+    padding: 24px 28px;
+    border: 1px solid #d9e8df;
+    border-radius: 16px;
+    background: linear-gradient(120deg, #f4fbf6 0%, #ffffff 100%);
+    box-sizing: border-box;
+}
+.trainer-jobs-banner__content { min-width: 0; }
+.trainer-jobs-banner__eyebrow {
+    margin: 0 0 7px;
+    color: #176b4d;
+    font-size: 12px;
+    font-weight: 700;
+    letter-spacing: .09em;
+    text-transform: uppercase;
+}
+.trainer-jobs-banner h2 {
+    margin: 0 0 8px;
+    color: #172b22;
+    font-size: clamp(19px, 2.4vw, 25px);
+    line-height: 1.3;
+}
+.trainer-jobs-banner__description {
+    margin: 0;
+    color: #52635a;
+    font-size: 14px;
+    line-height: 1.6;
+}
+.trainer-jobs-banner__button {
+    display: inline-flex;
+    flex: 0 0 auto;
+    align-items: center;
+    justify-content: center;
+    gap: 8px;
+    min-height: 44px;
+    padding: 0 20px;
+    border-radius: 9px;
+    background: #176b4d;
+    color: #fff !important;
+    font-size: 14px;
+    font-weight: 700;
+    text-decoration: none;
+    white-space: nowrap;
+    transition: background .2s ease, transform .2s ease;
+}
+.trainer-jobs-banner__button:hover { background: #10553c; transform: translateY(-1px); }
+@media (max-width: 640px) {
+    .trainer-jobs-banner { align-items: stretch; flex-direction: column; gap: 16px; padding: 20px; }
+    .trainer-jobs-banner__button { width: 100%; box-sizing: border-box; }
+}
+</style>
 </head>
-
 <body>
 
-
-<!--====================================
-HEADER
-=====================================-->
-
+<!-- HEADER -->
 <div id="header"></div>
 
-
-
-<!--====================================
-TRAINER HERO
-=====================================-->
-
+<!-- TRAINER HERO -->
 <section class="trainer-hero">
-
-<div class="container">
-
+  <div class="container">
     <div class="trainer-card">
-
-    <div class="trainer-profile">
-
+      <div class="trainer-profile">
         <div class="trainer-image-wrapper">
-
-            <img
-            id="trainerImage"
-            src=""
-            alt="Instructor">
-
+          <img id="trainerImage" src="" alt="Instructor">
         </div>
-
         <div class="trainer-info">
-
-            <h1 id="trainerName"></h1>
-
-            <h2 id="trainerDesignation"></h2>
-
-            <div class="trainer-rating">
-
-                <span class="stars">
-                    ★★★★★
-                </span>
-
-                <span id="trainerRatingText"></span>
-
-            </div>
-
-            <p
-            id="trainerBio"
-            class="trainer-bio">
-            </p>
-
-            <div class="trainer-links">
-
-                <a
-                id="trainerWebsite"
-                target="_blank">
-
-                    Website
-
-                </a>
-
-                <a
-                id="trainerLinkedin"
-                target="_blank">
-
-                    LinkedIn
-
-                </a>
-
-            </div>
-
+          <h1 id="trainerName"></h1>
+          <h2 id="trainerDesignation"></h2>
+          <div class="trainer-rating">
+            <span class="stars">★★★★★</span>
+            <span id="trainerRatingText"></span>
+          </div>
+          <p id="trainerBio" class="trainer-bio"></p>
+          <div class="trainer-links">
+            <a id="trainerWebsite" target="_blank" rel="noopener noreferrer">Website</a>
+            <a id="trainerLinkedin" target="_blank" rel="noopener noreferrer">LinkedIn</a>
+          </div>
         </div>
+      </div>
 
+      <!-- Statistics -->
+      <div class="trainer-stats">
+        <div class="stat-card"><div class="stat-icon">★</div><div id="trainerRating" class="stat-number"></div><div class="stat-title">Rating</div></div>
+        <div class="stat-card"><div class="stat-icon">📚</div><div id="trainerCourses" class="stat-number"></div><div class="stat-title">Courses</div></div>
+        <div class="stat-card"><div class="stat-icon">👥</div><div id="trainerStudents" class="stat-number"></div><div class="stat-title">Students</div></div>
+        <div class="stat-card"><div class="stat-icon">💬</div><div id="trainerReviews" class="stat-number"></div><div class="stat-title">Reviews</div></div>
+      </div>
     </div>
-
-    <!-- Statistics -->
-
-    <div class="trainer-stats">
-
-        <div class="stat-card">
-            <div class="stat-icon">★</div>
-            <div id="trainerRating" class="stat-number"></div>
-            <div class="stat-title">Rating</div>
-        </div>
-
-        <div class="stat-card">
-            <div class="stat-icon">📚</div>
-            <div id="trainerCourses" class="stat-number"></div>
-            <div class="stat-title">Courses</div>
-        </div>
-
-        <div class="stat-card">
-            <div class="stat-icon">👥</div>
-            <div id="trainerStudents" class="stat-number"></div>
-            <div class="stat-title">Students</div>
-        </div>
-
-        <div class="stat-card">
-            <div class="stat-icon">💬</div>
-            <div id="trainerReviews" class="stat-number"></div>
-            <div class="stat-title">Reviews</div>
-        </div>
-
-    </div>
-
-</div>
-
-</div>
-
-
+  </div>
 </section>
 
-
-
-
-<!--====================================
-SEARCH & SORT
-=====================================-->
-
+<!-- SEARCH & SORT -->
 <section class="toolbar-section">
-
-<div class="container">
-
-<div class="toolbar">
-
-
-
-<input
-
-type="text"
-
-id="courseSearch"
-
-placeholder="Search instructor courses...">
-
-
-
-<select id="sortCourses">
-
-<option value="latest">
-
-Latest Courses
-
-</option>
-
-<option value="rating">
-
-Highest Rated
-
-</option>
-
-<option value="students">
-
-Most Students
-
-</option>
-
-<option value="reviews">
-
-Most Reviews
-
-</option>
-
-<option value="name">
-
-Course Name (A-Z)
-
-</option>
-
-</select>
-
-
-
-</div>
-
-</div>
-
+  <div class="container">
+    <div class="toolbar">
+      <input type="text" id="courseSearch" placeholder="Search instructor courses...">
+      <select id="sortCourses">
+        <option value="latest">Latest Courses</option>
+        <option value="rating">Highest Rated</option>
+        <option value="students">Most Students</option>
+        <option value="reviews">Most Reviews</option>
+        <option value="name">Course Name (A-Z)</option>
+      </select>
+    </div>
+  </div>
 </section>
 
-
-
-
-
-<!--====================================
-COURSES
-=====================================-->
-
+<!-- COURSES -->
 <section class="courses-section">
-
-<div class="container">
-
-<h2 class="section-title">
-
-Courses by
-
-<span id="trainerTitle">
-
-Instructor
-
-</span>
-
-</h2>
-
-
-
-<div
-
-id="courseGrid"
-
-class="course-grid">
-
-</div>
-
-</div>
-
+  <div class="container">
+    <h2 class="section-title">Courses by <span id="trainerTitle">Instructor</span></h2>
+    <div id="courseGrid" class="course-grid"></div>
+  </div>
 </section>
 
-<div class="affiliate-disclosure">
+<!-- JOBQCAREER BANNER -->
+<section class="container" aria-label="Related job opportunities">
+  <div class="trainer-jobs-banner">
+    <div class="trainer-jobs-banner__content">
+      <p class="trainer-jobs-banner__eyebrow">Your next career move</p>
+      <h2 id="trainerJobsHeading">Explore Jobs Related to These Courses</h2>
+      <p id="trainerJobsDescription" class="trainer-jobs-banner__description">Discover job opportunities related to the skills covered in these courses.</p>
+    </div>
+    <a class="trainer-jobs-banner__button" href="https://artha.link/@jobqcareer" target="_blank" rel="noopener noreferrer" aria-label="Explore jobs on JobQCareer">
+      Explore Jobs <span aria-hidden="true">↗</span>
+    </a>
+  </div>
+</section>
+
+<!-- AFFILIATE DISCLOSURE -->
+<div class="container">
+  <div class="affiliate-disclosure">
     <div class="affiliate-disclosure-icon">ℹ</div>
     <div class="affiliate-disclosure-text">
-        <strong>Affiliate Disclosure</strong>
-        <p>
-            Some links on this page are affiliate links. If you enroll in a
-            course through our links, we may earn a commission at no additional
-            cost to you. This helps support InterviewGig and allows us to
-            continue providing free course deals and resources.
-        </p>
+      <strong>Affiliate Disclosure</strong>
+      <p>Some links on this page are affiliate links. If you enroll in a course through our links, we may earn a commission at no additional cost to you. This helps support InterviewGig and allows us to continue providing free course deals and resources.</p>
     </div>
+  </div>
 </div>
 
-
-
-<!--====================================
-PAGINATION
-=====================================-->
-
+<!-- PAGINATION -->
 <section class="pagination-section">
-
-<div class="container">
-
-<div
-
-id="pagination"
-
-class="pagination">
-
-</div>
-
-</div>
-
+  <div class="container"><div id="pagination" class="pagination"></div></div>
 </section>
 
-
-
-
-<!--====================================
-FOOTER
-=====================================-->
-
+<!-- FOOTER -->
 <div id="footer"></div>
 
-
-
 <script src="assets/js/common.js"></script>
-
 <script src="assets/js/course-card.js"></script>
-
 <script src="assets/js/trainer.js"></script>
-
 </body>
-
 </html>

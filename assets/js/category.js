@@ -329,6 +329,19 @@ function buildCategoryPage(){
 
 /*
 ==================================================
+RELATED JOBS BANNER
+==================================================
+*/
+function updateRelatedJobsBanner(){
+    const title = document.getElementById("relatedJobsTitle");
+    if(title && currentCategoryName){
+        title.textContent = "Explore Jobs Related to " + currentCategoryName;
+    }
+}
+
+
+/*
+==================================================
 HERO
 ==================================================
 */
@@ -365,6 +378,8 @@ function loadHero(){
 
 
     loadCategoryIcon();
+
+    updateRelatedJobsBanner();
 
 }
 
