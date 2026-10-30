@@ -1494,5 +1494,16 @@
         "bio": "",
         "website": "",
         "linkedin": "https://linkedin.com/in/yassine-tounsi/"
+    },
+    {
+        "id": 137,
+        "name": "Ray Harkins",
+        "slug": "ray-harkins",
+        "photo": "https://img-c.udemycdn.com/user/200_H/35233328_87b8.jpg",
+        "banner": "",
+        "designation": "",
+        "bio": "",
+        "website": "",
+        "linkedin": "https://linkedin.com/in/ray-harkins"
     }
 ]
