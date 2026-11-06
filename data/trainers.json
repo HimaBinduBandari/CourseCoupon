@@ -1516,5 +1516,60 @@
         "bio": "",
         "website": "",
         "linkedin": "https://linkedin.com/in/kalyan-reddy-daida"
+    },
+    {
+        "id": 139,
+        "name": "João Ribeiro",
+        "slug": "jo-o-ribeiro",
+        "photo": "https://img-c.udemycdn.com/user/200_H/32651092_ab76_2.jpg",
+        "banner": "",
+        "designation": "",
+        "bio": "",
+        "website": "",
+        "linkedin": ""
+    },
+    {
+        "id": 140,
+        "name": "Andrii Piatakha",
+        "slug": "andrii-piatakha",
+        "photo": "https://img-c.udemycdn.com/user/200_H/84635850_a6a6_2.jpg",
+        "banner": "",
+        "designation": "",
+        "bio": "",
+        "website": "",
+        "linkedin": "https://linkedin.com/in/andrii-piatakha/"
+    },
+    {
+        "id": 141,
+        "name": "Trevoir Williams",
+        "slug": "trevoir-williams",
+        "photo": "https://img-c.udemycdn.com/user/200_H/13121610_d896_13.jpg",
+        "banner": "",
+        "designation": "",
+        "bio": "",
+        "website": "",
+        "linkedin": ""
+    },
+    {
+        "id": 142,
+        "name": "Ahmed Baraka",
+        "slug": "ahmed-baraka",
+        "photo": "https://img-c.udemycdn.com/user/200_H/19082902_864d_4.jpg",
+        "banner": "",
+        "designation": "",
+        "bio": "",
+        "website": "",
+        "linkedin": "https://linkedin.com/in/ahmedbarakadba"
+    },
+    {
+        "id": 143,
+        "name": "Dougllas Sousa",
+        "slug": "dougllas-sousa",
+        "photo": "https://img-c.udemycdn.com/user/200_H/34570272_e418_14.jpg",
+        "banner": "",
+        "designation": "",
+        "bio": "",
+        "website": "",
+        "linkedin": "https://linkedin.com/in/dougllasfps/"
     }
 ]
