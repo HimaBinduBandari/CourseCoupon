@@ -1793,5 +1793,15 @@
         "id": 359,
         "name": "Geometric",
         "slug": "geometric"
+    },
+    {
+        "id": 360,
+        "name": "FDE",
+        "slug": "fde"
+    },
+    {
+        "id": 361,
+        "name": "Design",
+        "slug": "design"
     }
 ]

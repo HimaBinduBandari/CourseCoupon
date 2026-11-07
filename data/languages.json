@@ -48,5 +48,10 @@
         "id": 10,
         "name": "French",
         "slug": "french"
+    },
+    {
+        "id": 11,
+        "name": "German",
+        "slug": "german"
     }
 ]

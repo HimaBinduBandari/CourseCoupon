@@ -1571,5 +1571,16 @@
         "bio": "",
         "website": "",
         "linkedin": "https://linkedin.com/in/dougllasfps/"
+    },
+    {
+        "id": 144,
+        "name": "School of AI",
+        "slug": "school-of-ai",
+        "photo": "https://img-c.udemycdn.com/user/200_H/302344585_c0b0_8.jpg",
+        "banner": "",
+        "designation": "",
+        "bio": "",
+        "website": "",
+        "linkedin": "https://linkedin.com/in/vivianaranha"
     }
 ]
