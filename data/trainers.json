@@ -1582,5 +1582,16 @@
         "bio": "",
         "website": "",
         "linkedin": "https://linkedin.com/in/vivianaranha"
+    },
+    {
+        "id": 145,
+        "name": "Karen Montero",
+        "slug": "karen-montero",
+        "photo": "https://img-c.udemycdn.com/user/200_H/101850412_c781_2.jpg",
+        "banner": "",
+        "designation": "",
+        "bio": "",
+        "website": "",
+        "linkedin": ""
     }
 ]
